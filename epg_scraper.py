@@ -4,16 +4,14 @@ import json
 import logging
 import requests
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, time
 from zoneinfo import ZoneInfo
 import re
 import io
 
 # --- Configuration ---
-# Add multiple URLs here
 EPG_URLS = [
     "https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz",
-    # "https://example.com/another_epg.xml.gz" 
 ]
 
 CHANNEL_FILE = "channel.txt"
@@ -25,169 +23,170 @@ TIMEZONE = "Asia/Jakarta"
 # Setup Logging
 logging.basicConfig(
     filename=LOG_FILE,
-    filemode='w', # Overwrite mode
+    filemode='w',
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s'
 )
 
 def sanitize_filename(name):
-    """Sanitizes strings to be safe for filenames."""
-    # Replace spaces with hyphens, remove special chars
     name = name.strip().replace(" ", "-")
     return re.sub(r'[^a-zA-Z0-9\-]', '', name)
 
 def parse_epg_timestamp(ts_str):
-    """Parses format: 20260204003000 +0700"""
     try:
-        # datetime.strptime %z expects +HHMM without space usually, 
-        # but modern python handles space or we can strip it.
-        # The format in XML is "YYYYMMDDHHMMSS +HHMM"
         return datetime.strptime(ts_str, "%Y%m%d%H%M%S %z")
     except ValueError as e:
         logging.error(f"Failed to parse timestamp {ts_str}: {e}")
         return None
 
 def load_target_channels():
-    """Reads channel.txt and returns a dict mapping ID -> Name."""
     targets = {}
     if not os.path.exists(CHANNEL_FILE):
-        logging.error(f"{CHANNEL_FILE} not found.")
         return targets
-
     try:
         with open(CHANNEL_FILE, 'r', encoding='utf-8') as f:
             for line in f:
                 parts = line.strip().split(',')
                 if len(parts) >= 2:
-                    c_id = parts[0].strip()
-                    c_name = parts[1].strip()
-                    targets[c_id] = c_name
+                    targets[parts[0].strip()] = parts[1].strip()
     except Exception as e:
         logging.error(f"Error reading channel file: {e}")
-    
     return targets
 
 def main():
     logging.info("Starting EPG Scrape run.")
     
-    # 1. Load Target Channels
     target_channels = load_target_channels()
     if not target_channels:
         logging.warning("No target channels found. Exiting.")
         return
 
-    # 2. Define Time Windows (Today/Tomorrow in Jakarta)
+    # Define Timezone
     tz = ZoneInfo(TIMEZONE)
     now_local = datetime.now(tz)
+    
+    # Define the two "Days" we want to capture (Today and Tomorrow)
+    # We define strict start/end boundaries for these days
     today_date = now_local.date()
     tomorrow_date = today_date + timedelta(days=1)
     
-    logging.info(f"Processing for dates: Today={today_date}, Tomorrow={tomorrow_date}")
-
-    # Prepare data structure: processed_data[date_str][channel_id] = {meta, programs}
-    processed_data = {
-        str(today_date): {},
-        str(tomorrow_date): {}
+    # Create Day Objects with Start (00:00) and End (23:59:59) boundaries
+    target_days = {
+        "today": {
+            "date_obj": today_date,
+            "start": datetime.combine(today_date, time.min).replace(tzinfo=tz),
+            "end": datetime.combine(today_date, time.max).replace(tzinfo=tz),
+            "output_dir": OUTPUT_DIR_TODAY,
+            "data": {} 
+        },
+        "tomorrow": {
+            "date_obj": tomorrow_date,
+            "start": datetime.combine(tomorrow_date, time.min).replace(tzinfo=tz),
+            "end": datetime.combine(tomorrow_date, time.max).replace(tzinfo=tz),
+            "output_dir": OUTPUT_DIR_TOMORROW,
+            "data": {}
+        }
     }
 
-    # 3. Process URLs
+    # Initialize data structures for each channel in each day
+    for day_key in target_days:
+        for cid in target_channels:
+            target_days[day_key]["data"][cid] = []
+
     for url in EPG_URLS:
         logging.info(f"Fetching {url}...")
         try:
-            response = requests.get(url, timeout=30)
+            response = requests.get(url, timeout=60)
             response.raise_for_status()
             
-            # Decompress GZ in memory
             with gzip.GzipFile(fileobj=io.BytesIO(response.content)) as gz:
                 xml_content = gz.read()
             
-            logging.info("Decompression successful. Parsing XML...")
             root = ET.fromstring(xml_content)
 
-            # --- Parse Programs ---
-            # We iterate over 'programme' tags.
-            # We only care if the channel attribute matches our target list.
             for programme in root.findall('programme'):
                 channel_id = programme.get('channel')
                 
                 if channel_id not in target_channels:
                     continue
 
-                # Parse Times
                 start_raw = programme.get('start')
                 stop_raw = programme.get('stop')
-                
                 start_dt = parse_epg_timestamp(start_raw)
                 stop_dt = parse_epg_timestamp(stop_raw)
 
                 if not start_dt or not stop_dt:
                     continue
 
-                # Convert to Target Timezone for Date Logic
+                # Convert to local time for comparison
                 start_local = start_dt.astimezone(tz)
                 stop_local = stop_dt.astimezone(tz)
-                
-                # Check which 'bucket' this program belongs to (Today or Tomorrow)
-                prog_date_str = str(start_local.date())
-                
-                if prog_date_str not in processed_data:
-                    continue # Skip if not today or tomorrow
 
-                # Extract Details
-                title_elem = programme.find("title")
-                title = title_elem.text if title_elem is not None else "Unknown Title"
-                
-                ep_elem = programme.find("episode-num")
-                episode = ep_elem.text if ep_elem is not None else ""
+                # --- CHECK OVERLAPS FOR TODAY AND TOMORROW ---
+                for day_key, day_info in target_days.items():
+                    day_start = day_info["start"]
+                    day_end = day_info["end"]
 
-                # Format times for JSON (Time only)
-                fmt_time = "%H:%M:%S"
-                
-                program_entry = {
-                    "show_name": title,
-                    "start_time": start_local.strftime(fmt_time),
-                    "end_time": stop_local.strftime(fmt_time),
-                    "episode_number": episode
-                }
+                    # LOGIC: Does the show overlap with this day?
+                    # It overlaps if: Start is before DayEnd AND End is after DayStart
+                    if start_local < day_end and stop_local > day_start:
+                        
+                        # Extract Details
+                        title = programme.find("title").text if programme.find("title") is not None else "Unknown Title"
+                        episode = programme.find("episode-num").text if programme.find("episode-num") is not None else ""
+                        
+                        # --- CLAMPING LOGIC ---
+                        # If show started BEFORE this day (yesterday), set display time to 00:00:00
+                        if start_local < day_start:
+                            display_start = "00:00:00"
+                        else:
+                            display_start = start_local.strftime("%H:%M:%S")
 
-                # Add to structure
-                if channel_id not in processed_data[prog_date_str]:
-                    processed_data[prog_date_str][channel_id] = []
-                
-                processed_data[prog_date_str][channel_id].append(program_entry)
+                        # We keep the actual end time (even if it spills to next day), 
+                        # as is standard for EPGs, unless you want that clamped too.
+                        display_end = stop_local.strftime("%H:%M:%S")
+
+                        entry = {
+                            "show_name": title,
+                            "start_time": display_start,
+                            "end_time": display_end,
+                            "episode_number": episode
+                        }
+                        
+                        target_days[day_key]["data"][channel_id].append(entry)
 
         except Exception as e:
             logging.error(f"Failed to process {url}: {e}")
 
-    # 4. Write JSON Files
-    for date_key, channels_data in processed_data.items():
-        # Determine output directory
-        if date_key == str(today_date):
-            out_dir = OUTPUT_DIR_TODAY
-        else:
-            out_dir = OUTPUT_DIR_TOMORROW
-            
-        # Ensure dir exists
+    # Write Files
+    for day_key, day_info in target_days.items():
+        out_dir = day_info["output_dir"]
         os.makedirs(out_dir, exist_ok=True)
+        date_str = str(day_info["date_obj"])
 
-        for cid, programs in channels_data.items():
+        for cid, programs in day_info["data"].items():
+            # If no programs found for a channel on this day, skip or write empty? 
+            # Usually better to skip empty files, but we will write them to be safe.
+            if not programs:
+                continue
+
+            # Sort programs by start time (handling the 00:00:00 correctly)
+            # We sort by the string, which works because "00:00:00" is lexicographically first
+            programs.sort(key=lambda x: x["start_time"])
+
             c_name = target_channels.get(cid, cid)
             file_name = f"{sanitize_filename(c_name)}.json"
             file_path = os.path.join(out_dir, file_name)
             
             output_json = {
                 "channel_name": c_name,
-                "date": date_key,
+                "date": date_str,
                 "programs": programs
             }
             
-            try:
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    json.dump(output_json, f, indent=2, ensure_ascii=False)
-                logging.info(f"Saved {file_path}")
-            except Exception as e:
-                logging.error(f"Failed to write {file_path}: {e}")
-
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(output_json, f, indent=2, ensure_ascii=False)
+    
     logging.info("Scrape finished.")
 
 if __name__ == "__main__":
