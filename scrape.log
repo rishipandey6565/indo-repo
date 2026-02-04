@@ -1,13 +1,3 @@
-2026-02-04 19:17:40,178 - INFO - Starting EPG Scrape run.
-2026-02-04 19:17:40,184 - INFO - Processing for dates: Today=2026-02-05, Tomorrow=2026-02-06
-2026-02-04 19:17:40,184 - INFO - Fetching https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz...
-2026-02-04 19:17:40,295 - INFO - Decompression successful. Parsing XML...
-2026-02-04 19:17:40,425 - INFO - Saved schedule/today/AXN-HD.json
-2026-02-04 19:17:40,425 - INFO - Saved schedule/today/CNN-International.json
-2026-02-04 19:17:40,426 - INFO - Saved schedule/today/CNBC-Asia.json
-2026-02-04 19:17:40,426 - INFO - Saved schedule/today/Discovery-Channel.json
-2026-02-04 19:17:40,426 - INFO - Saved schedule/tomorrow/AXN-HD.json
-2026-02-04 19:17:40,426 - INFO - Saved schedule/tomorrow/CNN-International.json
-2026-02-04 19:17:40,427 - INFO - Saved schedule/tomorrow/CNBC-Asia.json
-2026-02-04 19:17:40,427 - INFO - Saved schedule/tomorrow/Discovery-Channel.json
-2026-02-04 19:17:40,427 - INFO - Scrape finished.
+2026-02-04 19:29:34,992 - INFO - Starting EPG Scrape run.
+2026-02-04 19:29:34,993 - INFO - Fetching https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz...
+2026-02-04 19:29:35,330 - INFO - Scrape finished.
