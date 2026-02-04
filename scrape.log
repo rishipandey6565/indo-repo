@@ -1,0 +1,43 @@
+2026-02-04 19:12:25,572 - INFO - ======================================================================
+2026-02-04 19:12:25,572 - INFO - EPG Scraper Started
+2026-02-04 19:12:25,572 - INFO - ======================================================================
+2026-02-04 19:12:25,572 - INFO - Loaded 5 channels from channel.txt
+2026-02-04 19:12:25,572 - INFO - Processing dates - Today: 2026-02-04, Tomorrow: 2026-02-05
+2026-02-04 19:12:25,572 - INFO - Downloading from: https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz
+2026-02-04 19:12:25,678 - INFO - Extracting XML from gzip archive...
+2026-02-04 19:12:25,688 - INFO - Successfully extracted XML (4125136 bytes)
+2026-02-04 19:12:25,799 - INFO - Found 269 channels in XML
+2026-02-04 19:12:25,816 - INFO - Found programs for 216 channels
+2026-02-04 19:12:25,823 - INFO - Total channels available: 269
+2026-02-04 19:12:25,823 - INFO - Total channels with programs: 216
+2026-02-04 19:12:25,823 - INFO - 
+Processing: AXN HD (ID: AXN.HD.id)
+2026-02-04 19:12:25,823 - INFO - Matched to: AXN HD (103 total programs)
+2026-02-04 19:12:25,831 - INFO - Saved 28 programs to schedule/today/axn-hd.json
+2026-02-04 19:12:25,833 - INFO - Saved 27 programs to schedule/tomorrow/axn-hd.json
+2026-02-04 19:12:25,833 - INFO - 
+Processing: Bloomberg (ID: Bloomberg.TV.id)
+2026-02-04 19:12:25,833 - INFO - Matched to: Bloomberg (87 total programs)
+2026-02-04 19:12:25,834 - INFO - Saved 16 programs to schedule/today/bloomberg.json
+2026-02-04 19:12:25,836 - INFO - Saved 18 programs to schedule/tomorrow/bloomberg.json
+2026-02-04 19:12:25,836 - INFO - 
+Processing: CNBC Asia (ID: CNBC.Asia.id)
+2026-02-04 19:12:25,836 - INFO - Matched to: CNBC Asia (176 total programs)
+2026-02-04 19:12:25,839 - INFO - Saved 47 programs to schedule/today/cnbc-asia.json
+2026-02-04 19:12:25,842 - INFO - Saved 47 programs to schedule/tomorrow/cnbc-asia.json
+2026-02-04 19:12:25,842 - INFO - 
+Processing: CNN International (ID: CNN.International.id)
+2026-02-04 19:12:25,842 - INFO - Matched to: CNN International (82 total programs)
+2026-02-04 19:12:25,844 - INFO - Saved 20 programs to schedule/today/cnn-international.json
+2026-02-04 19:12:25,845 - INFO - Saved 21 programs to schedule/tomorrow/cnn-international.json
+2026-02-04 19:12:25,845 - INFO - 
+Processing: Discovery Channel (ID: Discovery.Channel.id)
+2026-02-04 19:12:25,846 - INFO - Matched to: Discovery Channel (116 total programs)
+2026-02-04 19:12:25,847 - INFO - Saved 27 programs to schedule/today/discovery-channel.json
+2026-02-04 19:12:25,850 - INFO - Saved 32 programs to schedule/tomorrow/discovery-channel.json
+2026-02-04 19:12:25,850 - INFO - 
+======================================================================
+2026-02-04 19:12:25,850 - INFO - EPG Scraper Completed
+2026-02-04 19:12:25,850 - INFO - Successfully processed: 5 channels
+2026-02-04 19:12:25,850 - INFO - Failed/No data: 0 channels
+2026-02-04 19:12:25,850 - INFO - ======================================================================
