@@ -12,7 +12,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 import logging
 
 # Configuration
@@ -78,7 +78,18 @@ def download_and_extract_xml(url: str) -> Optional[str]:
     """
     try:
         logger.info(f"Downloading from: {url}")
-        with urlopen(url, timeout=60) as response:
+        
+        # Create request with headers to avoid 403 Forbidden
+        from urllib.request import Request
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+            'Accept': '*/*',
+            'Accept-Encoding': 'gzip, deflate',
+            'Connection': 'keep-alive'
+        }
+        
+        request = Request(url, headers=headers)
+        with urlopen(request, timeout=60) as response:
             gz_data = response.read()
         
         logger.info(f"Extracting XML from gzip archive...")
