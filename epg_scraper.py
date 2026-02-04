@@ -53,6 +53,29 @@ def load_target_channels():
         logging.error(f"Error reading channel file: {e}")
     return targets
 
+def extract_episode_from_title(title, current_episode):
+    """
+    If current_episode is empty, checks title for 'Eps.1' pattern.
+    Returns tuple (clean_title, episode_number)
+    """
+    if current_episode:
+        return title, current_episode
+
+    # Regex logic:
+    # 1. ^(.*?)       -> Capture the start as the Show Name (Group 1)
+    # 2. [\s\-]+      -> Match separator (space or hyphen)
+    # 3. (Eps\.?\s* -> Match 'Eps' or 'Eps.' followed by optional space
+    # 4. (\d+))$      -> Capture the number (Group 3) at the end of string
+    match = re.search(r'^(.*?)[\s\-]+(Eps\.?\s*(\d+))$', title, re.IGNORECASE)
+    
+    if match:
+        clean_title = match.group(1).strip()
+        # Format as requested: "Eps -1"
+        new_episode = f"Eps -{match.group(3)}"
+        return clean_title, new_episode
+    
+    return title, ""
+
 def main():
     logging.info("Starting EPG Scrape run.")
     
@@ -61,16 +84,12 @@ def main():
         logging.warning("No target channels found. Exiting.")
         return
 
-    # Define Timezone
     tz = ZoneInfo(TIMEZONE)
     now_local = datetime.now(tz)
     
-    # Define the two "Days" we want to capture (Today and Tomorrow)
-    # We define strict start/end boundaries for these days
     today_date = now_local.date()
     tomorrow_date = today_date + timedelta(days=1)
     
-    # Create Day Objects with Start (00:00) and End (23:59:59) boundaries
     target_days = {
         "today": {
             "date_obj": today_date,
@@ -88,7 +107,6 @@ def main():
         }
     }
 
-    # Initialize data structures for each channel in each day
     for day_key in target_days:
         for cid in target_channels:
             target_days[day_key]["data"][cid] = []
@@ -118,39 +136,35 @@ def main():
                 if not start_dt or not stop_dt:
                     continue
 
-                # Convert to local time for comparison
                 start_local = start_dt.astimezone(tz)
                 stop_local = stop_dt.astimezone(tz)
 
-                # --- CHECK OVERLAPS FOR TODAY AND TOMORROW ---
                 for day_key, day_info in target_days.items():
                     day_start = day_info["start"]
                     day_end = day_info["end"]
 
-                    # LOGIC: Does the show overlap with this day?
-                    # It overlaps if: Start is before DayEnd AND End is after DayStart
                     if start_local < day_end and stop_local > day_start:
                         
-                        # Extract Details
-                        title = programme.find("title").text if programme.find("title") is not None else "Unknown Title"
-                        episode = programme.find("episode-num").text if programme.find("episode-num") is not None else ""
+                        # --- Extraction & Cleaning Logic ---
+                        title_text = programme.find("title").text if programme.find("title") is not None else "Unknown Title"
+                        episode_text = programme.find("episode-num").text if programme.find("episode-num") is not None else ""
                         
-                        # --- CLAMPING LOGIC ---
-                        # If show started BEFORE this day (yesterday), set display time to 00:00:00
+                        # Apply new helper function to extract Eps from title
+                        final_title, final_episode = extract_episode_from_title(title_text, episode_text)
+                        
+                        # --- Clamping Logic ---
                         if start_local < day_start:
                             display_start = "00:00:00"
                         else:
                             display_start = start_local.strftime("%H:%M:%S")
 
-                        # We keep the actual end time (even if it spills to next day), 
-                        # as is standard for EPGs, unless you want that clamped too.
                         display_end = stop_local.strftime("%H:%M:%S")
 
                         entry = {
-                            "show_name": title,
+                            "show_name": final_title,
                             "start_time": display_start,
                             "end_time": display_end,
-                            "episode_number": episode
+                            "episode_number": final_episode
                         }
                         
                         target_days[day_key]["data"][channel_id].append(entry)
@@ -165,13 +179,9 @@ def main():
         date_str = str(day_info["date_obj"])
 
         for cid, programs in day_info["data"].items():
-            # If no programs found for a channel on this day, skip or write empty? 
-            # Usually better to skip empty files, but we will write them to be safe.
             if not programs:
                 continue
 
-            # Sort programs by start time (handling the 00:00:00 correctly)
-            # We sort by the string, which works because "00:00:00" is lexicographically first
             programs.sort(key=lambda x: x["start_time"])
 
             c_name = target_channels.get(cid, cid)
