@@ -1,105 +1,87 @@
 {
   "channel_name": "CNBC Asia",
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "programs": [
     {
-      "show_name": "Halftime Report",
+      "show_name": "Late Night with Seth Meyers",
       "start_time": "00:00:00",
-      "end_time": "00:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Halftime Report",
-      "start_time": "00:30:00",
       "end_time": "01:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Exchange",
+      "show_name": "New Energy Finance Forum",
       "start_time": "01:00:00",
       "end_time": "01:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Exchange",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Power Lunch",
+      "show_name": "The Tonight Show Starring Jimmy Fallon",
       "start_time": "02:00:00",
-      "end_time": "02:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Power Lunch",
-      "start_time": "02:30:00",
       "end_time": "03:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Closing Bell",
+      "show_name": "The Tonight Show Starring Jimmy Fallon",
       "start_time": "03:00:00",
-      "end_time": "03:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Closing Bell",
-      "start_time": "03:30:00",
       "end_time": "04:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Closing Bell: Overtime",
+      "show_name": "American Greed",
       "start_time": "04:00:00",
-      "end_time": "04:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Closing Bell: Overtime",
-      "start_time": "04:30:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Fast Money",
+      "show_name": "The Tech Download",
       "start_time": "05:00:00",
       "end_time": "05:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Fast Money",
+      "show_name": "CNBC Explains",
       "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Tech Download",
+      "show_name": "New Energy Finance Forum",
       "start_time": "06:00:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Managing Asia",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "06:30:00",
       "end_time": "07:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Closing Bell: Overtime rpt",
+      "show_name": "American Greed: Biggest Cons",
       "start_time": "07:00:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Fast Money rpt",
+      "show_name": "The Tech Download",
       "start_time": "08:00:00",
+      "end_time": "08:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "CNBC Explains",
+      "start_time": "08:30:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Channel Japan",
+      "show_name": "New Energy Finance Forum",
       "start_time": "09:00:00",
       "end_time": "09:30:00",
       "episode_number": ""
@@ -111,7 +93,7 @@
       "episode_number": ""
     },
     {
-      "show_name": "American Greed: Biggest Cons",
+      "show_name": "American Greed",
       "start_time": "10:00:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -123,19 +105,19 @@
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Sports",
+      "show_name": "CNBC Sports - The Spirit of Yachting",
       "start_time": "13:00:00",
       "end_time": "13:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Sports",
+      "show_name": "CNBC Sports - Ride FEI Originals",
       "start_time": "13:30:00",
       "end_time": "14:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Sports - Asian Le Mans Series",
+      "show_name": "CNBC Sports - Longines FEI Jumping World Cup - Western European League",
       "start_time": "14:00:00",
       "end_time": "15:00:00",
       "episode_number": ""
@@ -153,25 +135,25 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Tech Download",
+      "show_name": "Channel Japan",
       "start_time": "17:00:00",
       "end_time": "17:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Explains",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "17:30:00",
       "end_time": "18:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Originals",
+      "show_name": "The Tech Download",
       "start_time": "18:00:00",
       "end_time": "18:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Sport: On The Record",
+      "show_name": "CNBC Explains",
       "start_time": "18:30:00",
       "end_time": "19:00:00",
       "episode_number": ""
@@ -189,19 +171,19 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Tech Download",
+      "show_name": "New Energy Finance Forum",
       "start_time": "21:00:00",
       "end_time": "21:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNBC Explains",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "21:30:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "American Greed: Biggest Cons",
+      "show_name": "American Greed",
       "start_time": "22:00:00",
       "end_time": "23:00:00",
       "episode_number": ""
