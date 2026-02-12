@@ -32,6 +32,26 @@ def sanitize_filename(name):
     name = name.strip().replace(" ", "-")
     return re.sub(r'[^a-zA-Z0-9\-]', '', name)
 
+def generate_show_logo(show_name):
+    """
+    Generate a placehold.co logo URL from show name.
+    Example: "Game Of Throne" -> "https://placehold.co/100x100/dc2626/ffffff?text=GOT"
+    Example: "S.W.A.T." -> "https://placehold.co/100x100/dc2626/ffffff?text=SWAT"
+    """
+    # Extract initials from the show name
+    words = show_name.strip().split()
+    
+    # Take first letter of each word, uppercase
+    initials = ''.join([word[0].upper() for word in words if word])
+    
+    # Limit to reasonable length (e.g., max 5 characters)
+    initials = initials[:5]
+    
+    # Generate URL
+    logo_url = f"https://placehold.co/100x100/dc2626/ffffff?text={initials}"
+    
+    return logo_url
+
 def parse_epg_timestamp(ts_str):
     try:
         return datetime.strptime(ts_str, "%Y%m%d%H%M%S %z")
@@ -152,6 +172,9 @@ def main():
                         # Apply new helper function to extract Eps from title
                         final_title, final_episode = extract_episode_from_title(title_text, episode_text)
                         
+                        # Generate logo URL for the show
+                        show_logo = generate_show_logo(final_title)
+                        
                         # --- Clamping Logic ---
                         if start_local < day_start:
                             display_start = "00:00:00"
@@ -162,6 +185,7 @@ def main():
 
                         entry = {
                             "show_name": final_title,
+                            "show_logo": show_logo,
                             "start_time": display_start,
                             "end_time": display_end,
                             "episode_number": final_episode
