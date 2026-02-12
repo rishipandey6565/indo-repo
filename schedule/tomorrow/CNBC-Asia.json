@@ -1,6 +1,6 @@
 {
   "channel_name": "CNBC Asia",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
       "show_name": "Halftime Report",
@@ -63,218 +63,146 @@
       "episode_number": ""
     },
     {
-      "show_name": "U.S. Markets Edition",
+      "show_name": "Fast Money",
       "start_time": "05:00:00",
+      "end_time": "05:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Fast Money",
+      "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Asia",
+      "show_name": "The Tech Download",
       "start_time": "06:00:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Asia",
+      "show_name": "CNBC Explains",
       "start_time": "06:30:00",
       "end_time": "07:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Asia",
+      "show_name": "Closing Bell: Overtime rpt",
       "start_time": "07:00:00",
-      "end_time": "07:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk Box Asia",
-      "start_time": "07:30:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Asia",
+      "show_name": "Fast Money rpt",
       "start_time": "08:00:00",
-      "end_time": "08:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk Box Asia",
-      "start_time": "08:30:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The China Connection",
+      "show_name": "Channel Japan",
       "start_time": "09:00:00",
       "end_time": "09:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "The China Connection",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "09:30:00",
       "end_time": "10:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Inside India",
+      "show_name": "American Greed: Biggest Cons",
       "start_time": "10:00:00",
-      "end_time": "10:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Inside India",
-      "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Access Middle East",
+      "show_name": "CNBC Sports - PGA TOUR",
       "start_time": "11:00:00",
-      "end_time": "11:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Access Middle East",
-      "start_time": "11:30:00",
-      "end_time": "12:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "U.S. Markets Edition",
-      "start_time": "12:00:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Europe Early Edition",
+      "show_name": "AlUla Tour",
       "start_time": "13:00:00",
-      "end_time": "13:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Europe Early Edition",
-      "start_time": "13:30:00",
       "end_time": "14:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Europe",
+      "show_name": "CNBC Sports - Asian Le Mans Series",
       "start_time": "14:00:00",
-      "end_time": "14:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk Box Europe",
-      "start_time": "14:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Europe",
+      "show_name": "Late Night with Seth Meyers",
       "start_time": "15:00:00",
-      "end_time": "15:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk Box Europe",
-      "start_time": "15:30:00",
       "end_time": "16:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk Box Europe",
+      "show_name": "Late Night with Seth Meyers",
       "start_time": "16:00:00",
-      "end_time": "16:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk Box Europe",
-      "start_time": "16:30:00",
       "end_time": "17:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Worldwide Exchange",
+      "show_name": "The Score",
       "start_time": "17:00:00",
       "end_time": "17:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Worldwide Exchange",
+      "show_name": "Leaders Playbook",
       "start_time": "17:30:00",
       "end_time": "18:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "US Squawk Box",
+      "show_name": "Executive Decisions",
       "start_time": "18:00:00",
       "end_time": "18:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "US Squawk Box",
+      "show_name": "CNBC Sport: On The Record",
       "start_time": "18:30:00",
       "end_time": "19:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "US Squawk Box",
+      "show_name": "The Tonight Show Starring Jimmy Fallon",
       "start_time": "19:00:00",
-      "end_time": "19:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "US Squawk Box",
-      "start_time": "19:30:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "US Squawk Box",
+      "show_name": "The Tonight Show Starring Jimmy Fallon",
       "start_time": "20:00:00",
-      "end_time": "20:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "US Squawk Box",
-      "start_time": "20:30:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk On The Street",
+      "show_name": "The Score",
       "start_time": "21:00:00",
       "end_time": "21:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk On The Street",
+      "show_name": "Leaders Playbook",
       "start_time": "21:30:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Squawk On The Street",
+      "show_name": "American Greed: Biggest Cons",
       "start_time": "22:00:00",
-      "end_time": "22:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Squawk On The Street",
-      "start_time": "22:30:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Money Movers",
+      "show_name": "Late Night with Seth Meyers",
       "start_time": "23:00:00",
-      "end_time": "23:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Money Movers",
-      "start_time": "23:30:00",
       "end_time": "00:00:00",
       "episode_number": ""
     }

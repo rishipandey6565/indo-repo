@@ -1,198 +1,204 @@
 {
   "channel_name": "Discovery Channel",
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "programs": [
     {
-      "show_name": "Wheeler Dealers World Tour S2",
+      "show_name": "Border Control: Spain S8",
       "start_time": "00:00:00",
+      "end_time": "00:05:00",
+      "episode_number": "Eps -7"
+    },
+    {
+      "show_name": "Border Control: Spain S8",
+      "start_time": "00:05:00",
       "end_time": "00:35:00",
-      "episode_number": "Eps -3"
-    },
-    {
-      "show_name": "Wheeler Dealers World Tour S1",
-      "start_time": "00:35:00",
-      "end_time": "01:30:00",
-      "episode_number": "Eps -2"
-    },
-    {
-      "show_name": "High Speed Chase S2",
-      "start_time": "01:30:00",
-      "end_time": "02:25:00",
-      "episode_number": "Eps -9"
-    },
-    {
-      "show_name": "Ant Anstead: Born Mechanic S1",
-      "start_time": "02:25:00",
-      "end_time": "03:20:00",
-      "episode_number": "Eps -1"
-    },
-    {
-      "show_name": "Hoffman Family Gold S1",
-      "start_time": "03:20:00",
-      "end_time": "04:10:00",
       "episode_number": "Eps -8"
     },
     {
-      "show_name": "Gold Rush: Mine Rescue With Freddy & Juan_Specials S4",
-      "start_time": "04:10:00",
-      "end_time": "05:00:00",
-      "episode_number": "Eps -1"
+      "show_name": "Cyber Scammed S1",
+      "start_time": "00:35:00",
+      "end_time": "01:30:00",
+      "episode_number": "Eps -3"
+    },
+    {
+      "show_name": "FEDS S1",
+      "start_time": "01:30:00",
+      "end_time": "02:25:00",
+      "episode_number": "Eps -5"
+    },
+    {
+      "show_name": "Born Evil: The Serial Killer And The Savior S1",
+      "start_time": "02:25:00",
+      "end_time": "03:20:00",
+      "episode_number": "Eps -3"
     },
     {
       "show_name": "America's Backyard Gold S1",
+      "start_time": "03:20:00",
+      "end_time": "04:10:00",
+      "episode_number": "Eps -2"
+    },
+    {
+      "show_name": "Gold Rush: Mine Rescue With Freddy & Juan S4",
+      "start_time": "04:10:00",
+      "end_time": "05:00:00",
+      "episode_number": "Eps -7"
+    },
+    {
+      "show_name": "Hoffman Family Gold S1",
       "start_time": "05:00:00",
       "end_time": "06:00:00",
       "episode_number": "Eps -1"
     },
     {
-      "show_name": "High Speed Chase S1",
+      "show_name": "Hoffman Family Gold S1",
       "start_time": "06:00:00",
       "end_time": "06:50:00",
-      "episode_number": "Eps -1"
+      "episode_number": "Eps -2"
     },
     {
-      "show_name": "Gold Rush: White Water  Specials S8",
+      "show_name": "Hoffman Family Gold S1",
       "start_time": "06:50:00",
       "end_time": "07:40:00",
       "episode_number": "Eps -3"
     },
     {
-      "show_name": "Wheeler Dealers World Tour S2",
+      "show_name": "Hoffman Family Gold S1",
       "start_time": "07:40:00",
       "end_time": "08:30:00",
-      "episode_number": "Eps -3"
-    },
-    {
-      "show_name": "Wheeler Dealers World Tour S1",
-      "start_time": "08:30:00",
-      "end_time": "09:20:00",
-      "episode_number": "Eps -2"
+      "episode_number": "Eps -4"
     },
     {
       "show_name": "America's Backyard Gold S1",
+      "start_time": "08:30:00",
+      "end_time": "09:20:00",
+      "episode_number": "Eps -1"
+    },
+    {
+      "show_name": "Border Control: Spain S8",
       "start_time": "09:20:00",
-      "end_time": "10:10:00",
-      "episode_number": "Eps -2"
-    },
-    {
-      "show_name": "High Speed Chase S1",
-      "start_time": "10:10:00",
-      "end_time": "11:00:00",
-      "episode_number": "Eps -1"
-    },
-    {
-      "show_name": "Gold Rush: Mine Rescue With Freddy & Juan_Specials S4",
-      "start_time": "11:00:00",
-      "end_time": "11:50:00",
-      "episode_number": "Eps -1"
-    },
-    {
-      "show_name": "FEDS S1",
-      "start_time": "11:50:00",
-      "end_time": "12:40:00",
-      "episode_number": "Eps -4"
-    },
-    {
-      "show_name": "Border Control: Spain S8",
-      "start_time": "12:40:00",
-      "end_time": "13:05:00",
-      "episode_number": "Eps -1"
-    },
-    {
-      "show_name": "Border Control: Spain S8",
-      "start_time": "13:05:00",
-      "end_time": "13:35:00",
-      "episode_number": "Eps -6"
-    },
-    {
-      "show_name": "Cyber Scammed S1",
-      "start_time": "13:35:00",
-      "end_time": "14:30:00",
-      "episode_number": "Eps -2"
-    },
-    {
-      "show_name": "All Access PD: Grand Rapids S1",
-      "start_time": "14:30:00",
-      "end_time": "15:25:00",
-      "episode_number": "Eps -4"
-    },
-    {
-      "show_name": "Expedition Unknown: Most Dangerous Moments",
-      "start_time": "15:25:00",
-      "end_time": "16:20:00",
-      "episode_number": "Eps -0"
-    },
-    {
-      "show_name": "Body Cam S5",
-      "start_time": "16:20:00",
-      "end_time": "17:15:00",
-      "episode_number": "Eps -6"
-    },
-    {
-      "show_name": "Gold Rush: Mine Rescue With Freddy & Juan S4",
-      "start_time": "17:15:00",
-      "end_time": "18:10:00",
+      "end_time": "09:45:00",
       "episode_number": "Eps -7"
     },
     {
-      "show_name": "Border Control: Spain S6",
-      "start_time": "18:10:00",
-      "end_time": "18:35:00",
-      "episode_number": "Eps -11"
+      "show_name": "Border Control: Spain S8",
+      "start_time": "09:45:00",
+      "end_time": "10:10:00",
+      "episode_number": "Eps -8"
     },
     {
-      "show_name": "Border Control: Spain S6",
-      "start_time": "18:35:00",
-      "end_time": "19:05:00",
+      "show_name": "Deadliest Catch S21",
+      "start_time": "10:10:00",
+      "end_time": "11:00:00",
+      "episode_number": "Eps -16"
+    },
+    {
+      "show_name": "The Last Woodsmen S2",
+      "start_time": "11:00:00",
+      "end_time": "11:50:00",
+      "episode_number": "Eps -4"
+    },
+    {
+      "show_name": "Behind The Opening Ceremony: The Director’s Cut S1",
+      "start_time": "11:50:00",
+      "end_time": "12:40:00",
+      "episode_number": "Eps -1"
+    },
+    {
+      "show_name": "Ed Stafford's Rite Of Passage S1",
+      "start_time": "12:40:00",
+      "end_time": "13:35:00",
+      "episode_number": "Eps -3"
+    },
+    {
+      "show_name": "In The Eye Of The Storm S2",
+      "start_time": "13:35:00",
+      "end_time": "14:30:00",
       "episode_number": "Eps -12"
     },
     {
-      "show_name": "FEDS S1",
-      "start_time": "19:05:00",
-      "end_time": "20:00:00",
-      "episode_number": "Eps -5"
+      "show_name": "Beauty And The Feast S1",
+      "start_time": "14:30:00",
+      "end_time": "14:55:00",
+      "episode_number": "Eps -1"
+    },
+    {
+      "show_name": "Beauty And The Feast S1",
+      "start_time": "14:55:00",
+      "end_time": "15:25:00",
+      "episode_number": "Eps -2"
     },
     {
       "show_name": "Border Control: Spain S8",
-      "start_time": "20:00:00",
-      "end_time": "20:25:00",
+      "start_time": "15:25:00",
+      "end_time": "15:50:00",
       "episode_number": "Eps -7"
     },
     {
       "show_name": "Border Control: Spain S8",
-      "start_time": "20:25:00",
-      "end_time": "20:55:00",
+      "start_time": "15:50:00",
+      "end_time": "16:20:00",
       "episode_number": "Eps -8"
     },
     {
       "show_name": "Cyber Scammed S1",
-      "start_time": "20:55:00",
-      "end_time": "21:50:00",
+      "start_time": "16:20:00",
+      "end_time": "17:15:00",
       "episode_number": "Eps -3"
     },
     {
-      "show_name": "Born Evil: The Serial Killer And The Savior S1",
-      "start_time": "21:50:00",
-      "end_time": "22:45:00",
+      "show_name": "Ed Stafford's Rite Of Passage S1",
+      "start_time": "17:15:00",
+      "end_time": "18:10:00",
       "episode_number": "Eps -3"
     },
     {
-      "show_name": "Border Control: Spain S6",
-      "start_time": "22:45:00",
-      "end_time": "23:10:00",
-      "episode_number": "Eps -11"
+      "show_name": "Deadliest Catch S21",
+      "start_time": "18:10:00",
+      "end_time": "19:05:00",
+      "episode_number": "Eps -16"
     },
     {
-      "show_name": "Border Control: Spain S6",
-      "start_time": "23:10:00",
-      "end_time": "23:40:00",
+      "show_name": "Wheeler Dealers World Tour S2",
+      "start_time": "19:05:00",
+      "end_time": "20:00:00",
+      "episode_number": "Eps -3"
+    },
+    {
+      "show_name": "In The Eye Of The Storm S2",
+      "start_time": "20:00:00",
+      "end_time": "20:55:00",
       "episode_number": "Eps -12"
     },
     {
+      "show_name": "The Last Woodsmen S2",
+      "start_time": "20:55:00",
+      "end_time": "21:50:00",
+      "episode_number": "Eps -4"
+    },
+    {
+      "show_name": "Ghost Adventures S12",
+      "start_time": "21:50:00",
+      "end_time": "22:45:00",
+      "episode_number": "Eps -2"
+    },
+    {
       "show_name": "Border Control: Spain S8",
-      "start_time": "23:40:00",
-      "end_time": "00:05:00",
+      "start_time": "22:45:00",
+      "end_time": "23:10:00",
       "episode_number": "Eps -7"
+    },
+    {
+      "show_name": "Border Control: Spain S8",
+      "start_time": "23:10:00",
+      "end_time": "23:40:00",
+      "episode_number": "Eps -8"
+    },
+    {
+      "show_name": "Cyber Scammed S1",
+      "start_time": "23:40:00",
+      "end_time": "00:35:00",
+      "episode_number": "Eps -3"
     }
   ]
 }
