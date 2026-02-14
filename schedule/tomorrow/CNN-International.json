@@ -1,18 +1,18 @@
 {
   "channel_name": "CNN International",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
       "show_name": "World Sport",
       "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
       "start_time": "00:00:00",
-      "end_time": "01:00:00",
+      "end_time": "01:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNN Newsroom",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
-      "start_time": "01:00:00",
+      "show_name": "Walk of Art",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOA",
+      "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
@@ -59,16 +59,23 @@
       "episode_number": ""
     },
     {
-      "show_name": "Smerconish",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+      "show_name": "State of the Union with Jake Tapper and Dana Bash",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTUW",
       "start_time": "08:00:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "World Sport",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+      "show_name": "Fareed Zakaria GPS",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FZG",
       "start_time": "09:00:00",
+      "end_time": "11:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Walk of Art",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOA",
+      "start_time": "11:00:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
@@ -76,13 +83,6 @@
       "show_name": "CNN Newsroom",
       "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
       "start_time": "12:00:00",
-      "end_time": "12:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
-      "start_time": "12:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
@@ -90,13 +90,13 @@
       "show_name": "CNN Newsroom",
       "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
       "start_time": "13:00:00",
-      "end_time": "14:00:00",
+      "end_time": "13:30:00",
       "episode_number": ""
     },
     {
       "show_name": "CNN Newsroom",
       "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
-      "start_time": "14:00:00",
+      "start_time": "13:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
@@ -108,57 +108,64 @@
       "episode_number": ""
     },
     {
-      "show_name": "African Voices Changemakers",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVC",
-      "start_time": "15:30:00",
-      "end_time": "16:00:00",
-      "episode_number": ""
-    },
-    {
       "show_name": "CNN Newsroom",
       "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
-      "start_time": "16:00:00",
+      "start_time": "15:30:00",
       "end_time": "17:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNN Newsroom",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
+      "show_name": "Early Start with Rahel Solomon",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESWRS",
       "start_time": "17:00:00",
+      "end_time": "18:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "CNN This Morning",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTM",
+      "start_time": "18:00:00",
       "end_time": "19:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "CNN This Morning Weekend",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTMW",
+      "show_name": "CNN News Central",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CNC",
       "start_time": "19:00:00",
-      "end_time": "20:00:00",
+      "end_time": "20:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Inside Politics With Manu Raju",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IPWMR",
-      "start_time": "20:00:00",
+      "show_name": "World Sport",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+      "start_time": "20:30:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "State of the Union with Jake Tapper and Dana Bash",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTUW",
+      "show_name": "Connect the World",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTW",
       "start_time": "21:00:00",
+      "end_time": "21:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Connect the World",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTW",
+      "start_time": "21:30:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Fareed Zakaria GPS",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FZG",
+      "show_name": "Connect the World",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTW",
       "start_time": "22:00:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Inside Politics With Manu Raju",
-      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IPWMR",
+      "show_name": "One World",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OW",
       "start_time": "23:00:00",
       "end_time": "00:00:00",
       "episode_number": ""
