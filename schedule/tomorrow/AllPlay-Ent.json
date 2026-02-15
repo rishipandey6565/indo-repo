@@ -1,199 +1,206 @@
 {
   "channel_name": "AllPlay Ent",
-  "date": "2026-02-16",
+  "date": "2026-02-17",
   "programs": [
     {
-      "show_name": "Dua Garis Biru",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-1e420355bbf123febb2d99091305c35b.svg",
+      "show_name": "Pancaran Sinar Petromak",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PSP",
       "start_time": "00:00:00",
-      "end_time": "02:00:00",
+      "end_time": "01:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Instagerrr",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-be2ab5e535a0235795466498a3849cfc.svg",
-      "start_time": "02:00:00",
+      "show_name": "Dapil Komeng",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DK",
+      "start_time": "01:30:00",
+      "end_time": "02:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Final Draft",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FD",
+      "start_time": "02:30:00",
       "end_time": "02:45:00",
       "episode_number": ""
     },
     {
       "show_name": "The Other Side Of Fiki Naki",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-9457f64b52daaf8a4f7a627d42d74877.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSOF",
       "start_time": "02:45:00",
       "end_time": "03:15:00",
       "episode_number": ""
     },
     {
       "show_name": "Ini Dia",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-3aa3c86211ea824c16715e9496c260b7.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
       "start_time": "03:15:00",
       "end_time": "03:45:00",
       "episode_number": ""
     },
     {
       "show_name": "Glints Expert Class",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-0a7cdf48ca7a89785666b5170c4c82d9.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GEC",
       "start_time": "03:45:00",
       "end_time": "04:15:00",
       "episode_number": ""
     },
     {
       "show_name": "Apose Boss Baru S3",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-edab83a1ff9053795fe58c23c7d5a961.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABBS",
       "start_time": "04:15:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Sweet",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-dbbe2499f28d69edb9bb2fd42df8d91f.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
       "start_time": "05:00:00",
       "end_time": "05:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Puasin",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-09313237b59d52108e29dcd36cf34138.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
       "start_time": "05:30:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Neptune TV.",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-e81605841bb9f8b89b32dcac0c3f043c.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
       "start_time": "06:30:00",
       "end_time": "07:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Apose Boss Baru S3",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-edab83a1ff9053795fe58c23c7d5a961.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABBS",
       "start_time": "07:00:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Brownies",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-d0afcb0a8043e933559ba1635b565a1e.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "08:00:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Ikatan Cinta",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-b6ddbece0c0387608d34688b988c27e3.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
       "start_time": "09:00:00",
       "end_time": "10:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Lapor Pak",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-2efe648247043236cdf334ad6c43cf70.svg",
+      "show_name": "Arisan",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
       "start_time": "10:00:00",
       "end_time": "11:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Puasin",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-09313237b59d52108e29dcd36cf34138.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
       "start_time": "11:00:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Studio Dangdut",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-55ea753d4632aa4b5b7dd7de10edda77.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SD",
       "start_time": "12:00:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Rumpi (No Secret)",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-63906a9a6700d58f46d818817f9a32b4.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R(S",
       "start_time": "13:00:00",
       "end_time": "14:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Dua Garis Biru",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-1e420355bbf123febb2d99091305c35b.svg",
+      "show_name": "Pancaran Sinar Petromak",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PSP",
       "start_time": "14:00:00",
-      "end_time": "16:00:00",
+      "end_time": "15:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Masak Enak",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-b0a4204d0e8d55e491e6d077e37f3acd.svg",
-      "start_time": "16:00:00",
+      "show_name": "The Dudas-1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+      "start_time": "15:30:00",
       "end_time": "16:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Minisoccer Super League",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-cd28c5af0af64e536b24a600e4578f45.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSL",
       "start_time": "16:30:00",
       "end_time": "17:15:00",
       "episode_number": ""
     },
     {
-      "show_name": "Academy Of Pop",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-0b82ab6d390ac390edaa6693ee61bb70.svg",
+      "show_name": "Jajan Terus",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JT",
       "start_time": "17:15:00",
-      "end_time": "17:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Montase",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-3ec0ae66be040d06d630d9145ab5f9c4.svg",
-      "start_time": "17:30:00",
       "end_time": "18:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Ini Dia",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-3aa3c86211ea824c16715e9496c260b7.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
       "start_time": "18:00:00",
       "end_time": "18:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Ckckck",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-d167d66b27605ca901fd1fd5a727a4b5.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
       "start_time": "18:30:00",
       "end_time": "19:15:00",
       "episode_number": ""
     },
     {
       "show_name": "Apose",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-8a4fd6b73b3d02997e491ed2012a0d8c.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
       "start_time": "19:15:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Ikatan Cinta",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-b6ddbece0c0387608d34688b988c27e3.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
       "start_time": "20:00:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Dua Garis Biru",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-1e420355bbf123febb2d99091305c35b.svg",
+      "show_name": "Pancaran Sinar Petromak",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PSP",
       "start_time": "21:00:00",
+      "end_time": "22:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "COD (Celeb On Date)",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C(OD",
+      "start_time": "22:30:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Leiden",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-fa937bfe1f5e28534654524645a134d0.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
       "start_time": "23:00:00",
       "end_time": "23:45:00",
       "episode_number": ""
     },
     {
       "show_name": "Indonesia Dalam 15 Menit",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/allplay-ent/tomorrow/logo-a5f73761eed750e89409e38750b1408f.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID1M",
       "start_time": "23:45:00",
       "end_time": "00:00:00",
       "episode_number": ""

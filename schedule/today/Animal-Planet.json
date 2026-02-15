@@ -1,216 +1,237 @@
 {
   "channel_name": "Animal Planet",
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "programs": [
     {
-      "show_name": "Wild Winter S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a16312d467ea42155cba2d9b68cf0447.svg",
+      "show_name": "Hot Life Africa S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HLAS",
+      "start_time": "00:00:00",
+      "end_time": "00:45:00",
+      "episode_number": "Eps -2"
+    },
+    {
+      "show_name": "Revealed: Rann Of Kutch",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RROK",
       "start_time": "00:45:00",
       "end_time": "01:40:00",
-      "episode_number": "Eps -1"
+      "episode_number": "Eps -0"
     },
     {
-      "show_name": "Wild Winter S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a16312d467ea42155cba2d9b68cf0447.svg",
+      "show_name": "Floridas Death Beach",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FDB",
       "start_time": "01:40:00",
       "end_time": "02:35:00",
-      "episode_number": "Eps -2"
+      "episode_number": "Eps -0"
     },
     {
-      "show_name": "Wild Winter S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a16312d467ea42155cba2d9b68cf0447.svg",
+      "show_name": "Wild Fighters S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WFS",
       "start_time": "02:35:00",
       "end_time": "03:30:00",
-      "episode_number": "Eps -3"
+      "episode_number": "Eps -5"
     },
     {
-      "show_name": "Gorilla School S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-d73ebe316ee00e7c978ba263e1e03253.svg",
+      "show_name": "Jewels Of The Natural World S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JOTNW",
       "start_time": "03:30:00",
       "end_time": "04:00:00",
-      "episode_number": "Eps -2"
+      "episode_number": "Eps -8"
     },
     {
-      "show_name": "Predator Countdown S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-422d130b92ecfb543364329614428a3c.svg",
+      "show_name": "Louisiana Law S2",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLS",
       "start_time": "04:00:00",
       "end_time": "05:00:00",
       "episode_number": "Eps -1"
     },
     {
-      "show_name": "Dr. Dee: Alaska Vet S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-f67b574e571adc6921e789069858f702.svg",
+      "show_name": "The Vet Life S3",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TVLS",
       "start_time": "05:00:00",
       "end_time": "06:00:00",
-      "episode_number": "Eps -6"
+      "episode_number": "Eps -16"
     },
     {
-      "show_name": "Nature's Strangest Mysteries: Solved S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a86db2fb23d0a14922fc55de6e82e5cd.svg",
+      "show_name": "Dinosaur With Stephen Fry S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DWSFS",
       "start_time": "06:00:00",
-      "end_time": "06:27:00",
-      "episode_number": "Eps -19"
-    },
-    {
-      "show_name": "Nature's Strangest Mysteries: Solved S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a86db2fb23d0a14922fc55de6e82e5cd.svg",
-      "start_time": "06:27:00",
       "end_time": "06:55:00",
-      "episode_number": "Eps -20"
+      "episode_number": "Eps -2"
     },
     {
-      "show_name": "Wild Latam S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-d6a956d467e6cc33fa7cc3383a7e9552.svg",
+      "show_name": "Super Animals S2",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAS",
       "start_time": "06:55:00",
+      "end_time": "07:22:00",
+      "episode_number": "Eps -5"
+    },
+    {
+      "show_name": "Super Animals S2",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAS",
+      "start_time": "07:22:00",
       "end_time": "07:50:00",
-      "episode_number": "Eps -7"
+      "episode_number": "Eps -4"
     },
     {
-      "show_name": "Wildlife SOS S9",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-f6476392e8e627a9ff2e764714aae495.svg",
+      "show_name": "The Beauty Of Snakes",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBOS",
       "start_time": "07:50:00",
-      "end_time": "08:17:00",
-      "episode_number": "Eps -11"
-    },
-    {
-      "show_name": "Wildlife SOS S9",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-f6476392e8e627a9ff2e764714aae495.svg",
-      "start_time": "08:17:00",
       "end_time": "08:45:00",
-      "episode_number": "Eps -12"
+      "episode_number": "Eps -0"
     },
     {
-      "show_name": "Air Jaws: The Hunt For Colossus",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-1a32c2b620ec7487797a90049ae44039.svg",
+      "show_name": "Floridas Death Beach",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FDB",
       "start_time": "08:45:00",
       "end_time": "09:40:00",
       "episode_number": "Eps -0"
     },
     {
-      "show_name": "Dinosaur With Stephen Fry S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-ce2e028bdf8da5bd0d8c7acbc7dcd573.svg",
+      "show_name": "Wild Frank In Australia S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WFIAS",
       "start_time": "09:40:00",
       "end_time": "10:35:00",
-      "episode_number": "Eps -3"
+      "episode_number": "Eps -5"
     },
     {
-      "show_name": "China's Wild Secrets S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-ae0fee3a40d5454f9bffadc96a76dafb.svg",
+      "show_name": "The Aquarium S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAS",
       "start_time": "10:35:00",
       "end_time": "11:30:00",
+      "episode_number": "Eps -6"
+    },
+    {
+      "show_name": "Animal Armory S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
+      "start_time": "11:30:00",
+      "end_time": "12:25:00",
+      "episode_number": "Eps -5"
+    },
+    {
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "12:25:00",
+      "end_time": "12:52:00",
       "episode_number": "Eps -1"
     },
     {
-      "show_name": "Predator Countdown S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-422d130b92ecfb543364329614428a3c.svg",
-      "start_time": "11:30:00",
-      "end_time": "12:25:00",
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "12:52:00",
+      "end_time": "13:20:00",
+      "episode_number": "Eps -2"
+    },
+    {
+      "show_name": "Louisiana Law S2",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLS",
+      "start_time": "13:20:00",
+      "end_time": "14:15:00",
       "episode_number": "Eps -1"
+    },
+    {
+      "show_name": "Animal Cribs S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACS",
+      "start_time": "14:15:00",
+      "end_time": "15:10:00",
+      "episode_number": "Eps -9"
     },
     {
       "show_name": "Nature's Strangest Mysteries: Solved S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a86db2fb23d0a14922fc55de6e82e5cd.svg",
-      "start_time": "12:25:00",
-      "end_time": "12:52:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NSMSS",
+      "start_time": "15:10:00",
+      "end_time": "15:37:00",
+      "episode_number": "Eps -17"
+    },
+    {
+      "show_name": "Nature's Strangest Mysteries: Solved S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NSMSS",
+      "start_time": "15:37:00",
+      "end_time": "16:05:00",
+      "episode_number": "Eps -18"
+    },
+    {
+      "show_name": "Extinct Or Alive S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOAS",
+      "start_time": "16:05:00",
+      "end_time": "17:00:00",
+      "episode_number": "Eps -7"
+    },
+    {
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "episode_number": "Eps -1"
+    },
+    {
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "17:30:00",
+      "end_time": "18:00:00",
+      "episode_number": "Eps -2"
+    },
+    {
+      "show_name": "Animal Armory S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "episode_number": "Eps -5"
+    },
+    {
+      "show_name": "Wild Latam S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WLS",
+      "start_time": "19:00:00",
+      "end_time": "20:00:00",
+      "episode_number": "Eps -7"
+    },
+    {
+      "show_name": "Nature's Strangest Mysteries: Solved S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NSMSS",
+      "start_time": "20:00:00",
+      "end_time": "20:30:00",
       "episode_number": "Eps -19"
     },
     {
       "show_name": "Nature's Strangest Mysteries: Solved S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-a86db2fb23d0a14922fc55de6e82e5cd.svg",
-      "start_time": "12:52:00",
-      "end_time": "13:20:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NSMSS",
+      "start_time": "20:30:00",
+      "end_time": "21:00:00",
       "episode_number": "Eps -20"
     },
     {
-      "show_name": "Black Mako Of The Abyss",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-ab27149226f4065f43420dce91a64f29.svg",
-      "start_time": "13:20:00",
-      "end_time": "14:15:00",
-      "episode_number": "Eps -0"
+      "show_name": "Dinosaur With Stephen Fry S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DWSFS",
+      "start_time": "21:00:00",
+      "end_time": "22:00:00",
+      "episode_number": "Eps -3"
     },
     {
-      "show_name": "Air Jaws: The Hunt For Colossus",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-1a32c2b620ec7487797a90049ae44039.svg",
-      "start_time": "14:15:00",
-      "end_time": "15:10:00",
-      "episode_number": "Eps -0"
+      "show_name": "Life's Journey S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LJS",
+      "start_time": "22:00:00",
+      "end_time": "22:55:00",
+      "episode_number": "Eps -3"
     },
     {
-      "show_name": "Wild Latam S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-d6a956d467e6cc33fa7cc3383a7e9552.svg",
-      "start_time": "15:10:00",
-      "end_time": "16:05:00",
-      "episode_number": "Eps -7"
-    },
-    {
-      "show_name": "Super Animals S2",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-9c4e6134ed16d0f7a627ccc895307e22.svg",
-      "start_time": "16:05:00",
-      "end_time": "16:32:00",
-      "episode_number": "Eps -6"
-    },
-    {
-      "show_name": "Super Animals S2",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-9c4e6134ed16d0f7a627ccc895307e22.svg",
-      "start_time": "16:32:00",
-      "end_time": "17:00:00",
-      "episode_number": "Eps -5"
-    },
-    {
-      "show_name": "Extinct Or Alive S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-e2eee5441fb25769477d1feb434b575a.svg",
-      "start_time": "17:00:00",
-      "end_time": "18:00:00",
-      "episode_number": "Eps -8"
-    },
-    {
-      "show_name": "Hot Life Africa S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-57f2d8f5c14170be37dedd2d6fdc2cd1.svg",
-      "start_time": "18:00:00",
-      "end_time": "19:00:00",
-      "episode_number": "Eps -2"
-    },
-    {
-      "show_name": "China's Wild Secrets S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-ae0fee3a40d5454f9bffadc96a76dafb.svg",
-      "start_time": "19:00:00",
-      "end_time": "20:00:00",
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "22:55:00",
+      "end_time": "23:22:00",
       "episode_number": "Eps -1"
     },
     {
-      "show_name": "Wild Fighters S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-58b82c56641f55b522f3b4796a0b92be.svg",
-      "start_time": "20:00:00",
-      "end_time": "21:00:00",
-      "episode_number": "Eps -6"
-    },
-    {
-      "show_name": "Black Mako Of The Abyss",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-ab27149226f4065f43420dce91a64f29.svg",
-      "start_time": "21:00:00",
-      "end_time": "22:00:00",
-      "episode_number": "Eps -0"
-    },
-    {
-      "show_name": "Louisiana Law S2",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-8ca097c8b6e4f816ae6dcb53916f9a3c.svg",
-      "start_time": "22:00:00",
-      "end_time": "22:55:00",
+      "show_name": "How Do Animals Do That? S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDADT",
+      "start_time": "23:22:00",
+      "end_time": "23:50:00",
       "episode_number": "Eps -2"
     },
     {
-      "show_name": "Extinct Or Alive S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-e2eee5441fb25769477d1feb434b575a.svg",
-      "start_time": "22:55:00",
-      "end_time": "23:50:00",
-      "episode_number": "Eps -8"
-    },
-    {
-      "show_name": "Hot Life Africa S1",
-      "show_logo": "https://example.com/wp-content/uploads/downloaded-images/animal-planet/today/logo-57f2d8f5c14170be37dedd2d6fdc2cd1.svg",
+      "show_name": "Wild Latam S1",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WLS",
       "start_time": "23:50:00",
       "end_time": "00:45:00",
-      "episode_number": "Eps -2"
+      "episode_number": "Eps -7"
     }
   ]
 }
