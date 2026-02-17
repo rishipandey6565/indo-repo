@@ -1,82 +1,89 @@
 {
   "channel_name": "ANTV",
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "programs": [
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Bangkok Police Woman",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BPW",
       "start_time": "00:00:00",
-      "end_time": "02:30:00",
+      "end_time": "02:15:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
-      "start_time": "02:30:00",
-      "end_time": "05:00:00",
+      "show_name": "Serie A Liga Italia",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SALI",
+      "start_time": "02:15:00",
+      "end_time": "04:45:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
-      "start_time": "05:00:00",
+      "show_name": "Tawa Kalcer",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TK",
+      "start_time": "04:45:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Baalveer Returns",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
       "start_time": "06:30:00",
       "end_time": "07:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Janji Inspektur Virat",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JIV",
       "start_time": "07:30:00",
       "end_time": "09:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Mujhse Dosti Karoge",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDK",
       "start_time": "09:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Jhanak",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
       "start_time": "13:00:00",
       "end_time": "15:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Vasudha",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
       "start_time": "15:30:00",
+      "end_time": "18:10:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Sepiring Berduet",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SB",
+      "start_time": "18:10:00",
       "end_time": "18:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Bajing Ireng & Jaka Sembung",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BI&JS",
       "start_time": "18:30:00",
       "end_time": "20:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
+      "show_name": "Malin Kundang",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MK",
       "start_time": "20:30:00",
-      "end_time": "22:00:00",
+      "end_time": "22:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "ANTV",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/logo.svg",
-      "start_time": "22:00:00",
-      "end_time": "00:00:00",
+      "show_name": "Masuk Kena Keluar Kena",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKKK",
+      "start_time": "22:30:00",
+      "end_time": "00:30:00",
       "episode_number": ""
     }
   ]
