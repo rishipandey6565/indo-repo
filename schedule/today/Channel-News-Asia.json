@@ -1,199 +1,164 @@
 {
   "channel_name": "Channel News Asia",
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "programs": [
     {
       "show_name": "A.I. Isn't",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AI.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
+      "episode_number": "E2"
+    },
+    {
+      "show_name": "Singapore Tonight",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+      "start_time": "01:00:00",
+      "end_time": "02:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "A.I. Isn't",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+      "start_time": "02:00:00",
+      "end_time": "03:00:00",
       "episode_number": "E1"
     },
     {
-      "show_name": "Singapore Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/ST.svg",
-      "start_time": "01:00:00",
-      "end_time": "01:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Hobsessions",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/H.svg",
-      "start_time": "01:30:00",
-      "end_time": "02:00:00",
-      "episode_number": "E4"
-    },
-    {
-      "show_name": "Love Auditors",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/LA.svg",
-      "start_time": "02:00:00",
-      "end_time": "03:00:00",
-      "episode_number": ""
-    },
-    {
       "show_name": "Asia Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AT.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
       "start_time": "03:00:00",
-      "end_time": "03:30:00",
+      "end_time": "04:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Hobsessions",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/H.svg",
-      "start_time": "03:30:00",
-      "end_time": "04:00:00",
-      "episode_number": "E5"
-    },
-    {
-      "show_name": "Remarkable Living",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/RL.svg",
+      "show_name": "Insight",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
       "start_time": "04:00:00",
-      "end_time": "04:30:00",
-      "episode_number": "S6 E4"
-    },
-    {
-      "show_name": "CNA Correspondent",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/CC.svg",
-      "start_time": "04:30:00",
       "end_time": "05:00:00",
-      "episode_number": "E36"
+      "episode_number": "E39"
     },
     {
       "show_name": "Singapore Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/ST.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
       "start_time": "05:00:00",
-      "end_time": "05:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Salt Of The Earth",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/SOTE.svg",
-      "start_time": "05:30:00",
       "end_time": "06:00:00",
-      "episode_number": "E5"
+      "episode_number": ""
     },
     {
       "show_name": "Asia First",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AF.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AF",
       "start_time": "06:00:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
       "show_name": "CNA Summit 2026: Smart Growth",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/CS2SG.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS2SG",
       "start_time": "09:00:00",
       "end_time": "10:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Asia Now",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AN.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
       "start_time": "10:00:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "On The Red Dot",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/OTRD.svg",
+      "show_name": "Science Of Ageing Well",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOAW",
       "start_time": "12:00:00",
+      "end_time": "12:30:00",
+      "episode_number": "E3"
+    },
+    {
+      "show_name": "Market Insights",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+      "start_time": "12:30:00",
       "end_time": "13:00:00",
-      "episode_number": "E37"
+      "episode_number": ""
     },
     {
       "show_name": "Asia Now",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AN.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
       "start_time": "13:00:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Singapore Hour",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/SH.svg",
+      "show_name": "Talking Point",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
       "start_time": "15:00:00",
       "end_time": "16:00:00",
-      "episode_number": "E33"
+      "episode_number": "E14"
     },
     {
       "show_name": "Headline News",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/HN.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
       "start_time": "16:00:00",
       "end_time": "16:02:00",
       "episode_number": ""
     },
     {
       "show_name": "CNA Summit 2026: Smart Growth",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/CS2SG.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS2SG",
       "start_time": "16:02:00",
       "end_time": "17:00:00",
       "episode_number": ""
     },
     {
       "show_name": "East Asia Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/EAT.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
       "start_time": "17:00:00",
       "end_time": "18:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Science Of Ageing Well",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/SOAW.svg",
+      "show_name": "A.I. Isn't",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
       "start_time": "18:00:00",
-      "end_time": "18:30:00",
+      "end_time": "19:00:00",
       "episode_number": "E3"
     },
     {
-      "show_name": "Market Insights",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/MI.svg",
-      "start_time": "18:30:00",
-      "end_time": "19:00:00",
-      "episode_number": ""
-    },
-    {
       "show_name": "Asia Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/AT.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
       "start_time": "19:00:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Insight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/I.svg",
+      "show_name": "Japan Hour",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JH",
       "start_time": "20:00:00",
       "end_time": "21:00:00",
-      "episode_number": "E39"
+      "episode_number": "E7"
     },
     {
       "show_name": "Singapore Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/ST.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
       "start_time": "21:00:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Science Of Ageing Well",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/SOAW.svg",
+      "show_name": "Singapore Hour",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
       "start_time": "22:00:00",
-      "end_time": "22:30:00",
-      "episode_number": "E3"
-    },
-    {
-      "show_name": "Market Insights",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/MI.svg",
-      "start_time": "22:30:00",
       "end_time": "23:00:00",
-      "episode_number": ""
+      "episode_number": "E34"
     },
     {
       "show_name": "Headline News",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/HN.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
       "start_time": "23:00:00",
       "end_time": "23:03:00",
       "episode_number": ""
     },
     {
       "show_name": "East Asia Tonight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/today/EAT.svg",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
       "start_time": "23:03:00",
       "end_time": "00:00:00",
       "episode_number": ""
