@@ -1,174 +1,181 @@
 {
   "channel_name": "BBC Earth",
-  "date": "2026-02-21",
+  "date": "2026-02-22",
   "programs": [
     {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
+      "show_name": "Secret Of Modern Life",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOML",
       "start_time": "00:00:00",
-      "end_time": "00:55:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Deadliest Weather",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DW.svg",
-      "start_time": "00:55:00",
-      "end_time": "01:55:00",
-      "episode_number": "S6 E10"
+      "end_time": "00:20:00",
+      "episode_number": "S2 E5"
     },
     {
       "show_name": "Wild Horses: Rockies & Me",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WHR.svg",
-      "start_time": "01:55:00",
-      "end_time": "03:00:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WHR&M",
+      "start_time": "00:20:00",
+      "end_time": "01:20:00",
       "episode_number": "E1"
     },
     {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
-      "start_time": "03:00:00",
-      "end_time": "04:00:00",
-      "episode_number": "S1 E6"
+      "show_name": "Engineering Repurposed",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "01:20:00",
+      "end_time": "02:10:00",
+      "episode_number": "E7"
     },
     {
-      "show_name": "Deadliest Weather",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DW.svg",
-      "start_time": "04:00:00",
-      "end_time": "05:00:00",
-      "episode_number": "S6 E10"
-    },
-    {
-      "show_name": "China Wild Guangdong",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/CWG.svg",
-      "start_time": "05:00:00",
-      "end_time": "06:00:00",
-      "episode_number": "S1 E1"
-    },
-    {
-      "show_name": "China Wild Guangdong",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/CWG.svg",
-      "start_time": "06:00:00",
-      "end_time": "07:00:00",
-      "episode_number": "S1 E2"
-    },
-    {
-      "show_name": "China Wild Guangdong",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/CWG.svg",
-      "start_time": "07:00:00",
-      "end_time": "07:55:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "Wild Horses: Rockies & Me",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WHR.svg",
-      "start_time": "07:55:00",
-      "end_time": "09:00:00",
-      "episode_number": "E1"
-    },
-    {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
-      "start_time": "09:00:00",
-      "end_time": "10:05:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
-      "start_time": "10:05:00",
-      "end_time": "11:10:00",
-      "episode_number": "S1 E4"
-    },
-    {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
-      "start_time": "11:10:00",
-      "end_time": "12:15:00",
-      "episode_number": "S1 E5"
-    },
-    {
-      "show_name": "The Great Wall",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGW.svg",
-      "start_time": "12:15:00",
-      "end_time": "13:20:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "13:20:00",
-      "end_time": "14:25:00",
-      "episode_number": "S1 E1"
-    },
-    {
-      "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "14:25:00",
-      "end_time": "15:30:00",
-      "episode_number": "S1 E2"
-    },
-    {
-      "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "15:30:00",
-      "end_time": "16:30:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "Wild Horses: Rockies & Me",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WHR.svg",
-      "start_time": "16:30:00",
-      "end_time": "17:35:00",
-      "episode_number": "E1"
+      "show_name": "Secret Of Modern Life",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOML",
+      "start_time": "02:10:00",
+      "end_time": "03:10:00",
+      "episode_number": "S2 E5"
     },
     {
       "show_name": "Wonders Of Human Body",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WOHB.svg",
-      "start_time": "17:35:00",
-      "end_time": "18:25:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOHB",
+      "start_time": "03:10:00",
+      "end_time": "04:05:00",
       "episode_number": "E3"
     },
     {
+      "show_name": "Engineering Repurposed",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "04:05:00",
+      "end_time": "05:00:00",
+      "episode_number": "E7"
+    },
+    {
       "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "18:25:00",
-      "end_time": "19:30:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "05:00:00",
+      "end_time": "06:05:00",
       "episode_number": "S1 E1"
     },
     {
       "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "19:30:00",
-      "end_time": "20:35:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "06:05:00",
+      "end_time": "07:10:00",
       "episode_number": "S1 E2"
     },
     {
       "show_name": "Deep Dive Korea",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DDK.svg",
-      "start_time": "20:35:00",
-      "end_time": "21:40:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "07:10:00",
+      "end_time": "08:10:00",
       "episode_number": "S1 E3"
     },
     {
       "show_name": "Engineering Repurposed",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/ER.svg",
-      "start_time": "21:40:00",
-      "end_time": "22:35:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "08:10:00",
+      "end_time": "09:00:00",
       "episode_number": "E7"
     },
     {
-      "show_name": "Wonders Of Human Body",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WOHB.svg",
-      "start_time": "22:35:00",
-      "end_time": "23:25:00",
-      "episode_number": "E3"
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "09:00:00",
+      "end_time": "10:05:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "10:05:00",
+      "end_time": "11:10:00",
+      "episode_number": "S1 E2"
+    },
+    {
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "11:10:00",
+      "end_time": "12:10:00",
+      "episode_number": "S1 E3"
+    },
+    {
+      "show_name": "Engineering Repurposed",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "12:10:00",
+      "end_time": "13:00:00",
+      "episode_number": "E7"
+    },
+    {
+      "show_name": "Adventures In Spain",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AIS",
+      "start_time": "13:00:00",
+      "end_time": "14:00:00",
+      "episode_number": "S1 E2"
+    },
+    {
+      "show_name": "Wild Horses: Rockies & Me",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WHR&M",
+      "start_time": "14:00:00",
+      "end_time": "15:05:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Engineering Repurposed",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "15:05:00",
+      "end_time": "15:55:00",
+      "episode_number": "E7"
+    },
+    {
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "15:55:00",
+      "end_time": "17:00:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "17:00:00",
+      "end_time": "18:00:00",
+      "episode_number": "S1 E2"
+    },
+    {
+      "show_name": "Deep Dive Korea",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+      "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "episode_number": "S1 E3"
+    },
+    {
+      "show_name": "The Great Wall",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGW",
+      "start_time": "19:00:00",
+      "end_time": "20:00:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Great Indian Railway...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
+      "start_time": "20:00:00",
+      "end_time": "21:00:00",
+      "episode_number": "E1"
     },
     {
       "show_name": "Secret Of Modern Life",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/SOML.svg",
-      "start_time": "23:25:00",
-      "end_time": "00:20:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOML",
+      "start_time": "21:00:00",
+      "end_time": "22:00:00",
       "episode_number": "S2 E5"
+    },
+    {
+      "show_name": "Wild Horses: Rockies & Me",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WHR&M",
+      "start_time": "22:00:00",
+      "end_time": "23:05:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "The Great Wall",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGW",
+      "start_time": "23:05:00",
+      "end_time": "00:10:00",
+      "episode_number": "S1 E1"
     }
   ]
 }
