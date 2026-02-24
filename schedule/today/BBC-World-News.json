@@ -1,6 +1,6 @@
 {
   "channel_name": "BBC World News",
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "programs": [
     {
       "show_name": "Verified Live",
@@ -108,79 +108,9 @@
       "episode_number": ""
     },
     {
-      "show_name": "BBC News",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BN.svg",
+      "show_name": "President Trump's Address...",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/PTA.svg",
       "start_time": "08:00:00",
-      "end_time": "08:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Talking Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/TB.svg",
-      "start_time": "08:30:00",
-      "end_time": "09:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Newsday",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/N.svg",
-      "start_time": "09:00:00",
-      "end_time": "09:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Business Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BT.svg",
-      "start_time": "09:30:00",
-      "end_time": "09:45:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "BBC Sport",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BS.svg",
-      "start_time": "09:45:00",
-      "end_time": "10:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Newsday",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/N.svg",
-      "start_time": "10:00:00",
-      "end_time": "10:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Business Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BT.svg",
-      "start_time": "10:30:00",
-      "end_time": "10:45:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "BBC Sport",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BS.svg",
-      "start_time": "10:45:00",
-      "end_time": "11:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Newsday",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/N.svg",
-      "start_time": "11:00:00",
-      "end_time": "11:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Business Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BT.svg",
-      "start_time": "11:30:00",
-      "end_time": "11:45:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "BBC Sport",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BS.svg",
-      "start_time": "11:45:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
@@ -350,6 +280,27 @@
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/VL.svg",
       "start_time": "22:30:00",
       "end_time": "23:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Verified Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/VL.svg",
+      "start_time": "23:00:00",
+      "end_time": "23:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Business Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/BT.svg",
+      "start_time": "23:30:00",
+      "end_time": "23:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Verified Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-world-news/today/VL.svg",
+      "start_time": "23:45:00",
+      "end_time": "00:00:00",
       "episode_number": ""
     }
   ]

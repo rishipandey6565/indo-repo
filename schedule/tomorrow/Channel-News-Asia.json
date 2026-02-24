@@ -1,13 +1,13 @@
 {
   "channel_name": "Channel News Asia",
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "programs": [
     {
-      "show_name": "Love After 60",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/LA6.svg",
+      "show_name": "Besties",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/B.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
-      "episode_number": ""
+      "episode_number": "E1"
     },
     {
       "show_name": "Singapore Tonight",
@@ -17,11 +17,11 @@
       "episode_number": ""
     },
     {
-      "show_name": "Singapore Hour",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/SH.svg",
+      "show_name": "Love After 60",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/LA6.svg",
       "start_time": "02:00:00",
       "end_time": "03:00:00",
-      "episode_number": "E34"
+      "episode_number": ""
     },
     {
       "show_name": "Asia Tonight",
@@ -31,11 +31,18 @@
       "episode_number": ""
     },
     {
-      "show_name": "Who's Driving Now?",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/WDN.svg",
+      "show_name": "Money Mind",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/MM.svg",
       "start_time": "04:00:00",
+      "end_time": "04:30:00",
+      "episode_number": "E40"
+    },
+    {
+      "show_name": "CNA Correspondent",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/CC.svg",
+      "start_time": "04:30:00",
       "end_time": "05:00:00",
-      "episode_number": "E2"
+      "episode_number": "E37"
     },
     {
       "show_name": "Singapore Tonight",
@@ -52,11 +59,18 @@
       "episode_number": ""
     },
     {
-      "show_name": "Who's Driving Now?",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/WDN.svg",
+      "show_name": "Money Mind",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/MM.svg",
       "start_time": "09:00:00",
+      "end_time": "09:30:00",
+      "episode_number": "E40"
+    },
+    {
+      "show_name": "CNA Correspondent",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/CC.svg",
+      "start_time": "09:30:00",
       "end_time": "10:00:00",
-      "episode_number": "E2"
+      "episode_number": "E37"
     },
     {
       "show_name": "Asia Now",
@@ -70,7 +84,7 @@
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/WDN.svg",
       "start_time": "12:00:00",
       "end_time": "13:00:00",
-      "episode_number": "E1"
+      "episode_number": "E2"
     },
     {
       "show_name": "Asia Now",
@@ -80,11 +94,11 @@
       "episode_number": ""
     },
     {
-      "show_name": "Insight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/I.svg",
+      "show_name": "Singapore Hour",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/SH.svg",
       "start_time": "15:00:00",
       "end_time": "16:00:00",
-      "episode_number": "E39"
+      "episode_number": "E34"
     },
     {
       "show_name": "Headline News",
@@ -94,11 +108,11 @@
       "episode_number": ""
     },
     {
-      "show_name": "Love After 60",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/LA6.svg",
+      "show_name": "Besties",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/B.svg",
       "start_time": "16:02:00",
       "end_time": "17:00:00",
-      "episode_number": ""
+      "episode_number": "E1"
     },
     {
       "show_name": "East Asia Tonight",
@@ -112,7 +126,7 @@
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/B.svg",
       "start_time": "18:00:00",
       "end_time": "19:00:00",
-      "episode_number": "E1"
+      "episode_number": "E2"
     },
     {
       "show_name": "Asia Tonight",
@@ -122,18 +136,11 @@
       "episode_number": ""
     },
     {
-      "show_name": "Money Mind",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/MM.svg",
+      "show_name": "Insight",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/I.svg",
       "start_time": "20:00:00",
-      "end_time": "20:30:00",
-      "episode_number": "E40"
-    },
-    {
-      "show_name": "CNA Correspondent",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/CC.svg",
-      "start_time": "20:30:00",
       "end_time": "21:00:00",
-      "episode_number": "E37"
+      "episode_number": "E40"
     },
     {
       "show_name": "Singapore Tonight",
@@ -143,11 +150,18 @@
       "episode_number": ""
     },
     {
-      "show_name": "Who's Driving Now?",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/WDN.svg",
+      "show_name": "Money Mind",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/MM.svg",
       "start_time": "22:00:00",
+      "end_time": "22:30:00",
+      "episode_number": "E40"
+    },
+    {
+      "show_name": "CNA Correspondent",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/channel-news-asia/tomorrow/CC.svg",
+      "start_time": "22:30:00",
       "end_time": "23:00:00",
-      "episode_number": "E2"
+      "episode_number": "E37"
     },
     {
       "show_name": "Headline News",
