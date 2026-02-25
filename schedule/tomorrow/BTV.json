@@ -1,6 +1,6 @@
 {
   "channel_name": "BTV",
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "programs": [
     {
       "show_name": "ONE Vault",
@@ -24,8 +24,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
+      "show_name": "Jalan Dakwah Ramadan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
       "start_time": "02:30:00",
       "end_time": "04:00:00",
       "episode_number": ""
@@ -34,13 +34,13 @@
       "show_name": "Sejarah Islam",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SI.svg",
       "start_time": "04:00:00",
-      "end_time": "04:30:00",
+      "end_time": "04:29:00",
       "episode_number": ""
     },
     {
       "show_name": "Berita Satu Pagi",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSP.svg",
-      "start_time": "04:30:00",
+      "start_time": "04:29:00",
       "end_time": "04:42:00",
       "episode_number": ""
     },
@@ -129,8 +129,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Update Cerita IDN",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IUCI.svg",
+      "show_name": "Indonesia Update Dari Nol",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IUDN.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -178,22 +178,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Terkini",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BST.svg",
-      "start_time": "16:00:00",
-      "end_time": "16:05:00",
-      "episode_number": ""
-    },
-    {
       "show_name": "Berita Satu Sore",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSS.svg",
-      "start_time": "16:05:00",
+      "start_time": "16:00:00",
       "end_time": "17:04:00",
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
+      "show_name": "Jalan Dakwah Ramadan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
       "start_time": "17:04:00",
       "end_time": "18:03:00",
       "episode_number": ""

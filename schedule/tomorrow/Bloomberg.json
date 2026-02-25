@@ -1,10 +1,10 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "programs": [
     {
-      "show_name": "Bloomberg Deals",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BD.svg",
+      "show_name": "Bloomberg Markets",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BM.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
@@ -41,6 +41,13 @@
       "show_name": "Bloomberg: The Asia Trade",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTAT.svg",
       "start_time": "06:00:00",
+      "end_time": "07:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Tech: Asia",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTA.svg",
+      "start_time": "07:30:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
@@ -94,23 +101,9 @@
       "episode_number": ""
     },
     {
-      "show_name": "The David Rubenstein Show",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TDRS.svg",
-      "start_time": "18:00:00",
-      "end_time": "18:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Bloomberg Next Africa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BNA.svg",
-      "start_time": "18:30:00",
-      "end_time": "19:00:00",
-      "episode_number": ""
-    },
-    {
       "show_name": "Bloomberg Surveillance",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BS.svg",
-      "start_time": "19:00:00",
+      "start_time": "18:00:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
@@ -122,8 +115,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Tech",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BT.svg",
+      "show_name": "Bloomberg...: European Close",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BEC.svg",
       "start_time": "23:00:00",
       "end_time": "00:00:00",
       "episode_number": ""

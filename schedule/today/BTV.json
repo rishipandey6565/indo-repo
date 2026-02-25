@@ -1,6 +1,6 @@
 {
   "channel_name": "BTV",
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "programs": [
     {
       "show_name": "ONE Vault",
@@ -129,8 +129,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Update Cerita Jakarta",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/IUCJ.svg",
+      "show_name": "Indonesia Update Cerita IDN",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/IUCI.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -178,9 +178,16 @@
       "episode_number": ""
     },
     {
+      "show_name": "Berita Satu Terkini",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BST.svg",
+      "start_time": "16:00:00",
+      "end_time": "16:05:00",
+      "episode_number": ""
+    },
+    {
       "show_name": "Berita Satu Sore",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BSS.svg",
-      "start_time": "16:00:00",
+      "start_time": "16:05:00",
       "end_time": "17:04:00",
       "episode_number": ""
     },
@@ -188,41 +195,41 @@
       "show_name": "Jalan Dakwah",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/JD.svg",
       "start_time": "17:04:00",
-      "end_time": "18:04:00",
+      "end_time": "18:03:00",
       "episode_number": ""
     },
     {
       "show_name": "Kultum",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/K.svg",
-      "start_time": "18:04:00",
-      "end_time": "18:11:00",
+      "start_time": "18:03:00",
+      "end_time": "18:10:00",
       "episode_number": ""
     },
     {
       "show_name": "Menantikan Azan Magrib",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/MAM.svg",
-      "start_time": "18:11:00",
-      "end_time": "18:16:00",
+      "start_time": "18:10:00",
+      "end_time": "18:15:00",
       "episode_number": ""
     },
     {
       "show_name": "Azan Magrib",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/AM.svg",
-      "start_time": "18:16:00",
-      "end_time": "18:21:00",
+      "start_time": "18:15:00",
+      "end_time": "18:19:00",
       "episode_number": ""
     },
     {
       "show_name": "Selamat Berbuka Puasa",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/SBP.svg",
-      "start_time": "18:21:00",
-      "end_time": "18:26:00",
+      "start_time": "18:19:00",
+      "end_time": "18:24:00",
       "episode_number": ""
     },
     {
       "show_name": "Berita Satu Utama",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BSU.svg",
-      "start_time": "18:26:00",
+      "start_time": "18:24:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },

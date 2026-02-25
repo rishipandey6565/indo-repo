@@ -1,18 +1,11 @@
 {
   "channel_name": "AllPlay Ent",
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "programs": [
     {
-      "show_name": "Pancaran Sinar Petromak",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/PSP.svg",
+      "show_name": "Negeri Van Oranje",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/NVO.svg",
       "start_time": "00:00:00",
-      "end_time": "01:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Little Rebels Cinema Club",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
-      "start_time": "01:30:00",
       "end_time": "01:45:00",
       "episode_number": ""
     },
@@ -38,8 +31,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Final Draft",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FD.svg",
+      "show_name": "Little Rebels Cinema Club",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
       "start_time": "04:15:00",
       "end_time": "04:30:00",
       "episode_number": ""
@@ -52,15 +45,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Dalam 15 Menit",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/ID1M.svg",
+      "show_name": "Kisah Para Nabi",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/KPN.svg",
       "start_time": "04:45:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Lelah Menjadi Lillah",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LML.svg",
+      "show_name": "Ini Dia",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/ID.svg",
       "start_time": "05:00:00",
       "end_time": "05:30:00",
       "episode_number": ""
@@ -83,6 +76,13 @@
       "show_name": "Apose S2",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/AS.svg",
       "start_time": "07:00:00",
+      "end_time": "07:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Film Wajib Tonton Sebelum Mati",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FWTSM.svg",
+      "start_time": "07:45:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
@@ -101,8 +101,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Arisan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A.svg",
+      "show_name": "Lapor Pak",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LP.svg",
       "start_time": "10:00:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -122,8 +122,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Film Wajib Tonton Sebelum Mati",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FWTSM.svg",
+      "show_name": "Final Draft",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FD.svg",
       "start_time": "12:45:00",
       "end_time": "13:00:00",
       "episode_number": ""
@@ -136,16 +136,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "Ngenest",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/N.svg",
+      "show_name": "Negeri Van Oranje",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/NVO.svg",
       "start_time": "14:00:00",
-      "end_time": "15:30:00",
+      "end_time": "15:45:00",
       "episode_number": ""
     },
     {
       "show_name": "Dia Angkasa",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/DA.svg",
-      "start_time": "15:30:00",
+      "start_time": "15:45:00",
       "end_time": "16:30:00",
       "episode_number": ""
     },
@@ -213,16 +213,30 @@
       "episode_number": ""
     },
     {
-      "show_name": "Sepatu Dahlan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/SD.svg",
+      "show_name": "Negeri Van Oranje",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/NVO.svg",
       "start_time": "21:00:00",
       "end_time": "22:45:00",
       "episode_number": ""
     },
     {
-      "show_name": "Dapil Komeng",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/DK.svg",
+      "show_name": "Agent 0812",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A0.svg",
       "start_time": "22:45:00",
+      "end_time": "23:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Little Rebels Cinema Club",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
+      "start_time": "23:30:00",
+      "end_time": "23:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "CLBK The Series",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/CTS.svg",
+      "start_time": "23:45:00",
       "end_time": "00:00:00",
       "episode_number": ""
     }

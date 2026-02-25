@@ -1,10 +1,10 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "programs": [
     {
-      "show_name": "Bloomberg Crypto",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BC.svg",
+      "show_name": "Bloomberg Deals",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BD.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
@@ -45,16 +45,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "State Of The Union",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/SOTU.svg",
+      "show_name": "Bloomberg: The China Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BTCS.svg",
       "start_time": "08:00:00",
-      "end_time": "11:00:00",
+      "end_time": "10:00:00",
       "episode_number": ""
     },
     {
       "show_name": "Insight With Haslinda Amin",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/IWHA.svg",
-      "start_time": "11:00:00",
+      "start_time": "10:00:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
@@ -94,9 +94,23 @@
       "episode_number": ""
     },
     {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/TDRS.svg",
+      "start_time": "18:00:00",
+      "end_time": "18:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Next Africa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BNA.svg",
+      "start_time": "18:30:00",
+      "end_time": "19:00:00",
+      "episode_number": ""
+    },
+    {
       "show_name": "Bloomberg Surveillance",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BS.svg",
-      "start_time": "18:00:00",
+      "start_time": "19:00:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
