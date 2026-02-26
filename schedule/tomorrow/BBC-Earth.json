@@ -1,202 +1,209 @@
 {
   "channel_name": "BBC Earth",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
-      "show_name": "Most Amazing Walks",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/MAW.svg",
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
       "start_time": "00:00:00",
-      "end_time": "00:25:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Australia's Sleep...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/AS.svg",
-      "start_time": "00:25:00",
-      "end_time": "01:25:00",
-      "episode_number": "S1 E1"
-    },
-    {
-      "show_name": "Extreme Fisherman",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/EF.svg",
-      "start_time": "01:25:00",
-      "end_time": "02:15:00",
-      "episode_number": "S1 E4"
-    },
-    {
-      "show_name": "Great Indian Railway...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GIR.svg",
-      "start_time": "02:15:00",
-      "end_time": "03:10:00",
-      "episode_number": "E1"
-    },
-    {
-      "show_name": "Most Amazing Walks",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/MAW.svg",
-      "start_time": "03:10:00",
-      "end_time": "04:00:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Australia's Sleep...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/AS.svg",
-      "start_time": "04:00:00",
-      "end_time": "05:00:00",
-      "episode_number": "S1 E1"
-    },
-    {
-      "show_name": "Great Indian Railway...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GIR.svg",
-      "start_time": "05:00:00",
-      "end_time": "06:00:00",
-      "episode_number": "E1"
-    },
-    {
-      "show_name": "Where Wild Men Are",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WWMA.svg",
-      "start_time": "06:00:00",
-      "end_time": "06:55:00",
-      "episode_number": "S10 E2"
-    },
-    {
-      "show_name": "Extreme Fisherman",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/EF.svg",
-      "start_time": "06:55:00",
-      "end_time": "07:50:00",
-      "episode_number": "S1 E4"
-    },
-    {
-      "show_name": "Most Amazing Walks",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/MAW.svg",
-      "start_time": "07:50:00",
-      "end_time": "08:40:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Great Indian Railway...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GIR.svg",
-      "start_time": "08:40:00",
-      "end_time": "09:40:00",
-      "episode_number": "E1"
-    },
-    {
-      "show_name": "Adventures In Spain",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/AIS.svg",
-      "start_time": "09:40:00",
-      "end_time": "10:40:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "Most Amazing Walks",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/MAW.svg",
-      "start_time": "10:40:00",
-      "end_time": "11:30:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "The Green Planet",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TGP.svg",
-      "start_time": "11:30:00",
-      "end_time": "12:30:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "Where Wild Men Are",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/WWMA.svg",
-      "start_time": "12:30:00",
-      "end_time": "13:25:00",
-      "episode_number": "S10 E2"
-    },
-    {
-      "show_name": "Great Indian Railway...",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GIR.svg",
-      "start_time": "13:25:00",
-      "end_time": "14:25:00",
-      "episode_number": "E1"
-    },
-    {
-      "show_name": "Engineering Repurposed",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/ER.svg",
-      "start_time": "14:25:00",
-      "end_time": "15:20:00",
-      "episode_number": "E8"
-    },
-    {
-      "show_name": "Extreme Fisherman",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/EF.svg",
-      "start_time": "15:20:00",
-      "end_time": "16:15:00",
-      "episode_number": "S1 E4"
-    },
-    {
-      "show_name": "Adventures In Spain",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/AIS.svg",
-      "start_time": "16:15:00",
-      "end_time": "17:20:00",
-      "episode_number": "S1 E3"
-    },
-    {
-      "show_name": "Most Amazing Walks",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/MAW.svg",
-      "start_time": "17:20:00",
-      "end_time": "18:10:00",
-      "episode_number": "S1 E6"
-    },
-    {
-      "show_name": "Extreme Fisherman",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/EF.svg",
-      "start_time": "18:10:00",
-      "end_time": "19:00:00",
-      "episode_number": "S1 E5"
-    },
-    {
-      "show_name": "The Future Of Nature",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TFON.svg",
-      "start_time": "19:00:00",
-      "end_time": "20:00:00",
-      "episode_number": "S1 E1"
-    },
-    {
-      "show_name": "Greatest Train Journeys",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GTJ.svg",
-      "start_time": "20:00:00",
-      "end_time": "20:30:00",
+      "end_time": "00:20:00",
       "episode_number": "E1"
     },
     {
       "show_name": "Greatest Train Journeys",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GTJ.svg",
-      "start_time": "20:30:00",
-      "end_time": "21:00:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "00:20:00",
+      "end_time": "00:50:00",
       "episode_number": "E2"
     },
     {
       "show_name": "Deadliest Weather",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/DW.svg",
-      "start_time": "21:00:00",
-      "end_time": "22:00:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+      "start_time": "00:50:00",
+      "end_time": "01:50:00",
       "episode_number": "S6 E11"
     },
     {
-      "show_name": "Extreme Fisherman",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/EF.svg",
-      "start_time": "22:00:00",
-      "end_time": "22:50:00",
-      "episode_number": "S1 E5"
-    },
-    {
       "show_name": "The Future Of Nature",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/TFON.svg",
-      "start_time": "22:50:00",
-      "end_time": "23:50:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+      "start_time": "01:50:00",
+      "end_time": "02:50:00",
       "episode_number": "S1 E1"
     },
     {
       "show_name": "Greatest Train Journeys",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bbc-earth/tomorrow/GTJ.svg",
-      "start_time": "23:50:00",
-      "end_time": "00:20:00",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "02:50:00",
+      "end_time": "03:25:00",
       "episode_number": "E1"
+    },
+    {
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "03:25:00",
+      "end_time": "04:00:00",
+      "episode_number": "E2"
+    },
+    {
+      "show_name": "Deadliest Weather",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+      "start_time": "04:00:00",
+      "end_time": "05:00:00",
+      "episode_number": "S6 E11"
+    },
+    {
+      "show_name": "Zoo Quest In Colour",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZQIC",
+      "start_time": "05:00:00",
+      "end_time": "06:00:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "The Future Of Nature",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+      "start_time": "06:00:00",
+      "end_time": "07:00:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Great Indian Railway...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
+      "start_time": "07:00:00",
+      "end_time": "08:00:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Most Amazing Walks",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAW",
+      "start_time": "08:00:00",
+      "end_time": "08:50:00",
+      "episode_number": "S1 E6"
+    },
+    {
+      "show_name": "Portillo's Andalucia",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+      "start_time": "08:50:00",
+      "end_time": "09:40:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Zoo Quest In Colour",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZQIC",
+      "start_time": "09:40:00",
+      "end_time": "10:40:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "The Future Of Nature",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+      "start_time": "10:40:00",
+      "end_time": "11:40:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Most Amazing Walks",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAW",
+      "start_time": "11:40:00",
+      "end_time": "12:30:00",
+      "episode_number": "S1 E6"
+    },
+    {
+      "show_name": "Great Indian Railway...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
+      "start_time": "12:30:00",
+      "end_time": "13:30:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "13:30:00",
+      "end_time": "14:00:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "episode_number": "E2"
+    },
+    {
+      "show_name": "The Future Of Nature",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+      "start_time": "14:30:00",
+      "end_time": "15:30:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Big Little Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLJ",
+      "start_time": "15:30:00",
+      "end_time": "16:35:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Great Indian Railway...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
+      "start_time": "16:35:00",
+      "end_time": "17:35:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Australia's Sleep...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+      "start_time": "17:35:00",
+      "end_time": "18:35:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "The Future Of Nature",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+      "start_time": "18:35:00",
+      "end_time": "19:35:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "19:35:00",
+      "end_time": "20:05:00",
+      "episode_number": "E1"
+    },
+    {
+      "show_name": "Greatest Train Journeys",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
+      "start_time": "20:05:00",
+      "end_time": "20:35:00",
+      "episode_number": "E2"
+    },
+    {
+      "show_name": "Engineering Repurposed",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
+      "start_time": "20:35:00",
+      "end_time": "21:30:00",
+      "episode_number": "E8"
+    },
+    {
+      "show_name": "Australia's Sleep...",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+      "start_time": "21:30:00",
+      "end_time": "22:30:00",
+      "episode_number": "S1 E1"
+    },
+    {
+      "show_name": "Secret Of Modern Life",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOML",
+      "start_time": "22:30:00",
+      "end_time": "23:30:00",
+      "episode_number": "S2 E6"
+    },
+    {
+      "show_name": "Road Tripping",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RT",
+      "start_time": "23:30:00",
+      "end_time": "00:30:00",
+      "episode_number": "S1 E1"
     }
   ]
 }

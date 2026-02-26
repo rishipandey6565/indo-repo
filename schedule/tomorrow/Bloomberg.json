@@ -1,123 +1,263 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
-      "show_name": "Bloomberg Markets",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BM.svg",
+      "show_name": "Bloomberg: Balance Of Power",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBOP",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg: Balance Of Power",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BBOP.svg",
+      "show_name": "Bloomberg Real Yield",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRY",
       "start_time": "01:00:00",
+      "end_time": "01:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Markets",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM",
+      "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg BusinessWeek Daily",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BBD.svg",
+      "show_name": "Bloomberg Markets: The Close",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMTC",
       "start_time": "02:00:00",
-      "end_time": "03:00:00",
+      "end_time": "04:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg The Close",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTC.svg",
-      "start_time": "03:00:00",
+      "show_name": "Bloomberg...: What'd You Miss?",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWYM",
+      "start_time": "04:30:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg: Balance Of Power",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BBOP.svg",
+      "show_name": "Bloomberg Technology",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BT",
       "start_time": "05:00:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg: The Asia Trade",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTAT.svg",
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
       "start_time": "06:00:00",
+      "end_time": "07:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "07:00:00",
       "end_time": "07:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Tech: Asia",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTA.svg",
+      "show_name": "Athlete Empire: Alex Rodriguez",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AEAR",
       "start_time": "07:30:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg: The China Show",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTCS.svg",
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
       "start_time": "08:00:00",
+      "end_time": "08:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "08:30:00",
+      "end_time": "09:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
+      "start_time": "09:00:00",
+      "end_time": "09:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
+      "start_time": "09:30:00",
       "end_time": "10:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Insight With Haslinda Amin",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/IWHA.svg",
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
       "start_time": "10:00:00",
+      "end_time": "11:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "11:00:00",
+      "end_time": "11:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
+      "start_time": "11:30:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Horizons",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BH.svg",
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
       "start_time": "12:00:00",
+      "end_time": "12:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Wealth With David R.",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWWDR",
+      "start_time": "12:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Daybreak: Europe",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BDE.svg",
+      "show_name": "Bloomberg Wealth With David R.",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWWDR",
       "start_time": "13:00:00",
+      "end_time": "13:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Athlete Empire: Alex Rodriguez",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AEAR",
+      "start_time": "13:30:00",
       "end_time": "14:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg: The Opening Trade",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BTOT.svg",
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
       "start_time": "14:00:00",
+      "end_time": "14:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
+      "start_time": "14:30:00",
+      "end_time": "15:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+      "start_time": "15:00:00",
       "end_time": "16:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Pulse With Francine Lacqua",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TPWFL.svg",
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
       "start_time": "16:00:00",
+      "end_time": "16:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
+      "start_time": "16:30:00",
       "end_time": "17:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Brief",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BB.svg",
+      "show_name": "Bloomberg Wealth With David R.",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWWDR",
       "start_time": "17:00:00",
+      "end_time": "17:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "17:30:00",
       "end_time": "18:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Surveillance",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BS.svg",
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
       "start_time": "18:00:00",
+      "end_time": "19:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Green",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BG",
+      "start_time": "19:00:00",
+      "end_time": "19:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Athlete Empire: Alex Rodriguez",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AEAR",
+      "start_time": "19:30:00",
+      "end_time": "20:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "20:00:00",
+      "end_time": "20:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
+      "start_time": "20:30:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Open Interest",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BOI.svg",
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
       "start_time": "21:00:00",
+      "end_time": "21:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Wealth With David R.",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWWDR",
+      "start_time": "21:30:00",
+      "end_time": "22:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Wall Street Week",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+      "start_time": "22:00:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg...: European Close",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BEC.svg",
+      "show_name": "Bloomberg Studio 1.0",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
       "start_time": "23:00:00",
+      "end_time": "23:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Leaders With Lacqua",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+      "start_time": "23:30:00",
       "end_time": "00:00:00",
       "episode_number": ""
     }
