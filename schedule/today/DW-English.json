@@ -1,6 +1,6 @@
 {
   "channel_name": "DW English",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
       "show_name": "DW News",
@@ -10,15 +10,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Mapped Out",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MO.svg",
+      "show_name": "Interview: Holocaust Survivor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IHS.svg",
       "start_time": "00:15:00",
       "end_time": "00:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "DW News: Africa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DNA.svg",
+      "show_name": "Afrimaxx: Style, Spirit, And...",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/ASSA.svg",
       "start_time": "00:30:00",
       "end_time": "01:00:00",
       "episode_number": ""
@@ -31,8 +31,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Global Us: What Connects Us All",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/GUWCU.svg",
+      "show_name": "Don't Hold Back: Mommy Issues",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DHBMI.svg",
       "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
@@ -45,15 +45,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Made In Germany: Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MIGB.svg",
+      "show_name": "Focus On Europe: Spotlight",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/FOES.svg",
       "start_time": "02:02:00",
       "end_time": "02:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "To The Point: Int'l Debate",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TTPID.svg",
+      "show_name": "Eco Africa: Clean Energy",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/EACE.svg",
       "start_time": "02:30:00",
       "end_time": "03:00:00",
       "episode_number": ""
@@ -80,8 +80,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Mapped Out",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MO.svg",
+      "show_name": "Interview: Holocaust Survivor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IHS.svg",
       "start_time": "04:02:00",
       "end_time": "04:15:00",
       "episode_number": ""
@@ -108,8 +108,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "To The Point: Int'l Debate",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TTPID.svg",
+      "show_name": "Eco India: Greener World",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/EIGW.svg",
       "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
@@ -122,15 +122,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Mapped Out",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MO.svg",
+      "show_name": "Interview: Holocaust Survivor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IHS.svg",
       "start_time": "06:15:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Best Of DW Podcasts",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/BODP.svg",
+      "show_name": "DW News: Africa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DNA.svg",
       "start_time": "06:30:00",
       "end_time": "07:00:00",
       "episode_number": ""
@@ -150,8 +150,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "To The Point: Int'l Debate",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TTPID.svg",
+      "show_name": "REV: Auto & Mobility Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/RA.svg",
       "start_time": "07:30:00",
       "end_time": "08:00:00",
       "episode_number": ""
@@ -164,9 +164,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "DocFilm",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
+      "show_name": "The Dip",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TD.svg",
       "start_time": "08:15:00",
+      "end_time": "08:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Tomorrow Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TT.svg",
+      "start_time": "08:30:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
@@ -178,16 +185,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Day: News In Review",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TDNIR.svg",
+      "show_name": "Shift: Living In Digital Age",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/SLIDA.svg",
       "start_time": "09:02:00",
-      "end_time": "09:30:00",
+      "end_time": "09:15:00",
       "episode_number": ""
     },
     {
-      "show_name": "Focus On Europe: Spotlight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/FOES.svg",
-      "start_time": "09:30:00",
+      "show_name": "DocFilm",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
+      "start_time": "09:15:00",
       "end_time": "10:00:00",
       "episode_number": ""
     },
@@ -199,15 +206,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Mapped Out",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MO.svg",
+      "show_name": "Interview: Holocaust Survivor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IHS.svg",
       "start_time": "10:15:00",
       "end_time": "10:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Made In Germany: Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MIGB.svg",
+      "show_name": "To The Point: Int'l Debate",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TTPID.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -220,9 +227,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "DocFilm",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
+      "show_name": "Shift: Living In Digital Age",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/SLIDA.svg",
       "start_time": "11:15:00",
+      "end_time": "11:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Euromaxx: Lifestyle Europe",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/ELE.svg",
+      "start_time": "11:30:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
@@ -234,15 +248,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Day: News In Review",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TDNIR.svg",
+      "show_name": "Arts Unveiled: Experiencing...",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/AUE.svg",
       "start_time": "12:02:00",
       "end_time": "12:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "DW News: Africa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DNA.svg",
+      "show_name": "The 77 Percent",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/T7P.svg",
       "start_time": "12:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
@@ -255,15 +269,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Mapped Out",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/MO.svg",
+      "show_name": "Interview: Holocaust Survivor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IHS.svg",
       "start_time": "13:15:00",
       "end_time": "13:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Best Of DW Podcasts",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/BODP.svg",
+      "show_name": "REV: Auto & Mobility Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/RA.svg",
       "start_time": "13:30:00",
       "end_time": "14:00:00",
       "episode_number": ""
@@ -276,9 +290,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "DocFilm",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
+      "show_name": "Sports Life: Sled Dog Culture",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/SLSDC.svg",
       "start_time": "14:15:00",
+      "end_time": "14:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Tomorrow Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/TT.svg",
+      "start_time": "14:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
@@ -290,16 +311,9 @@
       "episode_number": ""
     },
     {
-      "show_name": "HER: Women In Asia",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/HWIA.svg",
+      "show_name": "DocFilm",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
       "start_time": "15:15:00",
-      "end_time": "15:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "DW News: Africa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DNA.svg",
-      "start_time": "15:30:00",
       "end_time": "16:00:00",
       "episode_number": ""
     },
@@ -311,9 +325,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "DocFilm",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/D.svg",
+      "show_name": "Sports Life: Sled Dog Culture",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/SLSDC.svg",
       "start_time": "16:15:00",
+      "end_time": "16:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "In Good Shape: Warning Signs",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/IGSWS.svg",
+      "start_time": "16:30:00",
       "end_time": "17:00:00",
       "episode_number": ""
     },
@@ -325,31 +346,10 @@
       "episode_number": ""
     },
     {
-      "show_name": "HER: Women In Asia",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/HWIA.svg",
+      "show_name": "Shift: Living In Digital Age",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/SLIDA.svg",
       "start_time": "17:15:00",
       "end_time": "17:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Best Of DW Podcasts",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/BODP.svg",
-      "start_time": "17:30:00",
-      "end_time": "18:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "DW News",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/DN.svg",
-      "start_time": "18:00:00",
-      "end_time": "18:15:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Choices: Dare To Dream",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/dw-english/today/CDTD.svg",
-      "start_time": "18:15:00",
-      "end_time": "18:30:00",
       "episode_number": ""
     }
   ]

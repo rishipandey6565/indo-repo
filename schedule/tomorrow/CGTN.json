@@ -1,18 +1,32 @@
 {
   "channel_name": "CGTN",
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "programs": [
     {
       "show_name": "Africa Live",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/AL.svg",
       "start_time": "00:00:00",
+      "end_time": "00:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Talk Africa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
+      "start_time": "00:30:00",
       "end_time": "01:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Global Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/GB.svg",
+      "show_name": "Sports Scene",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/SS.svg",
       "start_time": "01:00:00",
+      "end_time": "01:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Biz Talk",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BT.svg",
+      "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
@@ -24,8 +38,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "World Insight With Tian Wei",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/WIWTW.svg",
+      "show_name": "Travelogue",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/T.svg",
       "start_time": "02:30:00",
       "end_time": "03:00:00",
       "episode_number": ""
@@ -38,65 +52,65 @@
       "episode_number": ""
     },
     {
-      "show_name": "Dialogue",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/D.svg",
+      "show_name": "The Agenda",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
       "start_time": "03:30:00",
       "end_time": "04:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Global Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/GB.svg",
+      "show_name": "The World Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
       "start_time": "04:00:00",
       "end_time": "04:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Point With Liu Xin",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TPWLX.svg",
+      "show_name": "Leaders Talk",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/LT.svg",
       "start_time": "04:30:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Americas Now",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/AN.svg",
+      "show_name": "Full Frame",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/FF.svg",
       "start_time": "05:00:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Heat",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TH.svg",
+      "show_name": "The World Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
       "start_time": "06:00:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "The World Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
+      "show_name": "Assignment Asia",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/AA.svg",
       "start_time": "06:30:00",
       "end_time": "07:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Global Business",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/GB.svg",
+      "show_name": "The World Today",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
       "start_time": "07:00:00",
+      "end_time": "07:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Agenda",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
+      "start_time": "07:30:00",
       "end_time": "08:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The World Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
+      "show_name": "Big Story",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BS.svg",
       "start_time": "08:00:00",
-      "end_time": "08:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "China 24",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/C2.svg",
-      "start_time": "08:30:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
@@ -108,8 +122,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "World Insight With Tian Wei",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/WIWTW.svg",
+      "show_name": "Inheritors",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/I.svg",
       "start_time": "09:30:00",
       "end_time": "10:00:00",
       "episode_number": ""
@@ -129,8 +143,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Travelogue",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/T.svg",
+      "show_name": "Leaders Talk",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/LT.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -143,8 +157,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Big Story",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BS.svg",
+      "show_name": "Full Frame",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/FF.svg",
       "start_time": "12:00:00",
       "end_time": "13:00:00",
       "episode_number": ""
@@ -157,8 +171,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Heat",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TH.svg",
+      "show_name": "Biz Talk",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BT.svg",
       "start_time": "13:30:00",
       "end_time": "14:00:00",
       "episode_number": ""
@@ -185,8 +199,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Biz Talk",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BT.svg",
+      "show_name": "Talk Africa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
       "start_time": "15:30:00",
       "end_time": "16:00:00",
       "episode_number": ""
@@ -199,8 +213,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Inheritors",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/I.svg",
+      "show_name": "Faces Of Africa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/FOA.svg",
       "start_time": "16:30:00",
       "end_time": "17:00:00",
       "episode_number": ""
@@ -220,16 +234,9 @@
       "episode_number": ""
     },
     {
-      "show_name": "Asia Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/AT.svg",
+      "show_name": "Zoom In",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/ZI.svg",
       "start_time": "18:00:00",
-      "end_time": "18:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Leaders Talk",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/LT.svg",
-      "start_time": "18:30:00",
       "end_time": "19:00:00",
       "episode_number": ""
     },
@@ -255,23 +262,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "Biz Talk",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BT.svg",
+      "show_name": "The Agenda",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
       "start_time": "20:30:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The World Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TWT.svg",
+      "show_name": "Big Story",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/BS.svg",
       "start_time": "21:00:00",
-      "end_time": "21:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Assignment Asia",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/AA.svg",
-      "start_time": "21:30:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
@@ -283,8 +283,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Inheritors",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/I.svg",
+      "show_name": "Travelogue",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/T.svg",
       "start_time": "22:30:00",
       "end_time": "23:00:00",
       "episode_number": ""
@@ -297,8 +297,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Agenda",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/TA.svg",
+      "show_name": "Razor",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cgtn/tomorrow/R.svg",
       "start_time": "23:30:00",
       "end_time": "00:00:00",
       "episode_number": ""

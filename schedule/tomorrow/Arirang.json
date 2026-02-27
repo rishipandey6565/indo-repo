@@ -1,53 +1,46 @@
 {
   "channel_name": "Arirang",
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "programs": [
     {
-      "show_name": "K-Culture Dive",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KD.svg",
+      "show_name": "Premium Collection",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PC.svg",
       "start_time": "00:00:00",
       "end_time": "00:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Within The Frame",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/WTF.svg",
+      "show_name": "Home To Table",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/HTT.svg",
       "start_time": "00:30:00",
       "end_time": "01:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Globalists",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/TG.svg",
+      "show_name": "Rewind It: I'm Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RIIL.svg",
       "start_time": "01:00:00",
       "end_time": "01:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "K-Culture Minutes: K-Now",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "show_name": "Art And The City",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/AATC.svg",
       "start_time": "01:30:00",
       "end_time": "01:50:00",
       "episode_number": ""
     },
     {
-      "show_name": "Exploring Korean Literature A",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/EKLA.svg",
+      "show_name": "Exploring Korean Literature B",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/EKLB.svg",
       "start_time": "01:50:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Drawing Diary",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DD.svg",
+      "show_name": "Arirang Special",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/AS.svg",
       "start_time": "02:00:00",
-      "end_time": "02:20:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Heritage Walks With Friend",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/HWWF.svg",
-      "start_time": "02:20:00",
       "end_time": "02:30:00",
       "episode_number": ""
     },
@@ -66,23 +59,30 @@
       "episode_number": ""
     },
     {
-      "show_name": "Press Perspective",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PP.svg",
+      "show_name": "K-Culture Minutes: K-Now",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
       "start_time": "04:00:00",
+      "end_time": "04:15:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "K-Culture Minutes: K-People",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "start_time": "04:15:00",
       "end_time": "04:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "RPG",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/R.svg",
+      "show_name": "K-Culture Minutes: K-Story",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
       "start_time": "04:30:00",
-      "end_time": "04:50:00",
+      "end_time": "04:45:00",
       "episode_number": ""
     },
     {
-      "show_name": "Exploring Korean Literature A",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/EKLA.svg",
-      "start_time": "04:50:00",
+      "show_name": "K-Culture Minutes: K-Stage",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "start_time": "04:45:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
@@ -94,8 +94,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "I'm Live",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/IL.svg",
+      "show_name": "Re: Space",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RS.svg",
       "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
@@ -108,8 +108,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Decoded: The AI Conversations",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DTAC.svg",
+      "show_name": "Premium Collection",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PC.svg",
       "start_time": "07:00:00",
       "end_time": "07:30:00",
       "episode_number": ""
@@ -122,29 +122,22 @@
       "episode_number": ""
     },
     {
-      "show_name": "K-Stage Pan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KP.svg",
+      "show_name": "Gugak: The Music Of Korea",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/GTMOK.svg",
       "start_time": "08:00:00",
-      "end_time": "08:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "SmartBiz Accelerators",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/SA.svg",
-      "start_time": "08:30:00",
       "end_time": "09:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "With Science, We Live",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/WSWL.svg",
+      "show_name": "Premium Collection",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PC.svg",
       "start_time": "09:00:00",
       "end_time": "09:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Diplomat's Archive: Hidden",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DAH.svg",
+      "show_name": "Talk Room",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/TR.svg",
       "start_time": "09:30:00",
       "end_time": "10:00:00",
       "episode_number": ""
@@ -157,51 +150,37 @@
       "episode_number": ""
     },
     {
-      "show_name": "Regional Tastes: Gangwon",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RTG.svg",
+      "show_name": "I'm Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/IL.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "K-Culture Minutes: K-Now",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "show_name": "Home Explorers 2",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/HE2.svg",
       "start_time": "11:00:00",
-      "end_time": "11:15:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "K-Culture Minutes: K-People",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
-      "start_time": "11:15:00",
       "end_time": "11:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "K-Culture Minutes: K-Story",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "show_name": "RPG",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/R.svg",
       "start_time": "11:30:00",
-      "end_time": "11:45:00",
+      "end_time": "11:50:00",
       "episode_number": ""
     },
     {
-      "show_name": "K-Culture Minutes: K-Stage",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
-      "start_time": "11:45:00",
+      "show_name": "Exploring Korean Literature B",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/EKLB.svg",
+      "start_time": "11:50:00",
       "end_time": "12:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Drawing Diary",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DD.svg",
+      "show_name": "Decoded: The AI Conversations",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DTAC.svg",
       "start_time": "12:00:00",
-      "end_time": "12:20:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Heritage Walks With Friend",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/HWWF.svg",
-      "start_time": "12:20:00",
       "end_time": "12:30:00",
       "episode_number": ""
     },
@@ -220,15 +199,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "I'm Live",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/IL.svg",
+      "show_name": "Home To Table",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/HTT.svg",
       "start_time": "14:00:00",
       "end_time": "14:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "With Science, We Live",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/WSWL.svg",
+      "show_name": "Talk Room",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/TR.svg",
       "start_time": "14:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
@@ -241,8 +220,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Re: Space",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RS.svg",
+      "show_name": "I'm Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/IL.svg",
       "start_time": "15:30:00",
       "end_time": "16:00:00",
       "episode_number": ""
@@ -255,9 +234,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "PerformArts Reload",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PR.svg",
+      "show_name": "Re: Space",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RS.svg",
       "start_time": "16:30:00",
+      "end_time": "17:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Peace Insight",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PI.svg",
+      "start_time": "17:00:00",
       "end_time": "17:30:00",
       "episode_number": ""
     },
@@ -269,16 +255,30 @@
       "episode_number": ""
     },
     {
-      "show_name": "Diplomat's Archive: Hidden",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DAH.svg",
+      "show_name": "K-Culture Minutes: K-Now",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
       "start_time": "18:00:00",
+      "end_time": "18:15:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "K-Culture Minutes: K-People",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "start_time": "18:15:00",
       "end_time": "18:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Regional Tastes: Gyeonggi",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RTG.svg",
+      "show_name": "K-Culture Minutes: K-Story",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
       "start_time": "18:30:00",
+      "end_time": "18:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "K-Culture Minutes: K-Stage",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KMK.svg",
+      "start_time": "18:45:00",
       "end_time": "19:00:00",
       "episode_number": ""
     },
@@ -290,58 +290,51 @@
       "episode_number": ""
     },
     {
-      "show_name": "Peace Insight",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PI.svg",
+      "show_name": "With Science, We Live",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/WSWL.svg",
       "start_time": "20:00:00",
       "end_time": "20:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Talk Room",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/TR.svg",
+      "show_name": "Diplomat's Archive: Hidden",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DAH.svg",
       "start_time": "20:30:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Decoded: The AI Conversations",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DTAC.svg",
+      "show_name": "Premium Collection",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PC.svg",
       "start_time": "21:00:00",
       "end_time": "21:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "K-Stage Pan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/KP.svg",
+      "show_name": "Premium Collection",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/PC.svg",
       "start_time": "21:30:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Re: Space",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/RS.svg",
+      "show_name": "Arirang",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/A.svg",
       "start_time": "22:00:00",
       "end_time": "22:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "With Science, We Live",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/WSWL.svg",
+      "show_name": "Arirang",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/A.svg",
       "start_time": "22:30:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "SmartBiz Accelerators",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/SA.svg",
+      "show_name": "Arirang",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/A.svg",
       "start_time": "23:00:00",
-      "end_time": "23:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Diplomat's Archive: Hidden",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/arirang/tomorrow/DAH.svg",
-      "start_time": "23:30:00",
       "end_time": "00:00:00",
       "episode_number": ""
     }

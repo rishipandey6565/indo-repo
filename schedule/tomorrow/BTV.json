@@ -1,10 +1,10 @@
 {
   "channel_name": "BTV",
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "programs": [
     {
-      "show_name": "ONE Vault",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/OV.svg",
+      "show_name": "Supercar Championship",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SC.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
@@ -17,15 +17,22 @@
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Utama",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSU.svg",
+      "show_name": "Berita Satu Sore",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSS.svg",
       "start_time": "01:03:00",
+      "end_time": "01:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Berita Satu Malam",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSM.svg",
+      "start_time": "01:45:00",
       "end_time": "02:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
+      "show_name": "Jalan Dakwah Ramadan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
       "start_time": "02:30:00",
       "end_time": "04:00:00",
       "episode_number": ""
@@ -66,8 +73,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
+      "show_name": "Jalan Dakwah Ramadan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
       "start_time": "06:03:00",
       "end_time": "07:30:00",
       "episode_number": ""
@@ -122,15 +129,22 @@
       "episode_number": ""
     },
     {
+      "show_name": "Intinya Sehat Intibios",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/ISI.svg",
+      "start_time": "09:30:00",
+      "end_time": "10:00:00",
+      "episode_number": ""
+    },
+    {
       "show_name": "Jendela Dunia",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
-      "start_time": "09:30:00",
+      "start_time": "10:00:00",
       "end_time": "10:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Update Ekspos",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IUE.svg",
+      "show_name": "Indonesia Update Ototekno",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IUO.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -188,41 +202,41 @@
       "show_name": "Jalan Dakwah Ramadan",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
       "start_time": "17:05:00",
-      "end_time": "18:03:00",
+      "end_time": "17:52:00",
       "episode_number": ""
     },
     {
       "show_name": "Kultum",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/K.svg",
-      "start_time": "18:03:00",
-      "end_time": "18:10:00",
+      "start_time": "17:52:00",
+      "end_time": "17:59:00",
       "episode_number": ""
     },
     {
       "show_name": "Menantikan Azan Magrib",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/MAM.svg",
-      "start_time": "18:10:00",
-      "end_time": "18:15:00",
+      "start_time": "17:59:00",
+      "end_time": "18:14:00",
       "episode_number": ""
     },
     {
       "show_name": "Azan Magrib",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/AM.svg",
-      "start_time": "18:15:00",
-      "end_time": "18:19:00",
+      "start_time": "18:14:00",
+      "end_time": "18:18:00",
       "episode_number": ""
     },
     {
       "show_name": "Selamat Berbuka Puasa",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SBP.svg",
-      "start_time": "18:19:00",
-      "end_time": "18:24:00",
+      "start_time": "18:18:00",
+      "end_time": "18:23:00",
       "episode_number": ""
     },
     {
       "show_name": "Dunia Binatang",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/DB.svg",
-      "start_time": "18:24:00",
+      "start_time": "18:23:00",
       "end_time": "19:00:00",
       "episode_number": ""
     },
@@ -258,7 +272,7 @@
       "show_name": "Generali Hexagon Cup 2026",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/GHC2.svg",
       "start_time": "23:00:00",
-      "end_time": "00:00:00",
+      "end_time": "00:30:00",
       "episode_number": ""
     }
   ]

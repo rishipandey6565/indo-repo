@@ -1,25 +1,39 @@
 {
   "channel_name": "ANTV",
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "programs": [
     {
-      "show_name": "Makin Lama Makin Asik",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/MLMA.svg",
+      "show_name": "Mana Bisa Tahan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/MBT.svg",
       "start_time": "00:00:00",
       "end_time": "00:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Dead Trigger",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/DT.svg",
+      "show_name": "Eliminators",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/E.svg",
       "start_time": "00:30:00",
-      "end_time": "04:45:00",
+      "end_time": "02:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Sinema Spesial",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/SS.svg",
+      "start_time": "02:00:00",
+      "end_time": "02:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Manusia 6 Juta Dollar",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/M6JD.svg",
+      "start_time": "02:30:00",
+      "end_time": "04:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Tawa Kalcer",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/TK.svg",
-      "start_time": "04:45:00",
+      "start_time": "04:30:00",
       "end_time": "06:30:00",
       "episode_number": ""
     },
@@ -38,8 +52,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Ra One",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/RO.svg",
+      "show_name": "Heropanti 2",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/H2.svg",
       "start_time": "09:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
@@ -73,22 +87,22 @@
       "episode_number": ""
     },
     {
-      "show_name": "Jaka Sembung",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/JS.svg",
+      "show_name": "Komando Samber Nyawa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/KSN.svg",
       "start_time": "18:30:00",
       "end_time": "20:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Darah Perjaka",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/DP.svg",
+      "show_name": "Kelabang Seribu",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/KS.svg",
       "start_time": "20:30:00",
       "end_time": "22:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Mana Bisa Tahan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/MBT.svg",
+      "show_name": "Malu Malu Mau",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/antv/tomorrow/MMM.svg",
       "start_time": "22:30:00",
       "end_time": "00:30:00",
       "episode_number": ""

@@ -1,6 +1,6 @@
 {
   "channel_name": "BTV",
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "programs": [
     {
       "show_name": "ONE Vault",
@@ -24,8 +24,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah Ramadan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/JDR.svg",
+      "show_name": "Jalan Dakwah",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/JD.svg",
       "start_time": "02:30:00",
       "end_time": "04:00:00",
       "episode_number": ""
@@ -34,13 +34,13 @@
       "show_name": "Sejarah Islam",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/SI.svg",
       "start_time": "04:00:00",
-      "end_time": "04:29:00",
+      "end_time": "04:30:00",
       "episode_number": ""
     },
     {
       "show_name": "Berita Satu Pagi",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BSP.svg",
-      "start_time": "04:29:00",
+      "start_time": "04:30:00",
       "end_time": "04:42:00",
       "episode_number": ""
     },
@@ -101,8 +101,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Masak Ala Devina Hermawan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/MADH.svg",
+      "show_name": "Galeri Rasa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/GR.svg",
       "start_time": "08:45:00",
       "end_time": "09:00:00",
       "episode_number": ""
@@ -115,22 +115,22 @@
       "episode_number": ""
     },
     {
-      "show_name": "Masak Ala Devina Hermawan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/MADH.svg",
+      "show_name": "Galeri Rasa",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/GR.svg",
       "start_time": "09:05:00",
       "end_time": "09:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Investor Market Today",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/IMT.svg",
+      "show_name": "Jendela Dunia",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/JD.svg",
       "start_time": "09:30:00",
       "end_time": "10:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Update Dari Nol",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/IUDN.svg",
+      "show_name": "Indonesia Update Ekspos",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/IUE.svg",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -157,15 +157,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Dikit-Dikit Damkar",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/DD.svg",
+      "show_name": "Persona",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/P.svg",
       "start_time": "14:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Merah Putih",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BMP.svg",
+      "show_name": "Dunia RANS",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/DR.svg",
       "start_time": "15:00:00",
       "end_time": "15:30:00",
       "episode_number": ""
@@ -181,13 +181,13 @@
       "show_name": "Berita Satu Sore",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BSS.svg",
       "start_time": "16:00:00",
-      "end_time": "17:04:00",
+      "end_time": "17:05:00",
       "episode_number": ""
     },
     {
       "show_name": "Jalan Dakwah Ramadan",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/JDR.svg",
-      "start_time": "17:04:00",
+      "start_time": "17:05:00",
       "end_time": "18:03:00",
       "episode_number": ""
     },
@@ -220,9 +220,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Utama",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/BSU.svg",
+      "show_name": "Dunia Binatang",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/DB.svg",
       "start_time": "18:24:00",
+      "end_time": "19:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Ketulusan Hati",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/KH.svg",
+      "start_time": "19:00:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
