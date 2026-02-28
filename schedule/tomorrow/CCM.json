@@ -1,12 +1,103 @@
 {
   "channel_name": "CCM",
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "programs": [
     {
-      "show_name": "The Human Goddess",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/ccm/tomorrow/THG.svg",
+      "show_name": "The Fake Ghost Catchers",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFGC",
       "start_time": "00:00:00",
-      "end_time": "00:55:00",
+      "end_time": "01:25:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Woman Of The Night",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOTN",
+      "start_time": "01:25:00",
+      "end_time": "03:05:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Story Of Sue San",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOSS",
+      "start_time": "03:05:00",
+      "end_time": "05:05:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Apartment For Ladies",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFL",
+      "start_time": "05:05:00",
+      "end_time": "06:55:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Heroic Ones",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THO",
+      "start_time": "06:55:00",
+      "end_time": "09:05:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "My Son",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MS",
+      "start_time": "09:05:00",
+      "end_time": "10:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Convict Killer",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCK",
+      "start_time": "10:45:00",
+      "end_time": "12:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Dead End",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DE",
+      "start_time": "12:30:00",
+      "end_time": "14:20:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Full Moon Scimitar",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMS",
+      "start_time": "14:20:00",
+      "end_time": "16:05:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Boxer Rebellion",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+      "start_time": "16:05:00",
+      "end_time": "18:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Call To Arms",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTA",
+      "start_time": "18:30:00",
+      "end_time": "20:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Between Tears And Smiles",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTAS",
+      "start_time": "20:00:00",
+      "end_time": "22:15:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Deadly Knives",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+      "start_time": "22:15:00",
+      "end_time": "23:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Purple Shell",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
+      "start_time": "23:45:00",
+      "end_time": "01:35:00",
       "episode_number": ""
     }
   ]

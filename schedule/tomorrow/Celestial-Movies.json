@@ -1,12 +1,117 @@
 {
   "channel_name": "Celestial Movies",
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "programs": [
     {
-      "show_name": "Whatever You Want",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/celestial-movies/tomorrow/WYW.svg",
+      "show_name": "King Of Beggars",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOB",
       "start_time": "00:00:00",
-      "end_time": "00:50:00",
+      "end_time": "01:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Mother Vs Mother",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVM",
+      "start_time": "01:00:00",
+      "end_time": "02:35:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Endless Love",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
+      "start_time": "02:35:00",
+      "end_time": "04:05:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Open�The Coffin",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OC",
+      "start_time": "04:05:00",
+      "end_time": "05:40:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Kowloon Walled City",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KWC",
+      "start_time": "05:40:00",
+      "end_time": "07:10:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Get In The Dark",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GITD",
+      "start_time": "07:10:00",
+      "end_time": "08:50:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Mad Monk",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+      "start_time": "08:50:00",
+      "end_time": "10:20:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Operation Bangkok",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OB",
+      "start_time": "10:20:00",
+      "end_time": "11:55:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Magnificent Scoundrels",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMS",
+      "start_time": "11:55:00",
+      "end_time": "13:35:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Fate Of Reunion",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
+      "start_time": "13:35:00",
+      "end_time": "15:10:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Monkey Is Back",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIB",
+      "start_time": "15:10:00",
+      "end_time": "16:40:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Kungfu Stuntmen",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
+      "start_time": "16:40:00",
+      "end_time": "18:20:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Final Justice",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FJ",
+      "start_time": "18:20:00",
+      "end_time": "20:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Faithfully Yours",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FY",
+      "start_time": "20:00:00",
+      "end_time": "21:35:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Sex Beyond The Grave",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBTG",
+      "start_time": "21:35:00",
+      "end_time": "22:55:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Ghost Wedding",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GW",
+      "start_time": "22:55:00",
+      "end_time": "00:30:00",
       "episode_number": ""
     }
   ]

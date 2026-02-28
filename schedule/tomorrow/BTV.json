@@ -1,277 +1,186 @@
 {
   "channel_name": "BTV",
-  "date": "2026-03-01",
+  "date": "2026-03-02",
   "programs": [
     {
-      "show_name": "Supercar Championship",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SC.svg",
+      "show_name": "Generali Hexagon Cup 2026",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GHC2",
       "start_time": "00:00:00",
-      "end_time": "01:00:00",
+      "end_time": "00:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Tanah Airku",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/TA.svg",
-      "start_time": "01:00:00",
-      "end_time": "01:03:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "00:30:00",
+      "end_time": "01:27:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Sore",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSS.svg",
-      "start_time": "01:03:00",
-      "end_time": "01:45:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "01:27:00",
+      "end_time": "01:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Malam",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSM.svg",
-      "start_time": "01:45:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "01:30:00",
       "end_time": "02:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah Ramadan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "02:30:00",
-      "end_time": "04:00:00",
+      "end_time": "03:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Sejarah Islam",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SI.svg",
-      "start_time": "04:00:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "03:30:00",
       "end_time": "04:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Pagi",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSP.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "04:30:00",
-      "end_time": "04:42:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Adzan Subuh Jakarta",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/ASJ.svg",
-      "start_time": "04:42:00",
-      "end_time": "04:46:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Berita Satu Pagi",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSP.svg",
-      "start_time": "04:46:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Raya",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IR.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "06:00:00",
       "end_time": "06:03:00",
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah Ramadan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "06:03:00",
       "end_time": "07:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Figur Publik",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/FP.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "07:30:00",
-      "end_time": "08:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Berita Satu Terkini",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BST.svg",
-      "start_time": "08:00:00",
-      "end_time": "08:05:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Figur Publik",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/FP.svg",
-      "start_time": "08:05:00",
       "end_time": "08:15:00",
       "episode_number": ""
     },
     {
-      "show_name": "Kuyliner",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/K.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "08:15:00",
       "end_time": "08:45:00",
       "episode_number": ""
     },
     {
-      "show_name": "Galeri Rasa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/GR.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "08:45:00",
-      "end_time": "09:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Berita Satu Terkini",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BST.svg",
-      "start_time": "09:00:00",
-      "end_time": "09:05:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Galeri Rasa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/GR.svg",
-      "start_time": "09:05:00",
       "end_time": "09:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Intinya Sehat Intibios",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/ISI.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "09:30:00",
-      "end_time": "10:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Jendela Dunia",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JD.svg",
-      "start_time": "10:00:00",
       "end_time": "10:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Indonesia Update Ototekno",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/IUO.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "10:30:00",
       "end_time": "11:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Siang",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSS.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "11:00:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Viral",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BV.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "13:00:00",
-      "end_time": "14:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Jendela Nusantara: Jawa Barat",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JNJB.svg",
-      "start_time": "14:00:00",
       "end_time": "14:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Persona",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/P.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "14:30:00",
       "end_time": "15:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Dunia RANS",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/DR.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "15:00:00",
       "end_time": "15:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Kriminal",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BK.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "15:30:00",
-      "end_time": "16:00:00",
+      "end_time": "17:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Sore",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSS.svg",
-      "start_time": "16:00:00",
-      "end_time": "17:05:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "17:30:00",
+      "end_time": "18:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Jalan Dakwah Ramadan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/JDR.svg",
-      "start_time": "17:05:00",
-      "end_time": "17:52:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Kultum",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/K.svg",
-      "start_time": "17:52:00",
-      "end_time": "17:59:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Menantikan Azan Magrib",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/MAM.svg",
-      "start_time": "17:59:00",
-      "end_time": "18:14:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Azan Magrib",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/AM.svg",
-      "start_time": "18:14:00",
-      "end_time": "18:18:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Selamat Berbuka Puasa",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SBP.svg",
-      "start_time": "18:18:00",
-      "end_time": "18:23:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Dunia Binatang",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/DB.svg",
-      "start_time": "18:23:00",
-      "end_time": "19:00:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Ketulusan Hati",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/KH.svg",
-      "start_time": "19:00:00",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "18:00:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Spot On",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/SO.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "20:00:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Viral",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BV.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "21:00:00",
       "end_time": "22:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Berita Satu Malam",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/BSM.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "22:00:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Generali Hexagon Cup 2026",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/tomorrow/GHC2.svg",
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
       "start_time": "23:00:00",
+      "end_time": "23:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "BTV",
+      "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+      "start_time": "23:30:00",
       "end_time": "00:30:00",
       "episode_number": ""
     }
