@@ -1,53 +1,46 @@
 {
   "channel_name": "CNBC",
-  "date": "2026-03-02",
+  "date": "2026-03-03",
   "programs": [
     {
-      "show_name": "Late Night With Seth Meyers",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/LNWSM.svg",
+      "show_name": "Halftime Report",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/HR.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Built For Billions",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/BFB.svg",
+      "show_name": "The Exchange",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/TE.svg",
       "start_time": "01:00:00",
-      "end_time": "01:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/LP.svg",
-      "start_time": "01:30:00",
       "end_time": "02:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "The Tonight Show, Jimmy Fallon",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/TTSJF.svg",
+      "show_name": "Power Lunch",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/PL.svg",
       "start_time": "02:00:00",
+      "end_time": "03:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Closing Bell",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/CB.svg",
+      "start_time": "03:00:00",
       "end_time": "04:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "American Greed",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/AG.svg",
+      "show_name": "Closing Bell: Overtime",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/CBO.svg",
       "start_time": "04:00:00",
       "end_time": "05:00:00",
       "episode_number": ""
     },
     {
-      "show_name": "Executive Decisions",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/ED.svg",
+      "show_name": "Fast Money",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/FM.svg",
       "start_time": "05:00:00",
-      "end_time": "05:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "The Score",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/TS.svg",
-      "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
@@ -80,16 +73,9 @@
       "episode_number": ""
     },
     {
-      "show_name": "Built For Billions",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/BFB.svg",
+      "show_name": "U.S. Markets Edition",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/UME.svg",
       "start_time": "12:00:00",
-      "end_time": "12:30:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Leaders Playbook",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/cnbc/tomorrow/LP.svg",
-      "start_time": "12:30:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
