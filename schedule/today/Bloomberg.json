@@ -1,10 +1,10 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "programs": [
     {
-      "show_name": "Bloomberg Crypto",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BC.svg",
+      "show_name": "Bloomberg Deals",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BD.svg",
       "start_time": "00:00:00",
       "end_time": "01:00:00",
       "episode_number": ""
@@ -94,9 +94,23 @@
       "episode_number": ""
     },
     {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/TDRS.svg",
+      "start_time": "18:00:00",
+      "end_time": "18:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Chief Future Officer",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BCFO.svg",
+      "start_time": "18:30:00",
+      "end_time": "19:00:00",
+      "episode_number": ""
+    },
+    {
       "show_name": "Bloomberg Surveillance",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/today/BS.svg",
-      "start_time": "18:00:00",
+      "start_time": "19:00:00",
       "end_time": "21:00:00",
       "episode_number": ""
     },
