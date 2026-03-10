@@ -1,6 +1,6 @@
 {
   "channel_name": "BTV",
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "programs": [
     {
       "show_name": "BTV",
@@ -55,6 +55,13 @@
       "show_name": "BTV",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/B.svg",
       "start_time": "06:03:00",
+      "end_time": "06:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "BTV",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/B.svg",
+      "start_time": "06:30:00",
       "end_time": "07:30:00",
       "episode_number": ""
     },
@@ -83,6 +90,13 @@
       "show_name": "BTV",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/B.svg",
       "start_time": "09:30:00",
+      "end_time": "10:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "BTV",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/btv/today/B.svg",
+      "start_time": "10:00:00",
       "end_time": "10:30:00",
       "episode_number": ""
     },

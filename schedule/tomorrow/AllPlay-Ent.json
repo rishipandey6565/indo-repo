@@ -1,18 +1,25 @@
 {
   "channel_name": "AllPlay Ent",
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "programs": [
     {
-      "show_name": "Pancaran Sinar Petromak",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/PSP.svg",
+      "show_name": "Sajadah Terakhir",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/ST.svg",
       "start_time": "00:00:00",
-      "end_time": "01:30:00",
+      "end_time": "00:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Jejak Sang Timur",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/JST.svg",
+      "start_time": "00:30:00",
+      "end_time": "01:15:00",
       "episode_number": ""
     },
     {
       "show_name": "Academy Of Pop",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/AOP.svg",
-      "start_time": "01:30:00",
+      "start_time": "01:15:00",
       "end_time": "01:45:00",
       "episode_number": ""
     },
@@ -34,6 +41,13 @@
       "show_name": "Agent 0812",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A0.svg",
       "start_time": "03:30:00",
+      "end_time": "04:15:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Little Rebels Cinema Club",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
+      "start_time": "04:15:00",
       "end_time": "04:30:00",
       "episode_number": ""
     },
@@ -52,15 +66,15 @@
       "episode_number": ""
     },
     {
-      "show_name": "Pulang",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/P.svg",
+      "show_name": "Glints Expert Class",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/GEC.svg",
       "start_time": "05:00:00",
       "end_time": "05:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Puasin",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/P.svg",
+      "show_name": "Cooking & Cooqueen",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/C.svg",
       "start_time": "05:30:00",
       "end_time": "06:30:00",
       "episode_number": ""
@@ -94,8 +108,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Lapor Pak",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LP.svg",
+      "show_name": "Arisan",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A.svg",
       "start_time": "10:00:00",
       "end_time": "11:00:00",
       "episode_number": ""
@@ -111,6 +125,13 @@
       "show_name": "Agent 0812",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A0.svg",
       "start_time": "12:00:00",
+      "end_time": "12:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Little Rebels Cinema Club",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
+      "start_time": "12:45:00",
       "end_time": "13:00:00",
       "episode_number": ""
     },
@@ -122,9 +143,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "Ketika Cinta Bertasbih 2",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/KCB2.svg",
+      "show_name": "Rumah Tanpa Jendela",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/RTJ.svg",
       "start_time": "14:00:00",
+      "end_time": "15:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Final Draft",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FD.svg",
+      "start_time": "15:45:00",
       "end_time": "16:00:00",
       "episode_number": ""
     },
@@ -139,13 +167,6 @@
       "show_name": "Agent 0812",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A0.svg",
       "start_time": "16:30:00",
-      "end_time": "17:15:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Final Draft",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FD.svg",
-      "start_time": "17:15:00",
       "end_time": "17:30:00",
       "episode_number": ""
     },
@@ -188,13 +209,6 @@
       "show_name": "Agent 0812",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/A0.svg",
       "start_time": "19:00:00",
-      "end_time": "19:45:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Little Rebels Cinema Club",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
-      "start_time": "19:45:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
@@ -206,9 +220,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "Ketika Cinta Bertasbih 2",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/KCB2.svg",
+      "show_name": "Rumah Tanpa Jendela",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/RTJ.svg",
       "start_time": "21:00:00",
+      "end_time": "22:45:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Little Rebels Cinema Club",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/LRCC.svg",
+      "start_time": "22:45:00",
       "end_time": "23:00:00",
       "episode_number": ""
     },
@@ -216,20 +237,13 @@
       "show_name": "Academy Of Pop",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/AOP.svg",
       "start_time": "23:00:00",
-      "end_time": "23:15:00",
+      "end_time": "23:30:00",
       "episode_number": ""
     },
     {
-      "show_name": "Montase",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/M.svg",
-      "start_time": "23:15:00",
-      "end_time": "23:45:00",
-      "episode_number": ""
-    },
-    {
-      "show_name": "Film Wajib Tonton Sebelum Mati",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/FWTSM.svg",
-      "start_time": "23:45:00",
+      "show_name": "Sajadah Terakhir",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/allplay-ent/tomorrow/ST.svg",
+      "start_time": "23:30:00",
       "end_time": "00:00:00",
       "episode_number": ""
     }

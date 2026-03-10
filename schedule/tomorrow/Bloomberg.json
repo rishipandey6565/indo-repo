@@ -1,6 +1,6 @@
 {
   "channel_name": "Bloomberg",
-  "date": "2026-03-11",
+  "date": "2026-03-12",
   "programs": [
     {
       "show_name": "Bloomberg: Balance Of Power",
@@ -31,9 +31,16 @@
       "episode_number": ""
     },
     {
-      "show_name": "The Circuit: Meghan",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TCM.svg",
+      "show_name": "The Circuit: Evan Spiegel",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TCES.svg",
       "start_time": "05:00:00",
+      "end_time": "05:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The Circuit: Alexis Ohanian",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TCAO.svg",
+      "start_time": "05:30:00",
       "end_time": "06:00:00",
       "episode_number": ""
     },
@@ -90,6 +97,27 @@
       "show_name": "Bloomberg Surveillance",
       "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BS.svg",
       "start_time": "17:00:00",
+      "end_time": "18:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "The David Rubenstein Show",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/TDRS.svg",
+      "start_time": "18:00:00",
+      "end_time": "18:30:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Women, Money & Power Event",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/WM.svg",
+      "start_time": "18:30:00",
+      "end_time": "19:00:00",
+      "episode_number": ""
+    },
+    {
+      "show_name": "Bloomberg Surveillance",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BS.svg",
+      "start_time": "19:00:00",
       "end_time": "20:00:00",
       "episode_number": ""
     },
@@ -108,8 +136,8 @@
       "episode_number": ""
     },
     {
-      "show_name": "Bloomberg Deals",
-      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BD.svg",
+      "show_name": "Bloomberg Markets",
+      "show_logo": "https://tvjadwal.id//wp-content/uploads/downloaded-images/bloomberg/tomorrow/BM.svg",
       "start_time": "23:00:00",
       "end_time": "00:00:00",
       "episode_number": ""
