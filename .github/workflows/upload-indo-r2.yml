@@ -33,9 +33,9 @@ jobs:
           endpoint = https://${{ secrets.R2_INDO_ACCOUNT_ID }}.r2.cloudflarestorage.com
           EOF
 
-      - name: Sync images to /wp-content/uploads
+      - name: Sync images to /wp-content/uploads/downloaded-images
         run: |
-          rclone sync downloaded-images indo:${{ secrets.R2_INDO_BUCKET_NAME }}/wp-content/uploads \
+          rclone sync downloaded-images indo:${{ secrets.R2_INDO_BUCKET_NAME }}/wp-content/uploads/downloaded-images \
           --transfers=64 \
           --checkers=64 \
           --fast-list \
