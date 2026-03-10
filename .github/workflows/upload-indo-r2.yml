@@ -1,0 +1,47 @@
+name: Upload Indo Assets to Cloudflare R2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone for Indo bucket
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf <<EOF
+          [indo]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.R2_INDO_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_INDO_SECRET_ACCESS_KEY }}
+          endpoint = https://${{ secrets.R2_INDO_ACCOUNT_ID }}.r2.cloudflarestorage.com
+          EOF
+
+      - name: Sync images to /wp-content/uploads
+        run: |
+          rclone sync downloaded-images indo:${{ secrets.R2_INDO_BUCKET_NAME }}/wp-content/uploads \
+          --transfers=64 \
+          --checkers=64 \
+          --fast-list \
+          --size-only \
+          --delete-during
+
+      - name: Sync schedule JSON
+        run: |
+          rclone sync schedule indo:${{ secrets.R2_INDO_BUCKET_NAME }}/schedule \
+          --transfers=32 \
+          --checkers=32 \
+          --fast-list \
+          --size-only \
+          --delete-during
