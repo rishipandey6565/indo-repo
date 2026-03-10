@@ -5,6 +5,11 @@ on:
     branches:
       - main
 
+  workflow_dispatch:
+
+  schedule:
+    - cron: "20 17 * * *"
+
 jobs:
   upload:
     runs-on: ubuntu-latest
@@ -16,7 +21,7 @@ jobs:
       - name: Install rclone
         run: curl https://rclone.org/install.sh | sudo bash
 
-      - name: Configure rclone for Indo bucket
+      - name: Configure rclone
         run: |
           mkdir -p ~/.config/rclone
           cat > ~/.config/rclone/rclone.conf <<EOF
@@ -37,7 +42,7 @@ jobs:
           --size-only \
           --delete-during
 
-      - name: Sync schedule JSON
+      - name: Sync schedule JSON to /schedule
         run: |
           rclone sync schedule indo:${{ secrets.R2_INDO_BUCKET_NAME }}/schedule \
           --transfers=32 \
