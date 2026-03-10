@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 BASE_UPLOAD_URL = "https://cdn.tvjadwal.id/wp-content/uploads"
 SCHEDULE_DIR = "schedule"
 DOWNLOAD_ROOT = "downloaded-images"
-MAX_WORKERS = 20
+MAX_WORKERS = 30
 
 
 def extract_filename_from_url(url: str) -> str:
