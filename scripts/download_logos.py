@@ -5,7 +5,7 @@ import urllib.parse
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-BASE_UPLOAD_URL = "https://tvjadwal.id//wp-content/uploads"
+BASE_UPLOAD_URL = "https://cdn.tvjadwal.id//wp-content/uploads"
 SCHEDULE_DIR = "schedule"
 DOWNLOAD_ROOT = "downloaded-images"
 MAX_WORKERS = 20
