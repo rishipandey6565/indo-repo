@@ -2,7 +2,7 @@
   "channel_name": "Bloomberg",
   "schedule": {
     "today": {
-      "date": "2026-03-13",
+      "date": "2026-03-14",
       "programs": [
         {
           "show_name": "Bloomberg: Balance Of Power",
@@ -33,259 +33,378 @@
           "episode_number": ""
         },
         {
-          "show_name": "The Circuit: Reese Witherspoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCRW.svg",
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
           "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Circuit: Dana Walden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCDW.svg",
-          "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg: The Asia Trade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTAT.svg",
+          "show_name": "Bloomberg New Economy",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNE.svg",
           "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg: The China Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTCS.svg",
+          "show_name": "The David Rubenstein Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
           "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Insight With Haslinda Amin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/IWHA.svg",
+          "show_name": "Bloomberg Next Africa",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNA.svg",
           "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Screentime",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: Alexis Ohanian",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCAO.svg",
+          "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Horizons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BH.svg",
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Daybreak: Europe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BDE.svg",
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
           "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg: The Opening Trade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTOT.svg",
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
           "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Next Africa",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNA.svg",
+          "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Tech: Europe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTE.svg",
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Brief",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BB.svg",
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
           "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Surveillance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
           "start_time": "17:00:00",
-          "end_time": "20:00:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Open Interest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BOI.svg",
-          "start_time": "20:00:00",
+          "show_name": "Bloomberg This Weekend",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTW.svg",
+          "start_time": "18:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Tech",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BT.svg",
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
           "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The David Rubenstein Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
+          "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg...: European Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BEC.svg",
+          "show_name": "Bloomberg Next Africa",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNA.svg",
           "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-03-14",
+      "date": "2026-03-15",
       "programs": [
         {
-          "show_name": "Bloomberg: Balance Of Power",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBOP.svg",
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
           "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Real Yield",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BRY.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Markets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BM.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Markets: The Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BMTC.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg...: What'd You Miss?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWYM.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Technology",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BT.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Athlete Empire: Alex Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/AEAR.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The David Rubenstein Show",
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
-          "start_time": "09:30:00",
+          "show_name": "Women, Money & Power Event",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/WM.svg",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: Dana Walden",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCDW.svg",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Screentime",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: The Newsoms",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCTN.svg",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: Evan Spiegel",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCES.svg",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: Meghan",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCM.svg",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit: Evan Spiegel",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCES.svg",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
+          "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_name": "Bloomberg New Economy",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNE.svg",
           "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women, Money & Power Event",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/WM.svg",
+          "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
+          "show_name": "Bloomberg Screentime",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
+          "show_name": "Bloomberg Next Africa",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNA.svg",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Wealth With David R.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWWDR.svg",
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Wealth With David R.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWWDR.svg",
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Athlete Empire: Alex Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/AEAR.svg",
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BI.svg",
           "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
-          "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
@@ -297,100 +416,58 @@
           "episode_number": ""
         },
         {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
+          "show_name": "The Circuit: The Newsoms",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TCTN.svg",
           "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
-          "start_time": "16:30:00",
           "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Wealth With David R.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWWDR.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg This Weekend",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTW.svg",
           "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Green",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BG.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Athlete Empire: Alex Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/AEAR.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
-          "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The David Rubenstein Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Wealth With David R.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWWDR.svg",
+          "show_name": "The David Rubenstein Show",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
           "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS1.svg",
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
           "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWL.svg",
-          "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
         }

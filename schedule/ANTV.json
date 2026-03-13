@@ -2,106 +2,10 @@
   "channel_name": "ANTV",
   "schedule": {
     "today": {
-      "date": "2026-03-13",
-      "programs": [
-        {
-          "show_name": "The Duel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TD.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mystic Blade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/MB.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of The Best 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BOTB3.svg",
-          "start_time": "02:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tawa Kalcer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TK.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Baalveer Returns",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BR.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Janji Inspektur Virat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/JIV.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Chori Chori Chupke Chupke",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/CCCC.svg",
-          "start_time": "09:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jhanak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/J.svg",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TMD.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vasudha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/V.svg",
-          "start_time": "16:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Yang Perkasa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/YP.svg",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Malin Kundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/MK.svg",
-          "start_time": "20:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pencet Sana Pencet Sini",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/PSPS.svg",
-          "start_time": "22:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-14",
       "programs": [
         {
-          "show_name": "Armagedon",
+          "show_name": "Armageddon",
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/A.svg",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
@@ -115,23 +19,23 @@
           "episode_number": ""
         },
         {
-          "show_name": "Best Of The Best 4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BOTB4.svg",
+          "show_name": "Jaka Sembung",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/JS.svg",
           "start_time": "02:30:00",
-          "end_time": "04:30:00",
+          "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Typhoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/T.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:30:00",
+          "show_name": "Water Monster",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/WM.svg",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Baalveer Returns",
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BR.svg",
-          "start_time": "06:30:00",
+          "start_time": "06:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
@@ -189,6 +93,109 @@
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SPT.svg",
           "start_time": "23:00:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-15",
+      "programs": [
+        {
+          "show_name": "Sudah Pasti Tahan",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SPT.svg",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chai Lai Angels",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/CLA.svg",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Serie A Liga Italia",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SALI.svg",
+          "start_time": "02:00:00",
+          "end_time": "04:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Revenge Of Plant",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TROP.svg",
+          "start_time": "04:45:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baalveer Returns",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BR.svg",
+          "start_time": "06:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Janji Inspektur Virat",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/JIV.svg",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Singham Again",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SA.svg",
+          "start_time": "09:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jhanak",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/J.svg",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teri Meri Doriyaann",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TMD.svg",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vasudha",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/V.svg",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pendekar Mata Satu",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/PMS.svg",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Primitif",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/P.svg",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Masuk Kena Keluar Kena",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/MKKK.svg",
+          "start_time": "22:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Serie A Liga Italia",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SALI.svg",
+          "start_time": "23:30:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         }
       ]
