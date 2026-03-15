@@ -2,109 +2,6 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-03-15",
-      "programs": [
-        {
-          "show_name": "Mission Impossible",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MI.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Facets Of Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FOL.svg",
-          "start_time": "01:20:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Happiest Moment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THM.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Boxer Rebellion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BR.svg",
-          "start_time": "04:35:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Descendant Of The Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DOTS.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Two Con Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCM.svg",
-          "start_time": "08:35:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Full Moon Scimitar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FMS.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bride Napping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBN.svg",
-          "start_time": "12:00:00",
-          "end_time": "14:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The 36th Chamber Of Shaolin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/T3COS.svg",
-          "start_time": "14:10:00",
-          "end_time": "16:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Till The End Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTEOT.svg",
-          "start_time": "16:10:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vengeance Is A Golden Blade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/VIAGB.svg",
-          "start_time": "18:10:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pale Passion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PP.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "One Way Only",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/OWO.svg",
-          "start_time": "21:40:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sex, Love And Hate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SLAH.svg",
-          "start_time": "23:25:00",
-          "end_time": "01:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-16",
       "programs": [
         {
@@ -203,6 +100,116 @@
           "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWM.svg",
           "start_time": "23:25:00",
           "end_time": "01:35:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-17",
+      "programs": [
+        {
+          "show_name": "The Water Margin",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWM.svg",
+          "start_time": "00:00:00",
+          "end_time": "01:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Butterfly Chalice",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBC.svg",
+          "start_time": "01:35:00",
+          "end_time": "03:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Melody Of Love",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MOL.svg",
+          "start_time": "03:10:00",
+          "end_time": "04:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Villains",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TV.svg",
+          "start_time": "04:45:00",
+          "end_time": "06:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vengeance",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/V.svg",
+          "start_time": "06:15:00",
+          "end_time": "08:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tiger Killer",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TK.svg",
+          "start_time": "08:05:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Taste Of Cold Steel",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ATOCS.svg",
+          "start_time": "09:45:00",
+          "end_time": "11:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Yellow Muffler",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TYM.svg",
+          "start_time": "11:15:00",
+          "end_time": "13:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chinatown Kid",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/CK.svg",
+          "start_time": "13:15:00",
+          "end_time": "14:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Beyond The Great Wall",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BTGW.svg",
+          "start_time": "14:50:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Danger Has Two Faces",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DHTF.svg",
+          "start_time": "16:30:00",
+          "end_time": "18:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Apartment For Ladies",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AFL.svg",
+          "start_time": "18:10:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ten Tigers Of Kwang Tung",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTOKT.svg",
+          "start_time": "20:00:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Friend From Inner Space",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AFFIS.svg",
+          "start_time": "21:35:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Heroic Ones",
+          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THO.svg",
+          "start_time": "23:10:00",
+          "end_time": "01:20:00",
           "episode_number": ""
         }
       ]
