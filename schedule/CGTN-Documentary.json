@@ -2,516 +2,446 @@
   "channel_name": "CGTN Documentary",
   "schedule": {
     "today": {
-      "date": "2026-03-20",
-      "programs": [
-        {
-          "show_name": "Song Dynasty Poetry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E21"
-        },
-        {
-          "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "S5 E6"
-        },
-        {
-          "show_name": "Intangible Cultural Heritage...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Fish-Shaped Lanterns...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E22"
-        },
-        {
-          "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "S5 E7"
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Fish-Shaped Lanterns...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E22"
-        },
-        {
-          "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "S5 E7"
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Fish-Shaped Lanterns...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "E22"
-        },
-        {
-          "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": "S5 E7"
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Fish-Shaped Lanterns...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": "E5"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-21",
       "programs": [
         {
           "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOFC",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": "E22"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STL",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": "S5 E7"
         },
         {
           "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLGG",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBTR",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Living At The Source Of River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LATSO",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTN",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOFC",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": "E23"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STL",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": "S5 E8"
         },
         {
           "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLGG",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBTR",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Living At The Source Of River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LATSO",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTN",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOFC",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": "E23"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STL",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": "S5 E8"
         },
         {
           "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLGG",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBTR",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Living At The Source Of River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LATSO",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTN",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Secrets Of Floating City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOFC",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "E23"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Stretching The Limits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STL",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
           "episode_number": "S5 E8"
         },
         {
           "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lush Green Gannan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLGG",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Life By The River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBTR",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Living At The Source Of River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LATSO",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Roots Of The Nation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTN",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "E6"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-22",
+      "programs": [
+        {
+          "show_name": "Secrets Of Floating City",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOFC",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Enduring Legacy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "E23"
+        },
+        {
+          "show_name": "The Taste Of Yunnan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Stretching The Limits",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STL",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": "S5 E8"
+        },
+        {
+          "show_name": "Pixel Collage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Hermit Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": "E3"
         }
       ]
     }
