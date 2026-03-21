@@ -2,116 +2,6 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-03-21",
-      "programs": [
-        {
-          "show_name": "Big Times For Crazy Bumpkins",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTFCB",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legend Of The Bat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTB",
-          "start_time": "01:00:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Facets Of Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
-          "start_time": "02:50:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Swordmates",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
-          "start_time": "04:30:00",
-          "end_time": "05:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Eight Diagram Pole Fighter",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEDPF",
-          "start_time": "05:55:00",
-          "end_time": "07:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Boxer Rebellion",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
-          "start_time": "07:35:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Boxer From The Temple",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBFTT",
-          "start_time": "10:00:00",
-          "end_time": "11:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Magnificent Concubine",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMC",
-          "start_time": "11:40:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Rebel Intruders",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRI",
-          "start_time": "13:00:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. Funnybone",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MF",
-          "start_time": "14:45:00",
-          "end_time": "16:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Golden Buddha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGB",
-          "start_time": "16:20:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mad Monk",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
-          "start_time": "18:10:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Chinese Boxer",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCB",
-          "start_time": "20:00:00",
-          "end_time": "21:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Melody Of Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOL",
-          "start_time": "21:35:00",
-          "end_time": "23:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Shadow Whip",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSW",
-          "start_time": "23:10:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-22",
       "programs": [
         {
@@ -224,6 +114,116 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SSWRB",
           "start_time": "23:15:00",
           "end_time": "01:10:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-23",
+      "programs": [
+        {
+          "show_name": "Sword Stained With Royal Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SSWRB",
+          "start_time": "00:00:00",
+          "end_time": "01:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Crazy Bumpkins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCB",
+          "start_time": "01:10:00",
+          "end_time": "02:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twelve Deadly Coins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDC",
+          "start_time": "02:55:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Deadly Knives",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+          "start_time": "04:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "West Chamber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WC",
+          "start_time": "06:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Winged Tiger",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWT",
+          "start_time": "08:00:00",
+          "end_time": "09:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Till The End Of Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTEOT",
+          "start_time": "09:35:00",
+          "end_time": "11:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Flying Guillotine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFG",
+          "start_time": "11:35:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hex Vs Witchcraft",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HVW",
+          "start_time": "13:25:00",
+          "end_time": "15:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Return To The 36th Chamber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTT3C",
+          "start_time": "15:05:00",
+          "end_time": "16:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Spring Blossoms",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SB",
+          "start_time": "16:55:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Secret Of The Dirk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOTD",
+          "start_time": "18:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Yellow Muffler",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYM",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Inframan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SI",
+          "start_time": "22:00:00",
+          "end_time": "23:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Grand Substitution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGS",
+          "start_time": "23:35:00",
+          "end_time": "01:35:00",
           "episode_number": ""
         }
       ]

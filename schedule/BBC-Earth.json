@@ -2,207 +2,6 @@
   "channel_name": "BBC Earth",
   "schedule": {
     "today": {
-      "date": "2026-03-21",
-      "programs": [
-        {
-          "show_name": "Scandinavia With Simon",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
-          "start_time": "00:00:00",
-          "end_time": "00:55:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Deadliest Weather",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "00:55:00",
-          "end_time": "01:50:00",
-          "episode_number": "S5 E1"
-        },
-        {
-          "show_name": "The Future Of Nature",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
-          "start_time": "01:50:00",
-          "end_time": "02:55:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Scandinavia With Simon",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
-          "start_time": "02:55:00",
-          "end_time": "04:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Deadliest Weather",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S5 E1"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
-          "start_time": "05:00:00",
-          "end_time": "05:55:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "The Future Of Nature",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
-          "start_time": "05:55:00",
-          "end_time": "06:55:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Great Indian Railway...",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
-          "start_time": "06:55:00",
-          "end_time": "07:55:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Deep Dive Korea",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
-          "start_time": "07:55:00",
-          "end_time": "08:55:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Portillo's Andalucia",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
-          "start_time": "08:55:00",
-          "end_time": "09:45:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Great Malaysian Railway",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMR",
-          "start_time": "09:45:00",
-          "end_time": "10:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Greatest Train Journeys",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
-          "start_time": "10:10:00",
-          "end_time": "10:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The Future Of Nature",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
-          "start_time": "10:40:00",
-          "end_time": "11:40:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Deep Dive Korea",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
-          "start_time": "11:40:00",
-          "end_time": "12:45:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Great Indian Railway...",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
-          "start_time": "12:45:00",
-          "end_time": "13:45:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Great Malaysian Railway",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMR",
-          "start_time": "13:45:00",
-          "end_time": "14:15:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Greatest Train Journeys",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
-          "start_time": "14:15:00",
-          "end_time": "14:45:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The Future Of Nature",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
-          "start_time": "14:45:00",
-          "end_time": "15:50:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Secret Life Of Trees",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLOT",
-          "start_time": "15:50:00",
-          "end_time": "16:40:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Great Indian Railway...",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GIR",
-          "start_time": "16:40:00",
-          "end_time": "17:40:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Great Malaysian Railway",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMR",
-          "start_time": "17:40:00",
-          "end_time": "18:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Greatest Train Journeys",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTJ",
-          "start_time": "18:10:00",
-          "end_time": "18:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The Future Of Nature",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
-          "start_time": "18:40:00",
-          "end_time": "19:40:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Scandinavia With Simon",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
-          "start_time": "19:40:00",
-          "end_time": "20:45:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Last Overland",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
-          "start_time": "20:45:00",
-          "end_time": "21:35:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Secrets Of Superagers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOS",
-          "start_time": "21:35:00",
-          "end_time": "22:30:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "The Superfactories",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
-          "start_time": "22:30:00",
-          "end_time": "23:25:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
-          "start_time": "23:25:00",
-          "end_time": "00:20:00",
-          "episode_number": "S2 E1"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-22",
       "programs": [
         {
@@ -407,6 +206,193 @@
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "S1 E5"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-23",
+      "programs": [
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": "S10 E5"
+        },
+        {
+          "show_name": "Scandinavia With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
+          "start_time": "00:55:00",
+          "end_time": "02:05:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Great Wall With Ash",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWWA",
+          "start_time": "02:05:00",
+          "end_time": "03:05:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "03:05:00",
+          "end_time": "04:05:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "04:05:00",
+          "end_time": "05:00:00",
+          "episode_number": "S10 E5"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "05:00:00",
+          "end_time": "05:55:00",
+          "episode_number": "S5 E1"
+        },
+        {
+          "show_name": "The Future Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+          "start_time": "05:55:00",
+          "end_time": "06:55:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "06:55:00",
+          "end_time": "07:40:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "07:40:00",
+          "end_time": "08:40:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "08:40:00",
+          "end_time": "09:30:00",
+          "episode_number": "S10 E5"
+        },
+        {
+          "show_name": "Scandinavia With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
+          "start_time": "09:30:00",
+          "end_time": "10:35:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "10:35:00",
+          "end_time": "11:25:00",
+          "episode_number": "S5 E1"
+        },
+        {
+          "show_name": "Blue Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "11:25:00",
+          "end_time": "12:25:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "The Future Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+          "start_time": "12:25:00",
+          "end_time": "13:25:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Scandinavia With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWS",
+          "start_time": "13:25:00",
+          "end_time": "14:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "14:30:00",
+          "end_time": "15:25:00",
+          "episode_number": "S5 E1"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "15:25:00",
+          "end_time": "16:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "16:10:00",
+          "end_time": "17:10:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "The Future Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFON",
+          "start_time": "17:10:00",
+          "end_time": "18:10:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "18:10:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "19:00:00",
+          "end_time": "20:05:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "The Mark Of Empire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOE",
+          "start_time": "20:05:00",
+          "end_time": "21:00:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "The Superfactories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "21:00:00",
+          "end_time": "21:50:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "21:50:00",
+          "end_time": "22:35:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "22:35:00",
+          "end_time": "23:40:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "The Mark Of Empire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOE",
+          "start_time": "23:40:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E4"
         }
       ]
     }
