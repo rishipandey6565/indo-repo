@@ -2,123 +2,6 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-03-23",
-      "programs": [
-        {
-          "show_name": "Mr. Vampire",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
-          "start_time": "00:00:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "My School Mate, The Barbarian",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSMTB",
-          "start_time": "01:10:00",
-          "end_time": "02:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong, Hong Kong",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKHK",
-          "start_time": "02:45:00",
-          "end_time": "04:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ip Man 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IM2",
-          "start_time": "04:20:00",
-          "end_time": "06:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jealousy",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
-          "start_time": "06:10:00",
-          "end_time": "07:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fight Back To School 3",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FBTS3",
-          "start_time": "07:40:00",
-          "end_time": "09:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Case Of Disappearances",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOD",
-          "start_time": "09:15:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fight Back To School 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FBTS2",
-          "start_time": "10:30:00",
-          "end_time": "12:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Story Of My Son",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOMS",
-          "start_time": "12:10:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Whatever You Want",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WYW",
-          "start_time": "13:30:00",
-          "end_time": "15:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Casino Tycoon 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT2",
-          "start_time": "15:10:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "VR Fighter",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VF",
-          "start_time": "17:00:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mother Vs Mother",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVM",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Initial D",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
-          "start_time": "20:00:00",
-          "end_time": "21:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. Possessed",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
-          "start_time": "21:55:00",
-          "end_time": "23:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nezha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
-          "start_time": "23:35:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-24",
       "programs": [
         {
@@ -224,6 +107,123 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
           "start_time": "22:55:00",
           "end_time": "00:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-25",
+      "programs": [
+        {
+          "show_name": "Lost Memories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Justice, My Foot!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMF",
+          "start_time": "00:30:00",
+          "end_time": "02:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Wusong Vs Ximenqing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WVX",
+          "start_time": "02:10:00",
+          "end_time": "03:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Illegal Immigrant",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TII",
+          "start_time": "03:20:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ghost Wedding",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GW",
+          "start_time": "05:00:00",
+          "end_time": "06:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Royal Tramp",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RT",
+          "start_time": "06:35:00",
+          "end_time": "08:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Lost Bladesman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLB",
+          "start_time": "08:25:00",
+          "end_time": "10:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love On Delivery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOD",
+          "start_time": "10:20:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Unmatchable Match",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UM",
+          "start_time": "12:00:00",
+          "end_time": "13:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fierce Cop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
+          "start_time": "13:45:00",
+          "end_time": "15:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "15:15:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Flying Mr. B",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFMB",
+          "start_time": "16:45:00",
+          "end_time": "18:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Is Love",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LIL",
+          "start_time": "18:25:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Flying Swords Of Dragon Gate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FSODG",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fight Back To School 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FBTS2",
+          "start_time": "22:00:00",
+          "end_time": "23:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gangster, The Cop, The Devil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTCTD",
+          "start_time": "23:40:00",
+          "end_time": "01:15:00",
           "episode_number": ""
         }
       ]

@@ -2,19 +2,19 @@
   "channel_name": "Net.",
   "schedule": {
     "today": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "programs": [
         {
-          "show_name": "Makan Enak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ME",
+          "show_name": "86",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
           "start_time": "00:00:00",
-          "end_time": "01:40:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Masak Gesss!!!",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MG",
-          "start_time": "01:40:00",
+          "start_time": "01:30:00",
           "end_time": "02:45:00",
           "episode_number": ""
         },
@@ -120,20 +120,20 @@
           "show_name": "MD Teledrama: Esmeralda",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTE",
           "start_time": "17:50:00",
-          "end_time": "18:00:00",
+          "end_time": "17:59:00",
           "episode_number": ""
         },
         {
           "show_name": "Ngabuburitnya Adit Sopo Jarwo",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NASJ",
-          "start_time": "18:00:00",
-          "end_time": "18:10:00",
+          "start_time": "17:59:00",
+          "end_time": "18:09:00",
           "episode_number": ""
         },
         {
           "show_name": "MD Teledrama: Esmeralda",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTE",
-          "start_time": "18:10:00",
+          "start_time": "18:09:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
@@ -182,7 +182,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "programs": [
         {
           "show_name": "Makan Enak",
@@ -220,8 +220,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "Jejak Peristiwa",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JP",
+          "show_name": "Menjemput Berkah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
           "start_time": "05:15:00",
           "end_time": "06:50:00",
           "episode_number": ""
@@ -255,23 +255,23 @@
           "episode_number": ""
         },
         {
-          "show_name": "MD Cerita Nyata",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCN",
+          "show_name": "Cinta Fitri S6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFS",
           "start_time": "10:40:00",
-          "end_time": "11:50:00",
+          "end_time": "12:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cinta Fitri S6",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFS",
-          "start_time": "11:50:00",
-          "end_time": "13:30:00",
+          "show_name": "Makandunia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "12:15:00",
+          "end_time": "13:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Makan Enak Spesial Ramadan",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MESR",
-          "start_time": "13:30:00",
+          "start_time": "13:35:00",
           "end_time": "15:05:00",
           "episode_number": ""
         },

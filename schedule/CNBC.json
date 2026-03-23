@@ -2,54 +2,47 @@
   "channel_name": "CNBC",
   "schedule": {
     "today": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "programs": [
         {
-          "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
+          "show_name": "The Exchange",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TE",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Explains",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CE",
+          "show_name": "Power Lunch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PL",
           "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders Playbook",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
-          "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Tonight Show, Jimmy Fallon",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
+          "show_name": "Closing Bell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CB",
           "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Closing Bell: Overtime",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CBO",
+          "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "American Greed",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
+          "show_name": "Fast Money",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FM",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Built For Billions",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BFB",
+          "show_name": "U.S. Markets Edition",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UME",
           "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Tech Download",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
-          "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
@@ -82,16 +75,9 @@
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Explains",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CE",
+          "show_name": "U.S. Markets Edition",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UME",
           "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders Playbook",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
-          "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
@@ -147,7 +133,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "programs": [
         {
           "show_name": "The Exchange",

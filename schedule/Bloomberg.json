@@ -2,61 +2,40 @@
   "channel_name": "Bloomberg",
   "schedule": {
     "today": {
-      "date": "2026-03-23",
+      "date": "2026-03-24",
       "programs": [
         {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+          "show_name": "Bloomberg: Balance Of Power",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBOP",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+          "show_name": "Bloomberg Markets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
+          "show_name": "Bloomberg Markets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The David Rubenstein Show",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
+          "show_name": "Bloomberg Markets: The Close",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMTC",
           "start_time": "02:00:00",
-          "end_time": "02:30:00",
+          "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Studio 1.0",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS1",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaders With Lacqua",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWL",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Wealth With David R.",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWWDR",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
-          "start_time": "04:00:00",
+          "show_name": "Bloomberg...: What'd You Miss?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWYM",
+          "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
@@ -117,8 +96,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "Bloomberg Surveillance: Early",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSE",
+          "show_name": "Bloomberg Technology",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BT",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
@@ -168,7 +147,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-24",
+      "date": "2026-03-25",
       "programs": [
         {
           "show_name": "Bloomberg: Balance Of Power",
