@@ -2,116 +2,6 @@
   "channel_name": "BUDDY STARS",
   "schedule": {
     "today": {
-      "date": "2026-03-25",
-      "programs": [
-        {
-          "show_name": "Autumn & The Black Jaguar",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A&TBJ",
-          "start_time": "00:00:00",
-          "end_time": "00:49:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "00:49:00",
-          "end_time": "02:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dogtanian & 3 Muskehounds",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&3M",
-          "start_time": "02:21:00",
-          "end_time": "04:04:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "04:04:00",
-          "end_time": "05:42:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dolfje Weerwolfje",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "05:42:00",
-          "end_time": "07:23:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "07:23:00",
-          "end_time": "09:14:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Fish Tale",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFT",
-          "start_time": "09:14:00",
-          "end_time": "10:58:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "10:58:00",
-          "end_time": "12:42:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pokemon: Zoroark Master Of...",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZMO",
-          "start_time": "12:42:00",
-          "end_time": "14:31:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "14:31:00",
-          "end_time": "16:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Autumn & The Black Jaguar",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A&TBJ",
-          "start_time": "16:05:00",
-          "end_time": "17:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "17:50:00",
-          "end_time": "19:42:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Snow Queen",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSQ",
-          "start_time": "19:42:00",
-          "end_time": "21:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silver",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "21:02:00",
-          "end_time": "22:46:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Elf-Man",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
-          "start_time": "22:46:00",
-          "end_time": "00:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-26",
       "programs": [
         {
@@ -217,6 +107,116 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FATLM",
           "start_time": "23:06:00",
           "end_time": "00:47:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-27",
+      "programs": [
+        {
+          "show_name": "Faunutland And The Lost Magic",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FATLM",
+          "start_time": "00:00:00",
+          "end_time": "00:47:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "00:47:00",
+          "end_time": "02:26:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pil's Adventures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "02:26:00",
+          "end_time": "04:09:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:09:00",
+          "end_time": "06:09:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rally Caps",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
+          "start_time": "06:09:00",
+          "end_time": "07:48:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "07:48:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Elf-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "09:30:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "11:20:00",
+          "end_time": "12:51:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mikolo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "12:51:00",
+          "end_time": "14:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "14:55:00",
+          "end_time": "16:27:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mister Twister Goes Camping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTGC",
+          "start_time": "16:27:00",
+          "end_time": "17:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "17:53:00",
+          "end_time": "20:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Donkey King",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+          "start_time": "20:04:00",
+          "end_time": "21:56:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silver",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "21:56:00",
+          "end_time": "23:29:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Erik Stoneheart",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
+          "start_time": "23:29:00",
+          "end_time": "01:36:00",
           "episode_number": ""
         }
       ]

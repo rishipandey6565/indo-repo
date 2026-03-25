@@ -2,7 +2,7 @@
   "channel_name": "BTV",
   "schedule": {
     "today": {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "programs": [
         {
           "show_name": "BTV",
@@ -57,27 +57,13 @@
           "show_name": "BTV",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "06:03:00",
-          "end_time": "06:30:00",
+          "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "BTV",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "BTV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "BTV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "08:00:00",
+          "start_time": "07:30:00",
           "end_time": "08:15:00",
           "episode_number": ""
         },
@@ -99,13 +85,6 @@
           "show_name": "BTV",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "BTV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
@@ -127,13 +106,6 @@
           "show_name": "BTV",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "BTV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "13:30:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
@@ -169,13 +141,6 @@
           "show_name": "BTV",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "BTV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
@@ -217,7 +182,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "programs": [
         {
           "show_name": "BTV",

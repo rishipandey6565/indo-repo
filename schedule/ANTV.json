@@ -2,109 +2,6 @@
   "channel_name": "ANTV",
   "schedule": {
     "today": {
-      "date": "2026-03-25",
-      "programs": [
-        {
-          "show_name": "The Iron Fisted Monk",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIFM",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unhuman",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mutation On Mars",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOM",
-          "start_time": "02:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Water Monster",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WM",
-          "start_time": "04:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kids & Soldiers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K&S",
-          "start_time": "06:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Janji Cinta Inspektur Virat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dunki",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
-          "start_time": "09:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jhanak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vasudha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
-          "start_time": "16:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Menggapai Matahari",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ratu Ilmu Hitam",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RIH",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuntilanak 3: Keris Pusaka",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K3KP",
-          "start_time": "21:30:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Middle Man",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-26",
       "programs": [
         {
@@ -201,6 +98,109 @@
         {
           "show_name": "Tiger On Beat 2",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOB2",
+          "start_time": "23:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-27",
+      "programs": [
+        {
+          "show_name": "Tiger On Beat 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOB2",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
+          "start_time": "02:30:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pantai Norasingha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
+          "start_time": "04:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Me & You & A Girl Name Ugly",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&Y&A",
+          "start_time": "06:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Janji Cinta Inspektur Virat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ek Tha Tiger",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETT",
+          "start_time": "09:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jhanak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teri Meri Doriyaann",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vasudha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bunga Desa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nyi Blorong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NB",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kuntilanak: Lingsir Wengi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KLW",
+          "start_time": "21:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Black Cat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "23:30:00",
           "end_time": "01:00:00",
           "episode_number": ""

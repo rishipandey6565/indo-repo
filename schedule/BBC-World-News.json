@@ -2,7 +2,7 @@
   "channel_name": "BBC World News",
   "schedule": {
     "today": {
-      "date": "2026-03-25",
+      "date": "2026-03-26",
       "programs": [
         {
           "show_name": "Verified Live",
@@ -117,8 +117,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "Tech Now",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TN",
+          "show_name": "AI Decoded",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AD",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
@@ -159,8 +159,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "Asia Specific",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "show_name": "BBC Sport",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "10:45:00",
           "end_time": "11:00:00",
           "episode_number": ""
@@ -180,8 +180,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "Asia Specific",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "show_name": "BBC Sport",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "11:45:00",
           "end_time": "12:00:00",
           "episode_number": ""
@@ -357,7 +357,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-26",
+      "date": "2026-03-27",
       "programs": [
         {
           "show_name": "Verified Live",
@@ -472,8 +472,8 @@
           "episode_number": ""
         },
         {
-          "show_name": "AI Decoded",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AD",
+          "show_name": "The Media Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMS",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
