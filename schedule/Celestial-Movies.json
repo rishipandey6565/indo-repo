@@ -2,123 +2,6 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-03-27",
-      "programs": [
-        {
-          "show_name": "Sex Beyond The Grave",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBTG",
-          "start_time": "00:00:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legend Of The Dragon",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
-          "start_time": "00:50:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bare-Footed Kid",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBK",
-          "start_time": "02:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Endless Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
-          "start_time": "04:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Behind The Yellow Line",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTYL",
-          "start_time": "05:30:00",
-          "end_time": "07:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mad Monk",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
-          "start_time": "07:10:00",
-          "end_time": "08:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cruel War",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW",
-          "start_time": "08:40:00",
-          "end_time": "10:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Stuntmen",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
-          "start_time": "10:20:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Grey Men",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM",
-          "start_time": "12:00:00",
-          "end_time": "13:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teenage Dreamers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
-          "start_time": "13:40:00",
-          "end_time": "15:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. Vampire",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
-          "start_time": "15:10:00",
-          "end_time": "16:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fight Back To School 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FBTS2",
-          "start_time": "16:50:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Forbidden City Cop",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FCC",
-          "start_time": "18:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Turns We Take",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWT",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Perfect Girls",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PG",
-          "start_time": "21:40:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fate Jealous Greed",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FJG",
-          "start_time": "23:15:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-28",
       "programs": [
         {
@@ -231,6 +114,123 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWTDS",
           "start_time": "23:20:00",
           "end_time": "00:55:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-29",
+      "programs": [
+        {
+          "show_name": "Girl With The Diamond Slipper",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWTDS",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Get In The Dark",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GITD",
+          "start_time": "00:55:00",
+          "end_time": "02:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Story Of My Son",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOMS",
+          "start_time": "02:35:00",
+          "end_time": "03:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. Vampire Saga 4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVS4",
+          "start_time": "03:55:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Punish Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
+          "start_time": "05:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Open�The Coffin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OC",
+          "start_time": "07:00:00",
+          "end_time": "08:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bangkok Storm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "08:35:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "How To Pick Girls Up!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTPGU",
+          "start_time": "10:00:00",
+          "end_time": "11:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kowloon Walled City",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KWC",
+          "start_time": "11:35:00",
+          "end_time": "13:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. Virgin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
+          "start_time": "13:05:00",
+          "end_time": "14:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Bangkok",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OB",
+          "start_time": "14:35:00",
+          "end_time": "16:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Challenge Of The Gamesters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTG",
+          "start_time": "16:10:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Unbeatable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
+          "start_time": "17:55:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fight Back To School 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FBTS3",
+          "start_time": "20:00:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sorcerer & The White Snake",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS&TW",
+          "start_time": "21:35:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Young Ip Man: Crisis Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
+          "start_time": "23:20:00",
+          "end_time": "00:45:00",
           "episode_number": ""
         }
       ]
