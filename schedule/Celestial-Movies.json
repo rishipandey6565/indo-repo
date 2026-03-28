@@ -2,123 +2,6 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-03-28",
-      "programs": [
-        {
-          "show_name": "Fate Jealous Greed",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FJG",
-          "start_time": "00:00:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Kung Fu Fist",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IKFF",
-          "start_time": "00:50:00",
-          "end_time": "02:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Faithfully Yours",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FY",
-          "start_time": "02:25:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Casino Tycoon 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT2",
-          "start_time": "04:00:00",
-          "end_time": "05:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oily Maniac",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OM",
-          "start_time": "05:50:00",
-          "end_time": "07:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong, Hong Kong",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKHK",
-          "start_time": "07:15:00",
-          "end_time": "08:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cop Shop Babes",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSB",
-          "start_time": "08:50:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Grey Men 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM2",
-          "start_time": "10:25:00",
-          "end_time": "12:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mother Vs Mother",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVM",
-          "start_time": "12:10:00",
-          "end_time": "13:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. Vampire 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV2",
-          "start_time": "13:45:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Lifeline",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
-          "start_time": "15:15:00",
-          "end_time": "17:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iceman: The Time Traveler",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITTT",
-          "start_time": "17:05:00",
-          "end_time": "18:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Out Of The Dark",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OOTD",
-          "start_time": "18:35:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Look Out, Officer!",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOO",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ip Man 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IM2",
-          "start_time": "21:30:00",
-          "end_time": "23:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Girl With The Diamond Slipper",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWTDS",
-          "start_time": "23:20:00",
-          "end_time": "00:55:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-29",
       "programs": [
         {
@@ -231,6 +114,123 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
           "start_time": "23:20:00",
           "end_time": "00:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-30",
+      "programs": [
+        {
+          "show_name": "Young Ip Man: Crisis Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Punch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "00:45:00",
+          "end_time": "02:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Case Of Disappearances",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOD",
+          "start_time": "02:20:00",
+          "end_time": "03:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Flying Swords Of Dragon Gate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FSODG",
+          "start_time": "03:35:00",
+          "end_time": "05:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Face To Face",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTF",
+          "start_time": "05:35:00",
+          "end_time": "07:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love On Delivery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOD",
+          "start_time": "07:10:00",
+          "end_time": "08:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mighty Peking Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMPM",
+          "start_time": "08:50:00",
+          "end_time": "10:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Destiny's Champion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DC",
+          "start_time": "10:20:00",
+          "end_time": "12:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My Darling Genie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDG",
+          "start_time": "12:05:00",
+          "end_time": "13:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shark Busters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SB",
+          "start_time": "13:40:00",
+          "end_time": "15:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cherie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "15:15:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "King Of Beggars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOB",
+          "start_time": "16:45:00",
+          "end_time": "18:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. Vampire 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV3",
+          "start_time": "18:25:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Let's Make Laugh",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LML",
+          "start_time": "20:00:00",
+          "end_time": "21:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sixty Million Dollar Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMDM",
+          "start_time": "21:40:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Revenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "23:10:00",
+          "end_time": "00:40:00",
           "episode_number": ""
         }
       ]

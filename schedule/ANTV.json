@@ -2,109 +2,6 @@
   "channel_name": "ANTV",
   "schedule": {
     "today": {
-      "date": "2026-03-28",
-      "programs": [
-        {
-          "show_name": "Black Cat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "102 Bangkok Robbery",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1BR",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Haunted School",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
-          "start_time": "02:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Haunted Universities",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HU",
-          "start_time": "04:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Kids",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KK",
-          "start_time": "06:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Janji Cinta Inspektur Virat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tiger Zinda Hai",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TZH",
-          "start_time": "09:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jhanak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vasudha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
-          "start_time": "16:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Malin Kundang",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MK",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Perkawinan Nyi Blorong",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PNB",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuntilanak 2: Teror Mangkujiwo",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K2TM",
-          "start_time": "21:30:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Black Cat 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-29",
       "programs": [
         {
@@ -201,6 +98,109 @@
         {
           "show_name": "Madu Murni",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "23:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-30",
+      "programs": [
+        {
+          "show_name": "Madu Murni",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "City War",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mah-Aut",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "02:30:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Zero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=Z",
+          "start_time": "04:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kasautii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "06:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Janji Cinta Inspektur Virat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Singham Return",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
+          "start_time": "09:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jhanak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teri Meri Doriyaann",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vasudha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Si Buta Lawan Jaka Sembung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBLJS",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Malam Satu Syuro",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSS",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Doll",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "21:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of The Best",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTB",
           "start_time": "23:30:00",
           "end_time": "01:00:00",
           "episode_number": ""
