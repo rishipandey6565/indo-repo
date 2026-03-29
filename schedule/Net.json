@@ -2,324 +2,338 @@
   "channel_name": "Net.",
   "schedule": {
     "today": {
-      "date": "2026-03-29",
-      "programs": [
-        {
-          "show_name": "Malam Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MM.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rt 5",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./R5.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tawa Tawa Santai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./TTS.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Keajaiban Dunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./KD.svg",
-          "start_time": "02:50:00",
-          "end_time": "03:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Top Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./TS.svg",
-          "start_time": "03:50:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Risalah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./R.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Menjemput Berkah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MB.svg",
-          "start_time": "05:40:00",
-          "end_time": "06:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "AADD (Ada Apa Dengan Dunia)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./AADD.svg",
-          "start_time": "06:50:00",
-          "end_time": "08:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fakta +62 Weekend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./FW.svg",
-          "start_time": "08:05:00",
-          "end_time": "08:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sensasihot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./S.svg",
-          "start_time": "08:55:00",
-          "end_time": "09:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Emak-Emak Petualang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./EP.svg",
-          "start_time": "09:50:00",
-          "end_time": "10:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cinta Fitri S6",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./CFS.svg",
-          "start_time": "10:40:00",
-          "end_time": "12:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Makandunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./M.svg",
-          "start_time": "12:15:00",
-          "end_time": "13:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Makan Enak Spesial Lebaran",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MESL.svg",
-          "start_time": "13:35:00",
-          "end_time": "15:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Masak Gesss!!! Spesial Lebaran",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MGSL.svg",
-          "start_time": "15:05:00",
-          "end_time": "16:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Adit Sopo Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./ASJ.svg",
-          "start_time": "16:15:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Teledrama: Amigos X Siempre",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MTAXS.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Teledrama: Esmeralda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MTE.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Series: Keluarga Yang Tak Dirindukan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSKYT.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Series: Dunia Tanpa Tuhan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSDTT.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Sinema Spesial Lebaran: Surga Yang Tak Dirindukan 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSSLS.svg",
-          "start_time": "21:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MD Sinema Spesial: Mendadak Kaya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSSMK.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-30",
       "programs": [
         {
-          "show_name": "MD Sinema Spesial: Mendadak Kaya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSSMK.svg",
+          "show_name": "Malam Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Rt 5",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./R5.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R5",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tawa Tawa Santai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "02:00:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Keajaiban Dunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./KD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KD",
           "start_time": "02:50:00",
           "end_time": "03:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "03:50:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Risalah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
           "start_time": "05:00:00",
           "end_time": "05:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Menjemput Berkah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
           "start_time": "05:40:00",
           "end_time": "06:50:00",
           "episode_number": ""
         },
         {
           "show_name": "AADD (Ada Apa Dengan Dunia)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./AADD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A(ADD",
           "start_time": "06:50:00",
           "end_time": "08:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Fakta +62",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./F.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F+",
           "start_time": "08:05:00",
           "end_time": "08:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Sensasihot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:55:00",
           "end_time": "09:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Maria Cinta Yang Hilang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MCYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCYH",
           "start_time": "09:50:00",
           "end_time": "10:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Cinta Fitri S6",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./CFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFS",
           "start_time": "10:40:00",
           "end_time": "12:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Makandunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
           "start_time": "12:15:00",
           "end_time": "13:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Makan Enak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./ME.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ME",
           "start_time": "13:35:00",
           "end_time": "15:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Masak Gesss!!!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MG",
           "start_time": "15:05:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Adit Sopo Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./ASJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASJ",
           "start_time": "16:15:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MD Teledrama: Amigos X Siempre",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MTAXS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTAXS",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MD Teledrama: Esmeralda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MTE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTE",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MD Series: Keluarga Yang Tak Dirindukan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSKYT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSKYT",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MD Series: Dunia Tanpa Tuhan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MSDTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDTT",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MD C-Drama: The Return Of The Condor Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./MCTRO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCTRO",
           "start_time": "21:00:00",
           "end_time": "21:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Jatanras",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
           "start_time": "21:50:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "86",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net./8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
+          "start_time": "23:15:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-03-31",
+      "programs": [
+        {
+          "show_name": "86",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Malam Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "00:05:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rt 5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R5",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tawa Tawa Santai",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "02:00:00",
+          "end_time": "02:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Keajaiban Dunia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KD",
+          "start_time": "02:50:00",
+          "end_time": "03:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Top Spot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "03:50:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Risalah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "05:00:00",
+          "end_time": "05:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Menjemput Berkah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "05:40:00",
+          "end_time": "06:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AADD (Ada Apa Dengan Dunia)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A(ADD",
+          "start_time": "06:50:00",
+          "end_time": "08:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fakta +62",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F+",
+          "start_time": "08:05:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sensasihot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "08:55:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Maria Cinta Yang Hilang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCYH",
+          "start_time": "09:50:00",
+          "end_time": "10:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cinta Fitri S6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFS",
+          "start_time": "10:40:00",
+          "end_time": "12:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Makandunia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "12:15:00",
+          "end_time": "13:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Makan Enak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ME",
+          "start_time": "13:35:00",
+          "end_time": "15:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Masak Gesss!!!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MG",
+          "start_time": "15:05:00",
+          "end_time": "16:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Adit Sopo Jarwo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASJ",
+          "start_time": "16:15:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MD Teledrama: Amigos X Siempre",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTAXS",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MD Teledrama: Esmeralda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTE",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MD Series: Keluarga Yang Tak Dirindukan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSKYT",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MD Series: Dunia Tanpa Tuhan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDTT",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MD C-Drama: The Return Of The Condor Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCTRO",
+          "start_time": "21:00:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jatanras",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "21:50:00",
+          "end_time": "23:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "86",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
           "start_time": "23:15:00",
           "end_time": "00:05:00",
           "episode_number": ""
