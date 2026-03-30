@@ -2,200 +2,6 @@
   "channel_name": "Channel News Asia",
   "schedule": {
     "today": {
-      "date": "2026-03-30",
-      "programs": [
-        {
-          "show_name": "Insight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": "E44"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": "E37"
-        },
-        {
-          "show_name": "Money Mind",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "E44"
-        },
-        {
-          "show_name": "On The Red Dot",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTRD",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "E43"
-        },
-        {
-          "show_name": "Asia Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Byte The Habit",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTH",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "CNA Tech Challenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": "E37"
-        },
-        {
-          "show_name": "Asia First",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AF",
-          "start_time": "06:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Tech Challenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
-          "start_time": "10:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Tech Challenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "An Unequal Heatwave",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUH",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
-          "start_time": "16:00:00",
-          "end_time": "16:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Insight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
-          "start_time": "16:02:00",
-          "end_time": "17:00:00",
-          "episode_number": "E44"
-        },
-        {
-          "show_name": "East Asia Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Money Mind",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E44"
-        },
-        {
-          "show_name": "On The Red Dot",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTRD",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "E43"
-        },
-        {
-          "show_name": "Asia Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Tech Challenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Tech Challenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
-          "start_time": "23:00:00",
-          "end_time": "23:03:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "East Asia Tonight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
-          "start_time": "23:03:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-31",
       "programs": [
         {
@@ -344,6 +150,172 @@
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": "E3"
+        },
+        {
+          "show_name": "Headline News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
+          "start_time": "23:00:00",
+          "end_time": "23:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "East Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
+          "start_time": "23:03:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-01",
+      "programs": [
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Singapore Hour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "E39"
+        },
+        {
+          "show_name": "Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asia First",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AF",
+          "start_time": "06:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Asia Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Asia Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "E44"
+        },
+        {
+          "show_name": "Headline News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
+          "start_time": "16:00:00",
+          "end_time": "16:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "16:02:00",
+          "end_time": "17:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "East Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Money Mind",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "CNA Correspondent",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge: BTS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTCB",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNA Tech Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTC",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E4"
         },
         {
           "show_name": "Headline News",

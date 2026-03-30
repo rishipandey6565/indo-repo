@@ -2,116 +2,6 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-03-30",
-      "programs": [
-        {
-          "show_name": "The Shadow Boxing",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSB",
-          "start_time": "00:00:00",
-          "end_time": "01:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Chinatown Kid",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
-          "start_time": "01:05:00",
-          "end_time": "02:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Water Margin",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
-          "start_time": "02:40:00",
-          "end_time": "04:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong Rhapsody",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKR",
-          "start_time": "04:50:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Swift Knight",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSK",
-          "start_time": "07:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Love With The Perfect Stranger",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWTPS",
-          "start_time": "08:30:00",
-          "end_time": "10:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bells Of Death",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBOD",
-          "start_time": "10:10:00",
-          "end_time": "11:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pale Passion",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP",
-          "start_time": "11:45:00",
-          "end_time": "13:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Taste Of Cold Steel",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATOCS",
-          "start_time": "13:25:00",
-          "end_time": "14:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Song Of Orchid Island",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOOI",
-          "start_time": "14:55:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Marco Polo",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
-          "start_time": "16:30:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Carry On Doctors And Nurses",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CODAN",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Reincarnated Swordsman",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RS",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Human Lanterns",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HL",
-          "start_time": "21:40:00",
-          "end_time": "23:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Golden Buddha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGB",
-          "start_time": "23:20:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-31",
       "programs": [
         {
@@ -217,6 +107,116 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTRL",
           "start_time": "23:05:00",
           "end_time": "00:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-01",
+      "programs": [
+        {
+          "show_name": "Temple Of The Red Lotus",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTRL",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Moonlight Serenade",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MS",
+          "start_time": "00:45:00",
+          "end_time": "02:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Pure And The Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPATE",
+          "start_time": "02:40:00",
+          "end_time": "04:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My Dream Boat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDB",
+          "start_time": "04:20:00",
+          "end_time": "06:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Brave Archer 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBA3",
+          "start_time": "06:35:00",
+          "end_time": "08:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gossip Street",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GS",
+          "start_time": "08:15:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The King Boxer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKB",
+          "start_time": "09:45:00",
+          "end_time": "11:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Younger Generation",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYG",
+          "start_time": "11:35:00",
+          "end_time": "13:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Trail Of The Broken Blade",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOTB",
+          "start_time": "13:10:00",
+          "end_time": "15:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Beyond The Great Wall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTGW",
+          "start_time": "15:05:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bat Without Wings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWW",
+          "start_time": "16:45:00",
+          "end_time": "18:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blue Skies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "18:20:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ambush",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "20:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Crimson Palm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCP",
+          "start_time": "21:45:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Crimson Charm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCC",
+          "start_time": "23:10:00",
+          "end_time": "00:55:00",
           "episode_number": ""
         }
       ]

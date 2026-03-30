@@ -2,12 +2,19 @@
   "channel_name": "Net.",
   "schedule": {
     "today": {
-      "date": "2026-03-30",
+      "date": "2026-03-31",
       "programs": [
+        {
+          "show_name": "86",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
         {
           "show_name": "Malam Malam",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
-          "start_time": "00:00:00",
+          "start_time": "00:05:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
@@ -168,7 +175,7 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-03-31",
+      "date": "2026-04-01",
       "programs": [
         {
           "show_name": "86",

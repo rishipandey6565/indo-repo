@@ -2,200 +2,6 @@
   "channel_name": "BBC Earth",
   "schedule": {
     "today": {
-      "date": "2026-03-30",
-      "programs": [
-        {
-          "show_name": "Where Wild Men Are",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
-          "start_time": "00:30:00",
-          "end_time": "01:25:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Portillo's Andalucia",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
-          "start_time": "01:25:00",
-          "end_time": "02:15:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Great Wall With Ash",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWWA",
-          "start_time": "02:15:00",
-          "end_time": "03:15:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Mad About Seafood",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
-          "start_time": "03:15:00",
-          "end_time": "04:10:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Where Wild Men Are",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
-          "start_time": "04:10:00",
-          "end_time": "05:00:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Deadliest Weather",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "05:00:00",
-          "end_time": "05:55:00",
-          "episode_number": "S5 E2"
-        },
-        {
-          "show_name": "Big Cats 24/7",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "05:55:00",
-          "end_time": "07:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Portillo's Long Weekends",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
-          "start_time": "07:00:00",
-          "end_time": "07:50:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Mad About Seafood",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
-          "start_time": "07:50:00",
-          "end_time": "08:50:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Where Wild Men Are",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
-          "start_time": "08:50:00",
-          "end_time": "09:40:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
-          "start_time": "09:40:00",
-          "end_time": "10:35:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Deadliest Weather",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "10:35:00",
-          "end_time": "11:30:00",
-          "episode_number": "S5 E2"
-        },
-        {
-          "show_name": "Blue Planet",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
-          "start_time": "11:30:00",
-          "end_time": "12:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Big Cats 24/7",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "12:30:00",
-          "end_time": "13:35:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
-          "start_time": "13:35:00",
-          "end_time": "14:25:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Deadliest Weather",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
-          "start_time": "14:25:00",
-          "end_time": "15:20:00",
-          "episode_number": "S5 E2"
-        },
-        {
-          "show_name": "Portillo's Long Weekends",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
-          "start_time": "15:20:00",
-          "end_time": "16:10:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Mad About Seafood",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
-          "start_time": "16:10:00",
-          "end_time": "17:10:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Big Cats 24/7",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "17:10:00",
-          "end_time": "18:15:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Portillo's Long Weekends",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
-          "start_time": "18:15:00",
-          "end_time": "19:00:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Big Cats 24/7",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "19:00:00",
-          "end_time": "20:05:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Big Adv.: Thailand",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
-          "start_time": "20:05:00",
-          "end_time": "20:55:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "The Superfactories",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
-          "start_time": "20:55:00",
-          "end_time": "21:45:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Portillo's Long Weekends",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
-          "start_time": "21:45:00",
-          "end_time": "22:35:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Big Cats 24/7",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
-          "start_time": "22:35:00",
-          "end_time": "23:45:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Big Adv.: Thailand",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
-          "start_time": "23:45:00",
-          "end_time": "00:35:00",
-          "episode_number": "S1 E1"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-03-31",
       "programs": [
         {
@@ -386,6 +192,200 @@
           "start_time": "23:35:00",
           "end_time": "00:35:00",
           "episode_number": "S2 E3"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-01",
+      "programs": [
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "00:35:00",
+          "end_time": "01:25:00",
+          "episode_number": "S10 E7"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "01:25:00",
+          "end_time": "02:15:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Big Adv.: Thailand",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
+          "start_time": "02:15:00",
+          "end_time": "03:05:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "03:05:00",
+          "end_time": "04:10:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Secret Life Of Trees",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLOT",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Big Adv.: Thailand",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
+          "start_time": "06:00:00",
+          "end_time": "06:55:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "06:55:00",
+          "end_time": "07:45:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Secret Life Of Trees",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLOT",
+          "start_time": "07:45:00",
+          "end_time": "08:40:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "08:40:00",
+          "end_time": "09:40:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Big Adv.: Thailand",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
+          "start_time": "09:40:00",
+          "end_time": "10:35:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "10:35:00",
+          "end_time": "11:30:00",
+          "episode_number": "S10 E7"
+        },
+        {
+          "show_name": "Dynasties",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "11:30:00",
+          "end_time": "12:30:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Secret Life Of Trees",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLOT",
+          "start_time": "12:30:00",
+          "end_time": "13:25:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Big Adv.: Thailand",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
+          "start_time": "13:25:00",
+          "end_time": "14:25:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "14:25:00",
+          "end_time": "15:25:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "15:25:00",
+          "end_time": "16:15:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Secret Life Of Trees",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLOT",
+          "start_time": "16:15:00",
+          "end_time": "17:10:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "17:10:00",
+          "end_time": "18:05:00",
+          "episode_number": "S10 E7"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "18:05:00",
+          "end_time": "19:00:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Primates",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "20:00:00",
+          "end_time": "20:55:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "20:55:00",
+          "end_time": "21:50:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Portillo's Long Weekends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLW",
+          "start_time": "21:50:00",
+          "end_time": "22:40:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Primates",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "22:40:00",
+          "end_time": "23:40:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "23:40:00",
+          "end_time": "00:30:00",
+          "episode_number": "S1 E6"
         }
       ]
     }
