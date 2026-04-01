@@ -2,109 +2,6 @@
   "channel_name": "ANTV",
   "schedule": {
     "today": {
-      "date": "2026-04-01",
-      "programs": [
-        {
-          "show_name": "Best Of The Best 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTB2",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Commitment",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mystic Blade",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
-          "start_time": "02:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kapoor & Sons",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K&S",
-          "start_time": "04:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kasautii",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
-          "start_time": "06:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Janji Cinta Inspektur Virat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Simmba",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
-          "start_time": "09:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jhanak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vasudha",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
-          "start_time": "16:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bajing Ireng & Jaka Sembung",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BI&JS",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Santet: Pelebur Nyawa",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SPN",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Doll 3",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD3",
-          "start_time": "21:30:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of The Best 3",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTB3",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-02",
       "programs": [
         {
@@ -201,6 +98,109 @@
         {
           "show_name": "Best Of The Best 4",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTB4",
+          "start_time": "23:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-03",
+      "programs": [
+        {
+          "show_name": "Best Of The Best 4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTB4",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Low Season",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hitman File",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HF",
+          "start_time": "02:30:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Paaheli",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "04:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kasautii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "06:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Janji Cinta Inspektur Virat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dilwale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "09:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jhanak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teri Meri Doriyaann",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vasudha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jin Galunggung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JG",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Petualangan Cinta Nyi Blorong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCNB",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mata Batin 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB2",
+          "start_time": "21:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "No Holds Barred",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NHB",
           "start_time": "23:30:00",
           "end_time": "01:00:00",
           "episode_number": ""

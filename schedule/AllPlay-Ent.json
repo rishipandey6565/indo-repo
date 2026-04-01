@@ -2,228 +2,6 @@
   "channel_name": "AllPlay Ent",
   "schedule": {
     "today": {
-      "date": "2026-04-01",
-      "programs": [
-        {
-          "show_name": "Crazy Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CL",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Academy Of Pop",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOP",
-          "start_time": "01:30:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Waktunya Srimulat Bercyanda",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WSB",
-          "start_time": "01:45:00",
-          "end_time": "02:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Final Draft",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FD",
-          "start_time": "02:45:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ini Dia",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Agent 0812",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
-          "start_time": "03:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Masak Enak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ME",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Other Side Of Fiki Naki",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSOF",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Bestie",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SB",
-          "start_time": "05:30:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Neptune TV.",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Apose",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
-          "start_time": "07:00:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kisah Para Nabi",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPN",
-          "start_time": "07:45:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Brownies",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ikatan Cinta",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Lapor Pak",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Puasin",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Agent 0812",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rumpi (No Secret)",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R(S",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crazy Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CL",
-          "start_time": "14:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Undo",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bandelnya Judith",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Agent 0812",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
-          "start_time": "16:30:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "COD (Celeb On Date)",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C(OD",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ini Dia",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kisah Para Nabi",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPN",
-          "start_time": "18:30:00",
-          "end_time": "18:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Academy Of Pop",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOP",
-          "start_time": "18:45:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Agent 0812",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ikatan Cinta",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crazy Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CL",
-          "start_time": "21:00:00",
-          "end_time": "22:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ckckck",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
-          "start_time": "22:30:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sehati Semati",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "23:15:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-02",
       "programs": [
         {
@@ -432,6 +210,235 @@
         {
           "show_name": "Lampor ; Keranda Terbang",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L;KT",
+          "start_time": "21:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ckckck",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "22:30:00",
+          "end_time": "23:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sehati Semati",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "23:15:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-03",
+      "programs": [
+        {
+          "show_name": "Pocong The Origin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTO",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Academy Of Pop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOP",
+          "start_time": "01:30:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Waktunya Srimulat Bercyanda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WSB",
+          "start_time": "01:45:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ini Dia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent 0812",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
+          "start_time": "03:30:00",
+          "end_time": "04:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jajan Terus",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JT",
+          "start_time": "04:15:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Other Side Of Fiki Naki",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSOF",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Bestie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SB",
+          "start_time": "05:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Neptune TV.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Apose",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "07:00:00",
+          "end_time": "07:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kisah Para Nabi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPN",
+          "start_time": "07:45:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brownies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ikatan Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lapor Pak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Puasin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent 0812",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
+          "start_time": "12:00:00",
+          "end_time": "12:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Final Draft",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FD",
+          "start_time": "12:45:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rumpi (No Secret)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R(S",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pocong The Origin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTO",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "COD (Celeb On Date)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C(OD",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bandelnya Judith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent 0812",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
+          "start_time": "16:30:00",
+          "end_time": "17:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Komedi Maksimal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
+          "start_time": "17:15:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ini Dia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ID",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kisah Para Nabi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPN",
+          "start_time": "18:30:00",
+          "end_time": "18:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Academy Of Pop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOP",
+          "start_time": "18:45:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent 0812",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A0",
+          "start_time": "19:00:00",
+          "end_time": "19:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Final Draft",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FD",
+          "start_time": "19:45:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ikatan Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pocong The Origin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTO",
           "start_time": "21:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
