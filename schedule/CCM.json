@@ -2,109 +2,6 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-04-02",
-      "programs": [
-        {
-          "show_name": "Forbidden Tales Of Two Cities",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTOTC",
-          "start_time": "00:55:00",
-          "end_time": "02:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Invincible Fist",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIF",
-          "start_time": "02:40:00",
-          "end_time": "04:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Enchantress",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TE",
-          "start_time": "04:25:00",
-          "end_time": "06:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Diau Charn",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DC",
-          "start_time": "06:05:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "King Cat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
-          "start_time": "07:45:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Comedy Of Mismatches",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOM",
-          "start_time": "09:20:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Proud Twins",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPT",
-          "start_time": "11:00:00",
-          "end_time": "12:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bride From Hell",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBFH",
-          "start_time": "12:55:00",
-          "end_time": "14:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The New Shaolin Boxers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNSB",
-          "start_time": "14:20:00",
-          "end_time": "16:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Call Of The Sea",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTS",
-          "start_time": "16:05:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Assassin",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TA",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crazy Shaolin Disciples",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
-          "start_time": "20:00:00",
-          "end_time": "21:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Killers On Wheels",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOW",
-          "start_time": "21:35:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Twin Bracelets",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTB",
-          "start_time": "23:15:00",
-          "end_time": "00:55:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-03",
       "programs": [
         {
@@ -210,6 +107,116 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSS",
           "start_time": "23:40:00",
           "end_time": "01:25:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-04",
+      "programs": [
+        {
+          "show_name": "The Sentimental Swordsman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSS",
+          "start_time": "00:00:00",
+          "end_time": "01:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hell Has No Boundary",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHNB",
+          "start_time": "01:25:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Cave Of Silken Web",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOSW",
+          "start_time": "03:00:00",
+          "end_time": "04:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Disco Bumpkins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DB",
+          "start_time": "04:35:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Heaven Sword & Dragon Sabre 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS&DS",
+          "start_time": "06:10:00",
+          "end_time": "07:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hex After Hex",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HAH",
+          "start_time": "07:55:00",
+          "end_time": "09:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Return Of Reincarnated...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROR",
+          "start_time": "09:35:00",
+          "end_time": "11:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "We Love Millionaires",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WLM",
+          "start_time": "11:15:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Life Gamble",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
+          "start_time": "13:00:00",
+          "end_time": "14:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Adv. Of Emperor Chien Lung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOEC",
+          "start_time": "14:45:00",
+          "end_time": "16:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shaolin Abbot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SA",
+          "start_time": "16:35:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Without End",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWE",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Clans Of Intrigue",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COI",
+          "start_time": "20:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Land Of Many Perfumes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOMP",
+          "start_time": "21:45:00",
+          "end_time": "23:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Rescue",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "23:15:00",
+          "end_time": "00:45:00",
           "episode_number": ""
         }
       ]

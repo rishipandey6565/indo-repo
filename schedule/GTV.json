@@ -2,130 +2,6 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-04-02",
-      "programs": [
-        {
-          "show_name": "Jelajah Mitos",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JM",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crime KV",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Naik Enak Turun Ogah",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NETO",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Awas Ada Sule",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
-          "start_time": "03:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ragam Pagi",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "06:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Obrolan Seputar Selebriti",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OSS",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "10:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "12:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "14:30:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "New Family 100",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NF1",
-          "start_time": "18:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Special Police & Snake Revenge",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP&SR",
-          "start_time": "19:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Radio",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kisah Viral",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-03",
       "programs": [
         {
@@ -229,6 +105,130 @@
         {
           "show_name": "Dikejar Tali Pocong",
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DTP",
+          "start_time": "22:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-04",
+      "programs": [
+        {
+          "show_name": "Jelajah Mitos",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JM",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Crime KV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Naik Enak Turun Ogah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NETO",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Awas Ada Sule",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
+          "start_time": "03:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ragam Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
+          "start_time": "05:00:00",
+          "end_time": "06:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bima-S",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "06:15:00",
+          "end_time": "06:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bernard Bear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "06:45:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "07:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "10:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Secret Of Assasins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOA",
+          "start_time": "12:30:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Naruto Shippuden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "13:30:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "14:30:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "16:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Family 100",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NF1",
+          "start_time": "18:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Equilibrium",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "19:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Starless Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASN",
+          "start_time": "21:30:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Juragan Pelet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JP",
           "start_time": "22:30:00",
           "end_time": "00:00:00",
           "episode_number": ""

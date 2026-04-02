@@ -2,102 +2,6 @@
   "channel_name": "CINEEDGE",
   "schedule": {
     "today": {
-      "date": "2026-04-02",
-      "programs": [
-        {
-          "show_name": "Edison",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
-          "start_time": "01:46:00",
-          "end_time": "03:29:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bulletstorm",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "03:29:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shadow Wolves",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SW",
-          "start_time": "05:30:00",
-          "end_time": "07:11:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blood Rush",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
-          "start_time": "07:11:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Debt Collector",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDC",
-          "start_time": "09:00:00",
-          "end_time": "10:38:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bulletstorm",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "10:38:00",
-          "end_time": "12:39:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Daughter Of The Wolf",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOTW",
-          "start_time": "12:39:00",
-          "end_time": "14:09:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blood Rush",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
-          "start_time": "14:09:00",
-          "end_time": "15:57:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Killerman",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
-          "start_time": "15:57:00",
-          "end_time": "17:48:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bulletstorm",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
-          "start_time": "17:48:00",
-          "end_time": "19:38:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Repeater",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
-          "start_time": "19:38:00",
-          "end_time": "21:29:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blood Rush",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
-          "start_time": "21:29:00",
-          "end_time": "23:23:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Taken From Rio Bravo",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFRB",
-          "start_time": "23:23:00",
-          "end_time": "00:43:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-03",
       "programs": [
         {
@@ -196,6 +100,109 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "23:28:00",
           "end_time": "01:21:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-04",
+      "programs": [
+        {
+          "show_name": "Bulletstorm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:00:00",
+          "end_time": "01:21:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunt To Kill",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTK",
+          "start_time": "01:21:00",
+          "end_time": "03:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blood Rush",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "03:05:00",
+          "end_time": "05:01:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Killing Season",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
+          "start_time": "05:01:00",
+          "end_time": "06:39:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bulletstorm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "06:39:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Repeater",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "08:30:00",
+          "end_time": "10:24:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blood Rush",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "10:24:00",
+          "end_time": "12:43:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hard Kill",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HK",
+          "start_time": "12:43:00",
+          "end_time": "14:23:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bulletstorm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "14:23:00",
+          "end_time": "16:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Debt Collector",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDC",
+          "start_time": "16:04:00",
+          "end_time": "17:44:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blood Rush",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "17:44:00",
+          "end_time": "19:52:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Debt Collector",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDC",
+          "start_time": "19:52:00",
+          "end_time": "21:31:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bulletstorm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "21:31:00",
+          "end_time": "23:27:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Scorched Earth",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SE",
+          "start_time": "23:27:00",
+          "end_time": "01:04:00",
           "episode_number": ""
         }
       ]
