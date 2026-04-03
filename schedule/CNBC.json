@@ -2,408 +2,401 @@
   "channel_name": "CNBC",
   "schedule": {
     "today": {
-      "date": "2026-04-03",
-      "programs": [
-        {
-          "show_name": "The Exchange",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TE.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Power Lunch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/PL.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Closing Bell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CB.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Closing Bell: Overtime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CBO.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fast Money",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FM.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On Assignment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/OA.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On Assignment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/OA.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Managing Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/MA.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Managing Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/MA.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Closing Bell: Overtime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CBO.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fast Money",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FM.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Managing Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/MA.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Managing Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/MA.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Cures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CC.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On Assignment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/OA.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On Assignment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/OA.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Explains",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CE.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Explains",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CE.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Built For Billions 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB1.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Built For Billions 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB2.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Cures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CC.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unlocked",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/U.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unlocked",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/U.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Warren Buffet: A Life & Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/WBAL.svg",
-          "start_time": "20:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Cures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CC.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-04",
       "programs": [
         {
           "show_name": "Unlocked",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Unlocked",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Warren Buffet: A Life & Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/WBAL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WBAL&",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Leaders Playbook",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tech Download",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "On Assignment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/OA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OA",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CNBC Cures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Channel Japan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tech Download",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "PGA Tour: Texas Children's...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/PTTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTTC",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "BP Ultimate Rally Raid Portugal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BURRP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BURRP",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "AlUla Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AT2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT2",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Road To Converge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/RTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Score",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Leaders Playbook",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Founder Effect",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tonight Show, Jimmy Fallon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTSJF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Road To Converge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/RTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Score",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
+          "start_time": "23:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-05",
+      "programs": [
+        {
+          "show_name": "Late Night With Seth Meyers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders Playbook",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Founder Effect",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tonight Show, Jimmy Fallon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To Converge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Score",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders Playbook",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Founder Effect",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To Converge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Score",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders Playbook",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Founder Effect",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "PGA Tour: Texas Children's...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTTC",
+          "start_time": "11:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rolex China Sea Race",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCSR",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1H2O Review",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FR",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNBC Sports",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNBC Sports",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Late Night With Seth Meyers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Channel Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Founder Effect",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To Converge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Score",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tonight Show, Jimmy Fallon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders Playbook",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Founder Effect",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Late Night With Seth Meyers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "23:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
