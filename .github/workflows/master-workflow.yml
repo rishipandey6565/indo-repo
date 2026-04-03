@@ -1,4 +1,4 @@
-name: Daily Pipeline
+  name: Daily Pipeline
 
 on:
   schedule:
@@ -70,12 +70,12 @@ jobs:
   # ─────────────────────────────────────────
   download-logos:
     runs-on: ubuntu-latest
-    needs: epg-scraper  # waits for Job 1 to finish
+    needs: epg-scraper
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
         with:
-          ref: main        # explicitly fetch latest main (picks up Job 1's push)
+          ref: main
           fetch-depth: 0
 
       - name: Set up Python
@@ -86,17 +86,17 @@ jobs:
       - name: Install Dependencies
         run: pip install requests
 
+      - name: Pull latest before running script
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase origin main   # ← clean tree here, so this always works
+
       - name: Run Logo Downloader
         run: python scripts/download_logos.py
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Pull first to avoid rebase conflicts on push
-          git pull --rebase origin main
-
           git add .
           if git diff --staged --quiet; then
             echo "No changes to commit"
