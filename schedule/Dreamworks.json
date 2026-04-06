@@ -2,53 +2,53 @@
   "channel_name": "Dreamworks",
   "schedule": {
     "today": {
-      "date": "2026-04-06",
+      "date": "2026-04-07",
       "programs": [
         {
-          "show_name": "Kung Fu Panda: Paws Of Destiny",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFPPO",
+          "show_name": "3Below: Tales Of Arcadia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3TOA",
           "start_time": "00:10:00",
           "end_time": "00:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Adv. Of Puss In Boots",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOPI",
+          "show_name": "3Below: Tales Of Arcadia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3TOA",
           "start_time": "00:35:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Boss Baby: Back In The Crib",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBBIT",
+          "show_name": "Gabby's Dollhouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "01:00:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Boss Baby: Back In The Crib",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBBIT",
+          "show_name": "Gabby's Dollhouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "01:25:00",
           "end_time": "01:50:00",
           "episode_number": ""
         },
         {
-          "show_name": "Voltron: Legendary Defender",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VLD",
+          "show_name": "Gabby's Dollhouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "01:50:00",
           "end_time": "02:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Voltron: Legendary Defender",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VLD",
+          "show_name": "Gabby's Dollhouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "02:15:00",
           "end_time": "02:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "Spirit Riding Free",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SRF",
+          "show_name": "Gabby's Dollhouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "02:40:00",
           "end_time": "03:05:00",
           "episode_number": ""
@@ -68,44 +68,30 @@
           "episode_number": ""
         },
         {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
+          "show_name": "Postman Pat: Special Delivery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPSD",
           "start_time": "03:30:00",
           "end_time": "03:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
+          "show_name": "Postman Pat: Special Delivery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPSD",
           "start_time": "03:45:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
+          "show_name": "Turbo F.A.S.T.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
           "start_time": "04:00:00",
-          "end_time": "04:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
-          "start_time": "04:15:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
+          "show_name": "Turbo F.A.S.T.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
           "start_time": "04:30:00",
-          "end_time": "04:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roary The Racing Car",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTRC",
-          "start_time": "04:45:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
@@ -353,11 +339,25 @@
           "start_time": "17:30:00",
           "end_time": "17:55:00",
           "episode_number": ""
+        },
+        {
+          "show_name": "The Epic Tales Of Captain...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TETOC",
+          "start_time": "17:55:00",
+          "end_time": "18:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Epic Tales Of Captain...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TETOC",
+          "start_time": "18:20:00",
+          "end_time": "18:45:00",
+          "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-04-07",
+      "date": "2026-04-08",
       "programs": [
         {
           "show_name": "3Below: Tales Of Arcadia",
@@ -374,36 +374,36 @@
           "episode_number": ""
         },
         {
-          "show_name": "Gabby's Dollhouse",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
+          "show_name": "Fast & Furious: Spy Racers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F&FSR",
           "start_time": "01:00:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gabby's Dollhouse",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
+          "show_name": "Fast & Furious: Spy Racers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F&FSR",
           "start_time": "01:25:00",
           "end_time": "01:50:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gabby's Dollhouse",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
+          "show_name": "Fast & Furious: Spy Racers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F&FSR",
           "start_time": "01:50:00",
           "end_time": "02:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gabby's Dollhouse",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
+          "show_name": "Fast & Furious: Spy Racers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F&FSR",
           "start_time": "02:15:00",
           "end_time": "02:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gabby's Dollhouse",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
+          "show_name": "Fast & Furious: Spy Racers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F&FSR",
           "start_time": "02:40:00",
           "end_time": "03:05:00",
           "episode_number": ""
@@ -437,15 +437,15 @@
           "episode_number": ""
         },
         {
-          "show_name": "Turbo F.A.S.T.",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "show_name": "Archibald's Next Big Thing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANBT",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Turbo F.A.S.T.",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "show_name": "Archibald's Next Big Thing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANBT",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""

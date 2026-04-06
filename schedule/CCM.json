@@ -2,116 +2,6 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-04-06",
-      "programs": [
-        {
-          "show_name": "Moods Of Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOL",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Clan Of The White Lotus",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTWL",
-          "start_time": "00:45:00",
-          "end_time": "02:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Hero",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH",
-          "start_time": "02:25:00",
-          "end_time": "04:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Four Riders",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FR",
-          "start_time": "04:15:00",
-          "end_time": "06:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Heroes Two",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
-          "start_time": "06:10:00",
-          "end_time": "07:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Dream Of Red Chamber",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDORC",
-          "start_time": "07:50:00",
-          "end_time": "09:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Gambling Syndicate",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGS",
-          "start_time": "09:40:00",
-          "end_time": "11:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Shepherd Girl",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSG",
-          "start_time": "11:10:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Killer",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TK",
-          "start_time": "13:00:00",
-          "end_time": "14:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Blue And The Black, Pt 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBATB",
-          "start_time": "14:40:00",
-          "end_time": "16:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Heroes Of The East",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOTE",
-          "start_time": "16:40:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Passing Flickers",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
-          "start_time": "18:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Flying Guillotine 2",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FG2",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Puppy Love",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PL",
-          "start_time": "21:40:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Long Chase",
-          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLC",
-          "start_time": "23:15:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-07",
       "programs": [
         {
@@ -217,6 +107,109 @@
           "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOD",
           "start_time": "23:25:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-08",
+      "programs": [
+        {
+          "show_name": "Torrent Of Desire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOD",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Clan Feuds",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "01:00:00",
+          "end_time": "02:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gossip Street",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GS",
+          "start_time": "02:45:00",
+          "end_time": "04:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Bride From Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBFH",
+          "start_time": "04:15:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Emperor Chien Lung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ECL",
+          "start_time": "05:45:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Avenging Eagle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAE",
+          "start_time": "07:30:00",
+          "end_time": "09:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mirror And The Lichee",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMATL",
+          "start_time": "09:05:00",
+          "end_time": "10:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sword Of Swords",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOS",
+          "start_time": "10:50:00",
+          "end_time": "12:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Empress Dowager",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TED",
+          "start_time": "12:45:00",
+          "end_time": "14:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Magic Blade",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMB",
+          "start_time": "14:40:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Princess Iron Fan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIF",
+          "start_time": "16:25:00",
+          "end_time": "18:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Demon Of The Lute",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOTL",
+          "start_time": "18:10:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Love Eterne",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLE",
+          "start_time": "20:00:00",
+          "end_time": "22:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "King Gambler",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KG",
+          "start_time": "22:10:00",
+          "end_time": "00:15:00",
           "episode_number": ""
         }
       ]
