@@ -2,102 +2,95 @@
   "channel_name": "ANTV",
   "schedule": {
     "today": {
-      "date": "2026-04-10",
+      "date": "2026-04-11",
       "programs": [
         {
-          "show_name": "Haunted Universities",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/HU.svg",
+          "show_name": "Haunted School",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
           "start_time": "00:00:00",
-          "end_time": "01:00:00",
+          "end_time": "01:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Three Wished",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TW.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
+          "show_name": "Serie A Liga Italia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SALI",
+          "start_time": "01:15:00",
+          "end_time": "03:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Detective 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TD2.svg",
-          "start_time": "02:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Toilet: Ek Prem Katha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TEPK.svg",
-          "start_time": "04:00:00",
+          "show_name": "English Babu Desi Mem",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EBDM",
+          "start_time": "03:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasautii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Janji Cinta Inspektur Virat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/JCIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
           "start_time": "07:30:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kaho Naa Pyaar Hai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/KNPH.svg",
+          "show_name": "Awara Paagal Deewana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=APD",
           "start_time": "09:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jhanak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TMD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Vasudha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "16:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Saur Sepuh 4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SS4.svg",
+          "show_name": "Primitif",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "18:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pusaka Penyebar Maut",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/PPM.svg",
+          "show_name": "Bernapas Dalam Lumpur",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDL",
           "start_time": "20:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gentayangan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/G.svg",
+          "show_name": "Bernapas Dalam Kubur",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDK",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Haunted School",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/HS.svg",
+          "show_name": "Pantai Norasingha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
           "start_time": "23:30:00",
           "end_time": "01:15:00",
           "episode_number": ""
@@ -105,97 +98,97 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-04-11",
+      "date": "2026-04-12",
       "programs": [
         {
-          "show_name": "Haunted School",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/HS.svg",
+          "show_name": "Pantai Norasingha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Serie A Liga Italia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/SALI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SALI",
           "start_time": "01:15:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "English Babu Desi Mem",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/EBDM.svg",
+          "show_name": "Tanhaji",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "03:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasautii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Janji Cinta Inspektur Virat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/JCIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCIV",
           "start_time": "07:30:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Awara Paagal Deewana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/APD.svg",
+          "show_name": "Taarzan: The Wonder Car",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTWC",
           "start_time": "09:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jhanak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Teri Meri Doriyaann",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/TMD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMD",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Vasudha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "16:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Primitif",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/P.svg",
+          "show_name": "Golok Setan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GS",
           "start_time": "18:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bernapas Dalam Lumpur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BDL.svg",
+          "show_name": "Nyi Ageng Ratu Pemikat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NARP",
           "start_time": "20:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bernapas Dalam Kubur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/BDK.svg",
+          "show_name": "Pulau Hantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PH",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pantai Norasingha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/antv/PN.svg",
+          "show_name": "Viral",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "23:30:00",
-          "end_time": "01:15:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
