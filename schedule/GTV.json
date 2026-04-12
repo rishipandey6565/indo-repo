@@ -2,102 +2,116 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-04-12",
+      "date": "2026-04-13",
       "programs": [
         {
           "show_name": "Jelajah Mitos",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/JM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Crime KV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Naik Enak Turun Ogah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/NETO.svg",
+          "show_name": "Abdel Vs Temon Masih Bukan...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVTMB",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Awas Ada Sule",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/AAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
           "start_time": "03:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "06:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon Dan Sahabat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Obrolan Seputar Selebriti",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OSS",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Buletin iNews Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
+          "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "10:00:00",
-          "end_time": "12:30:00",
+          "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Katak: The Brave Beluga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KTBB.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Zak Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ZS.svg",
-          "start_time": "13:30:00",
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "12:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "14:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "17:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "New Family 100",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/NF1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NF1",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kun Lun Jing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KLJ.svg",
+          "show_name": "Equilibrium",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "20:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Malam Jum'at Kliwon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/MJK.svg",
+          "show_name": "Dosa Rambut Terlarang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DRT",
           "start_time": "22:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -105,118 +119,125 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-04-13",
+      "date": "2026-04-14",
       "programs": [
         {
           "show_name": "Jelajah Mitos",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/JM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Crime KV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Abdel Vs Temon Masih Bukan...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/AVTMB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVTMB",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Awas Ada Sule",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/AAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAS",
           "start_time": "03:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Obrolan Seputar Selebriti",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/OSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OSS",
           "start_time": "08:30:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "12:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "14:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "17:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "New Family 100",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/NF1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NF1",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Equilibrium",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_name": "Monster Hunter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MH",
           "start_time": "20:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Dosa Rambut Terlarang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/DRT.svg",
+          "show_name": "Untold Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=US",
           "start_time": "22:30:00",
-          "end_time": "00:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jelajah Mitos",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JM",
+          "start_time": "23:30:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
