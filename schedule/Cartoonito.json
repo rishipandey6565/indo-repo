@@ -1,0 +1,624 @@
+{
+  "channel_name": "Cartoonito",
+  "schedule": {
+    "today": {
+      "date": "2026-04-14",
+      "programs": [
+        {
+          "show_name": "Interstellar Ella",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IE",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Bunnies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Bunnies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dino Ranch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dino Ranch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTHSS",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ranger Rob",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dino Ranch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tom And Jerry Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTAJS",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "09:00:00",
+          "end_time": "09:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meet The Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTB",
+          "start_time": "09:25:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTHSS",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ranger Rob",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "13:00:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tom And Jerry Gokko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAJG",
+          "start_time": "13:25:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Builder Brothers' Dream Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBDF",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTHSS",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jessica's Big Little World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JBLW",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "17:30:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meet The Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTB",
+          "start_time": "17:55:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dorothy And The Wizard Of Oz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DATWO",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Interstellar Ella",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IE",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-15",
+      "programs": [
+        {
+          "show_name": "Interstellar Ella",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IE",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Bunnies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Bunnies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dino Ranch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dino Ranch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "06:30:00",
+          "end_time": "06:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World - Meet Barney",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW-MB",
+          "start_time": "06:55:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ranger Rob",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tom And Jerry Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTAJS",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "09:00:00",
+          "end_time": "09:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meet The Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTB",
+          "start_time": "09:25:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTHSS",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Roger",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dorothy And The Wizard Of Oz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DATWO",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lucas The Spider",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LTS",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "12:00:00",
+          "end_time": "12:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World - Meet Barney",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW-MB",
+          "start_time": "12:25:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "13:00:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tom And Jerry Gokko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAJG",
+          "start_time": "13:25:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tom And Jerry Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTAJS",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tom And Jerry Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTAJS",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Roger",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "16:00:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barney's World - Meet Barney",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW-MB",
+          "start_time": "16:25:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Beat Power Rockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBPR",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Batwheels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "17:30:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tom And Jerry Gokko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAJG",
+          "start_time": "17:55:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Talking Tom Heroes: Suddenly Super",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTHSS",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grizzy And The Lemmings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GATL",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mecha Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bugs Bunny Builders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Looney Tunes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BLT",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Interstellar Ella",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IE",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    }
+  }
+}

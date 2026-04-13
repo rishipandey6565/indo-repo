@@ -1,0 +1,596 @@
+{
+  "channel_name": "HGTV",
+  "schedule": {
+    "today": {
+      "date": "2026-04-14",
+      "programs": [
+        {
+          "show_name": "Home Town Kickstart S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTKS",
+          "start_time": "00:00:00",
+          "end_time": "00:20:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Unsellable Houses S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UHS",
+          "start_time": "00:20:00",
+          "end_time": "01:10:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Fixer Upper: The Lakehouse S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FUTLS",
+          "start_time": "01:10:00",
+          "end_time": "01:35:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Fixer Upper: The Lakehouse S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FUTLS",
+          "start_time": "01:35:00",
+          "end_time": "02:00:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "Inside Out S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IOS",
+          "start_time": "02:00:00",
+          "end_time": "02:50:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Inside Out S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IOS",
+          "start_time": "02:50:00",
+          "end_time": "03:40:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "No Demo Reno S3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NDRS",
+          "start_time": "03:40:00",
+          "end_time": "04:30:00",
+          "episode_number": "Eps -11"
+        },
+        {
+          "show_name": "Flip Or Flop S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Renovation Wild S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RWS",
+          "start_time": "05:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "House Hunters S251",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "05:50:00",
+          "end_time": "06:15:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "House Hunters S187",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "06:15:00",
+          "end_time": "06:40:00",
+          "episode_number": "Eps -11"
+        },
+        {
+          "show_name": "House Hunters S3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "06:40:00",
+          "end_time": "07:05:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Flip Or Flop S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "07:05:00",
+          "end_time": "07:30:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "House Hunters International S119",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "07:30:00",
+          "end_time": "07:55:00",
+          "episode_number": "Eps -10"
+        },
+        {
+          "show_name": "House Hunters S126",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "07:55:00",
+          "end_time": "08:20:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "The Flip Off S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOS",
+          "start_time": "08:20:00",
+          "end_time": "09:10:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Renovation Wild S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RWS",
+          "start_time": "09:10:00",
+          "end_time": "10:00:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "10:00:00",
+          "end_time": "10:25:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "10:25:00",
+          "end_time": "10:50:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "HGTV Dream Home 2026 S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDH2S",
+          "start_time": "10:50:00",
+          "end_time": "11:40:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Unsellable Houses S5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UHS",
+          "start_time": "11:40:00",
+          "end_time": "12:30:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "House Hunters S3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "12:30:00",
+          "end_time": "12:55:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Flip Or Flop S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "12:55:00",
+          "end_time": "13:20:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "House Hunters International S119",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "13:20:00",
+          "end_time": "13:45:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "House Hunters S127",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "13:45:00",
+          "end_time": "14:10:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "House Hunters S251",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "14:10:00",
+          "end_time": "14:35:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "House Hunters S187",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "14:35:00",
+          "end_time": "15:00:00",
+          "episode_number": "Eps -11"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "15:00:00",
+          "end_time": "15:25:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "15:25:00",
+          "end_time": "15:50:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "HGTV Dream Home 2026 S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDH2S",
+          "start_time": "15:50:00",
+          "end_time": "16:40:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "The Flip Off S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOS",
+          "start_time": "16:40:00",
+          "end_time": "17:30:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Unsellable Houses S5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UHS",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "House Hunters S264",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "18:30:00",
+          "end_time": "18:55:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Flip Or Flop S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "18:55:00",
+          "end_time": "19:20:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "19:20:00",
+          "end_time": "19:45:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "The Flip Off S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOS",
+          "start_time": "19:45:00",
+          "end_time": "21:00:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Neighbourhood Watch S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NWS",
+          "start_time": "21:00:00",
+          "end_time": "21:25:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Neighbourhood Watch S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NWS",
+          "start_time": "21:25:00",
+          "end_time": "21:50:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "House Hunters S264",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "21:50:00",
+          "end_time": "22:15:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Flip Or Flop S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "22:15:00",
+          "end_time": "22:40:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "House Hunters S252",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "22:40:00",
+          "end_time": "23:05:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "House Hunters International S141",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "23:05:00",
+          "end_time": "23:30:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "The Flip Off S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOS",
+          "start_time": "23:30:00",
+          "end_time": "00:45:00",
+          "episode_number": "Eps -6"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-15",
+      "programs": [
+        {
+          "show_name": "The Flip Off S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOS",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Neighbourhood Watch S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NWS",
+          "start_time": "00:45:00",
+          "end_time": "01:10:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Neighbourhood Watch S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NWS",
+          "start_time": "01:10:00",
+          "end_time": "01:35:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "Mini Reni S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "01:35:00",
+          "end_time": "02:00:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Renovation Wild S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RWS",
+          "start_time": "02:00:00",
+          "end_time": "02:50:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Renovation Wild S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RWS",
+          "start_time": "02:50:00",
+          "end_time": "03:40:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Unsellable Houses S5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UHS",
+          "start_time": "03:40:00",
+          "end_time": "04:30:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "Flip Or Flop S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "Mash-Up Our Home S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOHS",
+          "start_time": "05:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "House Hunters S252",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "05:50:00",
+          "end_time": "06:15:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "House Hunters International S141",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "06:15:00",
+          "end_time": "06:40:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "House Hunters S264",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "06:40:00",
+          "end_time": "07:05:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Flip Or Flop S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "07:05:00",
+          "end_time": "07:30:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "House Hunters International S119",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "07:30:00",
+          "end_time": "07:55:00",
+          "episode_number": "Eps -11"
+        },
+        {
+          "show_name": "House Hunters S127",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "07:55:00",
+          "end_time": "08:20:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Celebrity IOU S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CIS",
+          "start_time": "08:20:00",
+          "end_time": "09:10:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Mash-Up Our Home S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOHS",
+          "start_time": "09:10:00",
+          "end_time": "10:00:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Motel Rescue S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "10:00:00",
+          "end_time": "10:50:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Sin City Rehab S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SCRS",
+          "start_time": "10:50:00",
+          "end_time": "11:40:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Building Roots S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRS",
+          "start_time": "11:40:00",
+          "end_time": "12:30:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "House Hunters S264",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "12:30:00",
+          "end_time": "12:55:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Flip Or Flop S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "12:55:00",
+          "end_time": "13:20:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "House Hunters International S119",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "13:20:00",
+          "end_time": "13:45:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "House Hunters S127",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "13:45:00",
+          "end_time": "14:10:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "House Hunters S252",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "14:10:00",
+          "end_time": "14:35:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "House Hunters International S141",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHIS",
+          "start_time": "14:35:00",
+          "end_time": "15:00:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "Motel Rescue S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "15:00:00",
+          "end_time": "15:50:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Sin City Rehab S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SCRS",
+          "start_time": "15:50:00",
+          "end_time": "16:40:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Celebrity IOU S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CIS",
+          "start_time": "16:40:00",
+          "end_time": "17:30:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Building Roots S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRS",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "House Hunters S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "18:30:00",
+          "end_time": "18:55:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Flip Or Flop S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "18:55:00",
+          "end_time": "19:20:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "Motel Rescue S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MRS",
+          "start_time": "19:20:00",
+          "end_time": "20:10:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Celebrity IOU S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CIS",
+          "start_time": "20:10:00",
+          "end_time": "21:00:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Sin City Rehab S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SCRS",
+          "start_time": "21:00:00",
+          "end_time": "21:50:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "House Hunters S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "21:50:00",
+          "end_time": "22:15:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Flip Or Flop S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOFS",
+          "start_time": "22:15:00",
+          "end_time": "22:40:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "House Hunters S251",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "22:40:00",
+          "end_time": "23:05:00",
+          "episode_number": "Eps -8"
+        },
+        {
+          "show_name": "House Hunters S187",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHS",
+          "start_time": "23:05:00",
+          "end_time": "23:30:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "Celebrity IOU S4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CIS",
+          "start_time": "23:30:00",
+          "end_time": "00:20:00",
+          "episode_number": "Eps -5"
+        }
+      ]
+    }
+  }
+}
