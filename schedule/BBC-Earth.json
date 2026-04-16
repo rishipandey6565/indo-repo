@@ -2,453 +2,425 @@
   "channel_name": "BBC Earth",
   "schedule": {
     "today": {
-      "date": "2026-04-16",
-      "programs": [
-        {
-          "show_name": "Chauquet Wild Catch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/CWC.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Human",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/H.svg",
-          "start_time": "00:45:00",
-          "end_time": "01:50:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "01:50:00",
-          "end_time": "02:15:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Primates",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/P.svg",
-          "start_time": "02:15:00",
-          "end_time": "03:10:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
-          "start_time": "03:10:00",
-          "end_time": "04:05:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Chauquet Wild Catch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/CWC.svg",
-          "start_time": "04:05:00",
-          "end_time": "05:00:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Secret Of Modern Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOML.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:55:00",
-          "episode_number": "S3 E1"
-        },
-        {
-          "show_name": "Primates",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/P.svg",
-          "start_time": "05:55:00",
-          "end_time": "06:55:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "06:55:00",
-          "end_time": "07:20:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "07:20:00",
-          "end_time": "07:50:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Where Wild Men Are",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWMA.svg",
-          "start_time": "07:50:00",
-          "end_time": "08:45:00",
-          "episode_number": "S10 E9"
-        },
-        {
-          "show_name": "P. Aryee's Wild World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PAWW.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:35:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Secret Of Modern Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOML.svg",
-          "start_time": "09:35:00",
-          "end_time": "10:30:00",
-          "episode_number": "S3 E1"
-        },
-        {
-          "show_name": "Chauquet Wild Catch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/CWC.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:30:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Planet Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PE.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:30:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "P. Aryee's Wild World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PAWW.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:25:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Secret Of Modern Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOML.svg",
-          "start_time": "13:25:00",
-          "end_time": "14:25:00",
-          "episode_number": "S3 E1"
-        },
-        {
-          "show_name": "Where Wild Men Are",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWMA.svg",
-          "start_time": "14:25:00",
-          "end_time": "15:15:00",
-          "episode_number": "S10 E9"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "15:15:00",
-          "end_time": "15:45:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "15:45:00",
-          "end_time": "16:15:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "P. Aryee's Wild World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PAWW.svg",
-          "start_time": "16:15:00",
-          "end_time": "17:10:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Chauquet Wild Catch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/CWC.svg",
-          "start_time": "17:10:00",
-          "end_time": "18:05:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "18:05:00",
-          "end_time": "18:30:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:50:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Secrets Of Superagers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOS.svg",
-          "start_time": "20:50:00",
-          "end_time": "21:45:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "21:45:00",
-          "end_time": "22:10:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
-          "start_time": "22:10:00",
-          "end_time": "22:40:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
-          "start_time": "22:40:00",
-          "end_time": "23:35:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:25:00",
-          "episode_number": "E2"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-17",
       "programs": [
         {
           "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Secrets Of Superagers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOS",
           "start_time": "00:25:00",
           "end_time": "01:20:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "01:20:00",
           "end_time": "01:50:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "01:50:00",
           "end_time": "02:15:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
           "start_time": "02:15:00",
           "end_time": "03:10:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Chauquet Wild Catch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/CWC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CWC",
           "start_time": "03:10:00",
           "end_time": "04:05:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Secrets Of Superagers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOS",
           "start_time": "04:05:00",
           "end_time": "05:00:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Where Wild Men Are",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWMA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
           "start_time": "06:00:00",
           "end_time": "06:50:00",
           "episode_number": "S10 E9"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "06:50:00",
           "end_time": "07:15:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "07:15:00",
           "end_time": "07:45:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
           "start_time": "07:45:00",
           "end_time": "08:40:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
           "start_time": "08:40:00",
           "end_time": "09:40:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Big Adv.: Thailand",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/BAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
           "start_time": "09:40:00",
           "end_time": "10:35:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
           "start_time": "10:35:00",
           "end_time": "11:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Planet Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
           "start_time": "11:30:00",
           "end_time": "12:30:00",
           "episode_number": "S1 E9"
         },
         {
           "show_name": "Where Wild Men Are",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWMA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
           "start_time": "12:30:00",
           "end_time": "13:25:00",
           "episode_number": "S10 E9"
         },
         {
           "show_name": "Mad About Seafood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
           "start_time": "13:25:00",
           "end_time": "14:25:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Secret Of Modern Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SOML.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOML",
           "start_time": "14:25:00",
           "end_time": "15:20:00",
           "episode_number": "S3 E1"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "15:20:00",
           "end_time": "15:50:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "15:50:00",
           "end_time": "16:20:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Big Adv.: Thailand",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/BAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
           "start_time": "16:20:00",
           "end_time": "17:10:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Hidden Frontiers: Arabia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HFA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
           "start_time": "17:10:00",
           "end_time": "18:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "18:30:00",
           "end_time": "18:55:00",
           "episode_number": "S1 E8"
         },
         {
           "show_name": "Big Cats 24/7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/BC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
           "start_time": "18:55:00",
           "end_time": "20:00:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/GKRT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
           "start_time": "20:00:00",
           "end_time": "20:50:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Deadliest Weather",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
           "start_time": "20:50:00",
           "end_time": "21:45:00",
           "episode_number": "S5 E5"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "21:45:00",
           "end_time": "22:10:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "Food Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/FF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
           "start_time": "22:10:00",
           "end_time": "22:40:00",
           "episode_number": "S1 E8"
         },
         {
           "show_name": "Big Cats 24/7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/BC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
           "start_time": "22:40:00",
           "end_time": "23:45:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/GKRT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
           "start_time": "23:45:00",
           "end_time": "00:35:00",
           "episode_number": "S1 E4"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-18",
+      "programs": [
+        {
+          "show_name": "Great Kiwi Road Trip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "00:35:00",
+          "end_time": "01:25:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "Food Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
+          "start_time": "01:25:00",
+          "end_time": "01:50:00",
+          "episode_number": "S1 E7"
+        },
+        {
+          "show_name": "Food Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
+          "start_time": "01:50:00",
+          "end_time": "02:15:00",
+          "episode_number": "S1 E8"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "02:15:00",
+          "end_time": "03:15:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Great Kiwi Road Trip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
+          "start_time": "03:15:00",
+          "end_time": "04:05:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "04:05:00",
+          "end_time": "05:00:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "05:00:00",
+          "end_time": "05:55:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "05:55:00",
+          "end_time": "07:00:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Hidden Frontiers: Arabia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
+          "start_time": "08:00:00",
+          "end_time": "08:50:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Chauquet Wild Catch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CWC",
+          "start_time": "08:50:00",
+          "end_time": "09:50:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "09:50:00",
+          "end_time": "10:45:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "10:45:00",
+          "end_time": "11:55:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Hidden Frontiers: Arabia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFA",
+          "start_time": "11:55:00",
+          "end_time": "12:45:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "12:45:00",
+          "end_time": "13:45:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Great Kiwi Road Trip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
+          "start_time": "13:45:00",
+          "end_time": "14:40:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "14:40:00",
+          "end_time": "15:50:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "P. Aryee's Wild World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PAWW",
+          "start_time": "15:50:00",
+          "end_time": "16:40:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Mad About Seafood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAS",
+          "start_time": "16:40:00",
+          "end_time": "17:40:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Secrets Of Superagers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOS",
+          "start_time": "17:40:00",
+          "end_time": "18:40:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "Big Cats 24/7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
+          "start_time": "18:40:00",
+          "end_time": "19:45:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Great Kiwi Road Trip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
+          "start_time": "19:45:00",
+          "end_time": "20:35:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Human",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
+          "start_time": "20:35:00",
+          "end_time": "21:40:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Secrets Of Superagers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOS",
+          "start_time": "21:40:00",
+          "end_time": "22:35:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "The Superfactories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "22:35:00",
+          "end_time": "23:25:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "23:25:00",
+          "end_time": "00:20:00",
+          "episode_number": "S2 E5"
         }
       ]
     }
