@@ -2,446 +2,425 @@
   "channel_name": "Discovery Channel",
   "schedule": {
     "today": {
-      "date": "2026-04-18",
-      "programs": [
-        {
-          "show_name": "Border Control: Spain S9",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BCSS.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:05:00",
-          "episode_number": "Eps -1"
-        },
-        {
-          "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
-          "start_time": "00:05:00",
-          "end_time": "00:35:00",
-          "episode_number": "Eps -16"
-        },
-        {
-          "show_name": "Nick & Aaron Carter: Fallen Idols S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/N.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:30:00",
-          "episode_number": "Eps -2"
-        },
-        {
-          "show_name": "All Access PD: Grand Rapids S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/AAPGR.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:25:00",
-          "episode_number": "Eps -2"
-        },
-        {
-          "show_name": "A Body In The Snow: The Trial Of Karen Read S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ABITS.svg",
-          "start_time": "02:25:00",
-          "end_time": "03:20:00",
-          "episode_number": "Eps -4"
-        },
-        {
-          "show_name": "Gold Rush: Winter's Fortune S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GRWFS.svg",
-          "start_time": "03:20:00",
-          "end_time": "04:10:00",
-          "episode_number": "Eps -3"
-        },
-        {
-          "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
-          "start_time": "04:10:00",
-          "end_time": "05:00:00",
-          "episode_number": "Eps -1"
-        },
-        {
-          "show_name": "Bering Sea Gold S7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BSGS.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "Eps -3"
-        },
-        {
-          "show_name": "Bering Sea Gold S7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BSGS.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:50:00",
-          "episode_number": "Eps -4"
-        },
-        {
-          "show_name": "Bering Sea Gold S7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BSGS.svg",
-          "start_time": "06:50:00",
-          "end_time": "07:40:00",
-          "episode_number": "Eps -5"
-        },
-        {
-          "show_name": "Bering Sea Gold S7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BSGS.svg",
-          "start_time": "07:40:00",
-          "end_time": "08:30:00",
-          "episode_number": "Eps -6"
-        },
-        {
-          "show_name": "Building Icons: The Global One",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BITGO.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Expedition Files S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/EFS.svg",
-          "start_time": "09:20:00",
-          "end_time": "10:10:00",
-          "episode_number": "Eps -3"
-        },
-        {
-          "show_name": "Gold Rush S16",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GRS.svg",
-          "start_time": "10:10:00",
-          "end_time": "11:00:00",
-          "episode_number": "Eps -5"
-        },
-        {
-          "show_name": "Mud Madness S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/MMS.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:50:00",
-          "episode_number": "Eps -9"
-        },
-        {
-          "show_name": "Slow Road To Hainan S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/SRTHS.svg",
-          "start_time": "11:50:00",
-          "end_time": "12:15:00",
-          "episode_number": "Eps -7"
-        },
-        {
-          "show_name": "Slow Road To Hainan S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/SRTHS.svg",
-          "start_time": "12:15:00",
-          "end_time": "12:40:00",
-          "episode_number": "Eps -8"
-        },
-        {
-          "show_name": "Filthy Fortunes S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/FFS.svg",
-          "start_time": "12:40:00",
-          "end_time": "13:35:00",
-          "episode_number": "Eps -2"
-        },
-        {
-          "show_name": "Gold Rush S16",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GRS.svg",
-          "start_time": "13:35:00",
-          "end_time": "14:30:00",
-          "episode_number": "Eps -5"
-        },
-        {
-          "show_name": "Building Icons: The Global One",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BITGO.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Expedition Files S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/EFS.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:20:00",
-          "episode_number": "Eps -3"
-        },
-        {
-          "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
-          "start_time": "16:20:00",
-          "end_time": "16:45:00",
-          "episode_number": "Eps -15"
-        },
-        {
-          "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
-          "start_time": "16:45:00",
-          "end_time": "17:15:00",
-          "episode_number": "Eps -16"
-        },
-        {
-          "show_name": "Filthy Fortunes S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/FFS.svg",
-          "start_time": "17:15:00",
-          "end_time": "18:10:00",
-          "episode_number": "Eps -2"
-        },
-        {
-          "show_name": "In The Eye Of The Storm S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ITEOT.svg",
-          "start_time": "18:10:00",
-          "end_time": "19:05:00",
-          "episode_number": "Eps -1"
-        },
-        {
-          "show_name": "Lost Monster Files S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/LMFS.svg",
-          "start_time": "19:05:00",
-          "end_time": "20:00:00",
-          "episode_number": "Eps -6"
-        },
-        {
-          "show_name": "Gold Rush S16",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GRS.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:55:00",
-          "episode_number": "Eps -5"
-        },
-        {
-          "show_name": "Expedition Files S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/EFS.svg",
-          "start_time": "20:55:00",
-          "end_time": "21:50:00",
-          "episode_number": "Eps -3"
-        },
-        {
-          "show_name": "Ghost Adventures S12",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GAS.svg",
-          "start_time": "21:50:00",
-          "end_time": "22:45:00",
-          "episode_number": "Eps -11"
-        },
-        {
-          "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
-          "start_time": "22:45:00",
-          "end_time": "23:10:00",
-          "episode_number": "Eps -15"
-        },
-        {
-          "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
-          "start_time": "23:10:00",
-          "end_time": "23:40:00",
-          "episode_number": "Eps -16"
-        },
-        {
-          "show_name": "Nick & Aaron Carter: Fallen Idols S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/N.svg",
-          "start_time": "23:40:00",
-          "end_time": "00:35:00",
-          "episode_number": "Eps -2"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-19",
       "programs": [
         {
           "show_name": "Nick & Aaron Carter: Fallen Idols S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N&ACF",
           "start_time": "00:00:00",
           "end_time": "00:35:00",
-          "episode_number": "Eps -2"
+          "episode_number": "Eps -3"
         },
         {
           "show_name": "Wheeler Dealers S18",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/WDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WDS",
           "start_time": "00:35:00",
           "end_time": "01:30:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "A Body In The Snow: The Trial Of Karen Read S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ABITS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABITS",
           "start_time": "01:30:00",
           "end_time": "02:25:00",
           "episode_number": "Eps -4"
         },
         {
           "show_name": "Shark Week: Cocaine Sharks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/SWCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWCS",
           "start_time": "02:25:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Dual Survival S3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/DSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DSS",
           "start_time": "03:20:00",
           "end_time": "04:10:00",
           "episode_number": "Eps -5"
         },
         {
           "show_name": "Deadliest Bite",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/DB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DB",
           "start_time": "04:10:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ghost Adventures S12",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GAS",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "Eps -11"
         },
         {
           "show_name": "Mud Madness S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/MMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMS",
           "start_time": "06:00:00",
           "end_time": "06:50:00",
           "episode_number": "Eps -9"
         },
         {
           "show_name": "Filthy Fortunes S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/FFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFS",
           "start_time": "06:50:00",
           "end_time": "07:40:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "Exploring The Unknown With Wang Yibo S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ETUWW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETUWW",
           "start_time": "07:40:00",
           "end_time": "08:30:00",
           "episode_number": "Eps -6"
         },
         {
           "show_name": "Expedition Files S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/EFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
           "start_time": "08:30:00",
           "end_time": "09:20:00",
           "episode_number": "Eps -3"
         },
         {
           "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
           "start_time": "09:20:00",
           "end_time": "09:45:00",
           "episode_number": "Eps -15"
         },
         {
           "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
           "start_time": "09:45:00",
           "end_time": "10:10:00",
           "episode_number": "Eps -16"
         },
         {
           "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
           "start_time": "10:10:00",
           "end_time": "11:00:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
           "start_time": "11:00:00",
           "end_time": "11:50:00",
           "episode_number": "Eps -3"
         },
         {
           "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
           "start_time": "11:50:00",
           "end_time": "12:40:00",
           "episode_number": "Eps -4"
         },
         {
           "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
           "start_time": "12:40:00",
           "end_time": "13:35:00",
           "episode_number": "Eps -5"
         },
         {
           "show_name": "Ed Stafford's Rite Of Passage S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/ESROP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
           "start_time": "13:35:00",
           "end_time": "14:30:00",
           "episode_number": "Eps -6"
         },
         {
           "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
           "start_time": "14:30:00",
           "end_time": "14:55:00",
           "episode_number": "Eps -15"
         },
         {
           "show_name": "Port Control: Spain S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/PCSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
           "start_time": "14:55:00",
           "end_time": "15:25:00",
           "episode_number": "Eps -16"
         },
         {
           "show_name": "Mud Madness S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/MMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMS",
           "start_time": "15:25:00",
           "end_time": "16:20:00",
           "episode_number": "Eps -9"
         },
         {
           "show_name": "Wheeler Dealers S18",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/WDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WDS",
           "start_time": "16:20:00",
           "end_time": "17:15:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "Gold Rush S16",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRS",
           "start_time": "17:15:00",
           "end_time": "18:10:00",
           "episode_number": "Eps -5"
         },
         {
           "show_name": "Lost Monster Files S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/LMFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LMFS",
           "start_time": "18:10:00",
           "end_time": "19:05:00",
           "episode_number": "Eps -6"
         },
         {
           "show_name": "TBA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "19:05:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Filthy Fortunes S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/FFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFS",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "Nick & Aaron Carter: Fallen Idols S1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N&ACF",
           "start_time": "21:00:00",
           "end_time": "21:50:00",
           "episode_number": "Eps -2"
         },
         {
           "show_name": "Building Icons: The Global One",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/BITGO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BITGO",
           "start_time": "21:50:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Expedition Files S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/EFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
           "start_time": "22:45:00",
           "end_time": "23:40:00",
           "episode_number": "Eps -3"
         },
         {
           "show_name": "Ghost Adventures S12",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/discovery-channel/GAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GAS",
           "start_time": "23:40:00",
           "end_time": "00:35:00",
           "episode_number": "Eps -11"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-20",
+      "programs": [
+        {
+          "show_name": "Ghost Adventures S12",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GAS",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "Eps -11"
+        },
+        {
+          "show_name": "Bering Sea Gold S7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSGS",
+          "start_time": "00:35:00",
+          "end_time": "01:30:00",
+          "episode_number": "Eps -9"
+        },
+        {
+          "show_name": "Bering Sea Gold S7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSGS",
+          "start_time": "01:30:00",
+          "end_time": "02:25:00",
+          "episode_number": "Eps -10"
+        },
+        {
+          "show_name": "Gold Rush: Winter's Fortune S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRWFS",
+          "start_time": "02:25:00",
+          "end_time": "03:20:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "High Speed Chase S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSCS",
+          "start_time": "03:20:00",
+          "end_time": "04:10:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Border Control: Sweden S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BCSS",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Bering Sea Gold S7",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSGS",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "Border Control: Sweden S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BCSS",
+          "start_time": "06:00:00",
+          "end_time": "06:50:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Reality Ranis Of The Jungle S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RROTJ",
+          "start_time": "06:50:00",
+          "end_time": "07:40:00",
+          "episode_number": "Eps -7"
+        },
+        {
+          "show_name": "All Access PD: Grand Rapids S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAPGR",
+          "start_time": "07:40:00",
+          "end_time": "08:30:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "Port Control: Spain S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
+          "start_time": "08:30:00",
+          "end_time": "08:55:00",
+          "episode_number": "Eps -15"
+        },
+        {
+          "show_name": "Port Control: Spain S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCSS",
+          "start_time": "08:55:00",
+          "end_time": "09:20:00",
+          "episode_number": "Eps -16"
+        },
+        {
+          "show_name": "Bering Sea Gold S8",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSGS",
+          "start_time": "09:20:00",
+          "end_time": "10:10:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Border Control: Sweden S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BCSS",
+          "start_time": "10:10:00",
+          "end_time": "11:00:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Building Icons: The Global One",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BITGO",
+          "start_time": "11:00:00",
+          "end_time": "11:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Filthy Fortunes S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFS",
+          "start_time": "11:50:00",
+          "end_time": "12:40:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "Gold Rush: White Water S8",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRWWS",
+          "start_time": "12:40:00",
+          "end_time": "13:35:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Gold Rush S16",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRS",
+          "start_time": "13:35:00",
+          "end_time": "14:30:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Deadliest Catch S9",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCS",
+          "start_time": "14:30:00",
+          "end_time": "15:25:00",
+          "episode_number": "Eps -12"
+        },
+        {
+          "show_name": "Deadliest Catch S9",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCS",
+          "start_time": "15:25:00",
+          "end_time": "16:20:00",
+          "episode_number": "Eps -13"
+        },
+        {
+          "show_name": "Deadliest Catch S9",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCS",
+          "start_time": "16:20:00",
+          "end_time": "17:15:00",
+          "episode_number": "Eps -14"
+        },
+        {
+          "show_name": "Ed Stafford's Rite Of Passage S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESROP",
+          "start_time": "17:15:00",
+          "end_time": "18:10:00",
+          "episode_number": "Eps -2"
+        },
+        {
+          "show_name": "Shark Week: Off The Hook S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWOTH",
+          "start_time": "18:10:00",
+          "end_time": "19:05:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Filthy Fortunes S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFS",
+          "start_time": "19:05:00",
+          "end_time": "20:00:00",
+          "episode_number": "Eps -5"
+        },
+        {
+          "show_name": "Gold Rush S16",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRS",
+          "start_time": "20:00:00",
+          "end_time": "20:55:00",
+          "episode_number": "Eps -6"
+        },
+        {
+          "show_name": "Gold Rush: White Water S8",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRWWS",
+          "start_time": "20:55:00",
+          "end_time": "21:50:00",
+          "episode_number": "Eps -4"
+        },
+        {
+          "show_name": "Abalone Wars S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
+          "start_time": "21:50:00",
+          "end_time": "22:45:00",
+          "episode_number": "Eps -3"
+        },
+        {
+          "show_name": "Shark Week: Off The Hook S1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWOTH",
+          "start_time": "22:45:00",
+          "end_time": "23:40:00",
+          "episode_number": "Eps -1"
+        },
+        {
+          "show_name": "Gold Rush S16",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GRS",
+          "start_time": "23:40:00",
+          "end_time": "00:35:00",
+          "episode_number": "Eps -6"
         }
       ]
     }
