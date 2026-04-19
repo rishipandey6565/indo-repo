@@ -2,520 +2,359 @@
   "channel_name": "Channel News Asia",
   "schedule": {
     "today": {
-      "date": "2026-04-19",
-      "programs": [
-        {
-          "show_name": "Money Mind",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/MM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On The Red Dot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/OTRD.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": "E35"
-        },
-        {
-          "show_name": "Metropolis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/M.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AT.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The New Locals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TNL.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Correspondent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/CC.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On The Red Dot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/OTRD.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E35"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The New Locals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TNL.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
-          "start_time": "09:02:00",
-          "end_time": "10:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Money Mind",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/MM.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Correspondent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/CC.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japan Hour",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/JH.svg",
-          "start_time": "12:02:00",
-          "end_time": "13:00:00",
-          "episode_number": "E16"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The New Locals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TNL.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On The Red Dot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/OTRD.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": "E35"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tides Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TOT.svg",
-          "start_time": "15:02:00",
-          "end_time": "16:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNA Correspondent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/CC.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Singapore Hour",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/SH.svg",
-          "start_time": "18:02:00",
-          "end_time": "19:00:00",
-          "episode_number": "E42"
-        },
-        {
-          "show_name": "Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AT.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The New Locals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TNL.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
-          "start_time": "20:02:00",
-          "end_time": "21:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:03:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
-          "start_time": "22:03:00",
-          "end_time": "23:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:03:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tides Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TOT.svg",
-          "start_time": "23:03:00",
-          "end_time": "00:00:00",
-          "episode_number": "E3"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-04-20",
       "programs": [
         {
           "show_name": "Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": "E28"
         },
         {
           "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Money Mind",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/MM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "On The Red Dot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/OTRD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTRD",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": "E35"
         },
         {
           "show_name": "Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The New Locals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TNL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNL",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Talking Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Asia First",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AF",
           "start_time": "06:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Asia Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Metropolis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
           "start_time": "16:00:00",
           "end_time": "16:02:00",
           "episode_number": ""
         },
         {
           "show_name": "Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "16:02:00",
           "end_time": "17:00:00",
           "episode_number": "E28"
         },
         {
           "show_name": "East Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/EAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Money Mind",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/MM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "On The Red Dot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/OTRD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTRD",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "E35"
         },
         {
           "show_name": "Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/AT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Singapore Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside The Women's Prison",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/ITWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Headline News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/HN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
           "start_time": "23:00:00",
           "end_time": "23:03:00",
           "episode_number": ""
         },
         {
           "show_name": "East Asia Tonight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/channel-news-asia/EAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
+          "start_time": "23:03:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-21",
+      "programs": [
+        {
+          "show_name": "Singapore Hour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": "E42"
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "E28"
+        },
+        {
+          "show_name": "Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside The Women's Prison",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asia First",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AF",
+          "start_time": "06:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside The Women's Prison",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Asia Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside The Women's Prison",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Asia Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Money Mind",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "CNA Correspondent",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Headline News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
+          "start_time": "16:00:00",
+          "end_time": "16:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Singapore Hour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "16:02:00",
+          "end_time": "17:00:00",
+          "episode_number": "E42"
+        },
+        {
+          "show_name": "East Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside The Women's Prison",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Metropolis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Singapore Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside The Women's Prison",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWP",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Headline News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HN",
+          "start_time": "23:00:00",
+          "end_time": "23:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "East Asia Tonight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EAT",
           "start_time": "23:03:00",
           "end_time": "00:00:00",
           "episode_number": ""
