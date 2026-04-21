@@ -2,443 +2,429 @@
   "channel_name": "CGTN Documentary",
   "schedule": {
     "today": {
-      "date": "2026-04-21",
+      "date": "2026-04-22",
       "programs": [
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
-          "episode_number": "E8"
+          "episode_number": "E9"
         },
         {
           "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOL",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOL",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Yangtze River Estuary...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YRE.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Parallel Lives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PL.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
           "episode_number": "E2"
         },
         {
-          "show_name": "Razor In China: Walk Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RICWA.svg",
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Sustainable In China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIC",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "The Cycle Of Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOL",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "To Summit Of Earth Again",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wetland, Our Land",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOL",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Sustainable In China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIC",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "The Cycle Of Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOL",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "To Summit Of Earth Again",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wetland, Our Land",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOL",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Sustainable In China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIC",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": "E2"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-04-23",
+      "programs": [
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "The Cycle Of Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOL",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "To Summit Of Earth Again",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Silk Road Sunken Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SRST",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Resurrection Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RO",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "What Dementia Teaches Us...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WDTU.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "E8"
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": "E10"
         },
         {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E2"
+          "show_name": "Intangible Cultural Heritage...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICH",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
         },
         {
           "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Yangtze River Estuary...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YRE.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
           "episode_number": "E4"
         },
         {
-          "show_name": "Parallel Lives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PL.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Razor In China: Walk Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RICWA.svg",
+          "show_name": "Silk Road Sunken Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SRST",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Resurrection Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RO",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "What Dementia Teaches Us...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WDTU.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E8"
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": "E10"
         },
         {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E2"
+          "show_name": "Intangible Cultural Heritage...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICH",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
         },
         {
           "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Yangtze River Estuary...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YRE.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
           "episode_number": "E4"
         },
         {
-          "show_name": "Parallel Lives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PL.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Razor In China: Walk Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RICWA.svg",
+          "show_name": "Silk Road Sunken Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SRST",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "National Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Resurrection Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RO",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "What Dementia Teaches Us...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WDTU.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
+          "show_name": "The Legend Of Chin Woo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOCW",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Flavors Of China: Exploring...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOCE",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
-          "episode_number": "E2"
+          "episode_number": "E10"
         },
         {
-          "show_name": "Catching A Wave",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CAW.svg",
+          "show_name": "Intangible Cultural Heritage...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICH",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Sustainable In China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SIC.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "National Treasures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NT.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "E2"
+          "show_name": "To Summit Of Earth Again",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOEA",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": "E4"
         },
         {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
+          "show_name": "Silk Road Sunken Treasures",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SRST",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Catching A Wave",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAW",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": "E2"
         },
         {
-          "show_name": "Flavors Of China: Exploring...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FOCE.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
-      "date": "2026-04-22",
-      "programs": [
-        {
-          "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Catching A Wave",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CAW.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Sustainable In China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SIC.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "National Treasures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NT.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Flavors Of China: Exploring...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FOCE.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Catching A Wave",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CAW.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Sustainable In China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SIC.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "National Treasures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NT.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Flavors Of China: Exploring...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FOCE.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "The Cycle Of Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TCOL.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "To Summit Of Earth Again",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TSOEA.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Wetland, Our Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WOL.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Catching A Wave",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CAW.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Sustainable In China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SIC.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "National Treasures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NT.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Legend Of Chin Woo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TLOCW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "E2"
