@@ -2,422 +2,415 @@
   "channel_name": "Celebrities TV",
   "schedule": {
     "today": {
-      "date": "2026-05-10",
-      "programs": [
-        {
-          "show_name": "Istriku Ngidam Ayu Tingting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/INAT.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hotman Paris Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HPS.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mix & Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/M.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Runway",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/R.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pandora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/P.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Chef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KC.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mix & Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/M.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Istriku Ngidam Ayu Tingting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/INAT.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Famous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TF.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Runway",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/R.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7 Kamar 7 Icons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/7K7I.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pandora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/P.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Chef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KC.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Perang Dapur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/PD.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bisa Dibantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BD.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mix & Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/M.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Runway",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/R.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Chef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KC.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pandora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/P.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mix & Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/M.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Runway",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/R.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7 Kamar 7 Icons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/7K7I.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-05-11",
       "programs": [
         {
           "show_name": "7 Kamar 7 Icons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/7K7I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7K7I",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hotman Paris Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Silet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Famous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bisa Dibantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hotman Paris Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Lebih Syantik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/LS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bisa Dibantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hotman Paris Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Silet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Famous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bisa Dibantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
           "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hotman Paris Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
           "start_time": "19:30:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Silet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "20:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kau Ditakdirkan Untukku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KDU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
           "start_time": "21:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Famous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-05-12",
+      "programs": [
+        {
+          "show_name": "Bisa Dibantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lebih Syantik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hotman Paris Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kau Ditakdirkan Untukku",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Celebrity Top 10",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Seleb On News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lebih Syantik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Famous",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Celebrity Top 10",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT1",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bisa Dibantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Manda Curhat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hotman Paris Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lebih Syantik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kau Ditakdirkan Untukku",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bisa Dibantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hotman Paris Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Manda Curhat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Famous",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Seleb On News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bisa Dibantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BD",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Celebrity Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hotman Paris Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HPS",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Silet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kau Ditakdirkan Untukku",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KDU",
+          "start_time": "21:30:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Seleb On News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Celebrity Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Famous",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
           "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
