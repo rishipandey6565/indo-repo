@@ -2,130 +2,235 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-05-15",
+      "date": "2026-05-16",
       "programs": [
         {
-          "show_name": "Whisper Of Silent Body",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/WOSB.svg",
+          "show_name": "Wusong Vs Ximenqing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WVX",
           "start_time": "00:00:00",
-          "end_time": "01:10:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Legend Of The Dragon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LOTD.svg",
-          "start_time": "01:10:00",
-          "end_time": "02:50:00",
+          "show_name": "The Revenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "00:30:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Iron Kung Fu Fist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/IKFF.svg",
-          "start_time": "02:50:00",
-          "end_time": "04:25:00",
+          "show_name": "Unmatchable Match",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UM",
+          "start_time": "02:00:00",
+          "end_time": "03:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Detrimental",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/D.svg",
-          "start_time": "04:25:00",
-          "end_time": "05:50:00",
+          "show_name": "Fierce Cop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
+          "start_time": "03:45:00",
+          "end_time": "05:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hidden Heroine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/HH.svg",
-          "start_time": "05:50:00",
-          "end_time": "07:15:00",
+          "show_name": "Green Wood Robbery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWR",
+          "start_time": "05:15:00",
+          "end_time": "06:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Open�The Coffin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/OC.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:50:00",
+          "show_name": "The Last Tycoon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "06:45:00",
+          "end_time": "08:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Young Ip Man: Crisis Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/YIMCT.svg",
-          "start_time": "08:50:00",
-          "end_time": "10:15:00",
+          "show_name": "Mr. Vampire 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV3",
+          "start_time": "08:45:00",
+          "end_time": "10:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "Let's Make Laugh 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LML2.svg",
-          "start_time": "10:15:00",
-          "end_time": "11:45:00",
+          "show_name": "Love Is Love",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LIL",
+          "start_time": "10:20:00",
+          "end_time": "11:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "Shark Busters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/SB.svg",
-          "start_time": "11:45:00",
-          "end_time": "13:20:00",
+          "show_name": "Nezha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "11:55:00",
+          "end_time": "13:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hong Kong, Hong Kong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/HKHK.svg",
-          "start_time": "13:20:00",
-          "end_time": "14:55:00",
+          "show_name": "Cop Shop Babes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSB",
+          "start_time": "13:45:00",
+          "end_time": "15:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kowloon Walled City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/KWC.svg",
-          "start_time": "14:55:00",
-          "end_time": "16:25:00",
+          "show_name": "The Mask Of Shura Of Fire Cloud",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
+          "start_time": "15:20:00",
+          "end_time": "16:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gorgeous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/G.svg",
-          "start_time": "16:25:00",
-          "end_time": "18:30:00",
+          "show_name": "Teenage Dreamers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "16:40:00",
+          "end_time": "18:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sixty Million Dollar Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/SMDM.svg",
-          "start_time": "18:30:00",
+          "show_name": "Lifeline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "18:10:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Legend Of The Fist: Chen Zhen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LOTFC.svg",
+          "show_name": "Iceman: The Time Traveler",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITTT",
           "start_time": "20:00:00",
-          "end_time": "21:45:00",
+          "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "My Darling Genie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MDG.svg",
-          "start_time": "21:45:00",
-          "end_time": "23:20:00",
+          "show_name": "Winner Takes All",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WTA",
+          "start_time": "21:30:00",
+          "end_time": "23:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wusong Vs Ximenqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/WVX.svg",
-          "start_time": "23:20:00",
-          "end_time": "00:30:00",
+          "show_name": "The Case Of Disappearances",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOD",
+          "start_time": "23:10:00",
+          "end_time": "00:25:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "programs": [
         {
-          "show_name": "Wusong Vs Ximenqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/WVX.svg",
+          "show_name": "The Case Of Disappearances",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOD",
           "start_time": "00:00:00",
-          "end_time": "00:30:00",
+          "end_time": "00:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Painted Faces",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "00:25:00",
+          "end_time": "02:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dragon Master: Dragon Spell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMDS",
+          "start_time": "02:20:00",
+          "end_time": "03:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. Vampire Saga 4",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVS4",
+          "start_time": "03:40:00",
+          "end_time": "05:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Bangkok",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OB",
+          "start_time": "05:15:00",
+          "end_time": "06:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oily Maniac",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OM",
+          "start_time": "06:50:00",
+          "end_time": "08:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fate Of Reunion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
+          "start_time": "08:15:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Forbidden City Cop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FCC",
+          "start_time": "09:50:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love In A Fallen City",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LIAFC",
+          "start_time": "11:20:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Lost Bladesman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLB",
+          "start_time": "13:00:00",
+          "end_time": "14:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. Possessed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
+          "start_time": "14:55:00",
+          "end_time": "16:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Flying Swords Of Dragon Gate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FSODG",
+          "start_time": "16:35:00",
+          "end_time": "18:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mighty Peking Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMPM",
+          "start_time": "18:35:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Look For A Star",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LFAS",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My School Mate, The Barbarian",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSMTB",
+          "start_time": "22:00:00",
+          "end_time": "23:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Justice, My Foot!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMF",
+          "start_time": "23:35:00",
+          "end_time": "01:15:00",
           "episode_number": ""
         }
       ]
