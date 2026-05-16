@@ -2,102 +2,116 @@
   "channel_name": "MNCTV",
   "schedule": {
     "today": {
-      "date": "2026-05-16",
+      "date": "2026-05-17",
       "programs": [
         {
           "show_name": "Suparman Reborn",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/SR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Suparman Reborn",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/SR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
           "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bimbingan Rohani Kristen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRK",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Suparman Reborn",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
+          "start_time": "03:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "06:00:00",
           "end_time": "06:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Dora & Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/D.svg",
+          "show_name": "Bima S",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "06:15:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Zak Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/ZS.svg",
+          "show_name": "Titus The Detective",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
           "start_time": "06:45:00",
           "end_time": "07:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/PZD.svg",
+          "show_name": "Dora & Sahabat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&S",
           "start_time": "07:15:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "08:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_name": "Pro Futsal League (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFL(",
           "start_time": "11:30:00",
-          "end_time": "14:00:00",
+          "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
-          "start_time": "14:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
+          "start_time": "13:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "16:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "DMD Panggung Rezeki",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/DPR.svg",
+          "show_name": "DMD Panggung Rezeki (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPR(",
           "start_time": "20:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bad Parenting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/BP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -105,116 +119,130 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-05-17",
+      "date": "2026-05-18",
       "programs": [
         {
           "show_name": "Suparman Reborn",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/SR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Suparman Reborn",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/SR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SR",
           "start_time": "02:00:00",
-          "end_time": "03:00:00",
+          "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bimbingan Rohani Kristen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/BRK.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Suparman Reborn",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/SR.svg",
-          "start_time": "03:30:00",
+          "show_name": "Siraman Qolbu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SQ",
+          "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "06:00:00",
           "end_time": "06:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bima S",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/BS.svg",
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:15:00",
-          "end_time": "06:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Titus The Detective",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/TTD.svg",
-          "start_time": "06:45:00",
-          "end_time": "07:15:00",
+          "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dora & Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/D.svg",
-          "start_time": "07:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&S",
+          "start_time": "07:00:00",
+          "end_time": "07:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pada Zaman Dahulu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
+          "start_time": "07:45:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "08:00:00",
-          "end_time": "11:30:00",
+          "end_time": "11:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pro Futsal League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/PFL.svg",
-          "start_time": "11:30:00",
-          "end_time": "13:30:00",
+          "show_name": "Lintas iNews Siang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LIS",
+          "start_time": "11:15:00",
+          "end_time": "11:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Seleb On News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "11:45:00",
+          "end_time": "12:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
-          "start_time": "13:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
+          "start_time": "12:15:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Upin & Ipin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
+          "start_time": "14:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "16:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "17:30:00",
-          "end_time": "19:00:00",
+          "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/E.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UKBR Berbagi Rezeki",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UBR",
+          "start_time": "19:30:00",
+          "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "DMD Panggung Rezeki (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/DPR.svg",
-          "start_time": "20:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPR(",
+          "start_time": "21:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bad Parenting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/mnctv/BP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
