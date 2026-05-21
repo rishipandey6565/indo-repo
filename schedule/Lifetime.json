@@ -2,397 +2,383 @@
   "channel_name": "Lifetime",
   "schedule": {
     "today": {
-      "date": "2026-05-21",
-      "programs": [
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:05:00",
-          "episode_number": "S2 E56"
-        },
-        {
-          "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
-          "start_time": "00:05:00",
-          "end_time": "00:35:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:05:00",
-          "episode_number": "E14"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "01:05:00",
-          "end_time": "01:35:00",
-          "episode_number": "S2 E15"
-        },
-        {
-          "show_name": "One Night Stand Murder",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ONSM.svg",
-          "start_time": "01:35:00",
-          "end_time": "03:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Man In The Guesthouse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TMITG.svg",
-          "start_time": "03:20:00",
-          "end_time": "05:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
-          "start_time": "05:05:00",
-          "end_time": "05:35:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "05:35:00",
-          "end_time": "06:05:00",
-          "episode_number": "E14"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "06:05:00",
-          "end_time": "06:30:00",
-          "episode_number": "S2 E54"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "S16 E33"
-        },
-        {
-          "show_name": "The Mother Flip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TMF.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": "S1 E9"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:35:00",
-          "episode_number": "S3 E69"
-        },
-        {
-          "show_name": "My Mother Looked Just Like You",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MMLJL.svg",
-          "start_time": "09:35:00",
-          "end_time": "11:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Love At First Lie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LAFL.svg",
-          "start_time": "11:20:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Earth Sweepers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ES.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Theresa Caputo: Spirits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TCS.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": "S16 E34"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": "S2 E16"
-        },
-        {
-          "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E15"
-        },
-        {
-          "show_name": "The Mother Flip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TMF.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": "S1 E10"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S2 E57"
-        },
-        {
-          "show_name": "Theresa Caputo: Spirits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TCS.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "My Amish Double Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MADL.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mother Flip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TMF.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:35:00",
-          "episode_number": "S1 E10"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:05:00",
-          "episode_number": "S2 E57"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-05-22",
       "programs": [
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "00:00:00",
           "end_time": "00:05:00",
           "episode_number": "S2 E57"
         },
         {
           "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPH",
           "start_time": "00:05:00",
           "end_time": "00:35:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "00:35:00",
           "end_time": "01:05:00",
           "episode_number": "E15"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "01:05:00",
           "end_time": "01:35:00",
           "episode_number": "S2 E16"
         },
         {
           "show_name": "Love At First Lie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LAFL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LAFL",
           "start_time": "01:35:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "My Mother Looked Just Like You",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MMLJL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLJL",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPH",
           "start_time": "05:05:00",
           "end_time": "05:35:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "05:35:00",
           "end_time": "06:05:00",
           "episode_number": "E15"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "06:05:00",
           "end_time": "06:30:00",
           "episode_number": "S2 E55"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "06:30:00",
           "end_time": "07:30:00",
           "episode_number": "S16 E34"
         },
         {
           "show_name": "1,000 Ways To Dine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/1WTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "The Mother Flip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TMF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": "S1 E10"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "09:00:00",
           "end_time": "09:35:00",
           "episode_number": "S3 E70"
         },
         {
           "show_name": "My Amish Double Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MADL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MADL",
           "start_time": "09:35:00",
           "end_time": "11:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Black Girl Missing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/BGM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BGM",
           "start_time": "11:20:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Earth Sweepers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ES.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Theresa Caputo: Spirits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCS",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "E8"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": "S16 E35"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": "S2 E17"
         },
         {
           "show_name": "Oceanfront Property Hunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OPH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPH",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E16"
         },
         {
           "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
           "start_time": "18:30:00",
           "end_time": "19:30:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": "S2 E58"
         },
         {
           "show_name": "Theresa Caputo: Spirits",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCS",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Secrets In The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SITD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SITD",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
           "start_time": "22:35:00",
           "end_time": "23:35:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "23:35:00",
           "end_time": "00:05:00",
           "episode_number": "S2 E58"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-05-23",
+      "programs": [
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": "S2 E58"
+        },
+        {
+          "show_name": "Oceanfront Property Hunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPH",
+          "start_time": "00:05:00",
+          "end_time": "00:35:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "00:35:00",
+          "end_time": "01:05:00",
+          "episode_number": "E16"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "01:05:00",
+          "end_time": "01:35:00",
+          "episode_number": "S2 E17"
+        },
+        {
+          "show_name": "Black Girl Missing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BGM",
+          "start_time": "01:35:00",
+          "end_time": "03:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My Amish Double Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MADL",
+          "start_time": "03:20:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "05:05:00",
+          "end_time": "06:00:00",
+          "episode_number": "S5 E77"
+        },
+        {
+          "show_name": "Ppang Car Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "Hit-And-Miss Tour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "S1 E23"
+        },
+        {
+          "show_name": "Hit-And-Miss Tour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "S1 E24"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "09:00:00",
+          "end_time": "09:35:00",
+          "episode_number": "S1 E12"
+        },
+        {
+          "show_name": "Secrets In The Desert",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SITD",
+          "start_time": "09:35:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Nurse To Die For",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANTDF",
+          "start_time": "11:20:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Ppang Car Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "All Fixed Up...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFU",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "S3 E9"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "S5 E75"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": "S1 E12"
+        },
+        {
+          "show_name": "The Mother Flip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "The Mother Flip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": "S1 E7"
+        },
+        {
+          "show_name": "Rachael Ray's Holidays",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Theresa Caputo: Spirits",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCS",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E21"
+        },
+        {
+          "show_name": "Murder At The Lighthouse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MATL",
+          "start_time": "21:00:00",
+          "end_time": "22:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ice Rink Murders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIRM",
+          "start_time": "22:35:00",
+          "end_time": "00:10:00",
+          "episode_number": ""
         }
       ]
     }
