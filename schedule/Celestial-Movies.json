@@ -2,234 +2,129 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-06-01",
-      "programs": [
-        {
-          "show_name": "Love Punch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LP.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Zombie Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/ZI.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Illegal Immigrant",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TII.svg",
-          "start_time": "02:55:00",
-          "end_time": "04:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "She Is In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/SIID.svg",
-          "start_time": "04:35:00",
-          "end_time": "06:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Operation Bangkok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/OB.svg",
-          "start_time": "06:15:00",
-          "end_time": "07:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Get In The Dark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/GITD.svg",
-          "start_time": "07:50:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kungfu Stuntmen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/KS.svg",
-          "start_time": "09:30:00",
-          "end_time": "11:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Young Ip Man: Crisis Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/YIMCT.svg",
-          "start_time": "11:10:00",
-          "end_time": "12:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bangkok Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/BS.svg",
-          "start_time": "12:35:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teenage Dreamers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TD.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Grey Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TGM.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mighty Peking Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TMPM.svg",
-          "start_time": "17:10:00",
-          "end_time": "18:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Loving You",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LY.svg",
-          "start_time": "18:35:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Royal Tramp 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/RT2.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unmatchable Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/UM.svg",
-          "start_time": "21:40:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Whisper Of Silent Body",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/WOSB.svg",
-          "start_time": "23:25:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-02",
       "programs": [
         {
           "show_name": "Whisper Of Silent Body",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/WOSB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOSB",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Gangster, The Cop, The Devil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/GTCTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTCTD",
           "start_time": "01:15:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Cop Shop Babes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/CSB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSB",
           "start_time": "02:50:00",
           "end_time": "04:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TFOR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
           "start_time": "04:25:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Lost Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
           "start_time": "06:00:00",
           "end_time": "07:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The Comeback",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "07:35:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Endless Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "09:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dragon Master: Dragon Spell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/DMDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMDS",
           "start_time": "11:00:00",
           "end_time": "12:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Face To Face",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/FTF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTF",
           "start_time": "12:20:00",
           "end_time": "13:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Fierce Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/FC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
           "start_time": "13:55:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Women",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "15:25:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Monkey Is Back",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TMIB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIB",
           "start_time": "17:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Mr. Virgin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
           "start_time": "18:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Unbeatable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
           "start_time": "20:00:00",
           "end_time": "22:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Love On Delivery",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LOD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOD",
           "start_time": "22:05:00",
           "end_time": "23:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Song Of The Assassins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/SOTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTA",
           "start_time": "23:45:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-03",
+      "programs": [
+        {
+          "show_name": "Song Of The Assassins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTA",
+          "start_time": "00:00:00",
           "end_time": "01:45:00",
           "episode_number": ""
         }
