@@ -2,346 +2,360 @@
   "channel_name": "Kompas TV",
   "schedule": {
     "today": {
-      "date": "2026-06-05",
-      "programs": [
-        {
-          "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Petang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Indonesia Update",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/IU.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kalam Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KH.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jurnal Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/JN.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sapa Indonesia Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SIP.svg",
-          "start_time": "07:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KS.svg",
-          "start_time": "11:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sapa Indonesia Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SIS.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Breaking News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BN.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jurnal Merah Putih",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/JMP.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Indonesia Update",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/IU.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Petang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sapa Indonesia Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SIM.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bola Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BL.svg",
-          "start_time": "20:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KM.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Sport",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KS.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kilas Kompas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KK.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-06",
       "programs": [
         {
           "show_name": "Breaking News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BN",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "02:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kalam Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KH",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Pagi Akhir Pekan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KPAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPAP",
           "start_time": "04:30:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Jurnal Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/JN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JN",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sapa Indonesia Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIP",
           "start_time": "07:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Sport",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sustenesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Pop News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/PN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Cerita Rasa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/CR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CR",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "News Or Hoax",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/NOH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NOH",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dipo Investigasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/DI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DI",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "VVIP",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Cerita Militer On Sail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/CMOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CMOS",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Petang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KP",
           "start_time": "16:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pop News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/PN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sapa Indonesia Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "18:30:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Berita Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/BU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
           "start_time": "19:30:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kompas Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "20:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SUCI 12",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/S1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S1",
           "start_time": "21:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-07",
+      "programs": [
+        {
+          "show_name": "Rosi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Breaking News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BN",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Berita Utama",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Borgol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Pagi Akhir Pekan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPAP",
+          "start_time": "04:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jurnal Nusantara",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JN",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sapa Indonesia Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIP",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Berita Utama",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pop News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PN",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cerita Rasa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CR",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jalan-Jalan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Siang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Or Hoax",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NOH",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Borgol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kalam Hati",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KH",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SUCI 12",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S1",
+          "start_time": "14:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Petang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KP",
+          "start_time": "16:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Sepekan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "60 Menit Spesial Report",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=6MSR",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sapa Indonesia Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Berita Utama",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BU",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kompas Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bola Liar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BL",
+          "start_time": "22:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kilas Kompas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KK",
+          "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
         }
