@@ -2,172 +2,179 @@
   "channel_name": "Lifetime",
   "schedule": {
     "today": {
-      "date": "2026-06-06",
+      "date": "2026-06-07",
       "programs": [
         {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_name": "Secrets In The Desert",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SITD",
           "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "MasterChef USA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MU.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:35:00",
-          "episode_number": "S13 E5"
-        },
-        {
-          "show_name": "Couples Retreat Murder",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/CRM.svg",
-          "start_time": "01:35:00",
-          "end_time": "03:20:00",
+          "end_time": "00:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Taken In Plain Sight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TIPS.svg",
+          "show_name": "A Roommate To Die For",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ARTDF",
+          "start_time": "00:10:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rachael Ray's Holidays",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
+          "start_time": "01:45:00",
+          "end_time": "02:15:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Got To Leave Something",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTLS",
+          "start_time": "02:15:00",
+          "end_time": "03:20:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Single Black Female 3: Final",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBF3F",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
           "start_time": "05:05:00",
           "end_time": "06:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
-          "episode_number": "S2 E9"
+          "episode_number": "S2 E10"
         },
         {
-          "show_name": "Secrets In The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SITD.svg",
+          "show_name": "Silent Night, Fatal Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SNFN",
           "start_time": "07:00:00",
           "end_time": "08:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
           "start_time": "08:35:00",
           "end_time": "09:05:00",
-          "episode_number": "S1 E1"
+          "episode_number": "S1 E2"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "09:05:00",
           "end_time": "09:35:00",
-          "episode_number": "S2 E16"
+          "episode_number": "S2 E17"
         },
         {
-          "show_name": "Taken In Plain Sight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TIPS.svg",
+          "show_name": "Single Black Female 3: Final",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBF3F",
           "start_time": "09:35:00",
           "end_time": "11:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "A Roommate To Die For",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ARTDF.svg",
+          "show_name": "A Model Murder",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMM",
           "start_time": "11:20:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
-          "episode_number": "E15"
+          "episode_number": "E17"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
-          "episode_number": "E16"
+          "episode_number": "E18"
         },
         {
           "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PCR",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
-          "episode_number": "S2 E9"
+          "episode_number": "S2 E10"
         },
         {
-          "show_name": "The K-Gim Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TKR.svg",
+          "show_name": "La French Touch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LFT",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
+          "show_name": "Earth Sweepers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
-          "episode_number": "S5 E79"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": "S2 E16"
-        },
-        {
-          "show_name": "Airline Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AW.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "Airline Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AW.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E2"
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": "S2 E17"
         },
         {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
+          "show_name": "Airline Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
           "episode_number": "E3"
         },
         {
-          "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Got To Leave Something",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GTLS.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
+          "show_name": "Airline Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
           "episode_number": "E4"
         },
         {
-          "show_name": "Single Black Female 3: Final",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SBF3F.svg",
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Rachael Ray's Holidays",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Got To Leave Something",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTLS",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "A Deadly Threat To My Family",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ADTTM",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "Secrets In The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SITD.svg",
+          "show_name": "Silent Night, Fatal Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SNFN",
           "start_time": "22:35:00",
           "end_time": "00:10:00",
           "episode_number": ""
@@ -175,182 +182,196 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-06-07",
+      "date": "2026-06-08",
       "programs": [
         {
-          "show_name": "Secrets In The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SITD.svg",
+          "show_name": "Silent Night, Fatal Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SNFN",
           "start_time": "00:00:00",
           "end_time": "00:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "A Roommate To Die For",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ARTDF.svg",
+          "show_name": "A Model Murder",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMM",
           "start_time": "00:10:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
           "start_time": "01:45:00",
           "end_time": "02:15:00",
-          "episode_number": "E5"
+          "episode_number": "E6"
         },
         {
           "show_name": "Got To Leave Something",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GTLS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTLS",
           "start_time": "02:15:00",
           "end_time": "03:20:00",
-          "episode_number": "E4"
+          "episode_number": "E5"
         },
         {
-          "show_name": "Single Black Female 3: Final",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SBF3F.svg",
+          "show_name": "A Deadly Threat To My Family",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ADTTM",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_name": "Oceanfront Property Hunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPH",
           "start_time": "05:05:00",
-          "end_time": "06:00:00",
-          "episode_number": "E3"
+          "end_time": "05:35:00",
+          "episode_number": "E20"
         },
         {
-          "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": "S2 E10"
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "05:35:00",
+          "end_time": "06:05:00",
+          "episode_number": "E26"
         },
         {
-          "show_name": "Silent Night, Fatal Night",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SNFN.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:35:00",
-          "episode_number": ""
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
+          "start_time": "06:05:00",
+          "end_time": "06:30:00",
+          "episode_number": "E6"
         },
         {
-          "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
-          "start_time": "08:35:00",
-          "end_time": "09:05:00",
-          "episode_number": "S1 E2"
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "06:30:00",
+          "end_time": "08:00:00",
+          "episode_number": "S16 E45"
         },
         {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "09:05:00",
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "S1 E11"
+        },
+        {
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
+          "start_time": "09:00:00",
           "end_time": "09:35:00",
-          "episode_number": "S2 E17"
+          "episode_number": "E5"
         },
         {
-          "show_name": "Single Black Female 3: Final",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SBF3F.svg",
+          "show_name": "A Deadly Threat To My Family",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ADTTM",
           "start_time": "09:35:00",
           "end_time": "11:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "A Model Murder",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AMM.svg",
+          "show_name": "I Thought My Husband's Wife...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITMHW",
           "start_time": "11:20:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_name": "Enlighten Your Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
           "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": "E17"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "13:30:00",
           "end_time": "14:00:00",
-          "episode_number": "E18"
+          "episode_number": "S3 E2"
         },
         {
-          "show_name": "Ppang Car Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PCR.svg",
+          "show_name": "Theresa Caputo: Spirits",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCS",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
-          "episode_number": "S2 E10"
+          "episode_number": "E19"
         },
         {
-          "show_name": "La French Touch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LFT.svg",
+          "show_name": "The Mother Flip",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E9"
         },
         {
-          "show_name": "Earth Sweepers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ES.svg",
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
-          "episode_number": "E1"
+          "episode_number": "S16 E46"
         },
         {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_name": "1,000 Ways To Dine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
-          "episode_number": "S2 E17"
-        },
-        {
-          "show_name": "Airline Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AW.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
           "episode_number": "E3"
         },
         {
-          "show_name": "Airline Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AW.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E4"
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "E27"
+        },
+        {
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
           "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
+          "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": "E4"
         },
         {
-          "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
+          "show_name": "Jake Makes It Easy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
-          "episode_number": "E6"
+          "episode_number": "S1 E9"
         },
         {
-          "show_name": "Got To Leave Something",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GTLS.svg",
+          "show_name": "Theresa Caputo: Spirits",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCS",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
-          "episode_number": "E5"
+          "episode_number": "E18"
         },
         {
-          "show_name": "A Deadly Threat To My Family",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ADTTM.svg",
+          "show_name": "There's A New Killer In Town",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TANKI",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "Silent Night, Fatal Night",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/SNFN.svg",
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
           "start_time": "22:35:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
+          "end_time": "23:35:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "23:35:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E6"
         }
       ]
     }
