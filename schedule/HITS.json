@@ -1,0 +1,414 @@
+{
+  "channel_name": "HITS",
+  "schedule": {
+    "today": {
+      "date": "2026-06-13",
+      "programs": [
+        {
+          "show_name": "Bewitched",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "00:30:00",
+          "end_time": "01:30:00",
+          "episode_number": "S1 E21"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "01:30:00",
+          "end_time": "02:30:00",
+          "episode_number": "S1 E22"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "02:30:00",
+          "end_time": "03:30:00",
+          "episode_number": "S3 E16"
+        },
+        {
+          "show_name": "Mission: Impossible",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+          "start_time": "03:30:00",
+          "end_time": "04:30:00",
+          "episode_number": "S4 E23"
+        },
+        {
+          "show_name": "Mission: Impossible",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+          "start_time": "04:30:00",
+          "end_time": "05:30:00",
+          "episode_number": "S4 E24"
+        },
+        {
+          "show_name": "Mission: Impossible",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+          "start_time": "05:30:00",
+          "end_time": "06:30:00",
+          "episode_number": "S4 E25"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "06:30:00",
+          "end_time": "07:30:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "09:30:00",
+          "end_time": "10:30:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": "S5 E6"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": "S5 E7"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "S3 E17"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S3 E18"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "S3 E16"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "S3 E17"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "S3 E18"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "S1 E21"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E22"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "20:00:00",
+          "end_time": "21:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "21:25:00",
+          "end_time": "22:35:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "22:35:00",
+          "end_time": "23:00:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": "S5 E5"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-14",
+      "programs": [
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "S5 E6"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "S5 E7"
+        },
+        {
+          "show_name": "Bewitched",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "Bewitched",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "S3 E17"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "03:00:00",
+          "end_time": "04:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "04:25:00",
+          "end_time": "05:35:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Mission: Impossible",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+          "start_time": "05:35:00",
+          "end_time": "06:30:00",
+          "episode_number": "S4 E26"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "06:30:00",
+          "end_time": "07:30:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": "S1 E7"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "09:30:00",
+          "end_time": "10:30:00",
+          "episode_number": "S1 E8"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "S3 E19"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "S3 E20"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S3 E21"
+        },
+        {
+          "show_name": "T.J. Hooker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "S3 E19"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "16:00:00",
+          "end_time": "17:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "17:25:00",
+          "end_time": "18:35:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "18:35:00",
+          "end_time": "19:30:00",
+          "episode_number": "S1 E23"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "S5 E5"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": "S5 E6"
+        },
+        {
+          "show_name": "Frasier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": "S5 E7"
+        }
+      ]
+    }
+  }
+}

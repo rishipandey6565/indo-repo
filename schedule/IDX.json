@@ -1,0 +1,463 @@
+{
+  "channel_name": "IDX",
+  "schedule": {
+    "today": {
+      "date": "2026-06-13",
+      "programs": [
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Prime Market Highlight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PMH",
+          "start_time": "00:30:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Market Review",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MR",
+          "start_time": "01:30:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDX 2nd Session Closing Market",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I2SCM",
+          "start_time": "02:30:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "OMG IDX",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OI",
+          "start_time": "03:30:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Geopark Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GI",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "OMG IDX",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OI",
+          "start_time": "05:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Prime Market Highlight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PMH",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fundamentals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women's Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WT",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rating 5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R5",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eksplorazi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Market Review",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MR",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women's Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WT",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fundamentals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "22:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eksplorazi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-14",
+      "programs": [
+        {
+          "show_name": "Prime Market Highlight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PMH",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Market Review",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MR",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "OMG IDX",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OI",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eksplorazi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Geopark Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GI",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "OMG IDX",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OI",
+          "start_time": "05:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Prime Market Highlight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PMH",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fundamentals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women's Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WT",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rating 5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R5",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eksplorazi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Market Review",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MR",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women's Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WT",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Love Indonesia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILI",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "IDXTainment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fundamentals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Screen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "New Top Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTF",
+          "start_time": "22:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eksplorazi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    }
+  }
+}

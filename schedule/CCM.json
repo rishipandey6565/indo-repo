@@ -2,214 +2,221 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-06-12",
-      "programs": [
-        {
-          "show_name": "The Mermaid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TM.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Brave Archer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBA.svg",
-          "start_time": "01:20:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Happy Trio",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THT.svg",
-          "start_time": "03:30:00",
-          "end_time": "05:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pursuit Of Vengeance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/POV.svg",
-          "start_time": "05:20:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Adulteress",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TA.svg",
-          "start_time": "07:00:00",
-          "end_time": "09:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wits Of The Brats",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/WOTB.svg",
-          "start_time": "09:10:00",
-          "end_time": "10:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "West Chamber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/WC.svg",
-          "start_time": "10:50:00",
-          "end_time": "12:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "All Men Are Brothers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AMAB.svg",
-          "start_time": "12:50:00",
-          "end_time": "14:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sons Of Good Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SOGE.svg",
-          "start_time": "14:40:00",
-          "end_time": "16:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Brave Archer And His Mate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BAAHM.svg",
-          "start_time": "16:35:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Disco Bumpkins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DB.svg",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Judgement Of An Assassin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/JOAA.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong 73",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HK7.svg",
-          "start_time": "21:40:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Murderer Pursues",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MP.svg",
-          "start_time": "23:25:00",
-          "end_time": "01:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-13",
       "programs": [
         {
           "show_name": "Murderer Pursues",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
           "start_time": "00:00:00",
           "end_time": "01:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Hex",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/H.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
           "start_time": "01:05:00",
           "end_time": "02:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Raw Passions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/RP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
           "start_time": "02:40:00",
           "end_time": "04:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Young Lovers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/YL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YL",
           "start_time": "04:15:00",
           "end_time": "06:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Lady General Hua Mu-Lan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LGHM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LGHM",
           "start_time": "06:05:00",
           "end_time": "07:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Bride From Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBFH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBFH",
           "start_time": "07:55:00",
           "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Fighting Fool",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TFF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFF",
           "start_time": "09:20:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "My Dream Boat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MDB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDB",
           "start_time": "11:00:00",
           "end_time": "13:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Killer Has No Return",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TKHNR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKHNR",
           "start_time": "13:15:00",
           "end_time": "14:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Younger Generation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYG",
           "start_time": "14:50:00",
           "end_time": "16:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Five Elements Ninjas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FEN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FEN",
           "start_time": "16:25:00",
           "end_time": "18:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Pursuit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "18:20:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dirty Ho",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DH",
           "start_time": "20:00:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Passing Flickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "21:45:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "To Kill A Mastermind",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TKAM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKAM",
           "start_time": "23:15:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-14",
+      "programs": [
+        {
+          "show_name": "To Kill A Mastermind",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKAM",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Forbidden Tales Of Two Cities",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTOTC",
+          "start_time": "01:00:00",
+          "end_time": "02:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Forever And Ever",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FAE",
+          "start_time": "02:45:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Black Tavern",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBT",
+          "start_time": "04:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dead End",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DE",
+          "start_time": "06:00:00",
+          "end_time": "07:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Man In Chang-An",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIC",
+          "start_time": "07:50:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Maid From Heaven",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMFH",
+          "start_time": "09:50:00",
+          "end_time": "11:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Trilogy Of Swordsmanship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOS",
+          "start_time": "11:35:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mad Monk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+          "start_time": "13:30:00",
+          "end_time": "15:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oath Of Death",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OOD",
+          "start_time": "15:20:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Magnificent Concubine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMC",
+          "start_time": "17:00:00",
+          "end_time": "18:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Buddha's Palm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "18:20:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "King Drummer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KD",
+          "start_time": "20:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Godfather Of Canton",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GOC",
+          "start_time": "21:45:00",
+          "end_time": "23:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hong Kong Rhapsody",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKR",
+          "start_time": "23:15:00",
+          "end_time": "01:25:00",
           "episode_number": ""
         }
       ]
