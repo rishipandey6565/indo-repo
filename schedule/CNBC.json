@@ -2,200 +2,214 @@
   "channel_name": "CNBC",
   "schedule": {
     "today": {
-      "date": "2026-06-13",
+      "date": "2026-06-14",
       "programs": [
         {
-          "show_name": "The Exchange",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TE.svg",
+          "show_name": "Late Night With Seth Meyers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Power Lunch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/PL.svg",
+          "show_name": "Executive Decisions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ED",
           "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
+          "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Closing Bell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CB.svg",
+          "show_name": "The Tonight Show, Jimmy Fallon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
           "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Closing Bell: Overtime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CBO.svg",
-          "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Fast Money",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FM.svg",
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tech Download",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TD.svg",
+          "show_name": "Built For Billions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BFB",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders Playbook",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LP.svg",
+          "show_name": "CNBC Meets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Founder Effect",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FE.svg",
+          "show_name": "Executive Decisions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ED",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Explains",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CE.svg",
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Closing Bell: Overtime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CBO.svg",
+          "show_name": "American Greed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Fast Money",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FM.svg",
+          "show_name": "Built For Billions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BFB",
           "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CNBC Meets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Channel Japan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CJ.svg",
+          "show_name": "Executive Decisions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ED",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Leaders Playbook",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LP.svg",
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "PGA Tour: The Memorial...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/PTTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTTM",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Desafio Ruta 40",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/DR4.svg",
+          "show_name": "F1H2O Preview",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
           "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1H2O World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC",
+          "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ibiza Marathon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/IM.svg",
+          "show_name": "Ride FEI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RF",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ras Al Khaimah Marathon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/RAKM.svg",
+          "show_name": "FEI Nations Cup",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FNC",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Built For Billions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB.svg",
+          "show_name": "Channel Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
+          "show_name": "Built For Billions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BFB",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
+          "show_name": "CNBC Meets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tonight Show, Jimmy Fallon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTSJF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Built For Billions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB.svg",
+          "show_name": "Executive Decisions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ED",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "23:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
@@ -203,216 +217,125 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "programs": [
         {
           "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNWSM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
+          "show_name": "Built For Billions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BFB",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
+          "show_name": "CNBC Meets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tonight Show, Jimmy Fallon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTSJF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTSJF",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AG",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Built For Billions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB.svg",
+          "show_name": "Executive Decisions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ED",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
+          "show_name": "The CNBC Debate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCD",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
+          "show_name": "Squawk Box Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBA",
           "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Built For Billions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
-          "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
+          "show_name": "The China Connection",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCC",
           "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
-          "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
+          "show_name": "Inside India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "PGA Tour: The Memorial...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/PTTM.svg",
+          "show_name": "Access Middle East",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AME",
           "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Europe Early Edition",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EEE",
+          "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1H2O Preview",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FP.svg",
+          "show_name": "Squawk Box Europe",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SBE",
           "start_time": "13:00:00",
-          "end_time": "13:30:00",
+          "end_time": "16:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1H2O World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FWC.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ride FEI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/RF.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FEI Nations Cup",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/FNC.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
-          "start_time": "15:00:00",
+          "show_name": "Morning Call",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Channel Japan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CJ.svg",
+          "show_name": "US Squawk Box",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USB",
           "start_time": "17:00:00",
-          "end_time": "17:30:00",
+          "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Built For Billions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/BFB.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CNBC Meets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/CM.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Tonight Show, Jimmy Fallon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TTSJF.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Executive Decisions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/ED.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The CNBC Debate",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/TCD.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/AG.svg",
-          "start_time": "22:00:00",
+          "show_name": "Squawk On The Street",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTS",
+          "start_time": "20:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Late Night With Seth Meyers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cnbc/LNWSM.svg",
+          "show_name": "Halftime Report",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HR",
           "start_time": "23:00:00",
-          "end_time": "01:00:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
