@@ -2,264 +2,299 @@
   "channel_name": "ONE",
   "schedule": {
     "today": {
-      "date": "2026-06-14",
-      "programs": [
-        {
-          "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:20:00",
-          "episode_number": "E680"
-        },
-        {
-          "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
-          "start_time": "00:20:00",
-          "end_time": "01:40:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
-          "start_time": "01:40:00",
-          "end_time": "03:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Adventure By Accident",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/ABA.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S3 E10"
-        },
-        {
-          "show_name": "Doctors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/D.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:15:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Doctors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/D.svg",
-          "start_time": "06:15:00",
-          "end_time": "07:30:00",
-          "episode_number": "E11"
-        },
-        {
-          "show_name": "Hey! First Time In Korea?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/HFTIK.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:40:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Adventure By Accident",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/ABA.svg",
-          "start_time": "09:40:00",
-          "end_time": "11:40:00",
-          "episode_number": "S3 E10"
-        },
-        {
-          "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
-          "start_time": "11:40:00",
-          "end_time": "13:30:00",
-          "episode_number": "E682"
-        },
-        {
-          "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:50:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
-          "start_time": "14:50:00",
-          "end_time": "16:10:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
-          "start_time": "16:10:00",
-          "end_time": "18:00:00",
-          "episode_number": "E682"
-        },
-        {
-          "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:15:00",
-          "episode_number": "E55"
-        },
-        {
-          "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
-          "start_time": "19:15:00",
-          "end_time": "20:30:00",
-          "episode_number": "E56"
-        },
-        {
-          "show_name": "Study Group",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/SG.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:30:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Study Group",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/SG.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:30:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
-          "start_time": "22:30:00",
-          "end_time": "00:15:00",
-          "episode_number": "E718"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-15",
       "programs": [
         {
           "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RM",
           "start_time": "00:00:00",
           "end_time": "00:15:00",
           "episode_number": "E718"
         },
         {
           "show_name": "Half-star Hotel In...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/HHI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HHI",
           "start_time": "00:15:00",
           "end_time": "01:55:00",
           "episode_number": "E16"
         },
         {
           "show_name": "Hey! First Time In Korea?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/HFTIK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFTIK",
           "start_time": "01:55:00",
           "end_time": "04:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Study Group",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/SG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SG",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RM",
           "start_time": "05:00:00",
           "end_time": "06:45:00",
           "episode_number": "E718"
         },
         {
           "show_name": "Desperate Mrs. Seonju",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/DMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMS",
           "start_time": "06:45:00",
           "end_time": "07:25:00",
           "episode_number": "E96"
         },
         {
           "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
           "start_time": "07:25:00",
           "end_time": "08:40:00",
           "episode_number": "E53"
         },
         {
           "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
           "start_time": "08:40:00",
           "end_time": "10:00:00",
           "episode_number": "E54"
         },
         {
           "show_name": "Doctors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "10:00:00",
           "end_time": "11:20:00",
           "episode_number": "E12"
         },
         {
           "show_name": "Hey! First Time In Korea?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/HFTIK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFTIK",
           "start_time": "11:20:00",
           "end_time": "13:25:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Desperate Mrs. Seonju",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/DMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMS",
           "start_time": "13:25:00",
           "end_time": "14:00:00",
           "episode_number": "E97"
         },
         {
           "show_name": "Running Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/RM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RM",
           "start_time": "14:00:00",
           "end_time": "16:00:00",
           "episode_number": "E718"
         },
         {
           "show_name": "Doctors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "16:00:00",
           "end_time": "17:10:00",
           "episode_number": "E12"
         },
         {
           "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "17:10:00",
           "end_time": "18:30:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "18:30:00",
           "end_time": "19:45:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
           "start_time": "19:45:00",
           "end_time": "21:00:00",
           "episode_number": "E55"
         },
         {
           "show_name": "Great Queen Seondeok",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/GQS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
           "start_time": "21:00:00",
           "end_time": "22:15:00",
           "episode_number": "E56"
         },
         {
           "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "22:15:00",
           "end_time": "23:30:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Connection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/one/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "23:30:00",
           "end_time": "00:45:00",
           "episode_number": "E10"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-16",
+      "programs": [
+        {
+          "show_name": "Connection",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Running Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RM",
+          "start_time": "00:45:00",
+          "end_time": "02:35:00",
+          "episode_number": "E682"
+        },
+        {
+          "show_name": "Desperate Mrs. Seonju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMS",
+          "start_time": "02:35:00",
+          "end_time": "03:10:00",
+          "episode_number": "E96"
+        },
+        {
+          "show_name": "Running Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RM",
+          "start_time": "03:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "E718"
+        },
+        {
+          "show_name": "Great Queen Seondeok",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
+          "start_time": "05:00:00",
+          "end_time": "06:15:00",
+          "episode_number": "E53"
+        },
+        {
+          "show_name": "Love Scout",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "06:15:00",
+          "end_time": "07:35:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Bad Memory Eraser",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BME",
+          "start_time": "07:35:00",
+          "end_time": "08:45:00",
+          "episode_number": "E14"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "08:45:00",
+          "end_time": "09:20:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "09:20:00",
+          "end_time": "10:00:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Doctors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "10:00:00",
+          "end_time": "11:20:00",
+          "episode_number": "E13"
+        },
+        {
+          "show_name": "Great Queen Seondeok",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GQS",
+          "start_time": "11:20:00",
+          "end_time": "12:45:00",
+          "episode_number": "E53"
+        },
+        {
+          "show_name": "Love Scout",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "12:45:00",
+          "end_time": "14:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Desperate Mrs. Seonju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMS",
+          "start_time": "14:10:00",
+          "end_time": "14:50:00",
+          "episode_number": "E98"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "14:50:00",
+          "end_time": "15:30:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "15:30:00",
+          "end_time": "16:10:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Doctors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "16:10:00",
+          "end_time": "17:30:00",
+          "episode_number": "E13"
+        },
+        {
+          "show_name": "Bad Memory Eraser",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BME",
+          "start_time": "17:30:00",
+          "end_time": "18:45:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "18:45:00",
+          "end_time": "19:20:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "The Woman Who...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWW",
+          "start_time": "19:20:00",
+          "end_time": "20:00:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Love Scout",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "The Haunted Palace",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THP",
+          "start_time": "21:30:00",
+          "end_time": "22:45:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Knight Flower",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KF",
+          "start_time": "22:45:00",
+          "end_time": "00:10:00",
+          "episode_number": "E4"
         }
       ]
     }
