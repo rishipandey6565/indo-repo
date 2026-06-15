@@ -2,277 +2,284 @@
   "channel_name": "KIX",
   "schedule": {
     "today": {
-      "date": "2026-06-15",
-      "programs": [
-        {
-          "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "The Lost Bladesman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TLB.svg",
-          "start_time": "00:15:00",
-          "end_time": "02:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "02:10:00",
-          "end_time": "04:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Hidden Heroine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/HH.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "RUTE: Toughness Redefined",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RTR.svg",
-          "start_time": "05:25:00",
-          "end_time": "05:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFOR.svg",
-          "start_time": "05:50:00",
-          "end_time": "07:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
-          "start_time": "07:25:00",
-          "end_time": "08:15:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "The Lost Bladesman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TLB.svg",
-          "start_time": "08:15:00",
-          "end_time": "10:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "10:10:00",
-          "end_time": "12:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Hidden Heroine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/HH.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "RUTE: Toughness Redefined",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RTR.svg",
-          "start_time": "13:25:00",
-          "end_time": "13:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFOR.svg",
-          "start_time": "13:50:00",
-          "end_time": "15:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:15:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "The Lost Bladesman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TLB.svg",
-          "start_time": "16:15:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "18:10:00",
-          "end_time": "20:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Night Walk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/NW.svg",
-          "start_time": "21:20:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:25:00",
-          "episode_number": "E1"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-16",
       "programs": [
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": "E1"
         },
         {
           "show_name": "VR Fighter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/VF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VF",
           "start_time": "00:25:00",
           "end_time": "01:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "01:55:00",
           "end_time": "02:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "02:25:00",
           "end_time": "04:00:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
           "start_time": "04:00:00",
           "end_time": "05:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Night Walk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/NW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NW",
           "start_time": "05:20:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "07:00:00",
           "end_time": "08:25:00",
           "episode_number": "E1"
         },
         {
           "show_name": "VR Fighter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/VF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VF",
           "start_time": "08:25:00",
           "end_time": "09:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "09:55:00",
           "end_time": "10:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "10:25:00",
           "end_time": "12:00:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
           "start_time": "12:00:00",
           "end_time": "13:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Night Walk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/NW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NW",
           "start_time": "13:20:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "15:00:00",
           "end_time": "16:25:00",
           "episode_number": "E1"
         },
         {
           "show_name": "VR Fighter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/VF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VF",
           "start_time": "16:25:00",
           "end_time": "17:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "17:55:00",
           "end_time": "18:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "18:25:00",
           "end_time": "20:00:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Munitions Hijacking Case",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/MHC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MHC",
           "start_time": "20:30:00",
           "end_time": "21:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "21:50:00",
           "end_time": "23:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Young Ip Man: Crisis Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/YIMCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
           "start_time": "23:10:00",
           "end_time": "00:35:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-17",
+      "programs": [
+        {
+          "show_name": "Young Ip Man: Crisis Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "00:35:00",
+          "end_time": "02:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Bride With The White Hair",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWTWH",
+          "start_time": "02:40:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Extreme Ends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Munitions Hijacking Case",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MHC",
+          "start_time": "04:30:00",
+          "end_time": "05:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "05:50:00",
+          "end_time": "07:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Young Ip Man: Crisis Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
+          "start_time": "07:10:00",
+          "end_time": "08:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "08:35:00",
+          "end_time": "10:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Bride With The White Hair",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWTWH",
+          "start_time": "10:40:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Extreme Ends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Munitions Hijacking Case",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MHC",
+          "start_time": "12:30:00",
+          "end_time": "13:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "13:50:00",
+          "end_time": "15:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Young Ip Man: Crisis Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YIMCT",
+          "start_time": "15:10:00",
+          "end_time": "16:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "16:35:00",
+          "end_time": "18:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Bride With The White Hair",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWTWH",
+          "start_time": "18:40:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Extreme Ends",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Punish Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
+          "start_time": "20:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "22:00:00",
+          "end_time": "23:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Love Punch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "23:25:00",
+          "end_time": "01:05:00",
           "episode_number": ""
         }
       ]
