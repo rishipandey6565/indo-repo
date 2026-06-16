@@ -2,179 +2,172 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-06-16",
-      "programs": [
-        {
-          "show_name": "Just My Luck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/JML.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "What Happens In Vegas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/WHIV.svg",
-          "start_time": "01:15:00",
-          "end_time": "03:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Torn Curtain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TC.svg",
-          "start_time": "03:15:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "U.S. Marshals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/UM.svg",
-          "start_time": "05:45:00",
-          "end_time": "08:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "08:15:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Along Came Polly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ACP.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Torn Curtain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TC.svg",
-          "start_time": "12:15:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "U.S. Marshals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/UM.svg",
-          "start_time": "14:45:00",
-          "end_time": "17:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "17:15:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "It Happened One Night",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IHON.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
-          "start_time": "21:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Torn Curtain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TC.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-17",
       "programs": [
         {
           "show_name": "Torn Curtain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "01:30:00",
           "end_time": "03:15:00",
           "episode_number": ""
         },
         {
           "show_name": "It Happened One Night",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IHON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IHON",
           "start_time": "03:15:00",
           "end_time": "05:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Legion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
           "start_time": "05:15:00",
           "end_time": "07:15:00",
           "episode_number": ""
         },
         {
           "show_name": "L.A. Confidential",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC",
           "start_time": "07:15:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "E.T. The Extra-Terrestrial",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ETE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETE",
           "start_time": "10:00:00",
           "end_time": "12:15:00",
           "episode_number": ""
         },
         {
           "show_name": "It Happened One Night",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IHON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IHON",
           "start_time": "12:15:00",
           "end_time": "14:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Legion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
           "start_time": "14:15:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Irma La Douce",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ILD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILD",
           "start_time": "16:15:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Puss In Boots",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/PIB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIB",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Maltese Falcon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
           "start_time": "21:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "E.T. The Extra-Terrestrial",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ETE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETE",
           "start_time": "23:00:00",
           "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-18",
+      "programs": [
+        {
+          "show_name": "E.T. The Extra-Terrestrial",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETE",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Irma La Douce",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILD",
+          "start_time": "01:15:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Puss In Boots",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIB",
+          "start_time": "04:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Maltese Falcon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
+          "start_time": "06:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tarantula",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "08:00:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Irma La Douce",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ILD",
+          "start_time": "09:45:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Puss In Boots",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIB",
+          "start_time": "12:30:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Maltese Falcon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMF",
+          "start_time": "14:30:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pocketful Of Miracles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=POM",
+          "start_time": "16:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Anchors Aweigh",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
+          "start_time": "19:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sherlock Holmes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "21:45:00",
+          "end_time": "00:15:00",
           "episode_number": ""
         }
       ]

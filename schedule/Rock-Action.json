@@ -2,214 +2,200 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-06-16",
-      "programs": [
-        {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ring Of Fire, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP1.svg",
-          "start_time": "01:25:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ring Of Fire, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP2.svg",
-          "start_time": "02:55:00",
-          "end_time": "04:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Man With The Iron Fists",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TMWTI.svg",
-          "start_time": "04:25:00",
-          "end_time": "05:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Twelve Monkeys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
-          "start_time": "05:50:00",
-          "end_time": "07:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rambo: First Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RFB.svg",
-          "start_time": "07:55:00",
-          "end_time": "09:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Get Out",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GO.svg",
-          "start_time": "09:25:00",
-          "end_time": "11:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
-          "start_time": "11:05:00",
-          "end_time": "12:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oblivion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/O.svg",
-          "start_time": "12:55:00",
-          "end_time": "14:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Man With The Iron Fists",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TMWTI.svg",
-          "start_time": "14:55:00",
-          "end_time": "16:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "3:10 To Yuma",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/3TY.svg",
-          "start_time": "16:20:00",
-          "end_time": "18:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TL2.svg",
-          "start_time": "18:20:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bodyguard From Beijing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TBFB.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
-          "start_time": "21:30:00",
-          "end_time": "23:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
-          "start_time": "23:35:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-17",
       "programs": [
         {
           "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
           "start_time": "00:00:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Man With The Iron Fists",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TMWTI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMWTI",
           "start_time": "01:25:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Mockingjay, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGMP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP1",
           "start_time": "02:50:00",
           "end_time": "04:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Rambo: First Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RFB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
           "start_time": "04:45:00",
           "end_time": "06:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TL2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
           "start_time": "06:15:00",
           "end_time": "07:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Hard Target",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
           "start_time": "07:50:00",
           "end_time": "09:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Bodyguard From Beijing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TBFB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBFB",
           "start_time": "09:25:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ring Of Fire, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP1",
           "start_time": "11:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ring Of Fire, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP2",
           "start_time": "12:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Twelve Monkeys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "14:00:00",
           "end_time": "16:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Total Recall",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
           "start_time": "16:05:00",
           "end_time": "17:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Oblivion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "17:55:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Waterworld",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "19:55:00",
           "end_time": "22:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Mockingjay, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGMP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP1",
           "start_time": "22:05:00",
           "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-18",
+      "programs": [
+        {
+          "show_name": "3:10 To Yuma",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3TY",
+          "start_time": "00:00:00",
+          "end_time": "02:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cape Fear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "02:05:00",
+          "end_time": "04:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Legend 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
+          "start_time": "04:15:00",
+          "end_time": "05:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Battleship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "05:55:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Godzilla Minus One",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMO",
+          "start_time": "08:00:00",
+          "end_time": "10:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Man With The Iron Fists",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMWTI",
+          "start_time": "10:05:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Mockingjay, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP1",
+          "start_time": "11:30:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "13:25:00",
+          "end_time": "14:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ring Of Fire, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP1",
+          "start_time": "14:55:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ring Of Fire, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP2",
+          "start_time": "16:25:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "3:10 To Yuma",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3TY",
+          "start_time": "17:55:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Hunger Games",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THG",
+          "start_time": "19:55:00",
+          "end_time": "22:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twelve Monkeys",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "22:15:00",
+          "end_time": "00:20:00",
           "episode_number": ""
         }
       ]

@@ -2,137 +2,116 @@
   "channel_name": "Soccer Channel",
   "schedule": {
     "today": {
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "programs": [
         {
-          "show_name": "Garuda Muda: IDN Vs NMI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/GMIVN.svg",
+          "show_name": "Garuda Muda: IDN Vs YEM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMIVY",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Pro Futsal League IDN 2025-2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PFLI2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Extra Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ET.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "U17 Asian Cup 2026: UAE Vs YEM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UAC2U.svg",
+          "show_name": "U17 Asian Cup 2026: JPN Vs IDN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAC2J",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Road To AFF 2026: VIE Vs MYA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/RTA2V.svg",
+          "show_name": "Road To AFF 2026: IDN Vs PHI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA2I",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bundesliga 2025/26: FCB Vs HSV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/B2FVH.svg",
+          "show_name": "Bundesliga: BMG Vs SVW",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBVS",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Extra Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ET.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
+          "show_name": "Pro Futsal League IDN 2025-2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
           "start_time": "11:00:00",
-          "end_time": "11:25:00",
+          "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Women Pro Futsal League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WPFL.svg",
-          "start_time": "11:25:00",
-          "end_time": "13:30:00",
+          "show_name": "U17 Asian Cup 2026: JPN Vs IDN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAC2J",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
-          "start_time": "13:30:00",
-          "end_time": "13:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Women Pro Futsal League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WPFL.svg",
-          "start_time": "13:55:00",
-          "end_time": "16:00:00",
+          "show_name": "AFC U17 WAC 2026: MYA Vs THA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUW2M",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:25:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Women Pro Futsal League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WPFL.svg",
-          "start_time": "16:25:00",
-          "end_time": "18:30:00",
+          "show_name": "Bundesliga: BMG Vs SVW",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBVS",
+          "start_time": "17:30:00",
+          "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Extra Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ET.svg",
-          "start_time": "18:30:00",
-          "end_time": "18:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Women Pro Futsal League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WPFL.svg",
-          "start_time": "18:55:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
-          "start_time": "21:00:00",
+          "show_name": "Road To AFF 2026: SIN Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA2S",
+          "start_time": "19:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Garuda Muda: KOR Vs IDN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/GMKVI.svg",
+          "show_name": "U17 Asian Cup 2026: CHN Vs QAT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAC2C",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Garuda Muda: IDN Vs YEM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/GMIVY.svg",
+          "show_name": "AFC U17 WAC 2026: LBN Vs AUS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUW2L",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
@@ -140,116 +119,137 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-06-17",
+      "date": "2026-06-18",
       "programs": [
         {
-          "show_name": "Garuda Muda: IDN Vs YEM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/GMIVY.svg",
+          "show_name": "AFC U17 WAC 2026: LBN Vs AUS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUW2L",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Pro Futsal League IDN 2025-2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PFLI2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Extra Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ET.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "U17 Asian Cup 2026: JPN Vs IDN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UAC2J.svg",
+          "show_name": "U17 Asian Cup 2026: CHN Vs QAT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAC2C",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Road To AFF 2026: IDN Vs PHI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/RTA2I.svg",
+          "show_name": "Road To AFF 2026: SIN Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA2S",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bundesliga: BMG Vs SVW",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/BBVS.svg",
+          "show_name": "Bundesliga 2025/26: VFB Vs STP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B2VVS",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Extra Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ET.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pro Futsal League IDN 2025-2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PFLI2.svg",
+          "show_name": "Women Pro Futsal League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WPFL",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "U17 Asian Cup 2026: JPN Vs IDN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UAC2J.svg",
+          "show_name": "Pro Futsal League 2 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFL2(",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "AFC U17 WAC 2026: MYA Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AUW2M.svg",
+          "show_name": "Extra Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "15:00:00",
-          "end_time": "17:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Soccer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
+          "start_time": "15:30:00",
+          "end_time": "15:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pro Futsal League 2 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFL2(",
+          "start_time": "15:55:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bundesliga: BMG Vs SVW",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/BBVS.svg",
-          "start_time": "17:30:00",
+          "show_name": "Planet Football",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Soccer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
+          "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Road To AFF 2026: SIN Vs VIE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/RTA2S.svg",
+          "show_name": "Road To AFF 2026: PHI Vs THA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA2P",
           "start_time": "19:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "U17 Asian Cup 2026: CHN Vs QAT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UAC2C.svg",
+          "show_name": "U17 Asian Cup 2026: KSA Vs TJK",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAC2K",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "AFC U17 WAC 2026: LBN Vs AUS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AUW2L.svg",
+          "show_name": "AFC U17 WAC 2026: TPE Vs KOR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUW2T",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
