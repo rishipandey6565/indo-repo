@@ -2,207 +2,46 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-06-20",
-      "programs": [
-        {
-          "show_name": "WAFCON 2024: RSA Vs GHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2RVG.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CAF Champions: MCA Vs MSU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCMVM.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCI Women's World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWWT2.svg",
-          "start_time": "03:30:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: GAL Vs LIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUGV.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: BOD Vs TOT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUBV.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Goodwood Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GH2.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pacific Nations Cup: SAM Vs USA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PNCSV.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WAFCON 2024: BOT Vs NGA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2BVN.svg",
-          "start_time": "09:20:00",
-          "end_time": "11:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCI World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWT2.svg",
-          "start_time": "11:10:00",
-          "end_time": "13:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV: Premier League Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MPLG.svg",
-          "start_time": "13:10:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Scholesy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSS.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Schmeichel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSS.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UWCL '25/26 Final Official Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UFOF.svg",
-          "start_time": "15:30:00",
-          "end_time": "15:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Outdoor Sports Show 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TOSS2.svg",
-          "start_time": "15:55:00",
-          "end_time": "16:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Formula 4 Italian C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/F4IC.svg",
-          "start_time": "16:25:00",
-          "end_time": "17:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: C. Ronaldo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GC.svg",
-          "start_time": "17:15:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL/UECL Highlights 2025/26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL/UECL Highlights 2025/26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Scholesy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSS.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Schmeichel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSS.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Jimmy Murphy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSJM.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Formula 4 Italian C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/F4IC.svg",
-          "start_time": "22:25:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: STG Vs NEW",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUSV.svg",
-          "start_time": "23:15:00",
-          "end_time": "23:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WAFCON 2024: MLI Vs TAN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2MVT.svg",
-          "start_time": "23:45:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-21",
       "programs": [
         {
           "show_name": "WAFCON 2024: MLI Vs TAN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2MVT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVT",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "CAF Champions: PDM Vs PYR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCPVP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCPVP",
           "start_time": "01:30:00",
           "end_time": "03:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Ferrari Challenge 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC2(",
           "start_time": "03:25:00",
           "end_time": "04:55:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Top 20 Goals: Beckham",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2GB",
           "start_time": "04:55:00",
           "end_time": "05:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-22",
+      "programs": [
+        {
+          "show_name": "Ferrari Challenge 2026 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC2(",
+          "start_time": "05:00:00",
+          "end_time": "06:10:00",
           "episode_number": ""
         }
       ]

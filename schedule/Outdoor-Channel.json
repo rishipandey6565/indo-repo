@@ -2,544 +2,502 @@
   "channel_name": "Outdoor Channel",
   "schedule": {
     "today": {
-      "date": "2026-06-20",
-      "programs": [
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Beauty & The Reef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/B.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Bear's Mission, Warwick Davis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMWD.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Beauty & The Reef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/B.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Bear's Mission, Warwick Davis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMWD.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Andy & Ben Eat Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/A.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Beauty & The Reef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/B.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "Feral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/F.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": "S1 E13"
-        },
-        {
-          "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": "S1 E14"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": "S2 E9"
-        },
-        {
-          "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S2 E9"
-        },
-        {
-          "show_name": "Bear's Mission, D. Walliams",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMDW.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "S1 E13"
-        },
-        {
-          "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": "S1 E14"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:00:00",
-          "episode_number": "S1 E4"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-21",
       "programs": [
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Bear's Mission, D. Walliams",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMDW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMDW",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": "S1 E8"
         },
         {
           "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SID",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "S1 E13"
         },
         {
           "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SID",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "S1 E14"
         },
         {
           "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Bear's Mission, D. Walliams",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMDW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMDW",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "Wild Fed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/WF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": "S1 E8"
         },
         {
           "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SID",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": "S1 E13"
         },
         {
           "show_name": "Strangers In Danger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SID",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": "S1 E14"
         },
         {
           "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Duck Camp Dinners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCD",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Hard Truths Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Bear's Mission, D. Walliams",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMDW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMDW",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Search4Hurt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": "S4 E7"
         },
         {
           "show_name": "Search4Hurt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": "S4 E8"
         },
         {
           "show_name": "Beauty & The Reef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B&TR",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Bear's Mission, Anthony Joshua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BMAJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMAJ",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Coral Sea Dreaming",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/CSD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Search4Hurt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": "S4 E7"
         },
         {
           "show_name": "Search4Hurt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": "S4 E8"
         },
         {
           "show_name": "Beauty & The Reef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B&TR",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "S2 E1"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-22",
+      "programs": [
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Bear's Mission, Anthony Joshua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMAJ",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Coral Sea Dreaming",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": "S4 E7"
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "03:30:00",
+          "end_time": "04:00:00",
+          "episode_number": "S4 E8"
+        },
+        {
+          "show_name": "Beauty & The Reef",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B&TR",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Bear's Mission, Anthony Joshua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMAJ",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Coral Sea Dreaming",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": "S4 E7"
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": "S4 E8"
+        },
+        {
+          "show_name": "Beauty & The Reef",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B&TR",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Bear's Mission, Anthony Joshua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMAJ",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Coral Sea Dreaming",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Hard Truths Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Hard Truths Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Bear's Mission, Rob Brydon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMRB",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "S4 E8"
+        },
+        {
+          "show_name": "Search4Hurt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "S4 E9"
+        },
+        {
+          "show_name": "Wild Fed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": "S1 E9"
+        },
+        {
+          "show_name": "Wild Fed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WF",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E10"
+        },
+        {
+          "show_name": "Beauty & The Reef",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B&TR",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Hard Truths Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Hard Truths Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTO",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Bear's Mission, Rob Brydon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMRB",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
         }
       ]
     }
