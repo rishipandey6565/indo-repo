@@ -2,397 +2,383 @@
   "channel_name": "BBC Earth",
   "schedule": {
     "today": {
-      "date": "2026-06-21",
-      "programs": [
-        {
-          "show_name": "Sue Perkins' Big Adv.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SPBA.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:25:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Race For The Nile",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RFTN.svg",
-          "start_time": "00:25:00",
-          "end_time": "01:20:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Searching For Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SFI.svg",
-          "start_time": "01:20:00",
-          "end_time": "02:10:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Inside The Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ITF.svg",
-          "start_time": "02:10:00",
-          "end_time": "03:10:00",
-          "episode_number": "S10 E5"
-        },
-        {
-          "show_name": "Sue Perkins' Big Adv.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SPBA.svg",
-          "start_time": "03:10:00",
-          "end_time": "04:05:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Race For The Nile",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RFTN.svg",
-          "start_time": "04:05:00",
-          "end_time": "05:00:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Searching For Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SFI.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:50:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
-          "start_time": "05:50:00",
-          "end_time": "06:40:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
-          "start_time": "06:40:00",
-          "end_time": "07:35:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "M. Palin: Into Iraq",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MPII.svg",
-          "start_time": "07:35:00",
-          "end_time": "08:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Hippo Watch With Steve",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HWWS.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:25:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
-          "start_time": "09:25:00",
-          "end_time": "10:20:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "10:20:00",
-          "end_time": "11:15:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Searching For Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SFI.svg",
-          "start_time": "11:15:00",
-          "end_time": "12:05:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "M. Palin: Into Iraq",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MPII.svg",
-          "start_time": "12:05:00",
-          "end_time": "13:00:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:55:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
-          "start_time": "13:55:00",
-          "end_time": "14:45:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Searching For Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SFI.svg",
-          "start_time": "14:45:00",
-          "end_time": "15:35:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "15:35:00",
-          "end_time": "16:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:25:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Hippo Watch With Steve",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HWWS.svg",
-          "start_time": "17:25:00",
-          "end_time": "18:20:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Searching For Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/SFI.svg",
-          "start_time": "18:20:00",
-          "end_time": "19:05:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
-          "start_time": "19:05:00",
-          "end_time": "20:00:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:50:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "20:50:00",
-          "end_time": "21:45:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "M. Palin: Into Iraq",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MPII.svg",
-          "start_time": "21:45:00",
-          "end_time": "22:40:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Ancient Powers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AP.svg",
-          "start_time": "22:40:00",
-          "end_time": "23:35:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:30:00",
-          "episode_number": "S1 E3"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-22",
       "programs": [
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
           "start_time": "00:30:00",
           "end_time": "01:25:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "M. Palin: Into Iraq",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/MPII.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MPII",
           "start_time": "01:25:00",
           "end_time": "02:20:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Hippo Watch With Steve",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HWWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HWWS",
           "start_time": "02:20:00",
           "end_time": "03:15:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
           "start_time": "03:15:00",
           "end_time": "04:05:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Ancient Powers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AP",
           "start_time": "04:05:00",
           "end_time": "05:00:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Deadliest Weather",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
           "start_time": "05:00:00",
           "end_time": "05:55:00",
           "episode_number": "S6 E1"
         },
         {
           "show_name": "Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "05:55:00",
           "end_time": "06:55:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Extreme Fishing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
           "start_time": "06:55:00",
           "end_time": "07:45:00",
           "episode_number": "S3 E4"
         },
         {
           "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
           "start_time": "07:45:00",
           "end_time": "08:35:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Ancient Powers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AP",
           "start_time": "08:35:00",
           "end_time": "09:30:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "09:30:00",
           "end_time": "10:25:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Deadliest Weather",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
           "start_time": "10:25:00",
           "end_time": "11:20:00",
           "episode_number": "S6 E1"
         },
         {
           "show_name": "Mammals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
           "start_time": "11:20:00",
           "end_time": "12:25:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Big Cats 24/7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/BC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC2",
           "start_time": "12:25:00",
           "end_time": "13:35:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "13:35:00",
           "end_time": "14:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Deadliest Weather",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
           "start_time": "14:30:00",
           "end_time": "15:25:00",
           "episode_number": "S6 E1"
         },
         {
           "show_name": "Extreme Fishing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
           "start_time": "15:25:00",
           "end_time": "16:15:00",
           "episode_number": "S3 E4"
         },
         {
           "show_name": "Armstrong In Sri Lanka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AISL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
           "start_time": "16:15:00",
           "end_time": "17:05:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "17:05:00",
           "end_time": "18:05:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Extreme Fishing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
           "start_time": "18:05:00",
           "end_time": "19:00:00",
           "episode_number": "S3 E5"
         },
         {
           "show_name": "The Green Planet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TGP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
           "start_time": "20:00:00",
           "end_time": "20:55:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Inside The Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ITF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITF",
           "start_time": "20:55:00",
           "end_time": "21:55:00",
           "episode_number": "S10 E6"
         },
         {
           "show_name": "Extreme Fishing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
           "start_time": "21:55:00",
           "end_time": "22:50:00",
           "episode_number": "S3 E5"
         },
         {
           "show_name": "The Green Planet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TGP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
           "start_time": "22:50:00",
           "end_time": "23:55:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "The Last Overland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/TLO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
           "start_time": "23:55:00",
           "end_time": "00:55:00",
           "episode_number": "S1 E3"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-23",
+      "programs": [
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Inside The Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITF",
+          "start_time": "00:55:00",
+          "end_time": "01:55:00",
+          "episode_number": "S10 E6"
+        },
+        {
+          "show_name": "The Green Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
+          "start_time": "01:55:00",
+          "end_time": "03:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Inside The Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITF",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "S10 E6"
+        },
+        {
+          "show_name": "Armstrong In Sri Lanka",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
+          "start_time": "05:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "05:50:00",
+          "end_time": "06:45:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Extreme Fishing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
+          "start_time": "06:45:00",
+          "end_time": "07:35:00",
+          "episode_number": "S3 E5"
+        },
+        {
+          "show_name": "Inside The Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITF",
+          "start_time": "07:35:00",
+          "end_time": "08:35:00",
+          "episode_number": "S10 E6"
+        },
+        {
+          "show_name": "The Green Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
+          "start_time": "08:35:00",
+          "end_time": "09:35:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Armstrong In Sri Lanka",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
+          "start_time": "09:35:00",
+          "end_time": "10:25:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "10:25:00",
+          "end_time": "11:20:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "A Perfect Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=APP",
+          "start_time": "11:20:00",
+          "end_time": "12:30:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "The Green Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
+          "start_time": "12:30:00",
+          "end_time": "13:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Inside The Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITF",
+          "start_time": "13:30:00",
+          "end_time": "14:30:00",
+          "episode_number": "S10 E6"
+        },
+        {
+          "show_name": "Armstrong In Sri Lanka",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AISL",
+          "start_time": "14:30:00",
+          "end_time": "15:25:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Extreme Fishing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
+          "start_time": "15:25:00",
+          "end_time": "16:15:00",
+          "episode_number": "S3 E5"
+        },
+        {
+          "show_name": "The Green Planet",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGP",
+          "start_time": "16:15:00",
+          "end_time": "17:15:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "The Last Overland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLO",
+          "start_time": "17:15:00",
+          "end_time": "18:10:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Extreme Fishing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
+          "start_time": "18:10:00",
+          "end_time": "19:05:00",
+          "episode_number": "S3 E6"
+        },
+        {
+          "show_name": "Hippo Watch With Steve",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HWWS",
+          "start_time": "19:05:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Amazing Railway Adv.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ARA",
+          "start_time": "20:00:00",
+          "end_time": "20:50:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Earth",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "20:50:00",
+          "end_time": "21:55:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Extreme Fishing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EF",
+          "start_time": "21:55:00",
+          "end_time": "22:45:00",
+          "episode_number": "S3 E6"
+        },
+        {
+          "show_name": "Hippo Watch With Steve",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HWWS",
+          "start_time": "22:45:00",
+          "end_time": "23:35:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Amazing Railway Adv.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ARA",
+          "start_time": "23:35:00",
+          "end_time": "00:25:00",
+          "episode_number": "S2 E1"
         }
       ]
     }

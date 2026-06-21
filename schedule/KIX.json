@@ -2,257 +2,236 @@
   "channel_name": "KIX",
   "schedule": {
     "today": {
-      "date": "2026-06-21",
-      "programs": [
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Blind War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BW.svg",
-          "start_time": "00:35:00",
-          "end_time": "02:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "RUTE: Toughness Redefined",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RTR.svg",
-          "start_time": "02:25:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "02:50:00",
-          "end_time": "04:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "The Grey Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TGM.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fong Sai-Yuk: Return Of Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/FSROH.svg",
-          "start_time": "05:45:00",
-          "end_time": "07:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:35:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Blind War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BW.svg",
-          "start_time": "08:35:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "RUTE: Toughness Redefined",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RTR.svg",
-          "start_time": "10:25:00",
-          "end_time": "10:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "10:50:00",
-          "end_time": "12:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "The Grey Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TGM.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fong Sai-Yuk: Return Of Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/FSROH.svg",
-          "start_time": "13:45:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "15:15:00",
-          "end_time": "16:35:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Blind War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BW.svg",
-          "start_time": "16:35:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "RUTE: Toughness Redefined",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RTR.svg",
-          "start_time": "18:25:00",
-          "end_time": "18:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "18:50:00",
-          "end_time": "20:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "The Grey Men 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TGM2.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Monkey Twins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/MT.svg",
-          "start_time": "21:50:00",
-          "end_time": "23:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "23:45:00",
-          "end_time": "01:00:00",
-          "episode_number": "E7"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-22",
       "programs": [
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUB",
           "start_time": "01:00:00",
           "end_time": "01:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "01:55:00",
           "end_time": "04:00:00",
           "episode_number": "E11"
         },
         {
           "show_name": "The Grey Men 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TGM2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM2",
           "start_time": "04:00:00",
           "end_time": "05:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Monkey Twins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/MT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
           "start_time": "05:50:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "07:45:00",
           "end_time": "09:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUB",
           "start_time": "09:00:00",
           "end_time": "09:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "09:55:00",
           "end_time": "12:00:00",
           "episode_number": "E11"
         },
         {
           "show_name": "The Grey Men 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TGM2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM2",
           "start_time": "12:00:00",
           "end_time": "13:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Monkey Twins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/MT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
           "start_time": "13:50:00",
           "end_time": "15:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "15:45:00",
           "end_time": "17:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Ultimate BROcation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TUB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUB",
           "start_time": "17:00:00",
           "end_time": "17:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "17:55:00",
           "end_time": "20:00:00",
           "episode_number": "E11"
         },
         {
           "show_name": "Bangkok Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "20:00:00",
           "end_time": "21:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Young Heroes Of Chaotic Times",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/YHOCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
           "start_time": "21:25:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "23:00:00",
           "end_time": "00:20:00",
           "episode_number": "E8"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-23",
+      "programs": [
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "00:00:00",
+          "end_time": "00:20:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "A Good Deal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGD",
+          "start_time": "00:20:00",
+          "end_time": "01:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "01:55:00",
+          "end_time": "04:00:00",
+          "episode_number": "E12"
+        },
+        {
+          "show_name": "Bangkok Storm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "04:00:00",
+          "end_time": "05:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Young Heroes Of Chaotic Times",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
+          "start_time": "05:25:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "07:00:00",
+          "end_time": "08:20:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "A Good Deal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGD",
+          "start_time": "08:20:00",
+          "end_time": "09:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "09:55:00",
+          "end_time": "12:00:00",
+          "episode_number": "E12"
+        },
+        {
+          "show_name": "Bangkok Storm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "12:00:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Young Heroes Of Chaotic Times",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
+          "start_time": "13:25:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "15:00:00",
+          "end_time": "16:20:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "A Good Deal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGD",
+          "start_time": "16:20:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "17:55:00",
+          "end_time": "20:00:00",
+          "episode_number": "E12"
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "20:00:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cruel War",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW",
+          "start_time": "21:35:00",
+          "end_time": "23:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "23:15:00",
+          "end_time": "00:55:00",
+          "episode_number": "E9"
         }
       ]
     }
