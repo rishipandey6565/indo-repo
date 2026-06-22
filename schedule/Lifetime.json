@@ -2,369 +2,362 @@
   "channel_name": "Lifetime",
   "schedule": {
     "today": {
-      "date": "2026-06-22",
-      "programs": [
-        {
-          "show_name": "The Hockey Mom's Revenge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/THMR.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:10:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
-          "start_time": "01:10:00",
-          "end_time": "01:45:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Living With My Mother's Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LWMMK.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "My Husband's Other Wife",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MHOW.svg",
-          "start_time": "03:20:00",
-          "end_time": "05:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "05:05:00",
-          "end_time": "05:35:00",
-          "episode_number": "S1 E15"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "05:35:00",
-          "end_time": "06:00:00",
-          "episode_number": "S1 E16"
-        },
-        {
-          "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:30:00",
-          "episode_number": "S6 E84"
-        },
-        {
-          "show_name": "1,000 Ways To Dine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/1WTD.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "E20"
-        },
-        {
-          "show_name": "Earth Sweepers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ES.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:35:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "My Husband's Other Wife",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MHOW.svg",
-          "start_time": "09:35:00",
-          "end_time": "11:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Murder In Nashville",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIN.svg",
-          "start_time": "11:20:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "S3 E12"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:30:00",
-          "episode_number": "S17 E16"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:30:00",
-          "episode_number": "S17 E17"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:30:00",
-          "episode_number": "S17 E18"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "S1 E13"
-        },
-        {
-          "show_name": "1,000 Ways To Dine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/1WTD.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S1 E9"
-        },
-        {
-          "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "Kidnapping In The Grand Canyon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/KITGC.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:35:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:35:00",
-          "episode_number": "S1 E16"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-23",
       "programs": [
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "00:00:00",
           "end_time": "00:35:00",
           "episode_number": "S1 E16"
         },
         {
           "show_name": "MasterChef USA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "00:35:00",
           "end_time": "01:35:00",
           "episode_number": "S13 E16"
         },
         {
           "show_name": "Murder In Nashville",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIN",
           "start_time": "01:35:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Kidnapping In The Grand Canyon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/KITGC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KITGC",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "05:05:00",
           "end_time": "05:35:00",
           "episode_number": "S1 E17"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "05:35:00",
           "end_time": "06:00:00",
           "episode_number": "S1 E18"
         },
         {
           "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
           "start_time": "06:30:00",
           "end_time": "07:30:00",
           "episode_number": "S6 E85"
         },
         {
           "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Earth Sweepers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ES.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Jake Makes It Easy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/JMIE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
           "start_time": "09:00:00",
           "end_time": "09:35:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Kidnapping In The Grand Canyon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/KITGC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KITGC",
           "start_time": "09:35:00",
           "end_time": "11:20:00",
           "episode_number": ""
         },
         {
           "show_name": "My Child Has My Doctor's Face",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MCHMD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCHMD",
           "start_time": "11:20:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": "S3 E13"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": "S17 E19"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "15:00:00",
           "end_time": "16:30:00",
           "episode_number": "S17 E20"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": "S17 E21"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": "S1 E14"
         },
         {
           "show_name": "1,000 Ways To Dine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/1WTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
           "start_time": "18:30:00",
           "end_time": "19:30:00",
           "episode_number": "S6 E80"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": "S1 E10"
         },
         {
           "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "S3 E8"
         },
         {
           "show_name": "Road Trip Hostage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTH",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
           "start_time": "22:35:00",
           "end_time": "23:35:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "23:35:00",
           "end_time": "00:35:00",
           "episode_number": "S1 E17"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E17"
+        },
+        {
+          "show_name": "MasterChef USA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
+          "start_time": "00:35:00",
+          "end_time": "01:35:00",
+          "episode_number": "S13 E17"
+        },
+        {
+          "show_name": "My Child Has My Doctor's Face",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MCHMD",
+          "start_time": "01:35:00",
+          "end_time": "03:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road Trip Hostage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTH",
+          "start_time": "03:20:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "05:05:00",
+          "end_time": "05:35:00",
+          "episode_number": "S1 E19"
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "05:35:00",
+          "end_time": "06:00:00",
+          "episode_number": "S1 E20"
+        },
+        {
+          "show_name": "Jake Makes It Easy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "06:30:00",
+          "end_time": "07:30:00",
+          "episode_number": "S6 E86"
+        },
+        {
+          "show_name": "Rachael Ray's Holidays",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Earth Sweepers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Jake Makes It Easy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMIE",
+          "start_time": "09:00:00",
+          "end_time": "09:35:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "Road Trip Hostage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTH",
+          "start_time": "09:35:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My Father's Murder In Greece",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFMIG",
+          "start_time": "11:20:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Enlighten Your Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "S3 E14"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S17 E22"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "15:00:00",
+          "end_time": "16:05:00",
+          "episode_number": "S17 E23"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "16:05:00",
+          "end_time": "17:35:00",
+          "episode_number": "S17 E24"
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "17:35:00",
+          "end_time": "18:00:00",
+          "episode_number": "S1 E15"
+        },
+        {
+          "show_name": "1,000 Ways To Dine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": "S6 E81"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E11"
+        },
+        {
+          "show_name": "Enlighten Your Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "S3 E9"
+        },
+        {
+          "show_name": "The Boy Who Vanished",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBWV",
+          "start_time": "21:00:00",
+          "end_time": "22:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
+          "start_time": "22:35:00",
+          "end_time": "23:35:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "23:35:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E18"
         }
       ]
     }

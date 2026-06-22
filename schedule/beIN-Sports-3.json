@@ -2,25 +2,375 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "show_name": "Ferrari Challenge 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FC2.svg",
+          "show_name": "WAFCON 2024: MAR Vs COD",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVC",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: SEL Vs AHI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCSVA",
+          "start_time": "01:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FEI World Cup Finals HL 2025",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWCFH",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIA European Truck Racing 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FETR2",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: BAR Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUBV",
           "start_time": "05:00:00",
-          "end_time": "06:10:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: BAR Vs OLY",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUBV",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Outdoor Sports Show 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSS2",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: David Beckham",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDB",
+          "start_time": "06:30:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: Cantona",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSC",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: L 'Elephant...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSL'",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Outdoor Sports Show 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSS2",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "UEL Classic Matches: SVW Vs VAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMSV",
+          "start_time": "10:30:00",
+          "end_time": "10:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: FEN Vs GAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
+          "start_time": "10:40:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL 2025/26: ARS Vs LYO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2AVL",
+          "start_time": "12:30:00",
+          "end_time": "14:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: PSV Vs MIL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMPV",
+          "start_time": "14:20:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: David Beckham",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDB",
+          "start_time": "14:30:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: Cantona",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSC",
+          "start_time": "15:30:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: L 'Elephant...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSL'",
+          "start_time": "16:30:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "UWCL 2025/26: Road To Glory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2RTG",
+          "start_time": "18:00:00",
+          "end_time": "19:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: CHE Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMCV",
+          "start_time": "19:50:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: June",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2J",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: RMA Vs MAR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: ATH Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUAV",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: FCB Vs CHE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUFV",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: PSG Vs ATA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUPV",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: June",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2J",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WAFCON 2024: TUN Vs ALG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2TVA",
+          "start_time": "23:00:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "programs": [
         {
-          "show_name": "Ferrari Challenge 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FC2.svg",
-          "start_time": "05:05:00",
-          "end_time": "06:15:00",
+          "show_name": "WAFCON 2024: TUN Vs ALG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2TVA",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: STM Vs SIM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCSVS",
+          "start_time": "01:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FEI Western European League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEL",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIA European Truck Racing 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FETR2",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: ARS Vs ATM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUAV",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: LEV Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMULV",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pacific Nations Cup: TGA Vs JPN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PNCTV",
+          "start_time": "06:00:00",
+          "end_time": "07:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "07:50:00",
+          "end_time": "08:20:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "WSL 2025/26: ARS Vs LCL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2AVL",
+          "start_time": "08:20:00",
+          "end_time": "10:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: KOC Vs GNC",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2KV",
+          "start_time": "10:10:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "UWCL 2025/26: BAR Vs FCB",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2BVF",
+          "start_time": "12:30:00",
+          "end_time": "14:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: SEL Vs AHI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCSVA",
+          "start_time": "14:20:00",
+          "end_time": "16:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2025/26: PKT Vs MTA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2PVM",
+          "start_time": "16:10:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL 2025/26: Road To Glory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2RTG",
+          "start_time": "18:00:00",
+          "end_time": "19:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Top 20 Goals: Defenders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2GD",
+          "start_time": "19:50:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Mini Match UCL: LIV Vs ATM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMULV",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: MCI Vs NAP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUMV",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: NEW Vs BAR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUNV",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: KAI Vs RMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUKV",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sailing To The Games: LA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "WAFCON 2024: BOT Vs NGA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2BVN",
+          "start_time": "23:00:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
