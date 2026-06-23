@@ -2,207 +2,221 @@
   "channel_name": "Fight Sports",
   "schedule": {
     "today": {
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "programs": [
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "WCCB: Bailey Vs Bermudez",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WBVB",
           "start_time": "00:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Knockouts!: Alvarez Vs Mosley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KAVM.svg",
+          "show_name": "XMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=X",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": "S3 E13"
+        },
+        {
+          "show_name": "Knockouts!: Floyd Vs Cotto",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFVC",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
-          "episode_number": "S27 E2"
+          "episode_number": "S27 E3"
         },
         {
-          "show_name": "BWF Martial Arts",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/BMA.svg",
+          "show_name": "Judo For The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JFTW",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
-          "episode_number": "S10 E1"
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
+          "show_name": "MMA 30",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M3",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
-          "episode_number": "S3 E9"
+          "episode_number": "S1 E8"
         },
         {
-          "show_name": "FS MMA: Shields Vs Steinbeiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVS.svg",
+          "show_name": "FS MMA: Rutkowski Vs Patryk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMRVP",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "WCCB: Bailey Vs Bermudez",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WBVB",
           "start_time": "06:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
+          "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Knockouts!: Alvarez Vs Mosley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KAVM.svg",
+          "show_name": "XMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=X",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": "S3 E13"
+        },
+        {
+          "show_name": "Knockouts!: Floyd Vs Cotto",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFVC",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
-          "episode_number": "S27 E2"
+          "episode_number": "S27 E3"
         },
         {
-          "show_name": "BWF Martial Arts",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/BMA.svg",
+          "show_name": "Judo For The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JFTW",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
-          "episode_number": "S10 E1"
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
+          "show_name": "MMA 30",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M3",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
-          "episode_number": "S3 E9"
+          "episode_number": "S1 E8"
         },
         {
-          "show_name": "FS MMA: Shields Vs Steinbeiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVS.svg",
+          "show_name": "FS MMA: Rutkowski Vs Patryk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMRVP",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "WCCB: Bailey Vs Bermudez",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WBVB",
           "start_time": "12:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "S1 E8"
-        },
-        {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
+          "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Knockouts!: Alvarez Vs Mosley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KAVM.svg",
+          "show_name": "XMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=X",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": "S3 E13"
+        },
+        {
+          "show_name": "Knockouts!: Floyd Vs Cotto",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFVC",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
-          "episode_number": "S27 E2"
+          "episode_number": "S27 E3"
         },
         {
-          "show_name": "BWF Martial Arts",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/BMA.svg",
+          "show_name": "Judo For The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JFTW",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
-          "episode_number": "S10 E1"
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
+          "show_name": "MMA 30",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M3",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
-          "episode_number": "S3 E9"
+          "episode_number": "S1 E8"
         },
         {
-          "show_name": "FS MMA: Shields Vs Steinbeiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVS.svg",
+          "show_name": "FS MMA: Rutkowski Vs Patryk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMRVP",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "WCCB: Bailey Vs Bermudez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WBVB.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
+          "end_time": "19:00:00",
+          "episode_number": "S1 E24"
         },
         {
-          "show_name": "XMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/X.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "20:30:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "19:00:00",
           "end_time": "21:00:00",
-          "episode_number": "S3 E13"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Knockouts!: Floyd Vs Cotto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KFVC.svg",
+          "show_name": "Knockouts!: Hopkins Vs Dawson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KHVD",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
-          "episode_number": "S27 E3"
+          "episode_number": "S27 E4"
         },
         {
-          "show_name": "Judo For The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/JFTW.svg",
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
-          "episode_number": "S1 E2"
+          "episode_number": "S3 E15"
         },
         {
-          "show_name": "MMA 30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/M3.svg",
+          "show_name": "Bipolar Rock N' Roller",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRNR",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
-          "episode_number": "S1 E8"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "FS MMA: Rutkowski Vs Patryk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMRVP.svg",
+          "show_name": "FS MMA: Dias Vs Aziz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMDVA",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -210,221 +224,207 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "programs": [
         {
-          "show_name": "WCCB: Bailey Vs Bermudez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WBVB.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "00:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
+          "end_time": "01:00:00",
+          "episode_number": "S1 E24"
         },
         {
-          "show_name": "XMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/X.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "02:30:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "01:00:00",
           "end_time": "03:00:00",
-          "episode_number": "S3 E13"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Knockouts!: Floyd Vs Cotto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KFVC.svg",
+          "show_name": "Knockouts!: Hopkins Vs Dawson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KHVD",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
-          "episode_number": "S27 E3"
+          "episode_number": "S27 E4"
         },
         {
-          "show_name": "Judo For The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/JFTW.svg",
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
-          "episode_number": "S1 E2"
+          "episode_number": "S3 E15"
         },
         {
-          "show_name": "MMA 30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/M3.svg",
+          "show_name": "Bipolar Rock N' Roller",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRNR",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
-          "episode_number": "S1 E8"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "FS MMA: Rutkowski Vs Patryk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMRVP.svg",
+          "show_name": "FS MMA: Dias Vs Aziz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMDVA",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "WCCB: Bailey Vs Bermudez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WBVB.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "06:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
+          "end_time": "07:00:00",
+          "episode_number": "S1 E24"
         },
         {
-          "show_name": "XMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/X.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "08:30:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "07:00:00",
           "end_time": "09:00:00",
-          "episode_number": "S3 E13"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Knockouts!: Floyd Vs Cotto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KFVC.svg",
+          "show_name": "Knockouts!: Hopkins Vs Dawson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KHVD",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
-          "episode_number": "S27 E3"
+          "episode_number": "S27 E4"
         },
         {
-          "show_name": "Judo For The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/JFTW.svg",
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
-          "episode_number": "S1 E2"
+          "episode_number": "S3 E15"
         },
         {
-          "show_name": "MMA 30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/M3.svg",
+          "show_name": "Bipolar Rock N' Roller",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRNR",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
-          "episode_number": "S1 E8"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "FS MMA: Rutkowski Vs Patryk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMRVP.svg",
+          "show_name": "FS MMA: Dias Vs Aziz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMDVA",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "WCCB: Bailey Vs Bermudez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WBVB.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "12:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
+          "end_time": "13:00:00",
+          "episode_number": "S1 E24"
         },
         {
-          "show_name": "XMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/X.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "14:30:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "13:00:00",
           "end_time": "15:00:00",
-          "episode_number": "S3 E13"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Knockouts!: Floyd Vs Cotto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KFVC.svg",
+          "show_name": "Knockouts!: Hopkins Vs Dawson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KHVD",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
-          "episode_number": "S27 E3"
+          "episode_number": "S27 E4"
         },
         {
-          "show_name": "Judo For The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/JFTW.svg",
+          "show_name": "Wide World Of Fights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
-          "episode_number": "S1 E2"
+          "episode_number": "S3 E15"
         },
         {
-          "show_name": "MMA 30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/M3.svg",
+          "show_name": "Bipolar Rock N' Roller",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRNR",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
-          "episode_number": "S1 E8"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "FS MMA: Rutkowski Vs Patryk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMRVP.svg",
+          "show_name": "FS MMA: Dias Vs Aziz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMDVA",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mega Fights In 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MFI6.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
-          "episode_number": "S1 E24"
+          "episode_number": "S1 E25"
         },
         {
-          "show_name": "Greatest Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/GC.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "S1 E50"
+          "end_time": "20:00:00",
+          "episode_number": "S1 E26"
         },
         {
-          "show_name": "Knockouts!: Hopkins Vs Dawson",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KHVD.svg",
+          "show_name": "American Ninja...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "S7 E13"
+        },
+        {
+          "show_name": "Knockouts!: Marquez Vs Katsidis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMVK",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
-          "episode_number": "S27 E4"
+          "episode_number": "S27 E5"
         },
         {
           "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWOF",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
-          "episode_number": "S3 E15"
+          "episode_number": "S3 E31"
         },
         {
           "show_name": "Bipolar Rock N' Roller",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/BRNR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BRNR",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
-          "episode_number": "S1 E1"
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "FS MMA: Dias Vs Aziz",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMDVA.svg",
+          "show_name": "FS MMA: Lino Vs Zouak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMLVZ",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
