@@ -2,67 +2,32 @@
   "channel_name": "Sportstars 2",
   "schedule": {
     "today": {
-      "date": "2026-06-24",
+      "date": "2026-06-25",
       "programs": [
         {
-          "show_name": "2026 Global Champions League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/2GCL.svg",
+          "show_name": "WTT Star Contender Ljubljana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WSCL",
           "start_time": "01:00:00",
-          "end_time": "01:32:00",
+          "end_time": "05:00:00",
           "episode_number": ""
-        },
-        {
-          "show_name": "Longines Global Champions Tour",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/LGCT.svg",
-          "start_time": "01:32:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-26",
+      "programs": [
         {
           "show_name": "Road To AFF",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/RTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of Badminton",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/BOB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOB",
           "start_time": "04:00:00",
           "end_time": "06:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "show_name": "Sailing Show: Puerto Portals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/SSPP.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sportrivia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/S.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "iNews Sport",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/IS.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WST World Championship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/WWC.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
           "episode_number": ""
         }
       ]
