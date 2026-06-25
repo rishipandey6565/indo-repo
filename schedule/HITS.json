@@ -2,390 +2,376 @@
   "channel_name": "HITS",
   "schedule": {
     "today": {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": "S2 E10"
-        },
-        {
-          "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": "S4 E5"
-        },
-        {
-          "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": "S6 E1"
-        },
-        {
-          "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E10"
-        },
-        {
-          "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "S4 E5"
-        },
-        {
-          "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "S5 E13"
-        },
-        {
-          "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:30:00",
-          "episode_number": "S1 E24"
-        },
-        {
-          "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:30:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:30:00",
-          "episode_number": "S6 E1"
-        },
-        {
-          "show_name": "I Dream Of Jeannie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/IDOJ.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": "S5 E15"
-        },
-        {
-          "show_name": "First Olympics: Athens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/FOA.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:30:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:30:00",
-          "episode_number": "S4 E5"
-        },
-        {
-          "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": "S5 E14"
-        },
-        {
-          "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "I Dream Of Jeannie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/IDOJ.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": "S5 E15"
-        },
-        {
-          "show_name": "Frasier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/F.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "S5 E15"
-        },
-        {
-          "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "S6 E2"
-        },
-        {
-          "show_name": "I Dream Of Jeannie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/IDOJ.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": "S5 E16"
-        },
-        {
-          "show_name": "Frasier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/F.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S5 E16"
-        },
-        {
-          "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "S1 E7"
-        },
-        {
-          "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": "S2 E11"
-        },
-        {
-          "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": "S4 E6"
-        },
-        {
-          "show_name": "I Dream Of Jeannie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/IDOJ.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": "S5 E16"
-        },
-        {
-          "show_name": "Frasier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/F.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:00:00",
-          "episode_number": "S5 E16"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-26",
       "programs": [
         {
           "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": "S2 E11"
         },
         {
           "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": "S4 E6"
         },
         {
           "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACM",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": "S6 E2"
         },
         {
           "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": "S2 E11"
         },
         {
           "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "S4 E6"
         },
         {
           "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "S5 E14"
         },
         {
           "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
           "start_time": "06:30:00",
           "end_time": "07:30:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
           "start_time": "07:30:00",
           "end_time": "08:30:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACM",
           "start_time": "08:30:00",
           "end_time": "09:30:00",
           "episode_number": "S6 E2"
         },
         {
           "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "09:30:00",
           "end_time": "10:25:00",
           "episode_number": "S2 E11"
         },
         {
           "show_name": "First Olympics: Athens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/FOA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
           "start_time": "10:25:00",
           "end_time": "11:35:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
           "start_time": "11:35:00",
           "end_time": "12:30:00",
           "episode_number": "S1 E7"
         },
         {
           "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
           "start_time": "12:30:00",
           "end_time": "13:30:00",
           "episode_number": "S4 E6"
         },
         {
           "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": "S5 E15"
         },
         {
           "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Xena: Warrior...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/XW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "One Summer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/OS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OS",
           "start_time": "16:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "A. Christie's Marple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/ACM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACM",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": "S6 E3"
         },
         {
           "show_name": "I Dream Of Jeannie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/IDOJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
           "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": "S5 E17"
         },
         {
           "show_name": "Frasier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/F.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": "S5 E17"
         },
         {
           "show_name": "Beverly Hills 90210",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/BH9.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "S1 E8"
         },
         {
           "show_name": "CSI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": "S2 E12"
         },
         {
           "show_name": "The Incredible Hulk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/TIH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": "S4 E7"
         },
         {
           "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": "S5 E11"
         },
         {
           "show_name": "Bewitched",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": "S5 E12"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-27",
+      "programs": [
+        {
+          "show_name": "Bewitched",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "S5 E13"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "00:30:00",
+          "end_time": "01:30:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "01:30:00",
+          "end_time": "02:30:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Beverly Hills 90210",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
+          "start_time": "02:30:00",
+          "end_time": "03:30:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "A. Christie's Marple",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACM",
+          "start_time": "03:30:00",
+          "end_time": "04:30:00",
+          "episode_number": "S5 E7"
+        },
+        {
+          "show_name": "A. Christie's Marple",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACM",
+          "start_time": "04:30:00",
+          "end_time": "05:30:00",
+          "episode_number": "S5 E8"
+        },
+        {
+          "show_name": "One Summer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OS",
+          "start_time": "05:30:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": "S1 E20"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": "S1 E21"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "09:30:00",
+          "end_time": "10:30:00",
+          "episode_number": "S1 E22"
+        },
+        {
+          "show_name": "Xena: Warrior...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XW",
+          "start_time": "10:30:00",
+          "end_time": "11:30:00",
+          "episode_number": "S1 E23"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "11:30:00",
+          "end_time": "12:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "First Olympics: Athens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOA",
+          "start_time": "12:30:00",
+          "end_time": "13:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "13:30:00",
+          "end_time": "14:30:00",
+          "episode_number": "S4 E3"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "14:30:00",
+          "end_time": "15:30:00",
+          "episode_number": "S4 E4"
+        },
+        {
+          "show_name": "The Incredible Hulk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIH",
+          "start_time": "15:30:00",
+          "end_time": "16:30:00",
+          "episode_number": "S4 E5"
+        },
+        {
+          "show_name": "Beverly Hills 90210",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
+          "start_time": "16:30:00",
+          "end_time": "17:30:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Beverly Hills 90210",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BH9",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "CSI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": "S5 E13"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "S5 E14"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "S5 E15"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": "S5 E16"
+        },
+        {
+          "show_name": "I Dream Of Jeannie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDOJ",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": "S5 E17"
         }
       ]
     }
