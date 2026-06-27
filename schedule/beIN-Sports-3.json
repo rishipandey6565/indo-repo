@@ -2,219 +2,198 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "show_name": "SailGP 2026: Halifax Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/S2HD2.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CAF Champions: PDM Vs RIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCPVR.svg",
-          "start_time": "01:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FEI Western European League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FWEL.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA European Truck Racing 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FETR2.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: CHE Vs Ajax",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUCV.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: SGE Vs LIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUSV.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Outdoor Sports Show 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TOSS2.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sailing To The Games: LA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/STTGL.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Inside Sailing 2026: June",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/IS2J.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pacific Nations Cup: JPN Vs FIJ",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PNCJV.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2025/26: MUN Vs LEI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2MVL.svg",
-          "start_time": "09:20:00",
-          "end_time": "11:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2025/26: GAL Vs SAM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SL2GV.svg",
-          "start_time": "11:10:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV: The United Archives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTUA.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ferrari Challenge Japan '26 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FCJ.svg",
-          "start_time": "13:25:00",
-          "end_time": "14:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: Andy Cole",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GA.svg",
-          "start_time": "14:35:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: C. Ronaldo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GC.svg",
-          "start_time": "14:45:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Rally C'ship 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FWRC2.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJ2.svg",
-          "start_time": "16:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV One Love: Flag Flying High",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MOLFF.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJ2.svg",
-          "start_time": "18:21:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV One Love: Common...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MOLC.svg",
-          "start_time": "20:30:00",
-          "end_time": "20:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJ2.svg",
-          "start_time": "20:50:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Rally C'ship 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FWRC2.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-28",
       "programs": [
         {
           "show_name": "GT World Challenge Europe (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GWCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCE(",
           "start_time": "00:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "GT World Challenge Europe (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GWCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCE(",
           "start_time": "05:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "GT World Challenge Europe (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GWCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCE(",
           "start_time": "10:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "GT World Challenge Europe (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GWCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCE(",
           "start_time": "14:30:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "GT World Challenge Europe (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/GWCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCE(",
           "start_time": "18:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside Sailing 2026: June",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/IS2J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2J",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "WAFCON 2024: GHA Vs MLI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2GVM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2GVM",
+          "start_time": "23:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "show_name": "WAFCON 2024: GHA Vs MLI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2GVM",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: JSK Vs ASF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCJVA",
+          "start_time": "01:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Longines League Of Nations HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLONH",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIA European Truck Racing 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FETR2",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: RMA Vs JUV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: SLA Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUSV",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL 2025/26: TWE Vs CHE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2TVC",
+          "start_time": "06:00:00",
+          "end_time": "07:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2025/26: TOT Vs WHU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2TVW",
+          "start_time": "07:50:00",
+          "end_time": "09:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: IBA Vs FEN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2IV",
+          "start_time": "09:40:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: MSU Vs AHI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCMVA",
+          "start_time": "11:30:00",
+          "end_time": "13:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UECL 2025/26: DYN Vs CRY",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2DVC",
+          "start_time": "13:20:00",
+          "end_time": "15:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "U-17 AFCON 2026: CIV Vs CMR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2CV",
+          "start_time": "15:10:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: RMA Vs JUV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: SLA Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUSV",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2025/26: Road To Glory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2RTG",
+          "start_time": "18:00:00",
+          "end_time": "19:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL Classic Matches: SVW Vs VAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMSV",
+          "start_time": "19:50:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: Gary Pallister",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSGP",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: Denis Irwin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDI",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: Bryan Robson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSBR",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WAFCON 2024: TAN Vs RSA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2TVR",
           "start_time": "23:00:00",
           "end_time": "01:00:00",
           "episode_number": ""

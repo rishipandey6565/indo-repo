@@ -2,453 +2,404 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "show_name": "Keanu Reeves: The One & Only",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/KRTO.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:25:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
-          "start_time": "01:25:00",
-          "end_time": "02:15:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Mega Transports Specials",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTS.svg",
-          "start_time": "02:15:00",
-          "end_time": "03:05:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
-          "start_time": "03:05:00",
-          "end_time": "04:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:50:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
-          "start_time": "05:50:00",
-          "end_time": "06:40:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "06:40:00",
-          "end_time": "07:05:00",
-          "episode_number": "S4 E5"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "07:05:00",
-          "end_time": "07:30:00",
-          "episode_number": "S4 E6"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "07:30:00",
-          "end_time": "07:55:00",
-          "episode_number": "S4 E7"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "07:55:00",
-          "end_time": "08:20:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "08:20:00",
-          "end_time": "08:45:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:10:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "09:10:00",
-          "end_time": "09:40:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "09:40:00",
-          "end_time": "10:10:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "10:10:00",
-          "end_time": "10:35:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "10:35:00",
-          "end_time": "11:20:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "11:20:00",
-          "end_time": "12:10:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "12:10:00",
-          "end_time": "13:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "13:30:00",
-          "end_time": "13:55:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "13:55:00",
-          "end_time": "14:25:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Essence Of India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOI.svg",
-          "start_time": "14:25:00",
-          "end_time": "14:55:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Fantastic Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FF.svg",
-          "start_time": "14:55:00",
-          "end_time": "15:50:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Fantastic Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FF.svg",
-          "start_time": "15:50:00",
-          "end_time": "16:45:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "16:45:00",
-          "end_time": "17:30:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:20:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "18:20:00",
-          "end_time": "19:10:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "19:10:00",
-          "end_time": "20:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:50:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "20:50:00",
-          "end_time": "21:40:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "In The Giant Mammoth Tracks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITGMT.svg",
-          "start_time": "21:40:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iceland: The Puffin Sanctuary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITPS.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:25:00",
-          "episode_number": "E1"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-28",
       "programs": [
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "00:25:00",
           "end_time": "01:20:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "01:20:00",
           "end_time": "02:10:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "02:10:00",
           "end_time": "03:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "In The Giant Mammoth Tracks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITGMT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITGMT",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iceland: The Puffin Sanctuary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITPS",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "07:00:00",
           "end_time": "07:50:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "07:50:00",
           "end_time": "08:50:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "08:50:00",
           "end_time": "09:45:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "09:45:00",
           "end_time": "10:40:00",
           "episode_number": "E3"
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "10:40:00",
           "end_time": "11:35:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Battle Of Midway: True Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BOMTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOMTS",
           "start_time": "11:35:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "12:30:00",
           "end_time": "13:20:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "13:20:00",
           "end_time": "14:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "14:10:00",
           "end_time": "15:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "15:00:00",
           "end_time": "15:50:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "15:50:00",
           "end_time": "16:40:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Aerial Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "16:40:00",
           "end_time": "17:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Battle Of Midway: True Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BOMTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOMTS",
           "start_time": "17:30:00",
           "end_time": "18:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lost Tapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
           "start_time": "18:25:00",
           "end_time": "19:10:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Alaska: Year In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AYITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AYITW",
           "start_time": "19:10:00",
           "end_time": "19:55:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Alaska: Year In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AYITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AYITW",
           "start_time": "19:55:00",
           "end_time": "20:40:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Alaska: Year In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AYITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AYITW",
           "start_time": "20:40:00",
           "end_time": "21:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "21:25:00",
           "end_time": "22:15:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "22:15:00",
           "end_time": "23:05:00",
           "episode_number": "E4"
         },
         {
           "show_name": "In The Giant Mammoth Tracks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITGMT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITGMT",
           "start_time": "23:05:00",
           "end_time": "00:00:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "show_name": "Iceland: The Puffin Sanctuary",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITPS",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Humboldt Current",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
+          "start_time": "00:55:00",
+          "end_time": "01:50:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Humboldt Current",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
+          "start_time": "01:50:00",
+          "end_time": "02:45:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "02:45:00",
+          "end_time": "03:35:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "03:35:00",
+          "end_time": "04:30:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "The Lost Tapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "05:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "The Lost Tapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "05:50:00",
+          "end_time": "06:50:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "The Lost Tapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "06:50:00",
+          "end_time": "07:50:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "The Lost Tapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "07:50:00",
+          "end_time": "08:40:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "The Humboldt Current",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
+          "start_time": "08:40:00",
+          "end_time": "09:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Humboldt Current",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
+          "start_time": "09:35:00",
+          "end_time": "10:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Secret Life Of Owls",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSLOO",
+          "start_time": "10:30:00",
+          "end_time": "11:15:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "11:15:00",
+          "end_time": "12:00:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "12:00:00",
+          "end_time": "12:50:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "12:50:00",
+          "end_time": "13:40:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "The Presidents",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
+          "start_time": "13:40:00",
+          "end_time": "14:35:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Presidents",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
+          "start_time": "14:35:00",
+          "end_time": "15:40:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Presidents",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
+          "start_time": "15:40:00",
+          "end_time": "16:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "16:40:00",
+          "end_time": "17:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "17:30:00",
+          "end_time": "18:20:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "18:20:00",
+          "end_time": "19:10:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "19:10:00",
+          "end_time": "20:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "20:00:00",
+          "end_time": "20:50:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "20:50:00",
+          "end_time": "21:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Edge Of Existence",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOE",
+          "start_time": "21:40:00",
+          "end_time": "22:25:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Edge Of Existence",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOE",
+          "start_time": "22:25:00",
+          "end_time": "23:15:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Building The Impossible",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTI",
+          "start_time": "23:15:00",
+          "end_time": "00:05:00",
+          "episode_number": "E1"
         }
       ]
     }

@@ -2,39 +2,221 @@
   "channel_name": "Sportstars 2",
   "schedule": {
     "today": {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "show_name": "MotoGP Inside Ducati Lenovo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/MIDL.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WTT Star Contender Ljubljana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/WSCL.svg",
-          "start_time": "01:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-28",
       "programs": [
         {
+          "show_name": "V-League Women Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VWC",
+          "start_time": "00:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
           "show_name": "Road To AFF",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/RTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of Badminton",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars-2/BOB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOB",
           "start_time": "04:00:00",
           "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Golden Fit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GF",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "iNews Sport",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V-League Men Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VMC",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sports Today: Viral",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STV",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To AFF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V-League Women Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VWC",
+          "start_time": "12:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tinju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To AFF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
+          "start_time": "15:30:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of Badminton",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOB",
+          "start_time": "17:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of Megatron",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOM",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Soccer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tinju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "22:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "show_name": "V-League Women Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VWC",
+          "start_time": "00:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To AFF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indonesia Juara Badminton",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IJB",
+          "start_time": "04:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Golden Fit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GF",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "iNews Sport",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of Megatron",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOM",
+          "start_time": "07:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Sports",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To AFF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V-League Women Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VWC",
+          "start_time": "12:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tinju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road To AFF",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTA",
+          "start_time": "15:30:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of Badminton",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOB",
+          "start_time": "17:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WST World Championship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWC",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Top Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tinju",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "22:30:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
