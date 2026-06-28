@@ -2,277 +2,249 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-06-28",
-      "programs": [
-        {
-          "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJC.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Epic Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/CEH2.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Epic Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/CEH2.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Epic Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/CEH2.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Brussels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWCH.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "05:25:00",
-          "end_time": "06:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "06:55:00",
-          "end_time": "08:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "08:25:00",
-          "end_time": "09:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of RG 2026: Day 7 Women",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
-          "start_time": "09:55:00",
-          "end_time": "11:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ferrari Challenge Japan '26 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FCJ.svg",
-          "start_time": "11:25:00",
-          "end_time": "12:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "12:35:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Rally C'ship 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWRC2.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "14:30:00",
-          "end_time": "14:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
-          "start_time": "14:40:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of RG 2026: Day 8 Women",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Rally C'ship 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWRC2.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of RG 2026: Day 8 Women",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
-          "start_time": "19:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWCH.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel: Valladolid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPV.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel: Valladolid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPV.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-06-29",
       "programs": [
         {
           "show_name": "Premier Padel: Valladolid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPV(",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Cape Epic Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/CEH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CEH2",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Brussels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2B",
           "start_time": "01:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Brussels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2B",
           "start_time": "03:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2025/26: RIZ Vs BJK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2RV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2RV",
           "start_time": "04:30:00",
           "end_time": "06:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2025/26: FEN Vs EYU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
           "start_time": "06:20:00",
           "end_time": "08:10:00",
           "episode_number": ""
         },
         {
           "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
           "start_time": "08:10:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of RG 2026: Day 7 Women",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
           "start_time": "10:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of RG 2026: Day 7 Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
           "start_time": "11:30:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Almaty ATP 250: Documentary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AA2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA2D",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "14:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "15:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of RG 2026: Day 7 Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
           "start_time": "17:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of RG 2026: Day 8 Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of RG 2026: Day 8 Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
           "start_time": "21:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
           "start_time": "23:00:00",
           "end_time": "00:50:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-06-30",
+      "programs": [
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "00:00:00",
+          "end_time": "00:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "00:50:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cape Epic Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CEH2",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Brussels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2B",
+          "start_time": "01:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Brussels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2B",
+          "start_time": "03:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: KAS Vs GAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2KV",
+          "start_time": "04:30:00",
+          "end_time": "06:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: TSR Vs GNC",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2TV",
+          "start_time": "06:20:00",
+          "end_time": "08:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "08:10:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of RG 2026: Day 8 Women",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
+          "start_time": "10:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of RG 2026: Day 8 Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
+          "start_time": "11:30:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SFT Surf Foil World Tour 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SSFWT",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "14:00:00",
+          "end_time": "15:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "15:55:00",
+          "end_time": "17:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS World C'ships HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSWCH",
+          "start_time": "17:45:00",
+          "end_time": "18:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of RG 2026: Day 9 Women",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
+          "start_time": "18:45:00",
+          "end_time": "20:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of RG 2026: Day 9 Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOR2D",
+          "start_time": "20:15:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel '26: Bordeaux (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP'B(",
+          "start_time": "22:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel '26: Bordeaux (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP'B(",
+          "start_time": "23:30:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
