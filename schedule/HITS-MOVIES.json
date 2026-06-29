@@ -2,95 +2,88 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "show_name": "Apollo 13",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/A1.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rocky Balboa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RB.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
-          "start_time": "03:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP3",
+          "start_time": "01:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Specialist",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "03:00:00",
           "end_time": "05:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Monsters Vs. Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MVA.svg",
+          "show_name": "Creature From The Black Lagoon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFTBL",
           "start_time": "05:15:00",
           "end_time": "07:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kung Fu Panda 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP3.svg",
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
           "start_time": "07:15:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Fast And The Furious",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TFATF.svg",
+          "show_name": "The Specialist",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "09:15:00",
-          "end_time": "11:15:00",
+          "end_time": "11:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Rocky Balboa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RB.svg",
-          "start_time": "11:15:00",
-          "end_time": "13:15:00",
+          "show_name": "Creature From The Black Lagoon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFTBL",
+          "start_time": "11:30:00",
+          "end_time": "13:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
-          "start_time": "13:15:00",
-          "end_time": "15:00:00",
+          "show_name": "Apollo 13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
+          "start_time": "13:30:00",
+          "end_time": "16:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Monsters Vs. Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MVA.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fast And The Furious",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TFATF.svg",
-          "start_time": "17:00:00",
+          "show_name": "The Dark Knight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+          "start_time": "16:15:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Specialist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TS.svg",
+          "show_name": "On The Waterfront",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTW",
           "start_time": "19:00:00",
           "end_time": "21:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Creature From The Black Lagoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CFTBL.svg",
+          "show_name": "The Tourist",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "21:15:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
+          "show_name": "Monsters Vs. Aliens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVA",
           "start_time": "23:15:00",
           "end_time": "01:00:00",
           "episode_number": ""
@@ -98,89 +91,89 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "programs": [
         {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
+          "show_name": "Monsters Vs. Aliens",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVA",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kung Fu Panda 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP3.svg",
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
           "start_time": "01:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Specialist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TS.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Creature From The Black Lagoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CFTBL.svg",
-          "start_time": "05:15:00",
-          "end_time": "07:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fast And The Furious",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TFATF.svg",
-          "start_time": "07:15:00",
-          "end_time": "09:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Specialist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TS.svg",
-          "start_time": "09:15:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Creature From The Black Lagoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CFTBL.svg",
-          "start_time": "11:30:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Apollo 13",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/A1.svg",
-          "start_time": "13:30:00",
-          "end_time": "16:15:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "The Dark Knight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TDK.svg",
-          "start_time": "16:15:00",
-          "end_time": "19:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+          "start_time": "03:00:00",
+          "end_time": "05:45:00",
           "episode_number": ""
         },
         {
           "show_name": "On The Waterfront",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/OTW.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTW",
+          "start_time": "05:45:00",
+          "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tourist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TT.svg",
-          "start_time": "21:15:00",
-          "end_time": "23:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
+          "start_time": "08:00:00",
+          "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Monsters Vs. Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MVA.svg",
-          "start_time": "23:15:00",
+          "show_name": "Kung Fu Panda 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP3",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Dark Knight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDK",
+          "start_time": "12:00:00",
+          "end_time": "14:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "On The Waterfront",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OTW",
+          "start_time": "14:45:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tourist",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP3",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "7 Brides For 7 Brothers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7BF7B",
+          "start_time": "21:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Creature From The Black Lagoon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CFTBL",
+          "start_time": "23:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         }
