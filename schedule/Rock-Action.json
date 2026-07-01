@@ -2,33 +2,208 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-07-01",
+      "date": "2026-07-02",
       "programs": [
         {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
+          "show_name": "Vampire Wars: Battle For...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VWBF",
           "start_time": "00:00:00",
-          "end_time": "01:45:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "01:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "03:00:00",
+          "end_time": "04:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Battleship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "04:40:00",
+          "end_time": "06:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Waterworld",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "06:45:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oblivion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "08:55:00",
+          "end_time": "10:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Miami Vice",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
+          "start_time": "10:55:00",
+          "end_time": "12:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pitch Black",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PB",
+          "start_time": "12:55:00",
+          "end_time": "14:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Total Recall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "14:40:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "16:30:00",
+          "end_time": "18:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Daylight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "18:05:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "19:55:00",
+          "end_time": "21:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robin Hood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "21:25:00",
+          "end_time": "23:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Total Recall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "23:40:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-07-02",
+      "date": "2026-07-03",
       "programs": [
         {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TWOT.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:35:00",
-          "episode_number": "S2 E7"
+          "show_name": "Total Recall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
         },
         {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TWOT.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:45:00",
-          "episode_number": "S2 E8"
+          "show_name": "Cape Fear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "01:30:00",
+          "end_time": "03:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "03:35:00",
+          "end_time": "05:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dante's Peak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
+          "start_time": "05:15:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robin Hood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "07:00:00",
+          "end_time": "09:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shaolin Vs Evil Dead 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SVED2",
+          "start_time": "09:15:00",
+          "end_time": "11:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "11:15:00",
+          "end_time": "12:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "12:45:00",
+          "end_time": "14:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Battleship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "14:20:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "16:25:00",
+          "end_time": "18:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Total Recall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "18:05:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pitch Black",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PB",
+          "start_time": "19:55:00",
+          "end_time": "21:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Doomsday",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "21:40:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
+          "start_time": "23:20:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
         }
       ]
     }
