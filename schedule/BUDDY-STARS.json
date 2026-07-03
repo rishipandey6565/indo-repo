@@ -2,103 +2,96 @@
   "channel_name": "BUDDY STARS",
   "schedule": {
     "today": {
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "programs": [
         {
-          "show_name": "House Of Wonder",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HOW.svg",
-          "start_time": "01:32:00",
-          "end_time": "03:27:00",
+          "show_name": "A Monster In Paris",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMIP",
+          "start_time": "00:51:00",
+          "end_time": "02:41:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-07-04",
+      "date": "2026-07-05",
       "programs": [
         {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:52:00",
+          "end_time": "01:00:00",
+          "episode_number": "S2 E47"
+        },
+        {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:00:00",
+          "end_time": "01:07:00",
+          "episode_number": "S3 E15"
+        },
+        {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:07:00",
+          "end_time": "01:15:00",
+          "episode_number": "S3 E16"
+        },
+        {
+          "show_name": "Andy's Safari Adv.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASA",
+          "start_time": "01:15:00",
+          "end_time": "01:30:00",
+          "episode_number": "S1 E38"
+        },
+        {
+          "show_name": "Playtime Towers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT",
+          "start_time": "01:30:00",
+          "end_time": "01:55:00",
+          "episode_number": "S1 E4"
+        },
+        {
           "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
           "start_time": "01:55:00",
           "end_time": "02:02:00",
+          "episode_number": "S3 E19"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
+          "start_time": "02:02:00",
+          "end_time": "02:09:00",
           "episode_number": "S3 E18"
         },
         {
           "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
-          "start_time": "02:02:00",
-          "end_time": "02:09:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
+          "start_time": "02:09:00",
+          "end_time": "02:15:00",
           "episode_number": "S3 E17"
         },
         {
-          "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
-          "start_time": "02:09:00",
-          "end_time": "02:15:00",
-          "episode_number": "S3 E16"
-        },
-        {
           "show_name": "Go Jetters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/GJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GJ",
           "start_time": "02:15:00",
           "end_time": "02:25:00",
-          "episode_number": "S3 E29"
+          "episode_number": "S3 E30"
         },
         {
           "show_name": "Go Jetters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/GJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GJ",
           "start_time": "02:25:00",
           "end_time": "02:40:00",
-          "episode_number": "S3 E28"
+          "episode_number": "S3 E29"
         },
         {
           "show_name": "Thomas & Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T&F",
           "start_time": "02:40:00",
           "end_time": "02:50:00",
-          "episode_number": "S23 E19"
-        },
-        {
-          "show_name": "Sarah And Duck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SAD.svg",
-          "start_time": "02:50:00",
-          "end_time": "02:57:00",
-          "episode_number": "S3 E28"
-        },
-        {
-          "show_name": "Sarah And Duck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SAD.svg",
-          "start_time": "02:57:00",
-          "end_time": "03:05:00",
-          "episode_number": "S3 E29"
-        },
-        {
-          "show_name": "Stan Can",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SC.svg",
-          "start_time": "03:05:00",
-          "end_time": "03:11:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Stan Can",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SC.svg",
-          "start_time": "03:11:00",
-          "end_time": "03:20:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Funny Talking Animals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/FTA.svg",
-          "start_time": "03:20:00",
-          "end_time": "03:25:00",
-          "episode_number": "S1 E14"
-        },
-        {
-          "show_name": "Jojo & Gran Gran",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/J.svg",
-          "start_time": "03:25:00",
-          "end_time": "03:38:00",
-          "episode_number": "S2 E7"
+          "episode_number": "S23 E20"
         }
       ]
     }
