@@ -2,235 +2,228 @@
   "channel_name": "Indosiar",
   "schedule": {
     "today": {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
-          "start_time": "00:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Shaolin Temple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TST.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hero Among Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/HAH.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fokus Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FP.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "05:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pengantin Lelaki Tidak Datang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PLTD.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BK.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BK.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fokus Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FS.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Terperangkap Dosa Masa Lalu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TDML.svg",
-          "start_time": "11:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tragedi Asmara Mantan Istri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TAMI.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dancow Indonesia Cerdas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DIC.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wajah Muncul Tanpa Diundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/WMTD.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Boneka Lusuh Pembawa Pesan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BLPP.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "18:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
-          "start_time": "20:30:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-06",
       "programs": [
         {
           "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ip Man And The Four Kings",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/IMATF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IMATF",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Line Walker 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/LW1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LW1",
           "start_time": "02:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tiger Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "03:30:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "04:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "12:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "14:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "16:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "18:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "20:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Indosiar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-07",
+      "programs": [
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "01:30:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "02:30:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "04:30:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "05:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "08:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "12:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "13:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "19:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Indosiar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "22:00:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
