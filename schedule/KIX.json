@@ -2,257 +2,236 @@
   "channel_name": "KIX",
   "schedule": {
     "today": {
-      "date": "2026-07-06",
-      "programs": [
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Nezha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/N.svg",
-          "start_time": "00:25:00",
-          "end_time": "02:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "02:15:00",
-          "end_time": "03:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Macaque Monkey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMM.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Punish Evil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/PE.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Nezha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/N.svg",
-          "start_time": "08:25:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "10:15:00",
-          "end_time": "11:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Macaque Monkey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMM.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Punish Evil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/PE.svg",
-          "start_time": "13:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Nezha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/N.svg",
-          "start_time": "16:25:00",
-          "end_time": "18:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "18:15:00",
-          "end_time": "19:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:55:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/FOL.svg",
-          "start_time": "21:55:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:50:00",
-          "episode_number": "E5"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-07",
       "programs": [
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "00:00:00",
           "end_time": "00:50:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Robot Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
           "start_time": "00:50:00",
           "end_time": "02:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFOR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
           "start_time": "02:25:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "04:00:00",
           "end_time": "05:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "05:55:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "07:30:00",
           "end_time": "08:50:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Robot Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
           "start_time": "08:50:00",
           "end_time": "10:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFOR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
           "start_time": "10:25:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "12:00:00",
           "end_time": "13:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "13:55:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "15:30:00",
           "end_time": "16:50:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Robot Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/RA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
           "start_time": "16:50:00",
           "end_time": "18:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Fate Of Reunion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFOR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOR",
           "start_time": "18:25:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Squad W",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ISW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
           "start_time": "20:00:00",
           "end_time": "21:50:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Burning Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
           "start_time": "21:50:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Iron Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
           "start_time": "23:25:00",
           "end_time": "00:45:00",
           "episode_number": "E6"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-08",
+      "programs": [
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Monkey Is Back",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIB",
+          "start_time": "00:45:00",
+          "end_time": "02:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Punch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "02:20:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "04:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Burning Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "05:50:00",
+          "end_time": "07:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "07:25:00",
+          "end_time": "08:45:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Monkey Is Back",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIB",
+          "start_time": "08:45:00",
+          "end_time": "10:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Punch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "10:20:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "12:00:00",
+          "end_time": "13:50:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Burning Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "13:50:00",
+          "end_time": "15:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "15:25:00",
+          "end_time": "16:45:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Monkey Is Back",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMIB",
+          "start_time": "16:45:00",
+          "end_time": "18:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Punch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
+          "start_time": "18:20:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Squad W",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISW",
+          "start_time": "20:00:00",
+          "end_time": "22:05:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Bangkok Storm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "22:05:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Iron Ball",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IB",
+          "start_time": "23:30:00",
+          "end_time": "00:45:00",
+          "episode_number": "E7"
         }
       ]
     }
