@@ -2,177 +2,170 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-07-07",
-      "programs": [
-        {
-          "show_name": "Notting Hill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/NH.svg",
-          "start_time": "00:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Xanadu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/X.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rear Window",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RW.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Other Guys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TOG.svg",
-          "start_time": "06:15:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Along Came Polly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ACP.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Xanadu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/X.svg",
-          "start_time": "10:30:00",
-          "end_time": "12:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rear Window",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RW.svg",
-          "start_time": "12:15:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Other Guys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TOG.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Entrapment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/E.svg",
-          "start_time": "16:45:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beowulf",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/B.svg",
-          "start_time": "21:00:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Entrapment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/E.svg",
-          "start_time": "23:15:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-08",
       "programs": [
         {
           "show_name": "Entrapment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Along Came Polly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ACP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACP",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
           "start_time": "03:30:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Beowulf",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "05:30:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Rear Window",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
           "start_time": "07:45:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Xanadu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/X.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=X",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
           "start_time": "12:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Beowulf",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "14:00:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Rob Roy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
           "start_time": "16:15:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Matrix",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "19:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tremors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
+          "start_time": "23:30:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-09",
+      "programs": [
+        {
+          "show_name": "Liar Liar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rob Roy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
+          "start_time": "01:30:00",
+          "end_time": "04:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "04:15:00",
+          "end_time": "06:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tremors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "06:45:00",
+          "end_time": "08:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rob Roy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RR",
+          "start_time": "08:45:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "11:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tremors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "14:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hawaii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
+          "start_time": "16:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The International",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TI",
+          "start_time": "19:00:00",
+          "end_time": "21:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Big Boss",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBB",
+          "start_time": "21:15:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP3",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
