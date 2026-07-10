@@ -2,485 +2,450 @@
   "channel_name": "FOOD TRAVEL",
   "schedule": {
     "today": {
-      "date": "2026-07-10",
-      "programs": [
-        {
-          "show_name": "Kalaparan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/K.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tukang Makan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dapur Panik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DP.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mie Goreng Kumis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/MGK.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Around The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATW.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dapur Ngebor",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DN.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner Review",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VKR.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuliner Anak Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/KAN.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Travel Addict",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TA.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Around The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATW.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tukang Makan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dapur Panik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DP.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner Review",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VKR.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Eat, Pray, Love Ala Mas Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/EPLAM.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuliner Anak Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/KAN.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tukang Makan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner Review",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VKR.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Around The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATW.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dapur Panik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DP.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kalaparan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/K.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Traventure Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Travel Addict",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TA.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dapur Ngebor",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DN.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-11",
       "programs": [
         {
           "show_name": "Kalaparan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATG",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tukang Makan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dapur Panik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Eat, Pray, Love Ala Mas Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/EPLAM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EPLAM",
           "start_time": "04:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ada Tamu Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATG",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Dapur Ngebor",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DN.svg",
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "07:00:00",
-          "end_time": "08:00:00",
+          "end_time": "07:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
-          "start_time": "08:00:00",
+          "show_name": "Dapur Ngebor",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DN",
+          "start_time": "07:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hati Sang Bidadari",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/HSB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSB",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MasterChef Indonesia S13",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/MIS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIS",
           "start_time": "09:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Karedok Leunca Bikin Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/KLBC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KLBC",
           "start_time": "14:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Urban Street Food S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/USFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USFS",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tukang Makan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kitchen Beb",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/KB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KB",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Viral Kuliner",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/VK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Let's Go",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/LG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
           "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/ATW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dapur Panik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/DP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kalaparan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Turis Nekadz",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/TN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TN",
           "start_time": "21:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MasterChef Indonesia S13",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/food-travel/MIS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIS",
+          "start_time": "22:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-12",
+      "programs": [
+        {
+          "show_name": "MasterChef Indonesia S13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIS",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Let's Go",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hati Sang Bidadari",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSB",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dapur Panik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Karedok Leunca Bikin Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KLBC",
+          "start_time": "04:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Let's Go",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ada Tamu Gokil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATG",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Around The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dapur Ngebor",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DN",
+          "start_time": "07:30:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hati Sang Bidadari",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSB",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MasterChef Indonesia S13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIS",
+          "start_time": "09:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kitchen Beb",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KB",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Urban Street Food",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USF",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bukan Bebek Biasa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBB",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kuliner Anak Nusantara",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAN",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tukang Makan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kitchen Beb",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KB",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Viral Kuliner",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VK",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Let's Go",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LG",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Around The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dapur Panik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kalaparan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Turis Nekadz",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TN",
+          "start_time": "21:30:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MasterChef Indonesia S13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIS",
           "start_time": "22:30:00",
           "end_time": "01:00:00",
           "episode_number": ""
