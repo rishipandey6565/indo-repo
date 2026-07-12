@@ -2,186 +2,242 @@
   "channel_name": "CGTN Documentary",
   "schedule": {
     "today": {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "programs": [
         {
-          "show_name": "Weaving Bamboo Miracles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WBM.svg",
+          "show_name": "Yangshi Lei",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YL",
           "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Silk Road Sunken Treasures",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SRST.svg",
-          "start_time": "00:30:00",
           "end_time": "01:00:00",
-          "episode_number": ""
+          "episode_number": "E3"
         },
         {
-          "show_name": "Unit 731: Tales Of Terror",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/U7TOT.svg",
+          "show_name": "Yangshi Lei",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YL",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": "E4"
         },
         {
-          "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
+          "show_name": "Yangshi Lei",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YL",
           "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PC.svg",
-          "start_time": "02:30:00",
           "end_time": "03:00:00",
-          "episode_number": ""
+          "episode_number": "E5"
         },
         {
-          "show_name": "Genglubu: The South China Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GTSCS.svg",
+          "show_name": "One Photographer...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "China's Green Revolution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Shenzhen-Zhongshan Link",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Xinjiang: A Land Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E2"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "Rebirth Craft S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Genglubu: The South China Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GTSCS.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
+          "show_name": "The Han-Xiongnu Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "The Taste Of Yunnan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "The Belt And Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "One Photographer...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "China's Green Revolution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Shenzhen-Zhongshan Link",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Xinjiang: A Land Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": "E2"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "Rebirth Craft S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Genglubu: The South China Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GTSCS.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
+          "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
+          "show_name": "The Han-Xiongnu Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "The Taste Of Yunnan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "The Belt And Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "One Photographer...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "China's Green Revolution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Shenzhen-Zhongshan Link",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Xinjiang: A Land Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": "E2"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "Rebirth Craft S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Genglubu: The South China Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GTSCS.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
+          "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
+          "show_name": "The Han-Xiongnu Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
           "episode_number": "E1"
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "The Taste Of Yunnan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "The Belt And Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "One Photographer...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "China's Green Revolution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Shenzhen-Zhongshan Link",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Xinjiang: A Land Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "E2"
@@ -189,245 +245,259 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "Rebirth Craft S2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": "E3"
+          "end_time": "00:30:00",
+          "episode_number": ""
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "The Han-Xiongnu Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Taste Of Yunnan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
-          "episode_number": "E4"
+          "episode_number": ""
         },
         {
-          "show_name": "Yangshi Lei",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/YL.svg",
+          "show_name": "Another Me In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "02:00:00",
-          "end_time": "03:00:00",
+          "end_time": "02:30:00",
           "episode_number": "E5"
         },
         {
+          "show_name": "The Belt And Road",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": "E1"
+        },
+        {
           "show_name": "One Photographer...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "China's Green Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CGR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "Shenzhen-Zhongshan Link",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Xinjiang: A Land Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/XALO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Rebirth Craft S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Han-Xiongnu Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/THW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TTOY.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
-          "episode_number": "E5"
+          "episode_number": "E6"
         },
         {
           "show_name": "The Belt And Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TBAR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "One Photographer...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "China's Green Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CGR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "Shenzhen-Zhongshan Link",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Xinjiang: A Land Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/XALO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Rebirth Craft S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Han-Xiongnu Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/THW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TTOY.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
-          "episode_number": "E5"
+          "episode_number": "E6"
         },
         {
           "show_name": "The Belt And Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TBAR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "One Photographer...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "China's Green Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CGR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "Shenzhen-Zhongshan Link",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Xinjiang: A Land Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/XALO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Rebirth Craft S2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCS",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Han-Xiongnu Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/THW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THW",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "The Taste Of Yunnan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TTOY.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOY",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Another Me In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AMITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMITW",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
-          "episode_number": "E5"
+          "episode_number": "E6"
         },
         {
           "show_name": "The Belt And Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TBAR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBAR",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "One Photographer...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "China's Green Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CGR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CGR",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
-          "episode_number": "E1"
+          "episode_number": "E2"
         },
         {
           "show_name": "Shenzhen-Zhongshan Link",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/SL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         },
         {
           "show_name": "Xinjiang: A Land Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/XALO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=XALO",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
-          "episode_number": "E2"
+          "episode_number": "E3"
         }
       ]
     }

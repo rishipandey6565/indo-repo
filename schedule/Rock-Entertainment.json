@@ -2,320 +2,418 @@
   "channel_name": "Rock Entertainment",
   "schedule": {
     "today": {
-      "date": "2026-07-12",
-      "programs": [
-        {
-          "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/KC.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: King Solomon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLKS.svg",
-          "start_time": "00:45:00",
-          "end_time": "02:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
-          "start_time": "02:20:00",
-          "end_time": "03:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLQFS.svg",
-          "start_time": "03:45:00",
-          "end_time": "05:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bride Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/BW.svg",
-          "start_time": "05:35:00",
-          "end_time": "07:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "07:05:00",
-          "end_time": "08:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: King Solomon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLKS.svg",
-          "start_time": "08:35:00",
-          "end_time": "10:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "10:10:00",
-          "end_time": "11:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLQFS.svg",
-          "start_time": "11:40:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "13:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bride Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/BW.svg",
-          "start_time": "16:25:00",
-          "end_time": "17:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: King Solomon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLKS.svg",
-          "start_time": "17:55:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/KC.svg",
-          "start_time": "19:30:00",
-          "end_time": "21:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "21:20:00",
-          "end_time": "22:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLQFS.svg",
-          "start_time": "22:50:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-13",
       "programs": [
         {
           "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLQFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLQFS",
           "start_time": "00:00:00",
           "end_time": "00:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKATI",
           "start_time": "00:40:00",
           "end_time": "02:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLQFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLQFS",
           "start_time": "02:05:00",
           "end_time": "03:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TWOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWOT",
           "start_time": "03:55:00",
           "end_time": "05:00:00",
           "episode_number": "S3 E1"
         },
         {
           "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
           "start_time": "05:00:00",
           "end_time": "05:45:00",
           "episode_number": "S13 E111"
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "05:45:00",
           "end_time": "06:30:00",
           "episode_number": "S13 E123"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "06:30:00",
           "end_time": "07:20:00",
           "episode_number": "S11 E5"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "07:20:00",
           "end_time": "08:10:00",
           "episode_number": "S11 E6"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "08:10:00",
           "end_time": "09:00:00",
           "episode_number": "S11 E5"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "09:00:00",
           "end_time": "09:50:00",
           "episode_number": "S11 E6"
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "09:50:00",
           "end_time": "10:40:00",
           "episode_number": "S13 E123"
         },
         {
           "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
           "start_time": "10:40:00",
           "end_time": "11:25:00",
           "episode_number": "S13 E111"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "11:25:00",
           "end_time": "12:10:00",
           "episode_number": "S11 E5"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "12:10:00",
           "end_time": "12:55:00",
           "episode_number": "S11 E6"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "12:55:00",
           "end_time": "13:40:00",
           "episode_number": "S11 E5"
         },
         {
           "show_name": "NCIS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
           "start_time": "13:40:00",
           "end_time": "14:25:00",
           "episode_number": "S22 E11"
         },
         {
           "show_name": "NCIS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
           "start_time": "14:25:00",
           "end_time": "15:10:00",
           "episode_number": "S22 E12"
         },
         {
           "show_name": "NCIS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
           "start_time": "15:10:00",
           "end_time": "15:55:00",
           "episode_number": "S22 E13"
         },
         {
           "show_name": "NCIS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
           "start_time": "15:55:00",
           "end_time": "16:40:00",
           "episode_number": "S22 E14"
         },
         {
           "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/KC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
           "start_time": "16:40:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "18:30:00",
           "end_time": "19:15:00",
           "episode_number": "S11 E7"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "19:15:00",
           "end_time": "20:00:00",
           "episode_number": "S11 E8"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "20:00:00",
           "end_time": "20:45:00",
           "episode_number": "S11 E7"
         },
         {
           "show_name": "Chicago Med",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
           "start_time": "20:45:00",
           "end_time": "21:30:00",
           "episode_number": "S11 E8"
         },
         {
           "show_name": "Real Housewives Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/RHO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
           "start_time": "21:30:00",
           "end_time": "22:15:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "22:15:00",
           "end_time": "23:00:00",
           "episode_number": "S13 E124"
         },
         {
           "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
           "start_time": "23:00:00",
           "end_time": "23:45:00",
           "episode_number": "S13 E112"
         },
         {
           "show_name": "Real Housewives Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/RHO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
           "start_time": "23:45:00",
           "end_time": "00:30:00",
           "episode_number": "E7"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-14",
+      "programs": [
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "00:30:00",
+          "end_time": "01:15:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "01:15:00",
+          "end_time": "02:00:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "02:00:00",
+          "end_time": "02:45:00",
+          "episode_number": "S22 E11"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "02:45:00",
+          "end_time": "03:30:00",
+          "episode_number": "S22 E12"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "03:30:00",
+          "end_time": "04:15:00",
+          "episode_number": "S22 E13"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "04:15:00",
+          "end_time": "05:00:00",
+          "episode_number": "S22 E14"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "05:00:00",
+          "end_time": "05:45:00",
+          "episode_number": "S13 E112"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "05:45:00",
+          "end_time": "06:30:00",
+          "episode_number": "S13 E124"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "06:30:00",
+          "end_time": "07:20:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "07:20:00",
+          "end_time": "08:10:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:10:00",
+          "end_time": "08:55:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:55:00",
+          "end_time": "09:40:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "09:40:00",
+          "end_time": "10:25:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "10:25:00",
+          "end_time": "11:10:00",
+          "episode_number": "S13 E124"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "11:10:00",
+          "end_time": "11:55:00",
+          "episode_number": "S13 E112"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "11:55:00",
+          "end_time": "12:40:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "12:40:00",
+          "end_time": "13:25:00",
+          "episode_number": "S22 E13"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "13:25:00",
+          "end_time": "14:10:00",
+          "episode_number": "S22 E14"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "14:10:00",
+          "end_time": "14:55:00",
+          "episode_number": "S22 E15"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "14:55:00",
+          "end_time": "15:40:00",
+          "episode_number": "S22 E16"
+        },
+        {
+          "show_name": "Alvin And The Chipmunks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATC",
+          "start_time": "15:40:00",
+          "end_time": "17:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Wheel Of Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWOT",
+          "start_time": "17:10:00",
+          "end_time": "18:15:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "The Wheel Of Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWOT",
+          "start_time": "18:15:00",
+          "end_time": "19:20:00",
+          "episode_number": "S3 E2"
+        },
+        {
+          "show_name": "The Wheel Of Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWOT",
+          "start_time": "19:20:00",
+          "end_time": "20:25:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "The Wheel Of Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWOT",
+          "start_time": "20:25:00",
+          "end_time": "21:30:00",
+          "episode_number": "S3 E2"
+        },
+        {
+          "show_name": "Below Deck Down Under",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDDU",
+          "start_time": "21:30:00",
+          "end_time": "22:15:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "22:15:00",
+          "end_time": "23:00:00",
+          "episode_number": "S13 E125"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "23:00:00",
+          "end_time": "23:45:00",
+          "episode_number": "S13 E113"
+        },
+        {
+          "show_name": "Below Deck Down Under",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDDU",
+          "start_time": "23:45:00",
+          "end_time": "00:30:00",
+          "episode_number": "E10"
         }
       ]
     }
