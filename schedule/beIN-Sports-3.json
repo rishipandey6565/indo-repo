@@ -2,319 +2,305 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-07-13",
-      "programs": [
-        {
-          "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJC.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CAF Champions: PDM Vs RSB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCPVR.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS Series Highlights '26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/HSSH.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS Series Highlights '26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/HSSH.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP 2026: Halifax Day 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/S2HD1.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "U-17 AFCON 2026: TUN Vs ETH",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2TV.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2025/26: ALA Vs FEN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SL2AV.svg",
-          "start_time": "09:20:00",
-          "end_time": "11:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CAF Champions: PYR Vs RSB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCPVR.svg",
-          "start_time": "11:10:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "DTM Highlights 2026: Norisring",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/DH2N.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP Highlights 2026: Halifax",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SH2H.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Sports Rundown 2026: July",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TSR2J.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sailing To The Games: L.A.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/STTGL.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Wes Brown",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSWB.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Reds In Europe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSRIE.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Munich",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSM.svg",
-          "start_time": "18:20:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV One Love: Common...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MOLC.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "20:20:00",
-          "end_time": "20:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJC.svg",
-          "start_time": "20:50:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV One Love: Flag Flying High",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MOLFF.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJC.svg",
-          "start_time": "23:20:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-14",
       "programs": [
         {
           "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJC(",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "CAF Champions: APL Vs SIM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCAVS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCAVS",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS Series Highlights '26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/HSSH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSSH'",
           "start_time": "03:30:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS Series Highlights '26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/HSSH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSSH'",
           "start_time": "04:30:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SailGP 2026: Halifax Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/S2HD2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S2HD2",
           "start_time": "05:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Specials: Wes Brown",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSWB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSWB",
           "start_time": "07:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Specials: Reds In Europe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSRIE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSRIE",
           "start_time": "08:30:00",
           "end_time": "08:50:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Specials: Munich",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSM",
           "start_time": "08:50:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Classic Matches: ARS Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMAV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMAV",
           "start_time": "11:00:00",
           "end_time": "11:10:00",
           "episode_number": ""
         },
         {
           "show_name": "CAF Champions: MCA Vs SEL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCMVS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCMVS",
           "start_time": "11:10:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ferrari Challenge Europe HL '26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/FCEH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FCEH'",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Classic Matches: BVB Vs ASM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMBV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMBV",
           "start_time": "14:30:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SailGP 2026: Halifax Day 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/S2HD1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S2HD1",
           "start_time": "15:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside Sailing 2026: July",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/IS2J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2J",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDF2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDF2(",
           "start_time": "18:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sailing To The Games: L.A.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/STTGL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STTGL",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "WAFCON 2024: NGA Vs RSA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2NVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2NVR",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "show_name": "WAFCON 2024: NGA Vs RSA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2NVR",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: JSK Vs ALY",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCJVA",
+          "start_time": "01:30:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series Highlights '26",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSSH'",
+          "start_time": "03:30:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series Highlights '26",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSSH'",
+          "start_time": "04:30:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mass Participation 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP2",
+          "start_time": "05:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mass Participation 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP2",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tour de France Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "U-17 AFCON 2026: MLI Vs TAN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2MV",
+          "start_time": "07:30:00",
+          "end_time": "09:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2025/26: BJK Vs KAY",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2BV",
+          "start_time": "09:20:00",
+          "end_time": "11:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CAF Champions: MCA Vs AHI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCMVA",
+          "start_time": "11:10:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "European Le Mans Series HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ELMSH",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tour de France Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: FCB Vs INT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMFV",
+          "start_time": "14:30:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mass Participation 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP2",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SailGP 2026: Halifax Day 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S2HD2",
+          "start_time": "16:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sports Rundown 2026: July",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2J",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: ARS Vs MUN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMAV",
+          "start_time": "18:00:00",
+          "end_time": "18:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tour de France Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
+          "start_time": "18:10:00",
+          "end_time": "18:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tour de France 2026 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDF2(",
+          "start_time": "18:40:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV One Love: Trailblazers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOLT",
+          "start_time": "23:10:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WAFCON 2024: MAR Vs GHA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVG",
+          "start_time": "23:30:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         }
       ]

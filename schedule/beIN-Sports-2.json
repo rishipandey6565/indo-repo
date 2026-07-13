@@ -2,130 +2,123 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "show_name": "World Rugby Junior C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJC.svg",
+          "show_name": "Premier Padel Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
           "start_time": "00:00:00",
-          "end_time": "01:30:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Asuncion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2A.svg",
-          "start_time": "01:30:00",
+          "show_name": "Premier Padel 2026: Malaga (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "00:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCI World Tour Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWTH2",
+          "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Asuncion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2A",
           "start_time": "03:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2025/26: MCI Vs LCL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2MVL.svg",
+          "show_name": "WSL 2025/26: MUN Vs CHE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVC",
           "start_time": "04:30:00",
           "end_time": "06:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2025/26: WHU Vs CHE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2WVC.svg",
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "06:20:00",
-          "end_time": "08:10:00",
+          "end_time": "07:50:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
-          "start_time": "08:10:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Best Of RG 2026: Mixed Doubles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOR2M.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:50:00",
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "07:50:00",
+          "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "13:50:00",
-          "end_time": "14:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "09:20:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "09:30:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "11:20:00",
+          "end_time": "13:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "13:10:00",
+          "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "15:00:00",
+          "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "16:30:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "18:00:00",
+          "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "18:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "20:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "19:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "21:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "22:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -133,123 +126,123 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "programs": [
         {
           "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCI World Tour Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/UWTH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWTH2",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Asuncion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2A",
           "start_time": "03:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2025/26: MUN Vs CHE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2MVC.svg",
+          "show_name": "WSL 2025/26: MCI Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVA",
           "start_time": "04:30:00",
           "end_time": "06:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_name": "WSL 2025/26: LCL Vs LIV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2LVL",
           "start_time": "06:20:00",
-          "end_time": "07:50:00",
+          "end_time": "08:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "07:50:00",
-          "end_time": "09:20:00",
+          "show_name": "World Rugby Junior World C'ship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
+          "start_time": "08:10:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2I",
+          "start_time": "10:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2I",
+          "start_time": "11:30:00",
+          "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "09:20:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
-          "start_time": "09:30:00",
-          "end_time": "11:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
-          "start_time": "11:20:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "13:00:00",
           "end_time": "13:10:00",
           "episode_number": ""
         },
         {
           "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJWC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJWC",
           "start_time": "13:10:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "15:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "16:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "18:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "19:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "21:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "22:30:00",
           "end_time": "00:00:00",
           "episode_number": ""
