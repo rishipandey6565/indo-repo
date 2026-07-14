@@ -2,207 +2,214 @@
   "channel_name": "CINEEDGE",
   "schedule": {
     "today": {
-      "date": "2026-07-14",
-      "programs": [
-        {
-          "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:48:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tracers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/T.svg",
-          "start_time": "01:48:00",
-          "end_time": "03:33:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Package",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/TP.svg",
-          "start_time": "03:33:00",
-          "end_time": "05:04:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
-          "start_time": "05:04:00",
-          "end_time": "07:16:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Patrol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/TP.svg",
-          "start_time": "07:16:00",
-          "end_time": "08:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
-          "start_time": "08:59:00",
-          "end_time": "10:41:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alien Predator",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/AP.svg",
-          "start_time": "10:41:00",
-          "end_time": "12:17:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mob Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/ML.svg",
-          "start_time": "12:17:00",
-          "end_time": "14:08:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
-          "start_time": "14:08:00",
-          "end_time": "16:04:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Spooks: The Greater Good",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/STGG.svg",
-          "start_time": "16:04:00",
-          "end_time": "18:06:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
-          "start_time": "18:06:00",
-          "end_time": "20:01:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Behemoth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/B.svg",
-          "start_time": "20:01:00",
-          "end_time": "21:38:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Scorched Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/SE.svg",
-          "start_time": "21:38:00",
-          "end_time": "23:12:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
-          "start_time": "23:12:00",
-          "end_time": "00:51:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-15",
       "programs": [
         {
           "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
           "start_time": "00:00:00",
           "end_time": "00:51:00",
           "episode_number": ""
         },
         {
           "show_name": "Heroes And Cowards",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/HAC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HAC",
           "start_time": "00:51:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "02:50:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Zodiac: Signs Of The Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/ZSOTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZSOTA",
           "start_time": "05:05:00",
           "end_time": "06:41:00",
           "episode_number": ""
         },
         {
           "show_name": "Security",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "06:41:00",
           "end_time": "08:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
           "start_time": "08:15:00",
           "end_time": "10:17:00",
           "episode_number": ""
         },
         {
           "show_name": "Outlawed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "10:17:00",
           "end_time": "12:09:00",
           "episode_number": ""
         },
         {
           "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "12:09:00",
           "end_time": "14:10:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours To D-Day",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/2HTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HTD",
           "start_time": "14:10:00",
           "end_time": "15:41:00",
           "episode_number": ""
         },
         {
           "show_name": "Fast Vengeance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FV",
           "start_time": "15:41:00",
           "end_time": "17:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Deadly Vendeta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
           "start_time": "17:35:00",
           "end_time": "19:25:00",
           "episode_number": ""
         },
         {
           "show_name": "La Soga Salvation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/LSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LSS",
           "start_time": "19:25:00",
           "end_time": "21:08:00",
           "episode_number": ""
         },
         {
           "show_name": "Death Squad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "21:08:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Lockout",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cineedge/L.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
           "start_time": "22:45:00",
           "end_time": "00:29:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "show_name": "Lockout",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "00:00:00",
+          "end_time": "00:29:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pound Of Flesh",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=POF",
+          "start_time": "00:29:00",
+          "end_time": "02:18:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Deadly Vendeta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
+          "start_time": "02:18:00",
+          "end_time": "04:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Poker Face",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "04:03:00",
+          "end_time": "05:52:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Squad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "05:52:00",
+          "end_time": "07:33:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Savage Dog",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SD",
+          "start_time": "07:33:00",
+          "end_time": "09:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "London Calling",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC",
+          "start_time": "09:10:00",
+          "end_time": "11:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Deadly Vendeta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
+          "start_time": "11:04:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Grey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "13:00:00",
+          "end_time": "15:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Squad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "15:10:00",
+          "end_time": "17:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meteor Apocalypse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "17:04:00",
+          "end_time": "18:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "La Soga Salvation",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LSS",
+          "start_time": "18:40:00",
+          "end_time": "20:13:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Deadly Vendeta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DV",
+          "start_time": "20:13:00",
+          "end_time": "22:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "9 Bullets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9B",
+          "start_time": "22:02:00",
+          "end_time": "23:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death Squad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "23:50:00",
+          "end_time": "01:34:00",
           "episode_number": ""
         }
       ]

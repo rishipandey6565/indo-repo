@@ -2,418 +2,390 @@
   "channel_name": "History",
   "schedule": {
     "today": {
-      "date": "2026-07-14",
-      "programs": [
-        {
-          "show_name": "Pawn Stars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/PS.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "S24 E616"
-        },
-        {
-          "show_name": "The Taiwan Way",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTW.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:05:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Taiwan Way",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTW.svg",
-          "start_time": "01:05:00",
-          "end_time": "01:35:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Food That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/FTBW.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:25:00",
-          "episode_number": "S5 E5"
-        },
-        {
-          "show_name": "The UnBelievable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
-          "start_time": "02:25:00",
-          "end_time": "03:20:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "Holy Marvels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HM.svg",
-          "start_time": "03:20:00",
-          "end_time": "04:15:00",
-          "episode_number": "S2 E11"
-        },
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "04:15:00",
-          "end_time": "05:10:00",
-          "episode_number": "S26 E398"
-        },
-        {
-          "show_name": "Ride N' Seek",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/RNS.svg",
-          "start_time": "05:10:00",
-          "end_time": "05:40:00",
-          "episode_number": "S5 E3"
-        },
-        {
-          "show_name": "Ride N' Seek",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/RNS.svg",
-          "start_time": "05:40:00",
-          "end_time": "06:10:00",
-          "episode_number": "S5 E4"
-        },
-        {
-          "show_name": "The UnBelievable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
-          "start_time": "06:10:00",
-          "end_time": "07:05:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "Holy Marvels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HM.svg",
-          "start_time": "07:05:00",
-          "end_time": "08:00:00",
-          "episode_number": "S2 E11"
-        },
-        {
-          "show_name": "Pawn Stars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/PS.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:55:00",
-          "episode_number": "S24 E616"
-        },
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "08:55:00",
-          "end_time": "09:50:00",
-          "episode_number": "S26 E398"
-        },
-        {
-          "show_name": "The Taiwan Way",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTW.svg",
-          "start_time": "09:50:00",
-          "end_time": "10:20:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Taiwan Way",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTW.svg",
-          "start_time": "10:20:00",
-          "end_time": "10:50:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Food That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/FTBW.svg",
-          "start_time": "10:50:00",
-          "end_time": "11:40:00",
-          "episode_number": "S5 E5"
-        },
-        {
-          "show_name": "Ride N' Seek",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/RNS.svg",
-          "start_time": "11:40:00",
-          "end_time": "12:10:00",
-          "episode_number": "S5 E3"
-        },
-        {
-          "show_name": "Ride N' Seek",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/RNS.svg",
-          "start_time": "12:10:00",
-          "end_time": "12:40:00",
-          "episode_number": "S5 E4"
-        },
-        {
-          "show_name": "The UnBelievable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
-          "start_time": "12:40:00",
-          "end_time": "13:35:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "13:35:00",
-          "end_time": "14:30:00",
-          "episode_number": "S26 E398"
-        },
-        {
-          "show_name": "Food That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/FTBW.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:25:00",
-          "episode_number": "S5 E5"
-        },
-        {
-          "show_name": "Holy Marvels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HM.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:20:00",
-          "episode_number": "S2 E11"
-        },
-        {
-          "show_name": "Pawn Stars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/PS.svg",
-          "start_time": "16:20:00",
-          "end_time": "17:15:00",
-          "episode_number": "S24 E616"
-        },
-        {
-          "show_name": "Mysteries Unearthed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MU.svg",
-          "start_time": "17:15:00",
-          "end_time": "18:10:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
-          "start_time": "18:10:00",
-          "end_time": "19:05:00",
-          "episode_number": "S5 E2"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "19:05:00",
-          "end_time": "20:00:00",
-          "episode_number": "E15"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:55:00",
-          "episode_number": "E16"
-        },
-        {
-          "show_name": "Lost U-Boats Of WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/LUOW.svg",
-          "start_time": "20:55:00",
-          "end_time": "21:50:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
-          "start_time": "21:50:00",
-          "end_time": "22:45:00",
-          "episode_number": "S2 E9"
-        },
-        {
-          "show_name": "Swamp People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/SP.svg",
-          "start_time": "22:45:00",
-          "end_time": "23:40:00",
-          "episode_number": "S14 E9"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "23:40:00",
-          "end_time": "00:35:00",
-          "episode_number": "E15"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-15",
       "programs": [
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "00:00:00",
           "end_time": "00:35:00",
           "episode_number": "E15"
         },
         {
           "show_name": "Lost U-Boats Of WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/LUOW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LUOW",
           "start_time": "00:35:00",
           "end_time": "01:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBT",
           "start_time": "01:30:00",
           "end_time": "02:25:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Mysteries Unearthed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "02:25:00",
           "end_time": "03:20:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "03:20:00",
           "end_time": "04:15:00",
           "episode_number": "S5 E2"
         },
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "04:15:00",
           "end_time": "05:10:00",
           "episode_number": "E16"
         },
         {
           "show_name": "Swamp People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/SP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
           "start_time": "05:10:00",
           "end_time": "06:05:00",
           "episode_number": "S14 E9"
         },
         {
           "show_name": "Mysteries Unearthed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "06:05:00",
           "end_time": "07:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "07:00:00",
           "end_time": "07:55:00",
           "episode_number": "S5 E2"
         },
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "07:55:00",
           "end_time": "08:55:00",
           "episode_number": "E15"
         },
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "08:55:00",
           "end_time": "09:50:00",
           "episode_number": "E16"
         },
         {
           "show_name": "Lost U-Boats Of WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/LUOW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LUOW",
           "start_time": "09:50:00",
           "end_time": "10:45:00",
           "episode_number": "E6"
         },
         {
           "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBT",
           "start_time": "10:45:00",
           "end_time": "11:40:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Swamp People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/SP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
           "start_time": "11:40:00",
           "end_time": "12:35:00",
           "episode_number": "S14 E9"
         },
         {
           "show_name": "Mysteries Unearthed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "12:35:00",
           "end_time": "13:30:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "13:30:00",
           "end_time": "14:25:00",
           "episode_number": "E16"
         },
         {
           "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBT",
           "start_time": "14:25:00",
           "end_time": "15:20:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "15:20:00",
           "end_time": "16:20:00",
           "episode_number": "S5 E2"
         },
         {
           "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
           "start_time": "16:20:00",
           "end_time": "17:15:00",
           "episode_number": "E15"
         },
         {
           "show_name": "Hidden Cities",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
           "start_time": "17:15:00",
           "end_time": "18:10:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "The UnXplained",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
           "start_time": "18:10:00",
           "end_time": "19:05:00",
           "episode_number": "S3 E20"
         },
         {
           "show_name": "Swamp People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/SP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
           "start_time": "19:05:00",
           "end_time": "20:00:00",
           "episode_number": "S15 E14"
         },
         {
           "show_name": "The UnBelievable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
           "start_time": "20:00:00",
           "end_time": "20:55:00",
           "episode_number": "S1 E9"
         },
         {
           "show_name": "Curse Of Oak Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/COOI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COOI",
           "start_time": "20:55:00",
           "end_time": "21:50:00",
           "episode_number": "S12 E21"
         },
         {
           "show_name": "Greatest Escapes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GE",
           "start_time": "21:50:00",
           "end_time": "22:45:00",
           "episode_number": "S2 E10"
         },
         {
           "show_name": "Mountain Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
           "start_time": "22:45:00",
           "end_time": "23:40:00",
           "episode_number": "S13 E9"
         },
         {
           "show_name": "Swamp People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/SP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
           "start_time": "23:40:00",
           "end_time": "00:35:00",
           "episode_number": "S15 E14"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "show_name": "Swamp People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S15 E14"
+        },
+        {
+          "show_name": "Curse Of Oak Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COOI",
+          "start_time": "00:35:00",
+          "end_time": "01:30:00",
+          "episode_number": "S12 E21"
+        },
+        {
+          "show_name": "Greatest Escapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GE",
+          "start_time": "01:30:00",
+          "end_time": "02:25:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Hidden Cities",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "02:25:00",
+          "end_time": "03:20:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "The UnXplained",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "03:20:00",
+          "end_time": "04:15:00",
+          "episode_number": "S3 E20"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "04:15:00",
+          "end_time": "05:10:00",
+          "episode_number": "S1 E9"
+        },
+        {
+          "show_name": "Mountain Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "05:10:00",
+          "end_time": "06:05:00",
+          "episode_number": "S13 E9"
+        },
+        {
+          "show_name": "Hidden Cities",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "06:05:00",
+          "end_time": "07:00:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "The UnXplained",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "07:00:00",
+          "end_time": "07:55:00",
+          "episode_number": "S3 E20"
+        },
+        {
+          "show_name": "Swamp People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
+          "start_time": "07:55:00",
+          "end_time": "08:55:00",
+          "episode_number": "S15 E14"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "08:55:00",
+          "end_time": "09:50:00",
+          "episode_number": "S1 E9"
+        },
+        {
+          "show_name": "Curse Of Oak Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COOI",
+          "start_time": "09:50:00",
+          "end_time": "10:45:00",
+          "episode_number": "S12 E21"
+        },
+        {
+          "show_name": "Greatest Escapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GE",
+          "start_time": "10:45:00",
+          "end_time": "11:40:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Mountain Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "11:40:00",
+          "end_time": "12:35:00",
+          "episode_number": "S13 E9"
+        },
+        {
+          "show_name": "Hidden Cities",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "12:35:00",
+          "end_time": "13:30:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "13:30:00",
+          "end_time": "14:25:00",
+          "episode_number": "S1 E9"
+        },
+        {
+          "show_name": "Greatest Escapes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GE",
+          "start_time": "14:25:00",
+          "end_time": "15:20:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "The UnXplained",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "15:20:00",
+          "end_time": "16:20:00",
+          "episode_number": "S3 E20"
+        },
+        {
+          "show_name": "Swamp People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
+          "start_time": "16:20:00",
+          "end_time": "17:15:00",
+          "episode_number": "S15 E14"
+        },
+        {
+          "show_name": "Mysteries Unearthed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
+          "start_time": "17:15:00",
+          "end_time": "18:10:00",
+          "episode_number": "S2 E6"
+        },
+        {
+          "show_name": "Alone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "18:10:00",
+          "end_time": "19:05:00",
+          "episode_number": "S12 E3"
+        },
+        {
+          "show_name": "Forged In Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FIF",
+          "start_time": "19:05:00",
+          "end_time": "20:00:00",
+          "episode_number": "S10 E15"
+        },
+        {
+          "show_name": "Food That Built World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
+          "start_time": "20:00:00",
+          "end_time": "20:55:00",
+          "episode_number": "S5 E2"
+        },
+        {
+          "show_name": "Food That Built World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
+          "start_time": "20:55:00",
+          "end_time": "21:50:00",
+          "episode_number": "S5 E1"
+        },
+        {
+          "show_name": "Curse Of Oak Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COOI",
+          "start_time": "21:50:00",
+          "end_time": "22:45:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Curse Of Oak Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COOI",
+          "start_time": "22:45:00",
+          "end_time": "23:40:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "Forged In Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FIF",
+          "start_time": "23:40:00",
+          "end_time": "00:35:00",
+          "episode_number": "S10 E15"
         }
       ]
     }
