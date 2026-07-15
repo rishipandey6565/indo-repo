@@ -2,424 +2,403 @@
   "channel_name": "ABC Australia",
   "schedule": {
     "today": {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "show_name": "Australian Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AS.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Australia's Wild Moments",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AWM.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Eat The Invaders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ETI.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC News Mornings",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANM.svg",
-          "start_time": "06:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC News At Noon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANAN.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Landline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/L.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Four Corners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Media Watch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MW.svg",
-          "start_time": "10:45:00",
-          "end_time": "11:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Eat The Invaders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ETI.svg",
-          "start_time": "11:05:00",
-          "end_time": "11:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Designs Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GDA.svg",
-          "start_time": "11:35:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Movin' To The Country",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MTTC.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Great Australian Road Trips",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GART.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC News With Joe O'Brien",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANWJO.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Cook Up With Adam Liaw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TCUWA.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Play On",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/PO.svg",
-          "start_time": "15:25:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "That Pacific Sports Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TPSS.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC National News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANN.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7.30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/7.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Designs Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GDA.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Four Corners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
-          "start_time": "18:55:00",
-          "end_time": "19:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Media Watch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MW.svg",
-          "start_time": "19:45:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Landline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/L.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC Late News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ALN.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Business",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TB.svg",
-          "start_time": "21:15:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7.30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/7.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Designs Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GDA.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Movin' To The Country",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MTTC.svg",
-          "start_time": "23:55:00",
-          "end_time": "00:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-16",
       "programs": [
         {
           "show_name": "Movin' To The Country",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MTTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTTC",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Four Corners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
           "start_time": "00:25:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Media Watch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MW",
           "start_time": "01:15:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Compass",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NB",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NB",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ABC News Mornings",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANM",
           "start_time": "06:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ABC News At Noon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANAN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANAN",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bondi Rescue",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/BR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
           "start_time": "10:00:00",
           "end_time": "10:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Ambulance Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "10:25:00",
           "end_time": "11:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Judgment: Changed Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/JCA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCA",
           "start_time": "11:10:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Shaun Micallef's Origin Odyssey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/SMOO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMOO",
           "start_time": "12:00:00",
           "end_time": "12:55:00",
           "episode_number": ""
         },
         {
           "show_name": "National Press Club Address",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NPCA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NPCA",
           "start_time": "12:55:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ABC News With Joe O'Brien",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANWJO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANWJO",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Cook Up With Adam Liaw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TCUWA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCUWA",
           "start_time": "15:00:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Chef's Garden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TCG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCG",
           "start_time": "15:25:00",
           "end_time": "15:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Bondi Rescue",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/BR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
           "start_time": "15:50:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "AFL: Geelong Vs St. Kilda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AGVSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGVSK",
           "start_time": "16:15:00",
           "end_time": "19:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Judgment: Changed Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/JCA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCA",
           "start_time": "19:15:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "I Was Actually There",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/IWAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IWAT",
           "start_time": "20:00:00",
           "end_time": "20:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Ambulance Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
           "start_time": "20:35:00",
           "end_time": "21:20:00",
           "episode_number": ""
         },
         {
           "show_name": "ABC Late News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ALN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ALN",
           "start_time": "21:20:00",
           "end_time": "21:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The Business",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "21:35:00",
           "end_time": "21:50:00",
           "episode_number": ""
         },
         {
           "show_name": "7.30",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/7.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7",
           "start_time": "21:50:00",
           "end_time": "22:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
           "start_time": "22:25:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Judgment: Changed Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/JCA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCA",
           "start_time": "23:25:00",
           "end_time": "00:10:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "show_name": "Judgment: Changed Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JCA",
+          "start_time": "00:00:00",
+          "end_time": "00:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Media Watch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MW",
+          "start_time": "00:10:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "National Press Club Address",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NPCA",
+          "start_time": "00:30:00",
+          "end_time": "01:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bondi Rescue",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "01:35:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Breakfast",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NB",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "News Breakfast",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NB",
+          "start_time": "04:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC News Mornings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANM",
+          "start_time": "06:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC News At Noon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANAN",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Great Australian Bake Off",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGABO",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AA",
+          "start_time": "11:00:00",
+          "end_time": "11:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Loving Gluten Free",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LGF",
+          "start_time": "11:25:00",
+          "end_time": "12:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Extraordinary Animals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EA",
+          "start_time": "12:05:00",
+          "end_time": "12:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Pacific Sports Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPSS",
+          "start_time": "12:25:00",
+          "end_time": "12:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "12:55:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC News With Joe O'Brien",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANWJO",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Great Australian Bake Off",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGABO",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC National News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANN",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFL: Swans Vs Crows",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASVC",
+          "start_time": "16:30:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "20:00:00",
+          "end_time": "20:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "20:35:00",
+          "end_time": "21:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC Late News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ALN",
+          "start_time": "21:05:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asia News Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANW",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Great Australian Bake Off",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGABO",
+          "start_time": "22:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chopsticks Or Fork?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COF",
+          "start_time": "23:30:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chopsticks Or Fork?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COF",
+          "start_time": "23:45:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]

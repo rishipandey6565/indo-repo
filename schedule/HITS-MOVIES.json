@@ -2,178 +2,178 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "show_name": "Love & Other Drugs",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Specialist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TS.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Big Boss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBB.svg",
-          "start_time": "03:45:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Am Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IAL.svg",
-          "start_time": "06:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Specialist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TS.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Big Boss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBB.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Am Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IAL.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Love & Other Drugs",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Charlie & The Chocolate Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
-          "start_time": "16:45:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Matrix Reloaded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "21:45:00",
-          "end_time": "23:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Epic Movie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/EM.svg",
-          "start_time": "23:45:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-16",
       "programs": [
         {
           "show_name": "Epic Movie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/EM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EM",
           "start_time": "00:00:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Charlie & The Chocolate Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C&TCF",
           "start_time": "01:45:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Matrix Reloaded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMR",
           "start_time": "04:00:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "06:45:00",
           "end_time": "08:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Vertigo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "08:15:00",
           "end_time": "10:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Charlie & The Chocolate Factory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C&TCF",
           "start_time": "10:45:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Matrix Reloaded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMR",
           "start_time": "13:00:00",
           "end_time": "15:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "15:45:00",
           "end_time": "17:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
           "start_time": "17:15:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Legion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/L.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FOF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
           "start_time": "21:00:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Vertigo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "23:15:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "show_name": "Vertigo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "01:45:00",
+          "end_time": "03:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "03:45:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Fury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
+          "start_time": "05:45:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tarantula",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "08:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "12:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Fury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
+          "start_time": "14:00:00",
+          "end_time": "16:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Thoroughly Modern Millie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+          "start_time": "16:15:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Puss In Boots",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIB",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Caine Mutiny",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "21:00:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Big Boss",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBB",
+          "start_time": "23:30:00",
           "end_time": "01:45:00",
           "episode_number": ""
         }
