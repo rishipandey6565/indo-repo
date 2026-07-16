@@ -2,711 +2,711 @@
   "channel_name": "NHK World",
   "schedule": {
     "today": {
-      "date": "2026-07-16",
-      "programs": [
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
-          "start_time": "00:30:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japan's Top Inventions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JTI.svg",
-          "start_time": "00:45:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:28:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
-          "start_time": "01:28:00",
-          "end_time": "01:43:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japan From Above: Up Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JFAUC.svg",
-          "start_time": "01:43:00",
-          "end_time": "01:48:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "1/36: Foreign Residents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/1FR.svg",
-          "start_time": "01:48:00",
-          "end_time": "01:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ukiyoe Edo-Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/UE.svg",
-          "start_time": "01:55:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Biz Stream",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/BS.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Frontrunners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/F.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Trails To Oishii Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TTOT.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dive In Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DIT.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
-          "start_time": "05:30:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japan's Top Inventions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JTI.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
-          "start_time": "06:30:00",
-          "end_time": "06:57:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
-          "start_time": "06:57:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Core Kyoto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/CK.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japanology Plus",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JP.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Trails To Oishii Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TTOT.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
-          "start_time": "11:30:00",
-          "end_time": "11:57:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
-          "start_time": "11:57:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NA2.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Core Kyoto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/CK.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Newsline Asia 24",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NA2.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japanology Plus",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JP.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
-          "start_time": "15:30:00",
-          "end_time": "15:57:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
-          "start_time": "15:57:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Trails To Oishii Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TTOT.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "NHK News 7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN7.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:28:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
-          "start_time": "18:28:00",
-          "end_time": "18:43:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Japan From Above: Up Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JFAUC.svg",
-          "start_time": "18:43:00",
-          "end_time": "18:48:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "1/2500: New Farmers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/1NF.svg",
-          "start_time": "18:48:00",
-          "end_time": "18:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ukiyoe Edo-Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/UE.svg",
-          "start_time": "18:55:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-17",
       "programs": [
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Core Kyoto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/CK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
           "start_time": "01:00:00",
           "end_time": "01:28:00",
           "episode_number": ""
         },
         {
           "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DT",
           "start_time": "01:28:00",
           "end_time": "01:43:00",
           "episode_number": ""
         },
         {
           "show_name": "Japan From Above: Up Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JFAUC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JFAUC",
           "start_time": "01:43:00",
           "end_time": "01:48:00",
           "episode_number": ""
         },
         {
           "show_name": "1/100: Men Who Took Parental...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/1MWTP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1MWTP",
           "start_time": "01:48:00",
           "end_time": "01:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Ukiyoe Edo-Life: Piercing Gaze",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/UEPG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UEPG",
           "start_time": "01:55:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hometown Stories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/HS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
           "start_time": "02:00:00",
           "end_time": "02:27:00",
           "episode_number": ""
         },
         {
           "show_name": "Satoyama Kitchen Spring",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/SKS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKS",
           "start_time": "02:27:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Japanology Plus",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JP",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Japan Railway Journal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JRJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JRJ",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Core Kyoto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/CK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
           "start_time": "06:30:00",
           "end_time": "06:57:00",
           "episode_number": ""
         },
         {
           "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "06:57:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/AI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Satoyama Kitchen Diary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/SKD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKD",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Japan Railway Journal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JRJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JRJ",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
           "start_time": "11:30:00",
           "end_time": "11:57:00",
           "episode_number": ""
         },
         {
           "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "11:57:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Newsline Asia 24",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NA2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NA2",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/AI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Newsline Asia 24",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NA2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NA2",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Satoyama Kitchen Diary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/SKD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKD",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Grand Sumo Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/GSH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
           "start_time": "15:30:00",
           "end_time": "15:57:00",
           "episode_number": ""
         },
         {
           "show_name": "Sumopedia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "15:57:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Japan Railway Journal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/JRJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JRJ",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK News 7",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN7.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN7",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Today's Close-Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
           "start_time": "18:00:00",
           "end_time": "18:28:00",
           "episode_number": ""
         },
         {
           "show_name": "Direct Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/DT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DT",
           "start_time": "18:28:00",
           "end_time": "18:43:00",
           "episode_number": ""
         },
         {
           "show_name": "Impacts: Climates Change...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/ICC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICC",
           "start_time": "18:43:00",
           "end_time": "18:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Chatroom Japan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/CJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
           "start_time": "18:55:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Newsroom Tokyo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
           "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/AI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "NHK Newsline",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/nhk-world/NN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asia Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Newsroom Tokyo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NT",
+          "start_time": "01:00:00",
+          "end_time": "01:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Direct Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DT",
+          "start_time": "01:28:00",
+          "end_time": "01:43:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Impacts: Climates Change...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICC",
+          "start_time": "01:43:00",
+          "end_time": "01:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ukiyoe Edo-Life: Mt. Fuji",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UEMF",
+          "start_time": "01:55:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Medical Frontiers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MF",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Satoyama Kitchen Diary",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKD",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Design X Stories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DXS",
+          "start_time": "03:30:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Today's Close-Up",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asia Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "06:00:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chatroom Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
+          "start_time": "06:10:00",
+          "end_time": "06:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Japan's Top Inventions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTI",
+          "start_time": "06:15:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grand Sumo Highlights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
+          "start_time": "06:30:00",
+          "end_time": "06:57:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sumopedia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "06:57:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "07:00:00",
+          "end_time": "07:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D3",
+          "start_time": "07:10:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "08:00:00",
+          "end_time": "08:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barakan Discovers: Hagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDH",
+          "start_time": "08:10:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "09:00:00",
+          "end_time": "09:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cycle Around Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CAJ",
+          "start_time": "09:10:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "10:00:00",
+          "end_time": "10:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Design X Stories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DXS",
+          "start_time": "10:10:00",
+          "end_time": "10:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Story Land In Classical...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLIC",
+          "start_time": "10:40:00",
+          "end_time": "10:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mitateru-Phose",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "10:50:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "11:00:00",
+          "end_time": "11:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Trails To Oishii Tokyo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOT",
+          "start_time": "11:10:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hit The Road: Fukushima",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTRF",
+          "start_time": "11:20:00",
+          "end_time": "11:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ukiyoe Edo-Life: Snowy Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UESN",
+          "start_time": "11:25:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grand Sumo Highlights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
+          "start_time": "11:30:00",
+          "end_time": "11:57:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sumopedia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "11:57:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "12:00:00",
+          "end_time": "12:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "BOSAI: Science That Can Save...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSTCS",
+          "start_time": "12:10:00",
+          "end_time": "12:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Design Museum Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DMJ",
+          "start_time": "12:25:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kabuki Kool",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KK",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "13:00:00",
+          "end_time": "13:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Documentary 360",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D3",
+          "start_time": "13:10:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "14:00:00",
+          "end_time": "14:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Barakan Discovers: Hagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDH",
+          "start_time": "14:10:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "15:00:00",
+          "end_time": "15:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Trails To Oishii Tokyo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOT",
+          "start_time": "15:10:00",
+          "end_time": "15:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hit The Road: Fukushima",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTRF",
+          "start_time": "15:20:00",
+          "end_time": "15:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ukiyoe Edo-Life: Snowy Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UESN",
+          "start_time": "15:25:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Grand Sumo Highlights",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSH",
+          "start_time": "15:30:00",
+          "end_time": "15:57:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sumopedia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "15:57:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "NHK Newsline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NN",
+          "start_time": "16:00:00",
+          "end_time": "16:10:00",
           "episode_number": ""
         }
       ]

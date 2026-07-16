@@ -2,523 +2,481 @@
   "channel_name": "Outdoor Channel",
   "schedule": {
     "today": {
-      "date": "2026-07-16",
-      "programs": [
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": "S1 E11"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": "S1 E12"
-        },
-        {
-          "show_name": "Secrets Of Great White Shark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SOGWS.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fishing The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FTW.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Fishing The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FTW.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Hardcore Carnivore",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HC.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Hardcore Carnivore",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HC.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": "S1 E11"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "S1 E12"
-        },
-        {
-          "show_name": "Secrets Of Great White Shark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SOGWS.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fishing The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FTW.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Fishing The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FTW.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Hardcore Carnivore",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HC.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Hardcore Carnivore",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/HC.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": "S1 E11"
-        },
-        {
-          "show_name": "Yukon For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/YFS.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": "S1 E12"
-        },
-        {
-          "show_name": "Secrets Of Great White Shark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SOGWS.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": "S5 E3"
-        },
-        {
-          "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": "S5 E4"
-        },
-        {
-          "show_name": "Facing Forces Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FFON.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Diamond River Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DRH.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Kangaroo Mob",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/KM.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": "S5 E3"
-        },
-        {
-          "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": "S5 E4"
-        },
-        {
-          "show_name": "Facing Forces Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FFON.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Diamond River Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DRH.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": "S1 E3"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-17",
       "programs": [
         {
           "show_name": "Kangaroo Mob",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": "S5 E3"
         },
         {
           "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": "S5 E4"
         },
         {
           "show_name": "Facing Forces Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FFON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFON",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Diamond River Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DRH",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Kangaroo Mob",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": "S5 E3"
         },
         {
           "show_name": "Jade Fever",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/JF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": "S5 E4"
         },
         {
           "show_name": "Facing Forces Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FFON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFON",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Diamond River Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/DRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DRH",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Kangaroo Mob",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Million Dollar House...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/MDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDH",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": "S2 E10"
         },
         {
           "show_name": "Attenborough: A Life On Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/AALOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AALOE",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "Brave Wilderness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/BW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "S2 E8"
         },
         {
           "show_name": "Fatal Engineering",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/FE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Sumatra's Last Tigers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/SLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLT",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Trucking Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": "S2 E10"
         },
         {
           "show_name": "Attenborough: A Life On Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/outdoor-channel/AALOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AALOE",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Fatal Engineering",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Sumatra's Last Tigers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLT",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Attenborough: A Life On Earth",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AALOE",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Fatal Engineering",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Sumatra's Last Tigers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLT",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Trucking Hell",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Attenborough: A Life On Earth",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AALOE",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Fatal Engineering",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FE",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Sumatra's Last Tigers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLT",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Jade Fever",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Jade Fever",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": "S1 E11"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": "S1 E12"
+        },
+        {
+          "show_name": "Facing Forces Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFON",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Hardcore Carnivore",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Hardcore Carnivore",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Kangaroo Mob",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Brave Wilderness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Jade Fever",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Jade Fever",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JF",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "S5 E4"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": "S1 E11"
+        },
+        {
+          "show_name": "Yukon For Sale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YFS",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": "S1 E12"
         }
       ]
     }
