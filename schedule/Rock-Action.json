@@ -2,221 +2,214 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-07-22",
-      "programs": [
-        {
-          "show_name": "Birdman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/B.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pandemic, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PP1.svg",
-          "start_time": "01:10:00",
-          "end_time": "02:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pandemic, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PP2.svg",
-          "start_time": "02:35:00",
-          "end_time": "04:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rambo 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/R3.svg",
-          "start_time": "04:05:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TCW.svg",
-          "start_time": "05:45:00",
-          "end_time": "07:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOL.svg",
-          "start_time": "07:25:00",
-          "end_time": "09:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Corner Office",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CO.svg",
-          "start_time": "09:10:00",
-          "end_time": "10:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sudden Death",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/SD.svg",
-          "start_time": "10:50:00",
-          "end_time": "12:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Knight And Day",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KAD.svg",
-          "start_time": "12:35:00",
-          "end_time": "14:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mummy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
-          "start_time": "14:25:00",
-          "end_time": "16:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOL.svg",
-          "start_time": "16:10:00",
-          "end_time": "17:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oblivion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/O.svg",
-          "start_time": "17:55:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wanted",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TCW.svg",
-          "start_time": "21:40:00",
-          "end_time": "23:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
-          "start_time": "23:20:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-23",
       "programs": [
         {
           "show_name": "War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mummy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "01:00:00",
           "end_time": "02:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Corner Office",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CO",
           "start_time": "02:45:00",
           "end_time": "04:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
           "start_time": "04:25:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Rambo: First Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RFB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
           "start_time": "06:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mummy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "07:30:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Birdman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "09:15:00",
           "end_time": "11:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Rambo 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/R3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R3",
           "start_time": "11:15:00",
           "end_time": "12:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TCW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
           "start_time": "12:55:00",
           "end_time": "14:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "14:35:00",
           "end_time": "16:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
           "start_time": "16:20:00",
           "end_time": "17:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ATWI8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATWI8",
           "start_time": "17:55:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mummy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "19:55:00",
           "end_time": "21:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Knight And Day",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KAD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAD",
           "start_time": "21:40:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Wanted",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "23:30:00",
           "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-24",
+      "programs": [
+        {
+          "show_name": "Wanted",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "01:15:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oblivion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "03:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Chinese Widow",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
+          "start_time": "05:00:00",
+          "end_time": "06:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mulholland Dr.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MD",
+          "start_time": "06:40:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robin Hood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "09:00:00",
+          "end_time": "11:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mummy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "11:15:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Corner Office",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CO",
+          "start_time": "13:00:00",
+          "end_time": "14:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twin Dragons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "14:40:00",
+          "end_time": "16:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oblivion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "16:15:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Chinese Widow",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
+          "start_time": "18:15:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Birdman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "19:55:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Wanted",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "22:00:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twin Dragons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "23:45:00",
+          "end_time": "01:20:00",
           "episode_number": ""
         }
       ]

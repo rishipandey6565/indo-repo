@@ -2,144 +2,130 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "programs": [
         {
-          "show_name": "WAFCON 2024: MAR Vs NGA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2MVN.svg",
+          "show_name": "U-17 AFCON 2026: CIV Vs CMR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2CV",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CAF Champions: TUN Vs APL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCTVA.svg",
+          "show_name": "CAF Champions: PYR Vs PDM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCPVP",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match AFCON: MAR Vs MLI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMAMV.svg",
+          "show_name": "Mini Match AFCON: BEN Vs BOT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMABV",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCI World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWT2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWT2",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match UCL: CLU Vs ARS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUCV.svg",
+          "show_name": "Mini Match UCL: SLB Vs NAP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUSV",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match UCL: RMA Vs MCI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMURV.svg",
+          "show_name": "Mini Match UCL: INT Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUIV",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "U-17 AFCON 2026: UGA Vs GHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2UV.svg",
+          "show_name": "U-17 AFCON 2026: TAN Vs ALG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2TV",
           "start_time": "07:30:00",
-          "end_time": "09:45:00",
+          "end_time": "09:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "Super Lig 2025/26: ANT Vs TSR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SL2AV.svg",
-          "start_time": "09:45:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: LEV Vs NEW",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMULV.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
+          "show_name": "UCI World Tour Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWTH2",
+          "start_time": "09:35:00",
+          "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Rugby Junior World C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/WRJWC.svg",
-          "start_time": "12:30:00",
+          "show_name": "MUTV Specials: Cantona",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSC",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV 2025/26: MUN Vs WXH",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M2MVW",
+          "start_time": "12:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sailing To The Games: L.A.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/STTGL.svg",
+          "show_name": "SFT Surf Foil World Tour 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SSFWT",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "UCI Women's World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWWT2.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: ARS Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMAV.svg",
-          "start_time": "17:30:00",
-          "end_time": "17:40:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWWT2",
+          "start_time": "15:00:00",
+          "end_time": "16:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "17:40:00",
-          "end_time": "18:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
+          "start_time": "16:55:00",
+          "end_time": "17:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDF2.svg",
-          "start_time": "18:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDF2(",
+          "start_time": "17:25:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "MUTV Treble 20: MUN Vs WHU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2MV.svg",
+          "show_name": "MUTV Treble 20: LEI Vs MUN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2LV",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "U-17 AFCON 2026: CIV Vs CMR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2CV.svg",
+          "show_name": "U-17 AFCON 2026: EGY Vs ETH",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2EV",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
@@ -147,130 +133,158 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "programs": [
         {
-          "show_name": "U-17 AFCON 2026: CIV Vs CMR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2CV.svg",
+          "show_name": "U-17 AFCON 2026: EGY Vs ETH",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2EV",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "CAF Champions: PYR Vs PDM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCPVP.svg",
+          "show_name": "CAF Champions: RSB Vs RIV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCRVR",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match AFCON: BEN Vs BOT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMABV.svg",
+          "show_name": "Mini Match AFCON: SEN Vs COD",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMASV",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCI World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWT2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWT2",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match UCL: SLB Vs NAP",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUSV.svg",
+          "show_name": "Mini Match UCL: OLY Vs LEV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUOV",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mini Match UCL: INT Vs ARS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUIV.svg",
+          "show_name": "Mini Match UCL: RMA Vs ASM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "U-17 AFCON 2026: TAN Vs ALG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2TV.svg",
+          "show_name": "U-17 AFCON 2026: MAR Vs CMR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2MV",
           "start_time": "07:30:00",
-          "end_time": "09:35:00",
+          "end_time": "09:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "UCI World Tour Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWTH2.svg",
-          "start_time": "09:35:00",
-          "end_time": "10:30:00",
+          "show_name": "Super Lig 2025/26: BJK Vs KON",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2BV",
+          "start_time": "09:20:00",
+          "end_time": "11:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
+          "show_name": "MUTV One Love: Flag Flying High",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOLFF",
+          "start_time": "11:10:00",
+          "end_time": "11:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "MUTV Specials: Cantona",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSC.svg",
-          "start_time": "11:00:00",
+          "show_name": "Mass Participation 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP2",
+          "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "MUTV 2025/26: MUN Vs WXH",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/M2MVW.svg",
+          "show_name": "Tour de France Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "12:00:00",
-          "end_time": "14:30:00",
+          "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SFT Surf Foil World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SSFWT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SSFWT",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCI World Tour Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWTH2",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sports Rundown 2026: July",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2J",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tour de France Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDFH2",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCI Women's World Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UWWT2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UWWT2",
           "start_time": "15:00:00",
-          "end_time": "16:55:00",
+          "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "16:55:00",
-          "end_time": "17:25:00",
+          "show_name": "MUTV 2025/26: MUN Vs WXH",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M2MVW",
+          "start_time": "17:00:00",
+          "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tour de France 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDF2.svg",
-          "start_time": "17:25:00",
-          "end_time": "23:00:00",
+          "show_name": "MUTV Specials: Cantona",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSC",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "MUTV Treble 20: LEI Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2LV.svg",
-          "start_time": "23:00:00",
+          "show_name": "UCL 2025/26: PSG Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2PVA",
+          "start_time": "20:30:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: BAR Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMBV",
+          "start_time": "23:20:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "U-17 AFCON 2026: EGY Vs ETH",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2EV.svg",
+          "show_name": "U-17 AFCON 2026: UGA Vs COD",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2UV",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
