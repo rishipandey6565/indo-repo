@@ -2,110 +2,96 @@
   "channel_name": "BUDDY STARS",
   "schedule": {
     "today": {
-      "date": "2026-07-23",
+      "date": "2026-07-24",
       "programs": [
         {
-          "show_name": "Come Away",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/CA.svg",
-          "start_time": "01:49:00",
-          "end_time": "03:40:00",
+          "show_name": "House Of Wonder",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOW",
+          "start_time": "00:41:00",
+          "end_time": "02:28:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "programs": [
         {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:45:00",
+          "end_time": "00:52:00",
+          "episode_number": "S1 E7"
+        },
+        {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "00:52:00",
+          "end_time": "01:00:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:00:00",
+          "end_time": "01:07:00",
+          "episode_number": "S3 E29"
+        },
+        {
+          "show_name": "Bluey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:07:00",
+          "end_time": "01:15:00",
+          "episode_number": "S3 E30"
+        },
+        {
+          "show_name": "Andy's Baby Animal...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABA",
+          "start_time": "01:15:00",
+          "end_time": "01:30:00",
+          "episode_number": "S1 E12"
+        },
+        {
+          "show_name": "Playtime Towers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT",
+          "start_time": "01:30:00",
+          "end_time": "01:55:00",
+          "episode_number": "S1 E3"
+        },
+        {
           "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
           "start_time": "01:55:00",
           "end_time": "02:02:00",
+          "episode_number": "S3 E34"
+        },
+        {
+          "show_name": "Hey Duggee",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
+          "start_time": "02:02:00",
+          "end_time": "02:09:00",
           "episode_number": "S3 E33"
         },
         {
           "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
-          "start_time": "02:02:00",
-          "end_time": "02:09:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
+          "start_time": "02:09:00",
+          "end_time": "02:15:00",
           "episode_number": "S3 E31"
         },
         {
-          "show_name": "Hey Duggee",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/HD.svg",
-          "start_time": "02:09:00",
-          "end_time": "02:15:00",
-          "episode_number": "S3 E30"
-        },
-        {
           "show_name": "Go Jetters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/GJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GJ",
           "start_time": "02:15:00",
           "end_time": "02:25:00",
-          "episode_number": "S3 E43"
+          "episode_number": "S3 E44"
         },
         {
           "show_name": "Go Jetters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/GJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GJ",
           "start_time": "02:25:00",
           "end_time": "02:40:00",
-          "episode_number": "S3 E42"
-        },
-        {
-          "show_name": "Thomas & Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/T.svg",
-          "start_time": "02:40:00",
-          "end_time": "02:50:00",
-          "episode_number": "S24 E10"
-        },
-        {
-          "show_name": "Sarah And Duck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SAD.svg",
-          "start_time": "02:50:00",
-          "end_time": "02:57:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Sarah And Duck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SAD.svg",
-          "start_time": "02:57:00",
-          "end_time": "03:05:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Stan Can",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SC.svg",
-          "start_time": "03:05:00",
-          "end_time": "03:11:00",
-          "episode_number": "S1 E18"
-        },
-        {
-          "show_name": "Stan Can",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/SC.svg",
-          "start_time": "03:11:00",
-          "end_time": "03:20:00",
-          "episode_number": "S1 E17"
-        },
-        {
-          "show_name": "Funny Talking Animals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/FTA.svg",
-          "start_time": "03:20:00",
-          "end_time": "03:25:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Jojo & Gran Gran",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/J.svg",
-          "start_time": "03:25:00",
-          "end_time": "03:38:00",
-          "episode_number": "S2 E21"
-        },
-        {
-          "show_name": "Bluey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/buddy-stars/B.svg",
-          "start_time": "03:38:00",
-          "end_time": "03:45:00",
-          "episode_number": "S3 E11"
+          "episode_number": "S3 E43"
         }
       ]
     }
