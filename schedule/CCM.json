@@ -2,214 +2,207 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "show_name": "The Supreme Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSS.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Les Belles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LB.svg",
-          "start_time": "01:05:00",
-          "end_time": "03:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Duel Of Fist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DOF.svg",
-          "start_time": "03:10:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Secret Of The Dirk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSOTD.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Pearl Phoenix",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TPP.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Boxer From The Temple",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBFTT.svg",
-          "start_time": "08:15:00",
-          "end_time": "09:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pale Passion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PP.svg",
-          "start_time": "09:55:00",
-          "end_time": "11:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Five Shaolin Masters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FSM.svg",
-          "start_time": "11:35:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Crazy Bumpkins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCB.svg",
-          "start_time": "13:30:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Web Of Death",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWOD.svg",
-          "start_time": "15:15:00",
-          "end_time": "16:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Tiger And The Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTATW.svg",
-          "start_time": "16:50:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Iron Buddha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TIB.svg",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Adv. Of Emperor Chien Lung",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TAOEC.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Tea House",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTH.svg",
-          "start_time": "21:50:00",
-          "end_time": "23:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Lark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TL.svg",
-          "start_time": "23:35:00",
-          "end_time": "01:40:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-25",
       "programs": [
         {
           "show_name": "The Lark",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL",
           "start_time": "00:00:00",
           "end_time": "01:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The 36th Chamber Of Shaolin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/T3COS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T3COS",
           "start_time": "01:40:00",
           "end_time": "03:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Rebel Intruders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TRI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRI",
           "start_time": "03:40:00",
           "end_time": "05:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Brave Archer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBA",
           "start_time": "05:25:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Kingdom And The Beauty",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TKATB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKATB",
           "start_time": "07:30:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Flying Guillotine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TFG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFG",
           "start_time": "09:15:00",
           "end_time": "11:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Dancing Millionairess",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TDM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDM",
           "start_time": "11:05:00",
           "end_time": "13:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Silent Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSS",
           "start_time": "13:05:00",
           "end_time": "14:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Warlord",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
           "start_time": "14:50:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tales Of A Eunuch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TOAE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOAE",
           "start_time": "16:30:00",
           "end_time": "18:10:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lotus Lamp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TLL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLL",
           "start_time": "18:10:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Challenge Of The Gamesters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/COTG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTG",
           "start_time": "20:00:00",
           "end_time": "21:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Grand Substitution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGS",
           "start_time": "21:50:00",
           "end_time": "23:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Heroes Shed No Tears",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HSNT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSNT",
           "start_time": "23:50:00",
           "end_time": "01:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-26",
+      "programs": [
+        {
+          "show_name": "Heroes Shed No Tears",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSNT",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Return Of The Sentimental...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTS",
+          "start_time": "01:45:00",
+          "end_time": "03:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Bride Napping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBN",
+          "start_time": "03:35:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Heroic Ones",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THO",
+          "start_time": "05:45:00",
+          "end_time": "07:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lovers Blades",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LB",
+          "start_time": "07:55:00",
+          "end_time": "09:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Vengeance Of A Snow Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VOASG",
+          "start_time": "09:35:00",
+          "end_time": "11:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The House Of 72 Tenants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THO7T",
+          "start_time": "11:40:00",
+          "end_time": "13:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shaolin Hand Lock",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SHL",
+          "start_time": "13:25:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fangs Of The Cobra",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOTC",
+          "start_time": "15:00:00",
+          "end_time": "16:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Silver Fox",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSF",
+          "start_time": "16:35:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Emperor Chien Lung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ECL",
+          "start_time": "18:15:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chinatown Kid",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
+          "start_time": "20:00:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Last Tempest",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLT",
+          "start_time": "21:35:00",
+          "end_time": "23:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Winged Tiger",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWT",
+          "start_time": "23:35:00",
+          "end_time": "01:10:00",
           "episode_number": ""
         }
       ]

@@ -2,324 +2,331 @@
   "channel_name": "NET TV",
   "schedule": {
     "today": {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "show_name": "Customs Protection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "86",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/8.svg",
-          "start_time": "00:10:00",
-          "end_time": "00:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Eve",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/E.svg",
-          "start_time": "00:55:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oasis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/O.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "What's Wrong With Secretary Kim",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/WWWSK.svg",
-          "start_time": "03:05:00",
-          "end_time": "04:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Top Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/TS.svg",
-          "start_time": "04:10:00",
-          "end_time": "05:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Menjemput Berkah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MB.svg",
-          "start_time": "05:50:00",
-          "end_time": "06:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "AADD: Ada Apa Dengan Dunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/AAADD.svg",
-          "start_time": "06:45:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fakta +62",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/F.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SensasiHot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/S.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bawang Merah Bawang Putih",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/BMBP.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SUCI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/S.svg",
-          "start_time": "10:55:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Resep Chef Devina",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/RCD.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Makan Enak Lagiii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MEL.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laper Mata",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/LM.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Masak Gesss!!!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MG.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Adit Sopo Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/ASJ.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Carita de �ngel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CD.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ipar Adalah Maut The Series",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/IAMTS.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kupu Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/KM.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Danur 2: Maddah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/D2M.svg",
-          "start_time": "21:35:00",
-          "end_time": "23:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Customs Protection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CP.svg",
-          "start_time": "23:10:00",
-          "end_time": "00:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-25",
       "programs": [
         {
           "show_name": "Customs Protection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": ""
         },
         {
           "show_name": "86",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
           "start_time": "00:25:00",
           "end_time": "00:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Eve",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "00:55:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Oasis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "02:00:00",
           "end_time": "03:05:00",
           "episode_number": ""
         },
         {
           "show_name": "What's Wrong With Secretary Kim",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/WWWSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWWSK",
           "start_time": "03:05:00",
           "end_time": "04:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "04:10:00",
           "end_time": "05:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Jelajah Masjid Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/JMN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMN",
           "start_time": "05:50:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
           "show_name": "AADD: Ada Apa Dengan Dunia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/AAADD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAADD",
           "start_time": "06:45:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Fakta +62 Weekend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/FW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F+W",
           "start_time": "08:00:00",
           "end_time": "08:55:00",
           "episode_number": ""
         },
         {
           "show_name": "SensasiHot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:55:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bawang Merah Bawang Putih",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/BMBP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMBP",
           "start_time": "10:00:00",
           "end_time": "10:50:00",
           "episode_number": ""
         },
         {
           "show_name": "SUCI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "10:50:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Resep Chef Devina",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/RCD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCD",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Makan Enak Lagiii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MEL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MEL",
           "start_time": "13:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Laper Mata",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/LM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
           "start_time": "14:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Masak Gesss!!!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MG",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Adit Sopo Jarwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/ASJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASJ",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Carita de �ngel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CD�",
           "start_time": "17:30:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ipar Adalah Maut The Series",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/IAMTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IAMTS",
           "start_time": "19:30:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kupu Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/KM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
           "start_time": "20:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Main Drama Casting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/MDC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDC",
           "start_time": "21:30:00",
           "end_time": "22:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Jatanras",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
           "start_time": "22:20:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Customs Protection",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/net-tv/CP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
+          "start_time": "23:30:00",
+          "end_time": "00:25:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-26",
+      "programs": [
+        {
+          "show_name": "Customs Protection",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
+          "start_time": "00:00:00",
+          "end_time": "00:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "86",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=8",
+          "start_time": "00:25:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eve",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "00:55:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oasis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "02:00:00",
+          "end_time": "03:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "What's Wrong With Secretary Kim",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWWSK",
+          "start_time": "03:05:00",
+          "end_time": "04:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Top Spot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "04:10:00",
+          "end_time": "05:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jelajah Masjid Nusantara",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMN",
+          "start_time": "05:50:00",
+          "end_time": "06:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AADD: Ada Apa Dengan Dunia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAADD",
+          "start_time": "06:45:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fakta +62 Weekend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F+W",
+          "start_time": "08:00:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SensasiHot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "08:55:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bawang Merah Bawang Putih",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMBP",
+          "start_time": "10:00:00",
+          "end_time": "10:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SUCI",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "10:50:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Resep Chef Devina",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RCD",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Makan Enak Lagiii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MEL",
+          "start_time": "13:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laper Mata",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
+          "start_time": "14:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Masak Gesss!!!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MG",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Adit Sopo Jarwo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASJ",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Carita de �ngel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CD�",
+          "start_time": "17:30:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ipar Adalah Maut The Series",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IAMTS",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kupu Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KM",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Main Drama Casting",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDC",
+          "start_time": "21:30:00",
+          "end_time": "22:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jatanras",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "22:20:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Customs Protection",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "23:30:00",
           "end_time": "00:25:00",
           "episode_number": ""
