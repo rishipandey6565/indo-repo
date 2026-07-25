@@ -2,222 +2,313 @@
   "channel_name": "Rock Entertainment",
   "schedule": {
     "today": {
-      "date": "2026-07-25",
-      "programs": [
-        {
-          "show_name": "Tin Man, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP2.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tin Man, Pt 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP3.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shout At The Devil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SATD.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL.svg",
-          "start_time": "05:35:00",
-          "end_time": "07:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL2.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLJC.svg",
-          "start_time": "08:50:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tin Man, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP1.svg",
-          "start_time": "10:25:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tin Man, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP2.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tin Man, Pt 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP3.svg",
-          "start_time": "13:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shout At The Devil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SATD.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Curse Of King Tut's Tomb, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/COKTT.svg",
-          "start_time": "17:35:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Curse Of King Tut's Tomb, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/COKTT.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL.svg",
-          "start_time": "20:25:00",
-          "end_time": "22:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL2.svg",
-          "start_time": "22:05:00",
-          "end_time": "23:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tin Man, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP1.svg",
-          "start_time": "23:40:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-26",
       "programs": [
         {
           "show_name": "Tin Man, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP1",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Tin Man, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP2",
           "start_time": "01:15:00",
           "end_time": "02:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Tin Man, Pt 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP3",
           "start_time": "02:45:00",
           "end_time": "04:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Curse Of King Tut's Tomb, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/COKTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
           "start_time": "04:15:00",
           "end_time": "05:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Curse Of King Tut's Tomb, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/COKTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
           "start_time": "05:40:00",
           "end_time": "07:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Shout At The Devil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SATD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SATD",
           "start_time": "07:05:00",
           "end_time": "09:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLJC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
           "start_time": "09:40:00",
           "end_time": "11:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL",
           "start_time": "11:15:00",
           "end_time": "12:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TL2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
           "start_time": "12:55:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Tin Man, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP1",
           "start_time": "14:30:00",
           "end_time": "16:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Tin Man, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP2",
           "start_time": "16:05:00",
           "end_time": "17:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Tin Man, Pt 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMP3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP3",
           "start_time": "17:35:00",
           "end_time": "19:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Shout At The Devil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SATD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SATD",
           "start_time": "19:05:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TLJC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
           "start_time": "21:45:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Curse Of King Tut's Tomb, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/COKTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
           "start_time": "23:25:00",
           "end_time": "00:55:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "00:55:00",
+          "end_time": "02:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL",
+          "start_time": "02:25:00",
+          "end_time": "04:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "S13 E118"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "05:00:00",
+          "end_time": "05:45:00",
+          "episode_number": "S13 E119"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "05:45:00",
+          "end_time": "06:30:00",
+          "episode_number": "S13 E131"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "06:30:00",
+          "end_time": "07:20:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "07:20:00",
+          "end_time": "08:10:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:10:00",
+          "end_time": "08:55:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:55:00",
+          "end_time": "09:40:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "09:40:00",
+          "end_time": "10:25:00",
+          "episode_number": "S13 E131"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "10:25:00",
+          "end_time": "11:10:00",
+          "episode_number": "S13 E119"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "11:10:00",
+          "end_time": "11:55:00",
+          "episode_number": "S11 E7"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "11:55:00",
+          "end_time": "12:40:00",
+          "episode_number": "S11 E8"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "12:40:00",
+          "end_time": "13:25:00",
+          "episode_number": "S22 E1"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "13:25:00",
+          "end_time": "14:10:00",
+          "episode_number": "S22 E2"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "14:10:00",
+          "end_time": "14:55:00",
+          "episode_number": "S22 E3"
+        },
+        {
+          "show_name": "NCIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
+          "start_time": "14:55:00",
+          "end_time": "15:40:00",
+          "episode_number": "S22 E4"
+        },
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "15:40:00",
+          "end_time": "17:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "17:05:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "18:30:00",
+          "end_time": "19:15:00",
+          "episode_number": "S11 E9"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "19:15:00",
+          "end_time": "20:00:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "20:00:00",
+          "end_time": "20:45:00",
+          "episode_number": "S11 E9"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "20:45:00",
+          "end_time": "21:30:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "21:30:00",
+          "end_time": "22:25:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "22:25:00",
+          "end_time": "23:10:00",
+          "episode_number": "S13 E132"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "23:10:00",
+          "end_time": "23:55:00",
+          "episode_number": "S13 E120"
+        },
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "23:55:00",
+          "end_time": "00:50:00",
+          "episode_number": "E9"
         }
       ]
     }
