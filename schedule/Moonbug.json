@@ -2,683 +2,676 @@
   "channel_name": "Moonbug",
   "schedule": {
     "today": {
-      "date": "2026-07-27",
-      "programs": [
-        {
-          "show_name": "Digley & Dazey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/D.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:04:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Digley & Dazey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/D.svg",
-          "start_time": "02:04:00",
-          "end_time": "02:33:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Sharksons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TS.svg",
-          "start_time": "02:33:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Sharksons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TS.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:29:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "KiiYii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/K.svg",
-          "start_time": "03:29:00",
-          "end_time": "03:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "KiiYii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/K.svg",
-          "start_time": "03:59:00",
-          "end_time": "04:28:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "04:28:00",
-          "end_time": "04:53:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "04:53:00",
-          "end_time": "05:09:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "05:09:00",
-          "end_time": "05:34:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "05:34:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:24:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "06:24:00",
-          "end_time": "06:58:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cody Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/CT.svg",
-          "start_time": "06:58:00",
-          "end_time": "07:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
-          "start_time": "07:25:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dance Party",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/DP.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:22:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
-          "start_time": "09:22:00",
-          "end_time": "09:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
-          "start_time": "09:59:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
-          "start_time": "10:25:00",
-          "end_time": "10:51:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Go Buster",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/GB.svg",
-          "start_time": "10:51:00",
-          "end_time": "11:27:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Go Buster",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/GB.svg",
-          "start_time": "11:27:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:37:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "12:37:00",
-          "end_time": "12:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ARPO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
-          "start_time": "12:59:00",
-          "end_time": "13:26:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ARPO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
-          "start_time": "13:26:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Baby Bum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LBB.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Baby Bum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LBB.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:26:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
-          "start_time": "15:26:00",
-          "end_time": "15:52:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Morphle Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/MC.svg",
-          "start_time": "15:52:00",
-          "end_time": "16:26:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Morphle Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/MC.svg",
-          "start_time": "16:26:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nina's Familia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/NF.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:18:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
-          "start_time": "17:18:00",
-          "end_time": "17:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "17:59:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
-          "start_time": "19:21:00",
-          "end_time": "19:42:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
-          "start_time": "19:42:00",
-          "end_time": "20:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dance Party",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/DP.svg",
-          "start_time": "20:02:00",
-          "end_time": "20:34:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
-          "start_time": "20:34:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:36:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
-          "start_time": "21:36:00",
-          "end_time": "22:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
-          "start_time": "22:02:00",
-          "end_time": "22:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
-          "start_time": "22:25:00",
-          "end_time": "22:47:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
-          "start_time": "22:47:00",
-          "end_time": "23:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "23:10:00",
-          "end_time": "23:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:01:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-28",
       "programs": [
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "00:00:00",
           "end_time": "00:01:00",
           "episode_number": ""
         },
         {
           "show_name": "Antiks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "00:01:00",
           "end_time": "00:33:00",
           "episode_number": ""
         },
         {
           "show_name": "Antiks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "00:33:00",
           "end_time": "01:02:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Baby Bum: Lullabies",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LBBL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBBL",
           "start_time": "01:02:00",
           "end_time": "02:59:00",
           "episode_number": ""
         },
         {
           "show_name": "Digley & Dazey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&D",
           "start_time": "02:59:00",
           "end_time": "03:32:00",
           "episode_number": ""
         },
         {
           "show_name": "Digley & Dazey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&D",
           "start_time": "03:32:00",
           "end_time": "04:03:00",
           "episode_number": ""
         },
         {
           "show_name": "The Sharksons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "04:03:00",
           "end_time": "04:33:00",
           "episode_number": ""
         },
         {
           "show_name": "The Sharksons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "04:33:00",
           "end_time": "05:02:00",
           "episode_number": ""
         },
         {
           "show_name": "KiiYii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "05:02:00",
           "end_time": "05:32:00",
           "episode_number": ""
         },
         {
           "show_name": "KiiYii",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "05:32:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "06:00:00",
           "end_time": "06:31:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "06:31:00",
           "end_time": "06:59:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "06:59:00",
           "end_time": "07:14:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "07:14:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "08:00:00",
           "end_time": "08:34:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "08:34:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "09:00:00",
           "end_time": "09:33:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "09:33:00",
           "end_time": "09:59:00",
           "episode_number": ""
         },
         {
           "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
           "start_time": "09:59:00",
           "end_time": "10:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
           "start_time": "10:25:00",
           "end_time": "10:49:00",
           "episode_number": ""
         },
         {
           "show_name": "Go Buster",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/GB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GB",
           "start_time": "10:49:00",
           "end_time": "11:29:00",
           "episode_number": ""
         },
         {
           "show_name": "Go Buster",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/GB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GB",
           "start_time": "11:29:00",
           "end_time": "12:01:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "12:01:00",
           "end_time": "12:17:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "12:17:00",
           "end_time": "12:59:00",
           "episode_number": ""
         },
         {
           "show_name": "ARPO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "12:59:00",
           "end_time": "13:26:00",
           "episode_number": ""
         },
         {
           "show_name": "ARPO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "13:26:00",
           "end_time": "14:01:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Baby Bum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBB",
           "start_time": "14:01:00",
           "end_time": "14:34:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Baby Bum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBB",
           "start_time": "14:34:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
           "start_time": "15:00:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Melon Patch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/TMP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
           "start_time": "15:25:00",
           "end_time": "15:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Morphle Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "15:50:00",
           "end_time": "16:22:00",
           "episode_number": ""
         },
         {
           "show_name": "Morphle Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "16:22:00",
           "end_time": "17:02:00",
           "episode_number": ""
         },
         {
           "show_name": "Dance Party",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/DP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
           "start_time": "17:02:00",
           "end_time": "17:33:00",
           "episode_number": ""
         },
         {
           "show_name": "Cody Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/CT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CT",
           "start_time": "17:33:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "19:00:00",
           "end_time": "19:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "19:20:00",
           "end_time": "19:41:00",
           "episode_number": ""
         },
         {
           "show_name": "Supa Strikas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "19:41:00",
           "end_time": "20:01:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "20:01:00",
           "end_time": "20:28:00",
           "episode_number": ""
         },
         {
           "show_name": "CoComelon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "20:28:00",
           "end_time": "21:01:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "21:01:00",
           "end_time": "21:29:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Angel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/LA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
           "start_time": "21:29:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "22:00:00",
           "end_time": "22:23:00",
           "episode_number": ""
         },
         {
           "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "22:23:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Insectibles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "22:45:00",
           "end_time": "23:08:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "23:08:00",
           "end_time": "23:29:00",
           "episode_number": ""
         },
         {
           "show_name": "Oddbods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/moonbug/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "23:29:00",
           "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-07-29",
+      "programs": [
+        {
+          "show_name": "Antiks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Antiks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "00:30:00",
+          "end_time": "01:01:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Baby Bum: Lullabies",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBBL",
+          "start_time": "01:01:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Digley & Dazey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&D",
+          "start_time": "03:00:00",
+          "end_time": "03:31:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Digley & Dazey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D&D",
+          "start_time": "03:31:00",
+          "end_time": "04:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sharksons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "04:03:00",
+          "end_time": "04:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sharksons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
+          "start_time": "04:34:00",
+          "end_time": "05:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "KiiYii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "05:03:00",
+          "end_time": "05:37:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "KiiYii",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "05:37:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "06:00:00",
+          "end_time": "06:32:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "06:32:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "07:00:00",
+          "end_time": "07:37:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "JJ's Animal Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JAT",
+          "start_time": "07:37:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "08:00:00",
+          "end_time": "08:29:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "08:29:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "09:00:00",
+          "end_time": "09:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dance Party",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DP",
+          "start_time": "09:35:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Melon Patch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
+          "start_time": "10:00:00",
+          "end_time": "10:26:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Melon Patch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
+          "start_time": "10:26:00",
+          "end_time": "10:52:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Go Buster",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GB",
+          "start_time": "10:52:00",
+          "end_time": "11:32:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Go Buster",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GB",
+          "start_time": "11:32:00",
+          "end_time": "12:01:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "12:01:00",
+          "end_time": "12:23:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "12:23:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ARPO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "13:00:00",
+          "end_time": "13:31:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ARPO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "13:31:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Baby Bum",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBB",
+          "start_time": "14:00:00",
+          "end_time": "14:27:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Baby Bum",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LBB",
+          "start_time": "14:27:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Melon Patch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
+          "start_time": "15:00:00",
+          "end_time": "15:26:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Melon Patch",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMP",
+          "start_time": "15:26:00",
+          "end_time": "15:52:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Morphle Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "15:52:00",
+          "end_time": "16:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Morphle Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "16:28:00",
+          "end_time": "16:59:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "16:59:00",
+          "end_time": "17:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "17:40:00",
+          "end_time": "17:59:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "17:59:00",
+          "end_time": "18:29:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "18:29:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Supa Strikas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "19:00:00",
+          "end_time": "19:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Supa Strikas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "19:20:00",
+          "end_time": "19:41:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Supa Strikas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "19:41:00",
+          "end_time": "20:01:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "20:01:00",
+          "end_time": "20:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "CoComelon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "20:28:00",
+          "end_time": "21:01:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "21:01:00",
+          "end_time": "21:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Angel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LA",
+          "start_time": "21:34:00",
+          "end_time": "22:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insectibles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "22:02:00",
+          "end_time": "22:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insectibles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "22:25:00",
+          "end_time": "22:47:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insectibles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "22:47:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "23:10:00",
+          "end_time": "23:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Oddbods",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "23:35:00",
+          "end_time": "00:01:00",
           "episode_number": ""
         }
       ]
