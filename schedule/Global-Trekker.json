@@ -2,516 +2,544 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-07-30",
-      "programs": [
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": "S10 E1"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "00:45:00",
-          "end_time": "01:30:00",
-          "episode_number": "S10 E2"
-        },
-        {
-          "show_name": "Johnny Depp: Transformation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/JDT.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "JLo: Triple Threat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/JTT.svg",
-          "start_time": "02:20:00",
-          "end_time": "03:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "George Clooney: Leading Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/GCLM.svg",
-          "start_time": "03:20:00",
-          "end_time": "04:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Johnny Depp: Transformation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/JDT.svg",
-          "start_time": "04:10:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arthur: Life With Royal Family",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ALWRF.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Williams Sisters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Morgan Freeman: Breaking...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MFB.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arthur: Life With Royal Family",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ALWRF.svg",
-          "start_time": "07:45:00",
-          "end_time": "08:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "08:40:00",
-          "end_time": "09:30:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:20:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "10:20:00",
-          "end_time": "11:10:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "11:10:00",
-          "end_time": "11:55:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "11:55:00",
-          "end_time": "12:40:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "12:40:00",
-          "end_time": "13:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Story Of Nintendo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSON.svg",
-          "start_time": "13:25:00",
-          "end_time": "14:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Exceptional...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/E.svg",
-          "start_time": "14:20:00",
-          "end_time": "15:15:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Exceptional...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/E.svg",
-          "start_time": "15:15:00",
-          "end_time": "16:10:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "16:10:00",
-          "end_time": "16:40:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "16:40:00",
-          "end_time": "17:10:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "17:10:00",
-          "end_time": "17:40:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "17:40:00",
-          "end_time": "18:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "18:10:00",
-          "end_time": "18:40:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
-          "start_time": "18:40:00",
-          "end_time": "19:10:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "19:10:00",
-          "end_time": "19:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "19:40:00",
-          "end_time": "20:10:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "20:10:00",
-          "end_time": "20:40:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "20:40:00",
-          "end_time": "21:10:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "21:10:00",
-          "end_time": "21:40:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
-          "start_time": "21:40:00",
-          "end_time": "22:10:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
-          "start_time": "22:10:00",
-          "end_time": "22:55:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
-          "start_time": "22:55:00",
-          "end_time": "23:40:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
-          "start_time": "23:40:00",
-          "end_time": "00:25:00",
-          "episode_number": "E10"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-07-31",
       "programs": [
         {
           "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATI",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "00:25:00",
           "end_time": "01:10:00",
           "episode_number": "S10 E2"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "01:10:00",
           "end_time": "01:55:00",
           "episode_number": "S10 E3"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "01:55:00",
           "end_time": "02:25:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "02:25:00",
           "end_time": "02:55:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "02:55:00",
           "end_time": "03:25:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "03:25:00",
           "end_time": "03:55:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "03:55:00",
           "end_time": "04:25:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Destination Flavour SIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFS",
           "start_time": "04:25:00",
           "end_time": "05:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "05:00:00",
           "end_time": "05:35:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "05:35:00",
           "end_time": "06:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "06:10:00",
           "end_time": "06:45:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "06:45:00",
           "end_time": "07:20:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "07:20:00",
           "end_time": "07:50:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "07:50:00",
           "end_time": "08:20:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "08:20:00",
           "end_time": "08:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Taste Of The Territory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TOTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
           "start_time": "08:50:00",
           "end_time": "09:20:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "09:20:00",
           "end_time": "09:45:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "09:45:00",
           "end_time": "10:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "10:10:00",
           "end_time": "10:35:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "10:35:00",
           "end_time": "11:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "11:00:00",
           "end_time": "11:25:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Sea Hunters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "11:25:00",
           "end_time": "11:50:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "11:50:00",
           "end_time": "12:35:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "12:35:00",
           "end_time": "13:20:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "13:20:00",
           "end_time": "14:05:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Exceptional...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "14:05:00",
           "end_time": "15:00:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Exceptional...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "15:00:00",
           "end_time": "15:55:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Exceptional...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "15:55:00",
           "end_time": "16:50:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "16:50:00",
           "end_time": "17:35:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "17:35:00",
           "end_time": "18:20:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Secrets Of The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SOTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTM",
           "start_time": "18:20:00",
           "end_time": "19:10:00",
           "episode_number": "S3 E1"
         },
         {
           "show_name": "Secrets Of The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SOTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTM",
           "start_time": "19:10:00",
           "end_time": "20:00:00",
           "episode_number": "S3 E2"
         },
         {
           "show_name": "Secrets Of The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SOTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTM",
           "start_time": "20:00:00",
           "end_time": "20:50:00",
           "episode_number": "S3 E3"
         },
         {
           "show_name": "Secrets Of The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SOTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTM",
           "start_time": "20:50:00",
           "end_time": "21:40:00",
           "episode_number": "S3 E4"
         },
         {
           "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATI",
           "start_time": "21:40:00",
           "end_time": "22:25:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Kate Winslet: Leading Lady",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/KWLL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KWLL",
           "start_time": "22:25:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Carrie Underwood: Southern...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/CUS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CUS",
           "start_time": "23:15:00",
           "end_time": "00:05:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "show_name": "Carrie Underwood: Southern...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CUS",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:05:00",
+          "end_time": "00:50:00",
+          "episode_number": "S10 E3"
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:50:00",
+          "end_time": "01:35:00",
+          "episode_number": "S10 E4"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "01:35:00",
+          "end_time": "02:25:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "02:25:00",
+          "end_time": "03:15:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "03:15:00",
+          "end_time": "04:05:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Secrets Of The Museum",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTM",
+          "start_time": "04:05:00",
+          "end_time": "05:00:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "05:00:00",
+          "end_time": "05:50:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "05:50:00",
+          "end_time": "06:40:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "06:40:00",
+          "end_time": "07:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "07:10:00",
+          "end_time": "07:40:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "07:40:00",
+          "end_time": "08:10:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "08:10:00",
+          "end_time": "08:40:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "08:40:00",
+          "end_time": "09:10:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "09:10:00",
+          "end_time": "09:40:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Destination Flavour CHN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "09:40:00",
+          "end_time": "10:10:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "10:10:00",
+          "end_time": "10:55:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "10:55:00",
+          "end_time": "11:25:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "11:25:00",
+          "end_time": "11:55:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "11:55:00",
+          "end_time": "12:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "12:25:00",
+          "end_time": "12:55:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "12:55:00",
+          "end_time": "13:25:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "13:25:00",
+          "end_time": "13:55:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "13:55:00",
+          "end_time": "14:40:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "14:40:00",
+          "end_time": "15:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "15:25:00",
+          "end_time": "16:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "16:10:00",
+          "end_time": "16:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "16:40:00",
+          "end_time": "17:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "17:10:00",
+          "end_time": "17:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "17:40:00",
+          "end_time": "18:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "18:10:00",
+          "end_time": "18:40:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Taste Of The Territory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTT",
+          "start_time": "18:40:00",
+          "end_time": "19:10:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "19:10:00",
+          "end_time": "20:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "20:00:00",
+          "end_time": "20:50:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "20:50:00",
+          "end_time": "21:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Secrets Of Great White Shark",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOGWS",
+          "start_time": "21:40:00",
+          "end_time": "22:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Costa Rica: Rise Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CRRO",
+          "start_time": "22:35:00",
+          "end_time": "23:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Costa Rica: Rise Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CRRO",
+          "start_time": "23:30:00",
+          "end_time": "00:25:00",
+          "episode_number": "E2"
         }
       ]
     }
