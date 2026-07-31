@@ -2,53 +2,25 @@
   "channel_name": "Kompas TV",
   "schedule": {
     "today": {
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "programs": [
         {
-          "show_name": "Way Out",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/WO.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Suara Alfa Omega",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/SAO.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
+          "show_name": "AnugerahNya",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "00:30:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-01",
+      "date": "2026-08-02",
       "programs": [
         {
-          "show_name": "Indonesia Update",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/IU.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kalam Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KH.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Borgol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/B.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kompas Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:30:00",
+          "show_name": "Kompas Petang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KP",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
           "episode_number": ""
         }
       ]
