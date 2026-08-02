@@ -2,242 +2,249 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-08-02",
-      "programs": [
-        {
-          "show_name": "Uang Kaget",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UK.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Helping Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/THH.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CDS.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
-          "start_time": "12:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Semut Berteman Dengan Merpati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SBDM.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legenda Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/LN.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crocodile 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/C2.svg",
-          "start_time": "20:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Night Of Endless Sacrifice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/NOES.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Take Me Out Indonesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/TMOI.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-03",
       "programs": [
         {
           "show_name": "Take Me Out Indonesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/TMOI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOI",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Helping Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/THH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THH",
           "start_time": "06:00:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Paw Patrol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP",
           "start_time": "06:45:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "10:30:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "12:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Zak Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ZS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZS",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jin & Jun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J&J",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jebakan Duri Landak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/JDL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JDL",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ASEAN C'ship Hyundai Cup (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACHC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACHC(",
           "start_time": "19:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Operation Delta Force",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ODF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ODF",
           "start_time": "22:30:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-04",
+      "programs": [
+        {
+          "show_name": "Operation Delta Force",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ODF",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "1001 Kisah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ragam Cerita",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Petualangan Fantasi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "04:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Helping Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THH",
+          "start_time": "06:00:00",
+          "end_time": "06:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Paw Patrol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP",
+          "start_time": "06:45:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pada Zaman Dahulu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Buletin iNews Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "10:30:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SpongeBob SquarePants",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
+          "start_time": "12:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Zak Storm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZS",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jin & Jun",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J&J",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pada Zaman Dahulu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kerja Keras Kawanan Semut",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKKS",
+          "start_time": "18:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ASEAN C'ship Hyundai Cup (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACHC(",
+          "start_time": "19:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ASEAN C'ship Hyundai Cup",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACHC",
+          "start_time": "22:00:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
