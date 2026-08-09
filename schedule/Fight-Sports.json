@@ -2,172 +2,179 @@
   "channel_name": "Fight Sports",
   "schedule": {
     "today": {
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "programs": [
         {
           "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MF",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
-          "episode_number": "S1 E47"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
+          "show_name": "WCK: Paez Vs Mendoza",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WPVM",
           "start_time": "02:00:00",
-          "end_time": "02:30:00",
+          "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "S3 E35"
-        },
-        {
-          "show_name": "Knockouts!: Khan Vs Maidana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KKVM.svg",
+          "show_name": "Knockouts!: Golovkin Vs Proksa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KGVP",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
-          "episode_number": "S32 E3"
+          "episode_number": "S32 E4"
         },
         {
-          "show_name": "Fight Quest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FQ.svg",
+          "show_name": "American Ninja...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
-          "episode_number": "S1 E9"
+          "episode_number": "S7 E16"
         },
         {
-          "show_name": "FS MMA: Semenov Vs Ewin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVE.svg",
+          "show_name": "FS MMA: JP Buys Vs Biko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMJBV",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MF",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
-          "episode_number": "S1 E47"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
+          "show_name": "WCK: Paez Vs Mendoza",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WPVM",
           "start_time": "08:00:00",
-          "end_time": "08:30:00",
+          "end_time": "09:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": "S3 E35"
+          "show_name": "Knockouts!: Golovkin Vs Proksa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KGVP",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
         },
         {
-          "show_name": "WCCB: Johnson Vs Thorslund (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WJVT.svg",
-          "start_time": "09:00:00",
+          "show_name": "FS Grand Sumo",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": "S32 E4"
+        },
+        {
+          "show_name": "American Ninja...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "S7 E16"
+        },
+        {
+          "show_name": "FS MMA: JP Buys Vs Biko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMJBV",
+          "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MF",
           "start_time": "12:00:00",
           "end_time": "14:00:00",
-          "episode_number": "S1 E47"
+          "episode_number": "S1 E50"
         },
         {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
+          "show_name": "WCK: Paez Vs Mendoza",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WPVM",
           "start_time": "14:00:00",
-          "end_time": "14:30:00",
+          "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wide World Of Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WWOF.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": "S3 E35"
-        },
-        {
-          "show_name": "Knockouts!: Khan Vs Maidana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KKVM.svg",
+          "show_name": "Knockouts!: Golovkin Vs Proksa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KGVP",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
-          "episode_number": "S32 E3"
+          "episode_number": "S32 E4"
         },
         {
-          "show_name": "Fight Quest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FQ.svg",
+          "show_name": "American Ninja...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AN",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
-          "episode_number": "S1 E9"
+          "episode_number": "S7 E16"
         },
         {
-          "show_name": "FS MMA: Semenov Vs Ewin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVE.svg",
+          "show_name": "FS MMA: JP Buys Vs Biko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMJBV",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "S1 E50"
+          "end_time": "19:00:00",
+          "episode_number": "S1 E11"
         },
         {
-          "show_name": "WCK: Paez Vs Mendoza",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WPVM.svg",
-          "start_time": "20:00:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "19:00:00",
           "end_time": "21:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Knockouts!: Golovkin Vs Proksa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KGVP.svg",
+          "show_name": "Knockouts!: Ortiz Vs Maidana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOVM",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
-          "episode_number": "S32 E4"
+          "episode_number": "S32 E5"
         },
         {
-          "show_name": "American Ninja...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/AN.svg",
+          "show_name": "BWF Martial Arts",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMA",
           "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": "S7 E16"
+          "end_time": "22:30:00",
+          "episode_number": "S4 E4"
         },
         {
-          "show_name": "FS MMA: JP Buys Vs Biko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMJBV.svg",
+          "show_name": "Karate 1 Premiere League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K1PL",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FS MMA: Sonnen Vs McKenzie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMSVM",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -175,179 +182,200 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "programs": [
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "00:00:00",
-          "end_time": "02:00:00",
-          "episode_number": "S1 E50"
+          "end_time": "01:00:00",
+          "episode_number": "S1 E11"
         },
         {
-          "show_name": "WCK: Paez Vs Mendoza",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WPVM.svg",
-          "start_time": "02:00:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "01:00:00",
           "end_time": "03:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Knockouts!: Golovkin Vs Proksa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KGVP.svg",
+          "show_name": "Knockouts!: Ortiz Vs Maidana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOVM",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
-          "episode_number": "S32 E4"
+          "episode_number": "S32 E5"
         },
         {
-          "show_name": "American Ninja...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/AN.svg",
+          "show_name": "BWF Martial Arts",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMA",
           "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "S7 E16"
+          "end_time": "04:30:00",
+          "episode_number": "S4 E4"
         },
         {
-          "show_name": "FS MMA: JP Buys Vs Biko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMJBV.svg",
+          "show_name": "Karate 1 Premiere League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K1PL",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FS MMA: Sonnen Vs McKenzie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMSVM",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "06:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "S1 E50"
+          "end_time": "07:00:00",
+          "episode_number": "S1 E11"
         },
         {
-          "show_name": "WCK: Paez Vs Mendoza",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WPVM.svg",
-          "start_time": "08:00:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "07:00:00",
           "end_time": "09:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Knockouts!: Golovkin Vs Proksa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KGVP.svg",
+          "show_name": "Knockouts!: Ortiz Vs Maidana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOVM",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
-          "episode_number": "S32 E4"
+          "episode_number": "S32 E5"
         },
         {
-          "show_name": "American Ninja...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/AN.svg",
+          "show_name": "BWF Martial Arts",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMA",
           "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": "S7 E16"
+          "end_time": "10:30:00",
+          "episode_number": "S4 E4"
         },
         {
-          "show_name": "FS MMA: JP Buys Vs Biko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMJBV.svg",
+          "show_name": "Karate 1 Premiere League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K1PL",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FS MMA: Sonnen Vs McKenzie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMSVM",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MF.svg",
+          "show_name": "Mega Fights In 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI6",
           "start_time": "12:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "S1 E50"
+          "end_time": "13:00:00",
+          "episode_number": "S1 E11"
         },
         {
-          "show_name": "WCK: Paez Vs Mendoza",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/WPVM.svg",
-          "start_time": "14:00:00",
+          "show_name": "Greatest Classics",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GC",
+          "start_time": "13:00:00",
           "end_time": "15:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Knockouts!: Golovkin Vs Proksa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KGVP.svg",
+          "show_name": "Knockouts!: Ortiz Vs Maidana",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KOVM",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
-          "episode_number": "S32 E4"
+          "episode_number": "S32 E5"
         },
         {
-          "show_name": "American Ninja...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/AN.svg",
+          "show_name": "BWF Martial Arts",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMA",
           "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": "S7 E16"
+          "end_time": "16:30:00",
+          "episode_number": "S4 E4"
         },
         {
-          "show_name": "FS MMA: JP Buys Vs Biko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMJBV.svg",
+          "show_name": "Karate 1 Premiere League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K1PL",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FS MMA: Sonnen Vs McKenzie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMSVM",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mega Fights In 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/MFI6.svg",
+          "show_name": "WCCB: Cruz Vs Roach",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCVR",
           "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": "S1 E11"
+          "end_time": "20:00:00",
+          "episode_number": ""
         },
         {
-          "show_name": "Greatest Classics",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/GC.svg",
-          "start_time": "19:00:00",
+          "show_name": "BWF Martial Arts",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMA",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": "S4 E1"
+        },
+        {
+          "show_name": "Karate 1 Premiere League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K1PL",
+          "start_time": "20:30:00",
           "end_time": "21:00:00",
-          "episode_number": "S1 E2"
+          "episode_number": ""
         },
         {
-          "show_name": "Knockouts!: Ortiz Vs Maidana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/KOVM.svg",
+          "show_name": "Knockouts!: Pacquiao Vs Oscar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPVO",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FS Grand Sumo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FGS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
-          "episode_number": "S32 E5"
+          "episode_number": "S31 E1"
         },
         {
-          "show_name": "BWF Martial Arts",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/BMA.svg",
+          "show_name": "Fight Quest",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FQ",
           "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "S4 E4"
-        },
-        {
-          "show_name": "Karate 1 Premiere League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/K1PL.svg",
-          "start_time": "22:30:00",
           "end_time": "23:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E7"
         },
         {
-          "show_name": "FS MMA: Sonnen Vs McKenzie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/fight-sports/FMSVM.svg",
+          "show_name": "FS MMA: Parnasse Vs Varela",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMPVV",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
