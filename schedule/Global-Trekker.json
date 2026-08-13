@@ -2,25 +2,74 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-13",
+      "date": "2026-08-14",
       "programs": [
         {
-          "show_name": "Asteroid: Final Impact",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AFI.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:35:00",
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "programs": [
         {
-          "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "02:20:00",
+          "end_time": "03:05:00",
+          "episode_number": "S11 E2"
+        },
+        {
+          "show_name": "Nicole Kidman: Outback To...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NKOT",
+          "start_time": "03:05:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sting: Ever Evolving",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SEE",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bruce Willis: All American Hero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWAAH",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cher: Sharing Her Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSHS",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Brad Pitt: Breaking Hollywood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BPBH",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Armstrong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "08:00:00",
+          "end_time": "09:45:00",
           "episode_number": ""
         }
       ]
