@@ -2,516 +2,446 @@
   "channel_name": "CGTN Documentary",
   "schedule": {
     "today": {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "show_name": "Back To The Sunlight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BTTS.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Shijiahe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/S.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Find Me Beyond Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FMBK.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "The Innovation Of China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TIOC.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "China Bound: Harbin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CBH.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Buddhism In Mount...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BIM.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Back To The Sunlight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BTTS.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E11"
-        },
-        {
-          "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Dynamic China: I'm The Captain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCITC.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beast Stars In The Jungle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BSITJ.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Buddhism In Mount...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BIM.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Back To The Sunlight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BTTS.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E11"
-        },
-        {
-          "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Dynamic China: I'm The Captain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCITC.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beast Stars In The Jungle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BSITJ.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Buddhism In Mount...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BIM.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Back To The Sunlight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BTTS.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "E11"
-        },
-        {
-          "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Dynamic China: I'm The Captain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCITC.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beast Stars In The Jungle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BSITJ.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Buddhism In Mount...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BIM.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": "E7"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-15",
       "programs": [
         {
           "show_name": "Back To The Sunlight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BTTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTTS",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": "E11"
         },
         {
           "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOS",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Dynamic China: I'm The Captain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCITC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCITC",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Beast Stars In The Jungle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/BSITJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSITJ",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROB",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Land Remembers & Time...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LR&T",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAB",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E8"
         },
         {
           "show_name": "National Treasures: Mystery...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTM",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": "E12"
         },
         {
           "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOS",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Dynamic China: Basketball Boy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCBB",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Exploring The Three Gorges...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ETTG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETTG",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROB",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Land Remembers & Time...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LR&T",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAB",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": "E8"
         },
         {
           "show_name": "National Treasures: Mystery...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTM",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": "E12"
         },
         {
           "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOS",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Dynamic China: Basketball Boy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCBB",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Exploring The Three Gorges...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ETTG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETTG",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROB",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Land Remembers & Time...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LR&T",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAB",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": "E8"
         },
         {
           "show_name": "National Treasures: Mystery...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/NTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTM",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Enduring Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "E12"
         },
         {
           "show_name": "In Search Of Shunde",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOS",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Dynamic China: Basketball Boy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/DCBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCBB",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Exploring The Three Gorges...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ETTG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETTG",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of Bar-Headed...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROB",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Land Remembers & Time...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LR&T",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Art Beat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TAB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAB",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tianjin Memories",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "E8"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "show_name": "National Treasures: Mystery...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTM",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Enduring Legacy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "E12"
+        },
+        {
+          "show_name": "In Search Of Shunde",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOS",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Dynamic China: Basketball Boy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCBB",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Exploring The Three Gorges...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETTG",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Wuyi Mountains...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Tokyo Trials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTT",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": "E3"
         }
       ]
     }

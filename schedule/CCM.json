@@ -2,213 +2,220 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "show_name": "Shaolin Intruders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SI.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "My Dream Boat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MDB.svg",
-          "start_time": "00:35:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tropicana Interlude",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TI.svg",
-          "start_time": "02:50:00",
-          "end_time": "04:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Two Con Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCM.svg",
-          "start_time": "04:35:00",
-          "end_time": "06:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Golden Sword",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TGS.svg",
-          "start_time": "06:15:00",
-          "end_time": "08:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Adulteress",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TA.svg",
-          "start_time": "08:05:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Duel For Gold",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DFG.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "West Chamber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/WC.svg",
-          "start_time": "12:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Death Duel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DD.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong Nocturne",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HKN.svg",
-          "start_time": "15:40:00",
-          "end_time": "17:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Blood Brothers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBB.svg",
-          "start_time": "17:55:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Inside The Forbidden City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ITFC.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Enchantress",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TE.svg",
-          "start_time": "21:45:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Return Of The Dead",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ROTD.svg",
-          "start_time": "23:25:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-15",
       "programs": [
         {
           "show_name": "Return Of The Dead",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ROTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTD",
           "start_time": "00:00:00",
           "end_time": "01:10:00",
           "episode_number": ""
         },
         {
           "show_name": "The New One-Armed Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TNOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNOS",
           "start_time": "01:10:00",
           "end_time": "02:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Invincible Fist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TIF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIF",
           "start_time": "02:55:00",
           "end_time": "04:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Delinquent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
           "start_time": "04:40:00",
           "end_time": "06:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Clan Of The White Lotus",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/COTWL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTWL",
           "start_time": "06:25:00",
           "end_time": "08:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Sunset",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:05:00",
           "end_time": "09:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of Reincarnated...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ROR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROR",
           "start_time": "09:50:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Comedy Of Mismatches",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCOM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOM",
           "start_time": "11:30:00",
           "end_time": "13:10:00",
           "episode_number": ""
         },
         {
           "show_name": "The Rescue",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
           "start_time": "13:10:00",
           "end_time": "14:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Land Of Many Perfumes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TLOMP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLOMP",
           "start_time": "14:40:00",
           "end_time": "16:10:00",
           "episode_number": ""
         },
         {
           "show_name": "The Magic Blade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TMB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMB",
           "start_time": "16:10:00",
           "end_time": "17:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Love Without End",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWE",
           "start_time": "17:55:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Sentimental Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSS",
           "start_time": "20:00:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Monkey Goes West",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TMGW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMGW",
           "start_time": "21:45:00",
           "end_time": "23:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Champion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "23:45:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "show_name": "The Champion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "00:00:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Black Magic 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM2",
+          "start_time": "01:20:00",
+          "end_time": "02:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Without End",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWE",
+          "start_time": "02:55:00",
+          "end_time": "04:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Temple Of The Red Lotus",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTRL",
+          "start_time": "04:55:00",
+          "end_time": "06:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Crimson Charm",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCC",
+          "start_time": "06:35:00",
+          "end_time": "08:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "My Son",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MS",
+          "start_time": "08:20:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fantastic Magic Baby",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFMB",
+          "start_time": "10:00:00",
+          "end_time": "11:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Disco Bumpkins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DB",
+          "start_time": "11:45:00",
+          "end_time": "13:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Fiery Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFG",
+          "start_time": "13:20:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gang Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
+          "start_time": "15:00:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The New Shaolin Boxers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNSB",
+          "start_time": "16:25:00",
+          "end_time": "18:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Dream Of The Red Chamber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDOTR",
+          "start_time": "18:10:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Assassin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TA",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sex, Love And Hate",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SLAH",
+          "start_time": "22:00:00",
+          "end_time": "23:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Clan Of Amazons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COA",
+          "start_time": "23:40:00",
           "end_time": "01:20:00",
           "episode_number": ""
         }
