@@ -2,116 +2,123 @@
   "channel_name": "RCTI",
   "schedule": {
     "today": {
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "programs": [
         {
           "show_name": "Cinta Dari Surga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/CDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
           "start_time": "00:00:00",
           "end_time": "00:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Nanno Si Nanny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/NSN.svg",
+          "show_name": "Putri Lele Dan Pangeran Rock",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PLDPR",
           "start_time": "00:15:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mak Comblang Kepentok Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/MCKC.svg",
+          "show_name": "Tour Guide Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGC",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mega Film TV Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/MFTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFTM",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Preman Pensiun S5",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/PPS.svg",
+          "show_name": "Mujizat Itu Nyata",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIN",
           "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Preman Pensiun S5",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPS",
+          "start_time": "03:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "08:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ninja Hatori",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/NH.svg",
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Titus The Detective",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
+          "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Terikat Janji Selamanya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TJS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TJS",
           "start_time": "11:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ikatan Cinta Aldebaran & Andin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/ICA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICA&A",
           "start_time": "14:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oke Chef RCTI 37",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/OCR3.svg",
-          "start_time": "15:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ternyata Ini Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIC",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Terikat Janji",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TJ",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Terlanjur Mencintaimu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "20:30:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Foto Tanpa Nama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/FTN.svg",
+          "show_name": "Cinta Yang Salah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CYS",
           "start_time": "21:45:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Cinta Dari Surga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/CDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
           "start_time": "23:00:00",
           "end_time": "00:15:00",
           "episode_number": ""
@@ -119,11 +126,11 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "programs": [
         {
           "show_name": "Cinta Dari Surga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/CDS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDS",
           "start_time": "00:00:00",
           "end_time": "00:15:00",
           "episode_number": ""

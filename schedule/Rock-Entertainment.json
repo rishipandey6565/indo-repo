@@ -2,236 +2,327 @@
   "channel_name": "Rock Entertainment",
   "schedule": {
     "today": {
-      "date": "2026-08-15",
-      "programs": [
-        {
-          "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "00:25:00",
-          "end_time": "01:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/ATWI8.svg",
-          "start_time": "01:55:00",
-          "end_time": "03:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin & Chipmunks: Squeakquel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/A.svg",
-          "start_time": "03:55:00",
-          "end_time": "05:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TD.svg",
-          "start_time": "05:25:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Marley & Me",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/M.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
-          "start_time": "10:25:00",
-          "end_time": "11:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sea Wolf, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP1.svg",
-          "start_time": "11:50:00",
-          "end_time": "13:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sea Wolf, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP2.svg",
-          "start_time": "13:20:00",
-          "end_time": "14:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/ATWI8.svg",
-          "start_time": "14:55:00",
-          "end_time": "16:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TD.svg",
-          "start_time": "16:55:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
-          "start_time": "18:30:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alvin & Chipmunks: Squeakquel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/A.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Marley & Me",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/M.svg",
-          "start_time": "22:55:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-16",
       "programs": [
         {
           "show_name": "Marley & Me",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&M",
           "start_time": "00:00:00",
           "end_time": "00:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/ATWI8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATWI8",
           "start_time": "00:50:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Sea Wolf, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP1",
           "start_time": "02:50:00",
           "end_time": "04:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Sea Wolf, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP2",
           "start_time": "04:20:00",
           "end_time": "05:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATC",
           "start_time": "05:55:00",
           "end_time": "07:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
           "start_time": "07:25:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKATI",
           "start_time": "09:00:00",
           "end_time": "10:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Alvin & Chipmunks: Squeakquel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A&CS",
           "start_time": "10:25:00",
           "end_time": "11:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/ATWI8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATWI8",
           "start_time": "11:55:00",
           "end_time": "13:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Sea Wolf, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP1",
           "start_time": "13:55:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Sea Wolf, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SWP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP2",
           "start_time": "15:25:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Marley & Me",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&M",
           "start_time": "17:00:00",
           "end_time": "18:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Spy Kids: All Time In The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SKATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKATI",
           "start_time": "18:55:00",
           "end_time": "20:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Around The World In 80 Days",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/ATWI8.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATWI8",
           "start_time": "20:20:00",
           "end_time": "22:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Alvin And The Chipmunks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AATC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATC",
           "start_time": "22:20:00",
           "end_time": "23:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Twin Dragons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
           "start_time": "23:50:00",
           "end_time": "01:25:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "show_name": "Twin Dragons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "00:00:00",
+          "end_time": "01:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sea Wolf, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP1",
+          "start_time": "01:25:00",
+          "end_time": "02:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sea Wolf, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWP2",
+          "start_time": "02:55:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cobra Kai",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "05:00:00",
+          "end_time": "05:45:00",
+          "episode_number": "S13 E103"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "05:45:00",
+          "end_time": "06:30:00",
+          "episode_number": "S13 E143"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "06:30:00",
+          "end_time": "07:20:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "07:20:00",
+          "end_time": "08:05:00",
+          "episode_number": "S11 E11"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:05:00",
+          "end_time": "08:50:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "08:50:00",
+          "end_time": "09:35:00",
+          "episode_number": "S11 E11"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "09:35:00",
+          "end_time": "10:20:00",
+          "episode_number": "S13 E143"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "10:20:00",
+          "end_time": "11:05:00",
+          "episode_number": "S13 E103"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "11:05:00",
+          "end_time": "11:50:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "11:50:00",
+          "end_time": "12:35:00",
+          "episode_number": "S11 E11"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "12:35:00",
+          "end_time": "13:20:00",
+          "episode_number": "S11 E10"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "13:20:00",
+          "end_time": "14:05:00",
+          "episode_number": "S11 E11"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "14:05:00",
+          "end_time": "14:50:00",
+          "episode_number": "S2 E5"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "14:50:00",
+          "end_time": "15:35:00",
+          "episode_number": "S2 E6"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "15:35:00",
+          "end_time": "16:20:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "16:20:00",
+          "end_time": "17:05:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Spy Kids: All Time In The World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SKATI",
+          "start_time": "17:05:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "18:30:00",
+          "end_time": "19:15:00",
+          "episode_number": "S11 E12"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "19:15:00",
+          "end_time": "20:00:00",
+          "episode_number": "S11 E13"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "20:00:00",
+          "end_time": "20:45:00",
+          "episode_number": "S11 E12"
+        },
+        {
+          "show_name": "Chicago Med",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CM",
+          "start_time": "20:45:00",
+          "end_time": "21:30:00",
+          "episode_number": "S11 E13"
+        },
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "21:30:00",
+          "end_time": "22:25:00",
+          "episode_number": "E12"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "22:25:00",
+          "end_time": "23:10:00",
+          "episode_number": "S13 E144"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "23:10:00",
+          "end_time": "23:55:00",
+          "episode_number": "S13 E104"
+        },
+        {
+          "show_name": "Real Housewives Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHO",
+          "start_time": "23:55:00",
+          "end_time": "00:55:00",
+          "episode_number": "E12"
         }
       ]
     }
