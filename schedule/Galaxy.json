@@ -2,228 +2,235 @@
   "channel_name": "Galaxy",
   "schedule": {
     "today": {
-      "date": "2026-08-16",
-      "programs": [
-        {
-          "show_name": "The Professor And The Madman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TPATM.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unnatural",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/U.svg",
-          "start_time": "01:40:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Call",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TC.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Boogeyman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AB.svg",
-          "start_time": "04:35:00",
-          "end_time": "06:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Mermaid's Tale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AMT.svg",
-          "start_time": "06:10:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Good Kids",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/GK.svg",
-          "start_time": "07:45:00",
-          "end_time": "09:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Edge Of Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/EOF.svg",
-          "start_time": "09:15:00",
-          "end_time": "10:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Don't Suck",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/DS.svg",
-          "start_time": "10:45:00",
-          "end_time": "12:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Room 203",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/R2.svg",
-          "start_time": "12:25:00",
-          "end_time": "14:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Rake",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TR.svg",
-          "start_time": "14:10:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hours",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/H.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "No Man's Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/NML.svg",
-          "start_time": "17:05:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wunderland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/W.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Journey Is The Destination",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TJITD.svg",
-          "start_time": "20:35:00",
-          "end_time": "22:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Crisis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/C.svg",
-          "start_time": "22:40:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-17",
       "programs": [
         {
           "show_name": "Crisis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "00:00:00",
           "end_time": "00:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Outlaws And Angels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/OAA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OAA",
           "start_time": "00:40:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hotel Dunsmuir",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/HD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
           "start_time": "02:30:00",
           "end_time": "04:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Great War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TGW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGW",
           "start_time": "04:15:00",
           "end_time": "06:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Gunfight At Dry River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/GADR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GADR",
           "start_time": "06:05:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Wicked Games",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/WG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WG",
           "start_time": "07:45:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Frozen Ground",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/FG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FG",
           "start_time": "09:15:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "After We Fell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AWF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWF",
           "start_time": "11:00:00",
           "end_time": "12:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Condor's Nest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/CN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CN",
           "start_time": "12:40:00",
           "end_time": "14:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Hatching",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
           "start_time": "14:25:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Behaving Badly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
           "start_time": "16:00:00",
           "end_time": "17:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The School",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TS",
           "start_time": "17:35:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Murder Of N. Brown Simpson",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/MONBS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MONBS",
           "start_time": "19:00:00",
           "end_time": "20:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Traded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "20:25:00",
           "end_time": "22:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Born To Dance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTD",
           "start_time": "22:05:00",
           "end_time": "23:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Crime Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/CS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS",
           "start_time": "23:45:00",
           "end_time": "01:20:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-18",
+      "programs": [
+        {
+          "show_name": "Crime Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CS",
+          "start_time": "00:00:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pups Alone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "01:20:00",
+          "end_time": "03:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "No Man's Land",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NML",
+          "start_time": "03:10:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Wunderland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "05:05:00",
+          "end_time": "06:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Old Henry",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OH",
+          "start_time": "06:40:00",
+          "end_time": "08:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Boogeyman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AB",
+          "start_time": "08:20:00",
+          "end_time": "09:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Safer At Home",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAH",
+          "start_time": "09:55:00",
+          "end_time": "11:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Mermaid's Tale",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMT",
+          "start_time": "11:20:00",
+          "end_time": "12:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Good Kids",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GK",
+          "start_time": "12:55:00",
+          "end_time": "14:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Edge Of Fear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOF",
+          "start_time": "14:25:00",
+          "end_time": "15:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Don't Suck",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "15:55:00",
+          "end_time": "17:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Seawolf",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OS",
+          "start_time": "17:35:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "While We Sleep",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "19:00:00",
+          "end_time": "20:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Don't Kill It",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DKI",
+          "start_time": "20:35:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Room 203",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R2",
+          "start_time": "22:00:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Elizabeth Harvest",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EH",
+          "start_time": "23:45:00",
+          "end_time": "01:35:00",
           "episode_number": ""
         }
       ]

@@ -2,46 +2,60 @@
   "channel_name": "Sportstars",
   "schedule": {
     "today": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "programs": [
         {
-          "show_name": "WTT Champions Yokohama 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/WCY2.svg",
-          "start_time": "04:55:00",
-          "end_time": "09:00:00",
+          "show_name": "2026 Global Champions League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2GCL",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "2026 NASCAR Cook Out 400 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2NCO4",
+          "start_time": "05:30:00",
+          "end_time": "10:30:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "programs": [
         {
           "show_name": "Sports Today",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/ST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloopers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Golden Fit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/GF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GF",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Pro Futsal League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/PFL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFL",
           "start_time": "07:30:00",
           "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V-League 2025-2026: Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V2M",
+          "start_time": "09:30:00",
+          "end_time": "11:30:00",
           "episode_number": ""
         }
       ]

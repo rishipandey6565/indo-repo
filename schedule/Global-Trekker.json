@@ -2,96 +2,33 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "programs": [
         {
-          "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
+          "show_name": "Atlantic: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "00:15:00",
+          "end_time": "01:00:00",
+          "episode_number": "E2"
         },
         {
-          "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
+          "show_name": "Wild Portugal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WP",
+          "start_time": "01:00:00",
+          "end_time": "01:55:00",
+          "episode_number": "E1"
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "programs": [
         {
-          "show_name": "Secrets Of The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SOTM.svg",
-          "start_time": "02:10:00",
-          "end_time": "03:00:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "The Dinosaur Echo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TDE.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
           "episode_number": ""
-        },
-        {
-          "show_name": "Into The Cosmos: Space Race...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITCSR.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wild Portugal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WP.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Wild Portugal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WP.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": "S3 E2"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "07:30:00",
-          "end_time": "07:55:00",
-          "episode_number": "S3 E3"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "07:55:00",
-          "end_time": "08:20:00",
-          "episode_number": "S3 E4"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "08:20:00",
-          "end_time": "08:45:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:10:00",
-          "episode_number": "S3 E6"
         }
       ]
     }

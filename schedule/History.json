@@ -2,404 +2,439 @@
   "channel_name": "History",
   "schedule": {
     "today": {
-      "date": "2026-08-16",
-      "programs": [
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "S26 E399"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Curse Of Oak Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/COOI.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:25:00",
-          "episode_number": "S12 E24"
-        },
-        {
-          "show_name": "Ancient Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/AA.svg",
-          "start_time": "02:25:00",
-          "end_time": "03:20:00",
-          "episode_number": "S16 E257"
-        },
-        {
-          "show_name": "Alone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/A.svg",
-          "start_time": "03:20:00",
-          "end_time": "04:15:00",
-          "episode_number": "S11 E1"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "04:15:00",
-          "end_time": "05:10:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
-          "start_time": "05:10:00",
-          "end_time": "06:05:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "Ancient Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/AA.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:00:00",
-          "episode_number": "S16 E257"
-        },
-        {
-          "show_name": "Alone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/A.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:55:00",
-          "episode_number": "S11 E1"
-        },
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "07:55:00",
-          "end_time": "08:55:00",
-          "episode_number": "S26 E399"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "08:55:00",
-          "end_time": "09:50:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "09:50:00",
-          "end_time": "10:45:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Curse Of Oak Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/COOI.svg",
-          "start_time": "10:45:00",
-          "end_time": "11:40:00",
-          "episode_number": "S12 E24"
-        },
-        {
-          "show_name": "The Bermuda Triangle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TBT.svg",
-          "start_time": "11:40:00",
-          "end_time": "12:35:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "Ancient Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/AA.svg",
-          "start_time": "12:35:00",
-          "end_time": "13:30:00",
-          "episode_number": "S16 E257"
-        },
-        {
-          "show_name": "WW2 With Tom Hanks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/WWTH.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Curse Of Oak Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/COOI.svg",
-          "start_time": "14:25:00",
-          "end_time": "15:20:00",
-          "episode_number": "S12 E24"
-        },
-        {
-          "show_name": "Alone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/A.svg",
-          "start_time": "15:20:00",
-          "end_time": "16:20:00",
-          "episode_number": "S11 E1"
-        },
-        {
-          "show_name": "The Pickers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TP.svg",
-          "start_time": "16:20:00",
-          "end_time": "17:15:00",
-          "episode_number": "S26 E399"
-        },
-        {
-          "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
-          "start_time": "17:15:00",
-          "end_time": "17:45:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
-          "start_time": "17:45:00",
-          "end_time": "18:15:00",
-          "episode_number": "S3 E10"
-        },
-        {
-          "show_name": "Hazardous History",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HH.svg",
-          "start_time": "18:15:00",
-          "end_time": "19:10:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Testimonies Of War: WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TOWW.svg",
-          "start_time": "19:10:00",
-          "end_time": "20:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mega-Brands That...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MT.svg",
-          "start_time": "20:55:00",
-          "end_time": "21:50:00",
-          "episode_number": "S3 E21"
-        },
-        {
-          "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
-          "start_time": "21:50:00",
-          "end_time": "22:45:00",
-          "episode_number": "S6 E3"
-        },
-        {
-          "show_name": "How Disney Built America",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HDBA.svg",
-          "start_time": "22:45:00",
-          "end_time": "23:40:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Testimonies Of War: WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TOWW.svg",
-          "start_time": "23:40:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-17",
       "programs": [
         {
           "show_name": "Testimonies Of War: WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TOWW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOWW",
           "start_time": "00:00:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "01:25:00",
           "end_time": "02:20:00",
           "episode_number": "S6 E3"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "02:20:00",
           "end_time": "02:50:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "02:50:00",
           "end_time": "03:20:00",
           "episode_number": "S3 E10"
         },
         {
           "show_name": "Hazardous History",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HH",
           "start_time": "03:20:00",
           "end_time": "04:15:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Mega-Brands That...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
           "start_time": "04:15:00",
           "end_time": "05:10:00",
           "episode_number": "S3 E21"
         },
         {
           "show_name": "How Disney Built America",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HDBA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDBA",
           "start_time": "05:10:00",
           "end_time": "06:05:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "06:05:00",
           "end_time": "06:35:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "06:35:00",
           "end_time": "07:05:00",
           "episode_number": "S3 E10"
         },
         {
           "show_name": "Hazardous History",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HH",
           "start_time": "07:05:00",
           "end_time": "08:00:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Testimonies Of War: WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TOWW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOWW",
           "start_time": "08:00:00",
           "end_time": "09:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Mega-Brands That...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
           "start_time": "09:50:00",
           "end_time": "10:45:00",
           "episode_number": "S3 E21"
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "10:45:00",
           "end_time": "11:40:00",
           "episode_number": "S6 E3"
         },
         {
           "show_name": "How Disney Built America",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HDBA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDBA",
           "start_time": "11:40:00",
           "end_time": "12:35:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "12:35:00",
           "end_time": "13:05:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "Toys That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTBW",
           "start_time": "13:05:00",
           "end_time": "13:35:00",
           "episode_number": "S3 E10"
         },
         {
           "show_name": "The UnBelievable",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
           "start_time": "13:35:00",
           "end_time": "14:30:00",
           "episode_number": "S3 E10"
         },
         {
           "show_name": "Greatest Mysteries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/GM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
           "start_time": "14:30:00",
           "end_time": "15:25:00",
           "episode_number": "S6 E3"
         },
         {
           "show_name": "Hazardous History",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HH",
           "start_time": "15:25:00",
           "end_time": "16:25:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Testimonies Of War: WW2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TOWW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOWW",
           "start_time": "16:25:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Holy Marvels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
           "start_time": "18:00:00",
           "end_time": "18:55:00",
           "episode_number": "S2 E16"
         },
         {
           "show_name": "Pawn Stars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "18:55:00",
           "end_time": "19:50:00",
           "episode_number": "S24 E622"
         },
         {
           "show_name": "The Food That Built Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TFTBA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
           "start_time": "19:50:00",
           "end_time": "20:20:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Food That Built Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/TFTBA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
           "start_time": "20:20:00",
           "end_time": "20:50:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Mega-Brands That...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/MT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
           "start_time": "20:50:00",
           "end_time": "21:45:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Food That Built World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/FTBW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
           "start_time": "21:45:00",
           "end_time": "22:40:00",
           "episode_number": "S5 E10"
         },
         {
           "show_name": "Hidden Cities Extreme",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
           "start_time": "22:40:00",
           "end_time": "23:10:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Hidden Cities Extreme",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/HCE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
           "start_time": "23:10:00",
           "end_time": "23:40:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Pawn Stars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/history/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "23:40:00",
           "end_time": "00:35:00",
           "episode_number": "S24 E622"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-18",
+      "programs": [
+        {
+          "show_name": "Pawn Stars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S24 E622"
+        },
+        {
+          "show_name": "Mega-Brands That...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
+          "start_time": "00:35:00",
+          "end_time": "01:30:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Food That Built World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
+          "start_time": "01:30:00",
+          "end_time": "02:25:00",
+          "episode_number": "S5 E10"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "02:25:00",
+          "end_time": "03:20:00",
+          "episode_number": "S3 E10"
+        },
+        {
+          "show_name": "Holy Marvels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "03:20:00",
+          "end_time": "04:10:00",
+          "episode_number": "S2 E16"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "04:10:00",
+          "end_time": "04:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "04:40:00",
+          "end_time": "05:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Hidden Cities Extreme",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
+          "start_time": "05:10:00",
+          "end_time": "05:40:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Hidden Cities Extreme",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
+          "start_time": "05:40:00",
+          "end_time": "06:10:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "06:10:00",
+          "end_time": "07:00:00",
+          "episode_number": "S3 E10"
+        },
+        {
+          "show_name": "Holy Marvels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "07:00:00",
+          "end_time": "07:50:00",
+          "episode_number": "S2 E16"
+        },
+        {
+          "show_name": "Pawn Stars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "07:50:00",
+          "end_time": "08:45:00",
+          "episode_number": "S24 E622"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "08:45:00",
+          "end_time": "09:15:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "09:15:00",
+          "end_time": "09:45:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Mega-Brands That...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT",
+          "start_time": "09:45:00",
+          "end_time": "10:40:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Food That Built World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
+          "start_time": "10:40:00",
+          "end_time": "11:35:00",
+          "episode_number": "S5 E10"
+        },
+        {
+          "show_name": "Hidden Cities Extreme",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
+          "start_time": "11:35:00",
+          "end_time": "12:05:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Hidden Cities Extreme",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HCE",
+          "start_time": "12:05:00",
+          "end_time": "12:35:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "The UnBelievable",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TU",
+          "start_time": "12:35:00",
+          "end_time": "13:30:00",
+          "episode_number": "S3 E10"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Food That Built Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFTBA",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Food That Built World",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTBW",
+          "start_time": "14:30:00",
+          "end_time": "15:25:00",
+          "episode_number": "S5 E10"
+        },
+        {
+          "show_name": "Holy Marvels",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HM",
+          "start_time": "15:25:00",
+          "end_time": "16:20:00",
+          "episode_number": "S2 E16"
+        },
+        {
+          "show_name": "Pawn Stars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "16:20:00",
+          "end_time": "17:15:00",
+          "episode_number": "S24 E622"
+        },
+        {
+          "show_name": "Mysteries Unearthed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
+          "start_time": "17:15:00",
+          "end_time": "18:10:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Greatest Mysteries",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GM",
+          "start_time": "18:10:00",
+          "end_time": "19:05:00",
+          "episode_number": "S5 E7"
+        },
+        {
+          "show_name": "Special Forces",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SF",
+          "start_time": "19:05:00",
+          "end_time": "20:00:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Johor Military Force",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JMF",
+          "start_time": "20:00:00",
+          "end_time": "20:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WW2 With Tom Hanks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
+          "start_time": "20:55:00",
+          "end_time": "21:50:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "WW2 With Tom Hanks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWTH",
+          "start_time": "21:50:00",
+          "end_time": "22:45:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Swamp People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SP",
+          "start_time": "22:45:00",
+          "end_time": "23:40:00",
+          "episode_number": "S14 E14"
+        },
+        {
+          "show_name": "Special Forces",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SF",
+          "start_time": "23:40:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E1"
         }
       ]
     }
