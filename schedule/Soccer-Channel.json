@@ -2,116 +2,144 @@
   "channel_name": "Soccer Channel",
   "schedule": {
     "today": {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "programs": [
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Two 2025-2026: AHL Vs AND",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2AV.svg",
+          "show_name": "ACL Elite 2025-2026: BUR Vs SHS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE2BV",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
+          "show_name": "Top Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_name": "VI Nations Futsal: MAR Vs FRA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VNFMV",
           "start_time": "04:30:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship 2026: IDN Vs CAM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HC2IV.svg",
+          "show_name": "Hyundai C'ship 2026: SIN Vs THA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC2SV",
           "start_time": "06:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Elite 2025-2026: BUR Vs SHS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AE2BV.svg",
+          "show_name": "ACL Elite 2025-2026: JDT Vs VIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE2JV",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship 2026: SIN Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HC2SV.svg",
+          "show_name": "Drawing ACL Two 2026/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DAT2(",
           "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Planet Football",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Top Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_name": "Drawing ACL Elite 2026/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DAE2(",
           "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ultimate Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Soccer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
+          "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Best Of Persib: PSB Vs BKU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/BOPPV.svg",
+          "show_name": "VI Nations Futsal: BRA Vs SPA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VNFBV",
           "start_time": "17:30:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Best Of Persib: RAT Vs PSB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/BOPRV.svg",
+          "show_name": "Satu Hati Untuk Garuda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SHUG",
           "start_time": "19:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship 2026: SIN Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HC2SV.svg",
+          "show_name": "Hyundai C'ship 2026: IDN Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC2IV",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
@@ -119,144 +147,116 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "programs": [
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Elite 2025-2026: BUR Vs SHS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AE2BV.svg",
+          "show_name": "ACL Elite 2025-2026: JDT Vs VIS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE2JV",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "VI Nations Futsal: MAR Vs FRA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/VNFMV.svg",
+          "show_name": "VI Nations Futsal: BRA Vs SPA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VNFBV",
           "start_time": "04:30:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship 2026: SIN Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HC2SV.svg",
+          "show_name": "Hyundai C'ship 2026: IDN Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC2IV",
           "start_time": "06:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Elite 2025-2026: JDT Vs VIS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AE2JV.svg",
+          "show_name": "ACL Elite 2025-2026: SDD Vs ITH",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE2SV",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Drawing ACL Two 2026/27 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/DAT2.svg",
+          "show_name": "Hyundai C'ship 2026: MAS Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC2MV",
           "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
-          "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Drawing ACL Elite 2026/27 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/DAE2.svg",
+          "show_name": "Sportacular International Match",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
-          "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "VI Nations Futsal: BRA Vs SPA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/VNFBV.svg",
+          "show_name": "VI Nations Futsal: IDN Vs BRA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VNFIV",
           "start_time": "17:30:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Satu Hati Untuk Garuda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SHUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SHUG",
           "start_time": "19:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship 2026: IDN Vs VIE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HC2IV.svg",
+          "show_name": "Hyundai C'ship 2026: MAS Vs VIE",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC2MV",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular International Match",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIM",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
