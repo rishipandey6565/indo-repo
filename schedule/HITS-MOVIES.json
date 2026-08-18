@@ -2,165 +2,172 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "show_name": "Notting Hill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/NH.svg",
-          "start_time": "00:00:00",
-          "end_time": "02:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
-          "start_time": "02:15:00",
-          "end_time": "04:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Witness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/W.svg",
-          "start_time": "04:15:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Conspiracy Theory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CT.svg",
-          "start_time": "06:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Unfaithful",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/U.svg",
-          "start_time": "09:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Witness",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/W.svg",
-          "start_time": "11:30:00",
-          "end_time": "13:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Conspiracy Theory",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CT.svg",
-          "start_time": "13:45:00",
-          "end_time": "16:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Batman Begins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/BB.svg",
-          "start_time": "16:15:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Resident Evil: Extinction",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REE.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ocean's Thirteen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/OT.svg",
-          "start_time": "21:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Caine Mutiny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TCM.svg",
-          "start_time": "23:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-19",
       "programs": [
         {
           "show_name": "The Caine Mutiny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TCM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Batman Begins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/BB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
           "start_time": "02:00:00",
           "end_time": "04:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Resident Evil: Extinction",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REE",
           "start_time": "04:45:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Ocean's Thirteen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/OT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OT",
           "start_time": "06:45:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Notting Hill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/NH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NH",
           "start_time": "09:15:00",
           "end_time": "11:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Batman Begins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/BB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
           "start_time": "11:45:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Resident Evil: Extinction",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REE",
           "start_time": "14:30:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ocean's Thirteen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/OT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OT",
           "start_time": "16:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Passenger 57",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/P5.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P5",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "V For Vendetta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/VFV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFV",
           "start_time": "21:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-20",
+      "programs": [
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Fury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
+          "start_time": "01:30:00",
+          "end_time": "03:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Passenger 57",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P5",
+          "start_time": "03:45:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V For Vendetta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFV",
+          "start_time": "05:45:00",
+          "end_time": "08:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Caine Mutiny",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "08:15:00",
+          "end_time": "10:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Liar Liar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LL",
+          "start_time": "10:45:00",
+          "end_time": "12:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Passenger 57",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P5",
+          "start_time": "12:45:00",
+          "end_time": "14:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "V For Vendetta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFV",
+          "start_time": "14:45:00",
+          "end_time": "17:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "17:15:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Salt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Resident Evil: Afterlife",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REA",
+          "start_time": "21:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Bounty Hunter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBH",
+          "start_time": "23:00:00",
+          "end_time": "01:15:00",
           "episode_number": ""
         }
       ]

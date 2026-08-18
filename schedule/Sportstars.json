@@ -2,23 +2,30 @@
   "channel_name": "Sportstars",
   "schedule": {
     "today": {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "programs": [
         {
-          "show_name": "Longines Global Champions Tour",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/LGCT.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:30:00",
+          "show_name": "2026 The Asian Tournament",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2TAT",
+          "start_time": "02:30:00",
+          "end_time": "03:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "2026 The Asian Tournament",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2TAT",
+          "start_time": "03:50:00",
+          "end_time": "05:30:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "programs": [
         {
           "show_name": "Satu Hati Untuk Garuda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sportstars/SHUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SHUG",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""

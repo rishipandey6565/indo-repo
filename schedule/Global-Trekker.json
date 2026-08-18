@@ -2,30 +2,30 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "programs": [
         {
-          "show_name": "Islands Of Creation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/IOC.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:25:00",
+          "end_time": "01:10:00",
+          "episode_number": "S11 E5"
         },
         {
-          "show_name": "Atlantic: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:45:00",
-          "episode_number": "E1"
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "01:10:00",
+          "end_time": "01:40:00",
+          "episode_number": "E4"
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "programs": [
         {
           "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
