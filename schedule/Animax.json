@@ -2,684 +2,684 @@
   "channel_name": "Animax",
   "schedule": {
     "today": {
-      "date": "2026-08-19",
-      "programs": [
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": "E61"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": "S1 E28"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": "E61"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "S1 E28"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": "E61"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": "S1 E28"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E61"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": "S1 E28"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": "E61"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Tsukimichi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/T.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": "E62"
-        },
-        {
-          "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "E63"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "S1 E30"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:00:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": "S1 E30"
-        },
-        {
-          "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": "S1 E29"
-        },
-        {
-          "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:00:00",
-          "episode_number": "S1 E30"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-20",
       "programs": [
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": "E62"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": "E63"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": "S3 E8"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": "S1 E29"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": "S1 E30"
         },
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": "E62"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": "E63"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "S1 E29"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": "S1 E30"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": "S3 E8"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": "E62"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": "E63"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": "S1 E29"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": "S1 E30"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": "S3 E8"
         },
         {
           "show_name": "Teasing Takagi-San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": "S3 E9"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": "E62"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": "E63"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": "S1 E29"
         },
         {
           "show_name": "Black Clover",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/BC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BC",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": "S1 E30"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": "E62"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": "E63"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Faraway Paladin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/TFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": "E63"
         },
         {
           "show_name": "D.Gray-Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": "E64"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E14"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "E15"
         },
         {
           "show_name": "One Piece: Marineford",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/OPM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
           "start_time": "19:00:00",
           "end_time": "19:30:00",
           "episode_number": "E27"
         },
         {
           "show_name": "One Piece: Marineford",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/OPM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": "E28"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
           "episode_number": "E14"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": "E15"
         },
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "21:00:00",
           "end_time": "21:30:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Konosuba",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": "E5"
         },
         {
           "show_name": "One Piece: Marineford",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/OPM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": "E27"
         },
         {
           "show_name": "One Piece: Marineford",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/OPM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": "E28"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": "E14"
         },
         {
           "show_name": "Oshi No Ko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/animax/ONK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
           "start_time": "23:30:00",
           "end_time": "00:00:00",
           "episode_number": "E15"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": "E63"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": "E27"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": "E28"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
+          "episode_number": "E14"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "03:30:00",
+          "end_time": "04:00:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": "E63"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": "E14"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": "E27"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": "E28"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": "E63"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": "E14"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": "E27"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": "E28"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": "E63"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "12:30:00",
+          "end_time": "13:00:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": "E14"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "15:00:00",
+          "end_time": "15:30:00",
+          "episode_number": "E63"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "The Faraway Paladin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": "E64"
+        },
+        {
+          "show_name": "D.Gray-Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "17:30:00",
+          "end_time": "18:00:00",
+          "episode_number": "E65"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E16"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": "E29"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": "E30"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": "E16"
+        },
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Konosuba",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "22:00:00",
+          "end_time": "22:30:00",
+          "episode_number": "E29"
+        },
+        {
+          "show_name": "One Piece: Marineford",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OPM",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": "E30"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "23:00:00",
+          "end_time": "23:30:00",
+          "episode_number": "E15"
+        },
+        {
+          "show_name": "Oshi No Ko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ONK",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": "E16"
         }
       ]
     }
