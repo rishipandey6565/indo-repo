@@ -2,171 +2,157 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-08-20",
-      "programs": [
-        {
-          "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FOF.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Passenger 57",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/P5.svg",
-          "start_time": "03:45:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "V For Vendetta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/VFV.svg",
-          "start_time": "05:45:00",
-          "end_time": "08:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Caine Mutiny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TCM.svg",
-          "start_time": "08:15:00",
-          "end_time": "10:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
-          "start_time": "10:45:00",
-          "end_time": "12:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Passenger 57",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/P5.svg",
-          "start_time": "12:45:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "V For Vendetta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/VFV.svg",
-          "start_time": "14:45:00",
-          "end_time": "17:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
-          "start_time": "17:15:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Salt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Resident Evil: Afterlife",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REA.svg",
-          "start_time": "21:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bounty Hunter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBH.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-21",
       "programs": [
         {
           "show_name": "The Bounty Hunter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBH",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Notting Hill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/NH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NH",
           "start_time": "01:15:00",
           "end_time": "03:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Salt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "03:45:00",
           "end_time": "05:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Resident Evil: Afterlife",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REA",
           "start_time": "05:45:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Unfaithful",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
           "start_time": "07:45:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Caine Mutiny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TCM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
           "start_time": "10:15:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Salt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "12:45:00",
           "end_time": "14:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Resident Evil: Afterlife",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REA",
           "start_time": "14:45:00",
           "end_time": "16:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FOF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
           "start_time": "16:45:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sherlock Holmes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "19:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Matrix Revolutions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMR",
           "start_time": "21:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-22",
+      "programs": [
+        {
+          "show_name": "Fist Of Fury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
+          "start_time": "00:00:00",
+          "end_time": "02:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sherlock Holmes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "02:15:00",
+          "end_time": "04:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix Revolutions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMR",
+          "start_time": "04:45:00",
+          "end_time": "07:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Bounty Hunter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBH",
+          "start_time": "07:15:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sherlock Holmes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
+          "start_time": "09:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix Revolutions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMR",
+          "start_time": "12:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road House",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "14:30:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Charlie & The Chocolate Factory",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C&TCF",
+          "start_time": "16:45:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Contact",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "19:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Witness",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "21:45:00",
           "end_time": "00:00:00",
           "episode_number": ""
         }

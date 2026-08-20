@@ -2,432 +2,460 @@
   "channel_name": "Crime Investigation",
   "schedule": {
     "today": {
-      "date": "2026-08-20",
-      "programs": [
-        {
-          "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:20:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Beyond Headlines: Series",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/BHS.svg",
-          "start_time": "00:20:00",
-          "end_time": "01:15:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "01:15:00",
-          "end_time": "02:10:00",
-          "episode_number": "S25 E504"
-        },
-        {
-          "show_name": "City Confidential",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CC.svg",
-          "start_time": "02:10:00",
-          "end_time": "03:05:00",
-          "episode_number": "S9 E11"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "03:05:00",
-          "end_time": "04:00:00",
-          "episode_number": "S25 E495"
-        },
-        {
-          "show_name": "Cold Case Files: West",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CCFW.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Court Cam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CC.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:25:00",
-          "episode_number": "S5 E148"
-        },
-        {
-          "show_name": "Court Cam: Moments Of Outrage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CCMOO.svg",
-          "start_time": "05:25:00",
-          "end_time": "05:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "After The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/ATF4.svg",
-          "start_time": "05:50:00",
-          "end_time": "06:45:00",
-          "episode_number": "S16 E114"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "06:45:00",
-          "end_time": "07:40:00",
-          "episode_number": "S26 E525"
-        },
-        {
-          "show_name": "City Confidential",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CC.svg",
-          "start_time": "07:40:00",
-          "end_time": "08:35:00",
-          "episode_number": "S9 E11"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "08:35:00",
-          "end_time": "09:30:00",
-          "episode_number": "S25 E495"
-        },
-        {
-          "show_name": "Cold Case Files: West",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CCFW.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:25:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
-          "start_time": "10:25:00",
-          "end_time": "11:20:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Beyond Headlines: Series",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/BHS.svg",
-          "start_time": "11:20:00",
-          "end_time": "12:15:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "12:15:00",
-          "end_time": "13:10:00",
-          "episode_number": "S25 E504"
-        },
-        {
-          "show_name": "Court Cam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CC.svg",
-          "start_time": "13:10:00",
-          "end_time": "13:35:00",
-          "episode_number": "S5 E148"
-        },
-        {
-          "show_name": "Court Cam: Moments Of Outrage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CCMOO.svg",
-          "start_time": "13:35:00",
-          "end_time": "14:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "After The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/ATF4.svg",
-          "start_time": "14:05:00",
-          "end_time": "15:00:00",
-          "episode_number": "S16 E114"
-        },
-        {
-          "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:55:00",
-          "episode_number": "S26 E525"
-        },
-        {
-          "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
-          "start_time": "15:55:00",
-          "end_time": "16:45:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
-          "start_time": "16:45:00",
-          "end_time": "17:35:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
-          "start_time": "17:35:00",
-          "end_time": "18:25:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Accused: Did I Do It?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/ADIDI.svg",
-          "start_time": "18:25:00",
-          "end_time": "19:15:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Accused: Guilty Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/AGO.svg",
-          "start_time": "19:15:00",
-          "end_time": "20:05:00",
-          "episode_number": "S6 E7"
-        },
-        {
-          "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
-          "start_time": "20:05:00",
-          "end_time": "20:55:00",
-          "episode_number": "S1 E20"
-        },
-        {
-          "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
-          "start_time": "20:55:00",
-          "end_time": "21:45:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Undercover: On Tape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/UOT.svg",
-          "start_time": "21:45:00",
-          "end_time": "22:35:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Taking The Stand",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TTS.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:25:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
-          "start_time": "23:25:00",
-          "end_time": "00:20:00",
-          "episode_number": "S1 E20"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-21",
       "programs": [
         {
           "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IR",
           "start_time": "00:00:00",
           "end_time": "00:20:00",
           "episode_number": "S1 E20"
         },
         {
           "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IR",
           "start_time": "00:20:00",
           "end_time": "01:15:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Undercover: On Tape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/UOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UOT",
           "start_time": "01:15:00",
           "end_time": "02:10:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHID",
           "start_time": "02:10:00",
           "end_time": "03:05:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDTO",
           "start_time": "03:05:00",
           "end_time": "04:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDTO",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Accused: Did I Do It?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/ADIDI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ADIDI",
           "start_time": "05:00:00",
           "end_time": "05:50:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Accused: Guilty Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/AGO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGO",
           "start_time": "05:50:00",
           "end_time": "06:45:00",
           "episode_number": "S6 E7"
         },
         {
           "show_name": "Taking The Stand",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "06:45:00",
           "end_time": "07:40:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHID",
           "start_time": "07:40:00",
           "end_time": "08:35:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDTO",
           "start_time": "08:35:00",
           "end_time": "09:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Lie Detector: Truth Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/LDTO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDTO",
           "start_time": "09:30:00",
           "end_time": "10:25:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IR",
           "start_time": "10:25:00",
           "end_time": "11:20:00",
           "episode_number": "S1 E20"
         },
         {
           "show_name": "Interrogation Raw",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IR",
           "start_time": "11:20:00",
           "end_time": "12:15:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Undercover: On Tape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/UOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UOT",
           "start_time": "12:15:00",
           "end_time": "13:10:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Accused: Did I Do It?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/ADIDI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ADIDI",
           "start_time": "13:10:00",
           "end_time": "14:05:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Accused: Guilty Or...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/AGO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGO",
           "start_time": "14:05:00",
           "end_time": "15:00:00",
           "episode_number": "S6 E7"
         },
         {
           "show_name": "Taking The Stand",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "15:00:00",
           "end_time": "15:55:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Tell Me How I Died",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TMHID.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHID",
           "start_time": "15:55:00",
           "end_time": "16:45:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
           "start_time": "16:45:00",
           "end_time": "17:35:00",
           "episode_number": "S26 E513"
         },
         {
           "show_name": "The First 48",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/TF4.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
           "start_time": "17:35:00",
           "end_time": "18:25:00",
           "episode_number": "S26 E514"
         },
         {
           "show_name": "Interrogation Cam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
           "start_time": "18:25:00",
           "end_time": "18:50:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Interrogation Cam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/IC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
           "start_time": "18:50:00",
           "end_time": "19:15:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Ozark Law",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/OL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OL",
           "start_time": "19:15:00",
           "end_time": "20:05:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Sleeping With Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/SWK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWK",
           "start_time": "20:05:00",
           "end_time": "20:55:00",
           "episode_number": "S2 E20"
         },
         {
           "show_name": "#TextMeWhenYouGet...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/logo.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=#",
           "start_time": "20:55:00",
           "end_time": "21:45:00",
           "episode_number": "S2 E13"
         },
         {
           "show_name": "City Confidential",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/CC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "21:45:00",
           "end_time": "22:35:00",
           "episode_number": "S9 E1"
         },
         {
           "show_name": "My Ghost Story Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/MGSA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
           "start_time": "22:35:00",
           "end_time": "23:05:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "My Ghost Story Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/MGSA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
           "start_time": "23:05:00",
           "end_time": "23:35:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Sleeping With Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/crime-investigation/SWK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWK",
           "start_time": "23:35:00",
           "end_time": "00:25:00",
           "episode_number": "S2 E20"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-22",
+      "programs": [
+        {
+          "show_name": "Sleeping With Killer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWK",
+          "start_time": "00:00:00",
+          "end_time": "00:25:00",
+          "episode_number": "S2 E20"
+        },
+        {
+          "show_name": "#TextMeWhenYouGet...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=#",
+          "start_time": "00:25:00",
+          "end_time": "01:15:00",
+          "episode_number": "S2 E13"
+        },
+        {
+          "show_name": "City Confidential",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "01:15:00",
+          "end_time": "02:10:00",
+          "episode_number": "S9 E1"
+        },
+        {
+          "show_name": "Tell Me How I Died",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHID",
+          "start_time": "02:10:00",
+          "end_time": "03:05:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The First 48",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
+          "start_time": "03:05:00",
+          "end_time": "04:00:00",
+          "episode_number": "S26 E513"
+        },
+        {
+          "show_name": "The First 48",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "S26 E514"
+        },
+        {
+          "show_name": "Interrogation Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "05:00:00",
+          "end_time": "05:25:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Interrogation Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "05:25:00",
+          "end_time": "05:50:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Ozark Law",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OL",
+          "start_time": "05:50:00",
+          "end_time": "06:40:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "My Ghost Story Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
+          "start_time": "06:40:00",
+          "end_time": "07:10:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "My Ghost Story Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
+          "start_time": "07:10:00",
+          "end_time": "07:40:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Tell Me How I Died",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHID",
+          "start_time": "07:40:00",
+          "end_time": "08:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The First 48",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
+          "start_time": "08:35:00",
+          "end_time": "09:30:00",
+          "episode_number": "S26 E513"
+        },
+        {
+          "show_name": "The First 48",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TF4",
+          "start_time": "09:30:00",
+          "end_time": "10:25:00",
+          "episode_number": "S26 E514"
+        },
+        {
+          "show_name": "Sleeping With Killer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SWK",
+          "start_time": "10:25:00",
+          "end_time": "11:20:00",
+          "episode_number": "S2 E20"
+        },
+        {
+          "show_name": "#TextMeWhenYouGet...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=#",
+          "start_time": "11:20:00",
+          "end_time": "12:15:00",
+          "episode_number": "S2 E13"
+        },
+        {
+          "show_name": "City Confidential",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "12:15:00",
+          "end_time": "13:10:00",
+          "episode_number": "S9 E1"
+        },
+        {
+          "show_name": "Interrogation Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "13:10:00",
+          "end_time": "13:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Interrogation Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IC",
+          "start_time": "13:35:00",
+          "end_time": "14:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Ozark Law",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OL",
+          "start_time": "14:00:00",
+          "end_time": "14:50:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "My Ghost Story Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
+          "start_time": "14:50:00",
+          "end_time": "15:20:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "My Ghost Story Asia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGSA",
+          "start_time": "15:20:00",
+          "end_time": "15:50:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Interrogation Raw",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IR",
+          "start_time": "15:50:00",
+          "end_time": "16:40:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Women On Death Row",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WODR",
+          "start_time": "16:40:00",
+          "end_time": "17:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Spellbound: Crimes Of The Mind",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SCOTM",
+          "start_time": "17:30:00",
+          "end_time": "18:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Court Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "18:25:00",
+          "end_time": "18:50:00",
+          "episode_number": "S6 E159"
+        },
+        {
+          "show_name": "Court Cam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "18:50:00",
+          "end_time": "19:15:00",
+          "episode_number": "S6 E160"
+        },
+        {
+          "show_name": "My Strange Arrest",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSA",
+          "start_time": "19:15:00",
+          "end_time": "19:40:00",
+          "episode_number": "S3 E12"
+        },
+        {
+          "show_name": "My Strange Arrest",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSA",
+          "start_time": "19:40:00",
+          "end_time": "20:05:00",
+          "episode_number": "S3 E11"
+        },
+        {
+          "show_name": "Alaska State Troopers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AST",
+          "start_time": "20:05:00",
+          "end_time": "20:55:00",
+          "episode_number": "S9 E10"
+        },
+        {
+          "show_name": "Crime In Progress",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CIP",
+          "start_time": "20:55:00",
+          "end_time": "21:45:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Evil Up Close",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EUC",
+          "start_time": "21:45:00",
+          "end_time": "22:35:00",
+          "episode_number": "S6 E10"
+        },
+        {
+          "show_name": "First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FB",
+          "start_time": "22:35:00",
+          "end_time": "23:25:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Alaska State Troopers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AST",
+          "start_time": "23:25:00",
+          "end_time": "00:20:00",
+          "episode_number": "S9 E10"
         }
       ]
     }
