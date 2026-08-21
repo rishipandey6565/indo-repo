@@ -2,30 +2,30 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "programs": [
         {
-          "show_name": "Zero To Macao",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ZTM.svg",
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "00:05:00",
-          "end_time": "01:00:00",
-          "episode_number": "E2"
+          "end_time": "00:50:00",
+          "episode_number": "S11 E7"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:50:00",
-          "episode_number": "S11 E7"
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:50:00",
+          "end_time": "01:35:00",
+          "episode_number": "S11 E8"
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "programs": [
         {
           "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
