@@ -2,220 +2,122 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-08-22",
-      "programs": [
-        {
-          "show_name": "The Assassin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TA.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "West Chamber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/WC.svg",
-          "start_time": "01:25:00",
-          "end_time": "03:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hex",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/H.svg",
-          "start_time": "03:25:00",
-          "end_time": "04:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Black Magic 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BM2.svg",
-          "start_time": "04:55:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Demon Of The Lute",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DOTL.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mermaid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TM.svg",
-          "start_time": "08:20:00",
-          "end_time": "10:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shaolin Intruders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SI.svg",
-          "start_time": "10:05:00",
-          "end_time": "11:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Pure And The Evil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TPATE.svg",
-          "start_time": "11:40:00",
-          "end_time": "13:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Delightful Forest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TDF.svg",
-          "start_time": "13:20:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Two Con Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCM.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Long Chase",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TLC.svg",
-          "start_time": "16:40:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Mad Monk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TMM.svg",
-          "start_time": "18:10:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Heaven Sword & Dragon Sabre",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HS.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hong Kong 73",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HK7.svg",
-          "start_time": "21:50:00",
-          "end_time": "23:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Black Enforcer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBE.svg",
-          "start_time": "23:35:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-23",
       "programs": [
         {
           "show_name": "The Black Enforcer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBE",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Return Of The Dead",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ROTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTD",
           "start_time": "01:15:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Story Of Sue San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSOSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOSS",
           "start_time": "03:00:00",
           "end_time": "04:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The New One-Armed Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TNOS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNOS",
           "start_time": "04:55:00",
           "end_time": "06:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Apartment For Ladies",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AFL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFL",
           "start_time": "06:40:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Sentimental Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSS",
           "start_time": "08:30:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Summer Heat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH",
           "start_time": "10:15:00",
           "end_time": "11:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Lady With A Sword",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LWAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWAS",
           "start_time": "11:55:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Crimson Palm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCP",
           "start_time": "13:30:00",
           "end_time": "14:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Enchantress",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TE",
           "start_time": "14:55:00",
           "end_time": "16:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The 5 Billion Dollar Legacy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/T5BDL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T5BDL",
           "start_time": "16:35:00",
           "end_time": "18:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Invincible Fist",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TIF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIF",
           "start_time": "18:15:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Crazy Shaolin Disciples",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/CSD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSD",
           "start_time": "20:00:00",
           "end_time": "21:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Mercenaries From Hong Kong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MFHK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFHK",
           "start_time": "21:35:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "A Maid From Heaven",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AMFH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMFH",
           "start_time": "23:15:00",
+          "end_time": "01:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-24",
+      "programs": [
+        {
+          "show_name": "A Maid From Heaven",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMFH",
+          "start_time": "00:00:00",
           "end_time": "01:05:00",
           "episode_number": ""
         }

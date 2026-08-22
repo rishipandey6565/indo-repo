@@ -2,354 +2,326 @@
   "channel_name": "Arirang",
   "schedule": {
     "today": {
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "programs": [
         {
-          "show_name": "Simply K-Pop 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SK2.svg",
+          "show_name": "K-Culture Minutes: K-Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
           "start_time": "00:00:00",
+          "end_time": "00:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "K-Culture Minutes: K-People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
+          "start_time": "00:15:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
+          "start_time": "00:30:00",
+          "end_time": "00:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Stage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
+          "start_time": "00:45:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Culture Dive",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KD.svg",
+          "show_name": "Arirang Prime",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AP",
           "start_time": "01:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
-          "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Within The Frame",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/WTF.svg",
+          "show_name": "SmartBiz Accelerators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SA",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Exploring Korean Literature C",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/EKLC.svg",
+          "show_name": "The Grand Heritage K-ASMR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGHK",
           "start_time": "02:30:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Exploring Korean Literature B",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/EKLB.svg",
-          "start_time": "02:50:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Beauty On And Off",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/BOAO.svg",
+          "show_name": "PerformArts Reload",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PR",
           "start_time": "03:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Simply K-Pop 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SK2.svg",
+          "show_name": "I'm Live",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IL",
           "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Peace Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PI",
+          "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Drawing Diary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DD.svg",
+          "show_name": "Regional Tastes: Chungcheong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
           "start_time": "06:00:00",
-          "end_time": "06:20:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Art And The City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AATC.svg",
-          "start_time": "06:20:00",
-          "end_time": "06:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
-          "start_time": "06:40:00",
+          "show_name": "Seoulscape",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Trip In Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TIK.svg",
+          "show_name": "Arirang Special",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Food Class",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KC.svg",
+          "show_name": "The Art Of Pairing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOP",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Chat: Travel In Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KTIK.svg",
+          "show_name": "K-Culture Minutes: K-Now",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
           "start_time": "08:00:00",
-          "end_time": "08:10:00",
+          "end_time": "08:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Chat: Travel In Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KTIK.svg",
-          "start_time": "08:10:00",
-          "end_time": "08:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Chat: Travel In Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KTIK.svg",
-          "start_time": "08:20:00",
+          "show_name": "K-Culture Minutes: K-People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
+          "start_time": "08:15:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Diplomat's Archive: Hidden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DAH.svg",
+          "show_name": "K-Culture Minutes: K-Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
           "start_time": "08:30:00",
+          "end_time": "08:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "K-Culture Minutes: K-Stage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMK",
+          "start_time": "08:45:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "I'm Live",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/IL.svg",
+          "show_name": "Simply K-Pop 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SK2",
           "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beauty On And Off",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/BOAO.svg",
-          "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Weekly News Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/WNH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WNH",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Home Explorers 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/HE2.svg",
+          "show_name": "Vibe In Action: K-Initiative",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VIAK",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Drawing Diary",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DD.svg",
+          "show_name": "Regional Tastes: Chungcheong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
           "start_time": "11:00:00",
-          "end_time": "11:20:00",
+          "end_time": "11:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Art And The City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AATC.svg",
-          "start_time": "11:20:00",
-          "end_time": "11:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
-          "start_time": "11:40:00",
+          "show_name": "Seoulscape",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Trip In Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TIK.svg",
+          "show_name": "Arirang Special",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Food Class",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KC.svg",
+          "show_name": "The Art Of Pairing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOP",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
+          "show_name": "PerformArts Reload",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PR",
           "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gugak: The Music Of Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/GTMOK.svg",
+          "show_name": "Peace Insight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PI",
           "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Diplomat's Archive: Hidden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DAH",
+          "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Culture Minutes: K-Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
+          "show_name": "Regional Tastes: Chungcheong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTC",
           "start_time": "15:00:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "15:15:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "K-Culture Minutes: K-Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
+          "show_name": "SmartBiz Accelerators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SA",
           "start_time": "15:30:00",
-          "end_time": "15:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Stage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "15:45:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Weekly News Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/WNH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WNH",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Simply K-Pop 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SK2.svg",
+          "show_name": "I'm Live",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IL",
           "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Art Of Pairing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOP",
+          "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "SmartBiz Accelerators",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SA.svg",
+          "show_name": "Vibe In Action: K-Initiative",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VIAK",
           "start_time": "17:30:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "I'm Live",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/IL.svg",
+          "show_name": "The Grand Heritage K-ASMR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGHK",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Diplomat's Archive: Hidden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DAH.svg",
+          "show_name": "Beauty On And Off",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOAO",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
+          "show_name": "Simply K-Pop 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SK2",
           "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mystory: Mystery x History",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/MMXH.svg",
-          "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "PerformArts Reload",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PR.svg",
+          "show_name": "Diplomat's Archive: Hidden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DAH",
           "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Art Of Pairing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAOP",
+          "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Beauty On And Off",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/BOAO.svg",
+          "show_name": "Gugak: The Music Of Korea",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTMOK",
           "start_time": "21:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Peace Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PI.svg",
-          "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Diplomat's Archive: Hidden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DAH.svg",
+          "show_name": "Arirang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
+          "show_name": "Arirang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Rewind It: I'm Live",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/RIIL.svg",
+          "show_name": "Arirang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Grand Heritage K-ASMR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TGHK.svg",
+          "show_name": "Arirang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "23:30:00",
           "end_time": "23:50:00",
           "episode_number": ""
         },
         {
-          "show_name": "Fishing In The Museum",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/FITM.svg",
+          "show_name": "Arirang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "23:50:00",
           "end_time": "00:00:00",
           "episode_number": ""
@@ -357,331 +329,8 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-08-23",
-      "programs": [
-        {
-          "show_name": "K-Culture Minutes: K-Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "00:15:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "00:30:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Stage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "00:45:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Prime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AP.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SmartBiz Accelerators",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SA.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Grand Heritage K-ASMR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TGHK.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "PerformArts Reload",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PR.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I'm Live",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/IL.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Peace Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PI.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Regional Tastes: Chungcheong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/RTC.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seoulscape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/S.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Now",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "08:15:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "08:30:00",
-          "end_time": "08:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "K-Culture Minutes: K-Stage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/KMK.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Simply K-Pop 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SK2.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Weekly News Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/WNH.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Regional Tastes: Chungcheong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/RTC.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seoulscape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/S.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/AS.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "PerformArts Reload",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PR.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Peace Insight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/PI.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DAH.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Regional Tastes: Chungcheong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/RTC.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SmartBiz Accelerators",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SA.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Weekly News Highlights",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/WNH.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I'm Live",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/IL.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vibe In Action: K-Initiative",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/VIAK.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Grand Heritage K-ASMR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TGHK.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beauty On And Off",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/BOAO.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Simply K-Pop 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/SK2.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Diplomat's Archive: Hidden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/DAH.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Art Of Pairing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/TAOP.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gugak: The Music Of Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/GTMOK.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/A.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/A.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/A.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/A.svg",
-          "start_time": "23:30:00",
-          "end_time": "23:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arirang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/arirang/A.svg",
-          "start_time": "23:50:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
+      "date": "2026-08-24",
+      "programs": []
     }
   }
 }
