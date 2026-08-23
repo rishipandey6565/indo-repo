@@ -2,26 +2,40 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "programs": [
         {
-          "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "00:30:00",
+          "end_time": "01:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Atlantic: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "01:25:00",
+          "end_time": "02:15:00",
+          "episode_number": "E3"
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "show_name": "Most Luxurious Train...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MLT.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:25:00",
-          "episode_number": "E3"
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
         }
       ]
     }

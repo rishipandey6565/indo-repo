@@ -2,221 +2,340 @@
   "channel_name": "beIN Sports 1",
   "schedule": {
     "today": {
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "programs": [
         {
-          "show_name": "Formula Regional European HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FREH.svg",
+          "show_name": "Mini Match LaLiga: ATM Vs VIL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLAV",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "LaLiga 2026/27: VAL Vs CEL (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2VVC.svg",
+          "show_name": "LaLiga 2026/27: GET Vs RAC (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2GVR",
           "start_time": "00:25:00",
           "end_time": "02:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "LaLiga 2026/27: ESP Vs RMA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2EVR.svg",
+          "show_name": "LaLiga 2026/27: ELC Vs BAR (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2EVB",
           "start_time": "02:25:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "FIA European Truck Racing HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FETRH.svg",
+          "show_name": "FC Futures U12 Club: RIV Vs BOJ",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCR",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
+          "show_name": "FC Futures U12 Club: BAR Vs ESP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCB",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
-          "episode_number": "E19"
+          "episode_number": ""
         },
         {
-          "show_name": "Le Mans Cup 2026: Race",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LMC2R.svg",
+          "show_name": "LaLiga 2026/27: VAL Vs CEL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2VVC",
           "start_time": "05:30:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "FIA European Rally C'ship HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FERCH.svg",
+          "show_name": "F1 Main Race 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMR2D",
           "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Porsche Carrera Cup Germany HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/PCCGH.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": "E19"
-        },
-        {
-          "show_name": "Mini Match LaLiga: BET Vs RSO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLBV.svg",
-          "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "FIA World Rally Magazine Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FWRMS.svg",
+          "show_name": "Mini Match LaLiga: VAL Vs CEL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLVV",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1 Academy Qual.: Netherlands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FAQN.svg",
+          "show_name": "Mini Match LaLiga: ESP Vs RMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLEV",
           "start_time": "10:00:00",
-          "end_time": "10:35:00",
+          "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "F1 Academy Race: Netherlands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FARN.svg",
-          "start_time": "10:35:00",
-          "end_time": "11:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FARN",
+          "start_time": "10:30:00",
+          "end_time": "11:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Porsche Mobil 1 Supercup 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/PM1S2.svg",
-          "start_time": "11:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PM1S2",
+          "start_time": "11:05:00",
           "end_time": "11:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "Porsche Mobil 1 Supercup 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/PM1S2.svg",
+          "show_name": "Gran Turismo World Series HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTWSH",
           "start_time": "11:40:00",
-          "end_time": "12:15:00",
+          "end_time": "12:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "LaLiga 2026/27: ESP Vs RMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2EVR.svg",
-          "start_time": "12:15:00",
-          "end_time": "14:00:00",
+          "show_name": "FC Futures U12 Club: FLA Vs PAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCF",
+          "start_time": "12:40:00",
+          "end_time": "13:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1 Qualifying 2026: Dutch GP",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FQ2DG.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:55:00",
+          "show_name": "FC Futures U12 Club: RMA Vs ATM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCR",
+          "start_time": "13:10:00",
+          "end_time": "13:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1 Sprint Race 2026: Dutch GP",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FSR2D.svg",
-          "start_time": "14:55:00",
+          "show_name": "F1 Highlights 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FH2DG",
+          "start_time": "13:40:00",
+          "end_time": "14:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Academy Race: Netherlands",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FARN",
+          "start_time": "14:15:00",
+          "end_time": "14:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Academy Race: Netherlands",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FARN",
+          "start_time": "14:50:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1 Academy Race 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FAR2.svg",
+          "show_name": "Porsche Mobil 1 Supercup 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PM1S2",
           "start_time": "15:25:00",
-          "end_time": "16:05:00",
+          "end_time": "16:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "FIA European Rally C'ship HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FERCH.svg",
-          "start_time": "16:05:00",
-          "end_time": "16:40:00",
+          "show_name": "LFCTV 2026/27: NEW Vs LIV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2NVL",
+          "start_time": "16:00:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Porsche Mobil 1 Supercup (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/PM1S.svg",
-          "start_time": "16:40:00",
-          "end_time": "17:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga Goals Galore 2024/25",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LGG2.svg",
-          "start_time": "17:20:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gran Turismo World Series HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GTWSH.svg",
-          "start_time": "17:30:00",
+          "show_name": "LFC Trending 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LT2",
+          "start_time": "18:00:00",
           "end_time": "18:30:00",
-          "episode_number": ""
+          "episode_number": "E1"
         },
         {
-          "show_name": "Grand Prix Sunday: Dutch GP (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GPSDG.svg",
+          "show_name": "LFCTV Specials 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS2",
           "start_time": "18:30:00",
-          "end_time": "19:55:00",
+          "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "F1 Main Race 2026: Dutch GP (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FMR2D.svg",
-          "start_time": "19:55:00",
-          "end_time": "22:00:00",
+          "show_name": "F1 Main Race 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMR2D",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Chequered Flag: Dutch GP (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/CFDG.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
+          "show_name": "F1 Highlights 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FH2DG",
+          "start_time": "21:00:00",
+          "end_time": "21:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "LaLiga Goals Galore 2024/25",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LGG2.svg",
-          "start_time": "23:00:00",
+          "show_name": "LaLiga 2026/27: ELC Vs BAR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2EVB",
+          "start_time": "21:35:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "FIA World Rally Magazine Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FWRMS.svg",
+          "show_name": "Gran Turismo World Series HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTWSH",
           "start_time": "23:25:00",
-          "end_time": "23:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match LaLiga: ATM Vs VIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLAV.svg",
-          "start_time": "23:55:00",
           "end_time": "00:25:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "show_name": "Mini Match LaLiga: ATM Vs VIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLAV.svg",
+          "show_name": "Gran Turismo World Series HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GTWSH",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: OSA Vs LEV (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2OVL",
+          "start_time": "00:25:00",
+          "end_time": "02:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: MAL Vs DEP (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2MVD",
+          "start_time": "02:25:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FC Futures U12 Club: PAL Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCP",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FC Futures U12 Club: ARS Vs FLA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCA",
+          "start_time": "05:00:00",
+          "end_time": "05:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Highlights 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FH2DG",
+          "start_time": "05:35:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LFCTV 2026/27: NEW Vs LIV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2NVL",
+          "start_time": "06:10:00",
+          "end_time": "08:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LFC Trending 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LT2",
+          "start_time": "08:10:00",
+          "end_time": "08:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "LFCTV Specials 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS2",
+          "start_time": "08:40:00",
+          "end_time": "09:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Main Race 2026: Dutch GP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMR2D",
+          "start_time": "09:10:00",
+          "end_time": "11:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: OSA Vs LEV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2OVL",
+          "start_time": "11:10:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FC Futures U12 Club: ESP Vs BET",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCE",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FC Futures U12 Club: BAR Vs RMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FFUCB",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GT World Challenge Europe HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCEH",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: GET Vs RAC",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2GVR",
+          "start_time": "15:00:00",
+          "end_time": "16:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Porsche Mobil 1 Supercup 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PM1S2",
+          "start_time": "16:50:00",
+          "end_time": "17:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Academy Race: Netherlands",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FARN",
+          "start_time": "17:25:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: ATM Vs VIL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2AVV",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: ESP Vs RMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2EVR",
+          "start_time": "20:00:00",
+          "end_time": "21:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH2",
+          "start_time": "21:55:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match LaLiga: ELC Vs BAR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLEV",
+          "start_time": "22:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Archive: BAR Vs SEV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LABVS",
+          "start_time": "23:00:00",
+          "end_time": "00:50:00",
           "episode_number": ""
         }
       ]
