@@ -2,40 +2,26 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-24",
-      "programs": [
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Atlantic: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "01:25:00",
-          "end_time": "02:15:00",
-          "episode_number": "E3"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-25",
       "programs": [
         {
           "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
-        },
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-26",
+      "programs": [
         {
-          "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "01:50:00",
+          "end_time": "02:40:00",
+          "episode_number": "E3"
         }
       ]
     }
