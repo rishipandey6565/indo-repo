@@ -2,26 +2,40 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "programs": [
         {
           "show_name": "GTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "programs": [
         {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "01:50:00",
-          "end_time": "02:40:00",
-          "episode_number": "E3"
+          "show_name": "Secrets Of Great White Shark",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOGWS",
+          "start_time": "02:05:00",
+          "end_time": "03:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nature Sanctuaries",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "03:05:00",
+          "end_time": "04:05:00",
+          "episode_number": "E1"
         }
       ]
     }
