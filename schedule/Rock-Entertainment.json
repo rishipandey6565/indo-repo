@@ -2,369 +2,348 @@
   "channel_name": "Rock Entertainment",
   "schedule": {
     "today": {
-      "date": "2026-08-26",
-      "programs": [
-        {
-          "show_name": "Below Deck Down Under",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/BDDU.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E16"
-        },
-        {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TWOT.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:40:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TWOT.svg",
-          "start_time": "01:40:00",
-          "end_time": "02:50:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "A Very British Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVBS.svg",
-          "start_time": "02:50:00",
-          "end_time": "03:55:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "A Very British Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVBS.svg",
-          "start_time": "03:55:00",
-          "end_time": "05:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:45:00",
-          "episode_number": "S13 E109"
-        },
-        {
-          "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:30:00",
-          "episode_number": "S13 E140"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:05:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TWOT.svg",
-          "start_time": "07:05:00",
-          "end_time": "08:10:00",
-          "episode_number": "S3 E7"
-        },
-        {
-          "show_name": "The Wheel Of Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TWOT.svg",
-          "start_time": "08:10:00",
-          "end_time": "09:25:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "Below Deck Down Under",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/BDDU.svg",
-          "start_time": "09:25:00",
-          "end_time": "10:15:00",
-          "episode_number": "E16"
-        },
-        {
-          "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
-          "start_time": "10:15:00",
-          "end_time": "11:00:00",
-          "episode_number": "S13 E140"
-        },
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:45:00",
-          "episode_number": "S13 E109"
-        },
-        {
-          "show_name": "A Very British Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVBS.svg",
-          "start_time": "11:45:00",
-          "end_time": "12:45:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
-          "start_time": "12:45:00",
-          "end_time": "13:50:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
-          "start_time": "13:50:00",
-          "end_time": "14:55:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
-          "start_time": "14:55:00",
-          "end_time": "16:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Bride Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/BW.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:30:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:30:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "A Plan To Kill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/APTK.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:15:00",
-          "episode_number": "S2 E9"
-        },
-        {
-          "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
-          "start_time": "22:15:00",
-          "end_time": "23:00:00",
-          "episode_number": "S13 E141"
-        },
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:45:00",
-          "episode_number": "S13 E110"
-        },
-        {
-          "show_name": "A Plan To Kill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/APTK.svg",
-          "start_time": "23:45:00",
-          "end_time": "00:30:00",
-          "episode_number": "S2 E9"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-27",
       "programs": [
         {
           "show_name": "A Plan To Kill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/APTK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=APTK",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIYH",
           "start_time": "00:30:00",
           "end_time": "01:30:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIYH",
           "start_time": "01:30:00",
           "end_time": "02:30:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "A Very British Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVBS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVBS",
           "start_time": "02:30:00",
           "end_time": "03:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVRS",
           "start_time": "03:30:00",
           "end_time": "04:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "S3 E8"
         },
         {
           "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
           "start_time": "05:00:00",
           "end_time": "05:45:00",
           "episode_number": "S13 E110"
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "05:45:00",
           "end_time": "06:30:00",
           "episode_number": "S13 E141"
         },
         {
           "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIYH",
           "start_time": "06:30:00",
           "end_time": "07:25:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIYH",
           "start_time": "07:25:00",
           "end_time": "08:25:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "DOC: In Your Hands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/DIYH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIYH",
           "start_time": "08:25:00",
           "end_time": "09:25:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "A Plan To Kill",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/APTK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=APTK",
           "start_time": "09:25:00",
           "end_time": "10:10:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "10:10:00",
           "end_time": "10:55:00",
           "episode_number": "S13 E141"
         },
         {
           "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
           "start_time": "10:55:00",
           "end_time": "11:40:00",
           "episode_number": "S13 E110"
         },
         {
           "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVRS",
           "start_time": "11:40:00",
           "end_time": "12:45:00",
           "episode_number": "E2"
         },
         {
           "show_name": "A Very Royal Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AVRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVRS",
           "start_time": "12:45:00",
           "end_time": "13:50:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Accused",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "13:50:00",
           "end_time": "14:35:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Accused",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "14:35:00",
           "end_time": "15:20:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "With Wine And Lovers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/WWAL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWAL",
           "start_time": "15:20:00",
           "end_time": "16:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Masked Singer U.K.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMSU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
           "start_time": "16:50:00",
           "end_time": "18:00:00",
           "episode_number": "S7 E3"
         },
         {
           "show_name": "The Masked Singer U.K.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMSU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
           "start_time": "18:00:00",
           "end_time": "19:10:00",
           "episode_number": "S7 E4"
         },
         {
           "show_name": "The Masked Singer U.K.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMSU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
           "start_time": "19:10:00",
           "end_time": "20:20:00",
           "episode_number": "S7 E3"
         },
         {
           "show_name": "The Masked Singer U.K.",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TMSU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
           "start_time": "20:20:00",
           "end_time": "21:30:00",
           "episode_number": "S7 E4"
         },
         {
           "show_name": "Brothers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "21:30:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
           "start_time": "23:15:00",
           "end_time": "00:00:00",
           "episode_number": "S13 E142"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-28",
+      "programs": [
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": "S13 E111"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "00:45:00",
+          "end_time": "02:00:00",
+          "episode_number": "S7 E3"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "02:00:00",
+          "end_time": "03:15:00",
+          "episode_number": "S7 E4"
+        },
+        {
+          "show_name": "A Very Royal Scandal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AVRS",
+          "start_time": "03:15:00",
+          "end_time": "04:25:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Cobra Kai",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CK",
+          "start_time": "04:25:00",
+          "end_time": "05:00:00",
+          "episode_number": "S3 E9"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "05:00:00",
+          "end_time": "05:45:00",
+          "episode_number": "S13 E111"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "05:45:00",
+          "end_time": "06:30:00",
+          "episode_number": "S13 E142"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "06:30:00",
+          "end_time": "07:40:00",
+          "episode_number": "S7 E3"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "07:40:00",
+          "end_time": "08:50:00",
+          "episode_number": "S7 E4"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "08:50:00",
+          "end_time": "10:00:00",
+          "episode_number": "S7 E3"
+        },
+        {
+          "show_name": "The Masked Singer U.K.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMSU",
+          "start_time": "10:00:00",
+          "end_time": "11:10:00",
+          "episode_number": "S7 E4"
+        },
+        {
+          "show_name": "The Tonight Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTS",
+          "start_time": "11:10:00",
+          "end_time": "11:55:00",
+          "episode_number": "S13 E142"
+        },
+        {
+          "show_name": "Late Night With...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LNW",
+          "start_time": "11:55:00",
+          "end_time": "12:40:00",
+          "episode_number": "S13 E111"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "12:40:00",
+          "end_time": "13:25:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "13:25:00",
+          "end_time": "14:10:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "14:10:00",
+          "end_time": "14:55:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "14:55:00",
+          "end_time": "15:40:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
+          "start_time": "15:40:00",
+          "end_time": "16:25:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "ExPatriot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "16:25:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "La La Land",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLL",
+          "start_time": "18:00:00",
+          "end_time": "20:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Internship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TI",
+          "start_time": "20:05:00",
+          "end_time": "22:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "22:05:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "23:45:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
         }
       ]
     }
