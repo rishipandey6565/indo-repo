@@ -2,360 +2,479 @@
   "channel_name": "Bloomberg",
   "schedule": {
     "today": {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "show_name": "Bloomberg: Balance Of Power",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBOP.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg BusinessWeek Daily",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBD.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg The Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTC.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg: Balance Of Power",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBOP.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Primer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BP.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Primer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BP.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg The Asia Trade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTAT.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Tech: Asia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTA.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg: The China Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTCS.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Insight With Haslinda Amin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/IWHA.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Horizons",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BH.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Daybreak: Europe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BDE.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg: The Opening Trade",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTOT.svg",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Pulse With Francine Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TPWFL.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Brief",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BB.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Surveillance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
-          "start_time": "17:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Surveillance (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BS.svg",
-          "start_time": "20:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Tech",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BT.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloomberg Money",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BM.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-29",
       "programs": [
         {
           "show_name": "Bloomberg: Balance Of Power",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBOP",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg BusinessWeek Daily",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBD",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg The Close",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTC",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg: Balance Of Power",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BBOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBOP",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg New Economy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BNE",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mishal Husain Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Leaders With Francine Lacqua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/LWFL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWFL",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Circuit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "07:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The David Rubenstein Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Originals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Circuit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Posthuman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Deal With Alex And Jason",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDWAA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDWAA",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Posthuman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Circuit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mishal Husain Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
           "start_time": "13:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mishal Husain Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
           "start_time": "13:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Originals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
           "start_time": "15:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Posthuman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg New Economy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BNE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BNE",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mishal Husain Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg This Weekend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BTW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTW",
           "start_time": "18:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Wall Street Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BWSW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mishal Husain Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TMHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The David Rubenstein Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/TDRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Best Of Bloomberg Invest 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BOBI2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOBI2",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bloomberg Originals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bloomberg/BO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
           "start_time": "23:30:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-30",
+      "programs": [
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWFL",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The David Rubenstein Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BI",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Deal With Alex And Jason",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDWAA",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWFL",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BI",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Best Of Bloomberg Invest 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOBI2",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Deal With Alex And Jason",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDWAA",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Posthuman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women, Money & Power Event",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WM&PE",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg New Economy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BNE",
+          "start_time": "10:00:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Screentime",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Posthuman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Investigates",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BI",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Primer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Leaders With Francine Lacqua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWFL",
+          "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Women, Money & Power Event",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WM&PE",
+          "start_time": "14:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Originals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BO",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg This Weekend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTW",
+          "start_time": "18:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mishal Husain Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMHS",
+          "start_time": "21:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The David Rubenstein Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDRS",
+          "start_time": "21:30:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Circuit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bloomberg Wall Street Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWSW",
+          "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": ""
         }

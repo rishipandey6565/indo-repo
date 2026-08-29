@@ -2,516 +2,446 @@
   "channel_name": "CGTN Documentary",
   "schedule": {
     "today": {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "show_name": "Collision Course",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CC.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Legend Of Mining And...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LOMA.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Foodwise: The Taste Of Home",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FTTOH.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Art In The Field",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/AITF.svg",
-          "start_time": "02:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "On The Wasteland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/OTW.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Collision Course",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CC.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Legend Of Mining And...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LOMA.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Foodwise: Chongqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FC.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Encounters Along The Silk Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EATSR.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PC.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
-          "start_time": "11:00:00",
-          "end_time": "12:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Collision Course",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CC.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Legend Of Mining And...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LOMA.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Foodwise: Chongqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FC.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Encounters Along The Silk Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EATSR.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PC.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
-          "start_time": "16:00:00",
-          "end_time": "16:30:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Collision Course",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CC.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Legend Of Mining And...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LOMA.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Foodwise: Chongqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FC.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Encounters Along The Silk Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EATSR.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PC.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:00:00",
-          "episode_number": "E2"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-29",
       "programs": [
         {
           "show_name": "Collision Course",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/CC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Legend Of Mining And...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/LOMA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOMA",
           "start_time": "00:30:00",
           "end_time": "01:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Foodwise: Chongqing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Encounters Along The Silk Road",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/EATSR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EATSR",
           "start_time": "02:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Pixel Collage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/PC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PC",
           "start_time": "02:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FILWM",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYR",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "In Search Of Tuck-Ming",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOT",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Riddle Of The Ancient...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTA",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Foodwise: Xilingol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FX",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Gen Z In Xizang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GZIX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GZIX",
           "start_time": "08:00:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Returning To The Saddle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RTTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTTS",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FILWM",
           "start_time": "10:00:00",
           "end_time": "10:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYR",
           "start_time": "11:00:00",
           "end_time": "12:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "In Search Of Tuck-Ming",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOT",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Riddle Of The Ancient...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTA",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Foodwise: Xilingol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FX",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Gen Z In Xizang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GZIX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GZIX",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Returning To The Saddle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RTTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTTS",
           "start_time": "14:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FILWM",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "16:30:00",
           "end_time": "17:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYR",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "In Search Of Tuck-Ming",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ISOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOT",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Riddle Of The Ancient...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ROTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTA",
           "start_time": "18:30:00",
           "end_time": "19:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Foodwise: Xilingol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FX",
           "start_time": "19:00:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Gen Z In Xizang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/GZIX.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GZIX",
           "start_time": "20:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Returning To The Saddle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/RTTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTTS",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "In The Foothills Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/ITFO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Fall In Love With Museums",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/FILWM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FILWM",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Wisdom's Breath",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": "E7"
         },
         {
           "show_name": "The Yangtze River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/cgtn-documentary/TYR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TYR",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
           "episode_number": "E3"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-30",
+      "programs": [
+        {
+          "show_name": "In Search Of Tuck-Ming",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ISOT",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Riddle Of The Ancient...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTA",
+          "start_time": "00:30:00",
+          "end_time": "01:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Foodwise: Xilingol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FX",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gen Z In Xizang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GZIX",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Returning To The Saddle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTTS",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "In The Foothills Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "08:00:00",
+          "end_time": "09:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "In The Foothills Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "11:00:00",
+          "end_time": "12:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "In The Foothills Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
+          "start_time": "15:00:00",
+          "end_time": "16:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "19:00:00",
+          "end_time": "20:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "20:00:00",
+          "end_time": "21:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "In The Foothills Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITFO",
+          "start_time": "21:00:00",
+          "end_time": "22:00:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "22:00:00",
+          "end_time": "23:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Echoes Of Traditional...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOT",
+          "start_time": "23:00:00",
+          "end_time": "00:00:00",
+          "episode_number": "E2"
         }
       ]
     }

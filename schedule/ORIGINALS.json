@@ -2,186 +2,193 @@
   "channel_name": "ORIGINALS",
   "schedule": {
     "today": {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "show_name": "Unplugging",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/U.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
-          "start_time": "01:40:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hardflip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/H.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Railway Children Return",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TRCR.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
-          "start_time": "07:40:00",
-          "end_time": "09:51:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Crime Is Mine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TCIM.svg",
-          "start_time": "09:51:00",
-          "end_time": "11:38:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
-          "start_time": "11:38:00",
-          "end_time": "13:24:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Flawless",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/F.svg",
-          "start_time": "13:24:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "From Time To Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/FTTT.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
-          "start_time": "17:00:00",
-          "end_time": "19:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Torpedo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/T.svg",
-          "start_time": "19:05:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:51:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Auggie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/A.svg",
-          "start_time": "22:51:00",
-          "end_time": "05:03:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-08-29",
       "programs": [
         {
           "show_name": "Auggie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "00:00:00",
           "end_time": "05:03:00",
           "episode_number": ""
         },
         {
           "show_name": "Standoff",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "05:03:00",
           "end_time": "06:38:00",
           "episode_number": ""
         },
         {
           "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
           "start_time": "06:38:00",
           "end_time": "08:51:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Girl In The Woods",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LGITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LGITW",
           "start_time": "08:51:00",
           "end_time": "10:31:00",
           "episode_number": ""
         },
         {
           "show_name": "Peter Bell 2: The Czar Crown",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/PB2TC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PB2TC",
           "start_time": "10:31:00",
           "end_time": "12:18:00",
           "episode_number": ""
         },
         {
           "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
           "start_time": "12:18:00",
           "end_time": "14:11:00",
           "episode_number": ""
         },
         {
           "show_name": "Trigger Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "14:11:00",
           "end_time": "15:42:00",
           "episode_number": ""
         },
         {
           "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
           "start_time": "15:42:00",
           "end_time": "17:42:00",
           "episode_number": ""
         },
         {
           "show_name": "AE: Apocalypse Earth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/AAE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAE",
           "start_time": "17:42:00",
           "end_time": "19:17:00",
           "episode_number": ""
         },
         {
           "show_name": "A Royal Christmas Ball",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/ARCB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ARCB",
           "start_time": "19:17:00",
           "end_time": "20:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
           "start_time": "20:40:00",
           "end_time": "22:27:00",
           "episode_number": ""
         },
         {
           "show_name": "Starfish",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "22:27:00",
           "end_time": "00:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-08-30",
+      "programs": [
+        {
+          "show_name": "Starfish",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nightmare Alley: Possession",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
+          "start_time": "00:05:00",
+          "end_time": "01:51:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lost Outlaw",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LO",
+          "start_time": "01:51:00",
+          "end_time": "05:09:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legendary Voyages",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
+          "start_time": "05:09:00",
+          "end_time": "06:49:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "First Snow",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
+          "start_time": "06:49:00",
+          "end_time": "08:42:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nightmare Alley: Possession",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
+          "start_time": "08:42:00",
+          "end_time": "10:47:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love's Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LK",
+          "start_time": "10:47:00",
+          "end_time": "12:22:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Snow Globe Christmas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASGC",
+          "start_time": "12:22:00",
+          "end_time": "13:51:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legendary Voyages",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
+          "start_time": "13:51:00",
+          "end_time": "15:46:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "15:46:00",
+          "end_time": "17:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nightmare Alley: Possession",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
+          "start_time": "17:25:00",
+          "end_time": "19:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Take The Night",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTN",
+          "start_time": "19:10:00",
+          "end_time": "20:49:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Christmas Jars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
+          "start_time": "20:49:00",
+          "end_time": "22:18:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legendary Voyages",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
+          "start_time": "22:18:00",
+          "end_time": "00:52:00",
           "episode_number": ""
         }
       ]
