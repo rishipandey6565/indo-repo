@@ -2,116 +2,109 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "programs": [
         {
           "show_name": "Kisah Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CDS.svg",
+          "show_name": "Buletin iNews Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "06:00:00",
-          "end_time": "07:00:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bernard Bear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BB.svg",
-          "start_time": "07:00:00",
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "11:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "12:30:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "14:30:00",
-          "end_time": "16:30:00",
+          "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kisah Gading Si Gajah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KGSG.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:30:00",
+          "show_name": "AFC Champions League Two (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACLT(",
+          "start_time": "17:30:00",
+          "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tropic Thunder",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/TT.svg",
-          "start_time": "20:30:00",
+          "show_name": "Mission: Impossble",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
+          "start_time": "21:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Forbidden Truth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/TFT.svg",
+          "show_name": "Jinny Oh Jinny",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JOJ",
           "start_time": "22:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kisah Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
@@ -119,109 +112,116 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "programs": [
         {
           "show_name": "Kisah Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "04:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "11:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SpongeBob SquarePants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "12:30:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "14:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "17:00:00",
-          "end_time": "17:30:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "AFC Champions League Two (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACLT.svg",
-          "start_time": "17:30:00",
-          "end_time": "21:00:00",
+          "show_name": "Asal Usul Cangkang Siput",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUCS",
+          "start_time": "18:00:00",
+          "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mission: Impossble",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/MI.svg",
-          "start_time": "21:00:00",
+          "show_name": "Entong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shark In Venice",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIV",
+          "start_time": "20:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Jinny Oh Jinny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/JOJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JOJ",
           "start_time": "22:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kisah Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
