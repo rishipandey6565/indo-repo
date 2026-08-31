@@ -2,340 +2,305 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-08-31",
-      "programs": [
-        {
-          "show_name": "LaLiga 2 '26/27: CAD Vs VLD (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/L2CV.svg",
-          "start_time": "00:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP HL 2026: Sassnitz",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SH2S.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WAFCON 2026: RSA Vs TAN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/W2RVT.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UEL: BOL Vs CEL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUBV.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UEL: FEN Vs AVL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUFV.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: LIV Vs GAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMULV.svg",
-          "start_time": "06:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: FCB Vs ATA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUFV.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Outdoor Sports Show 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TOSS2.svg",
-          "start_time": "07:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CAF Confederation: OTO Vs CRB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCOVC.svg",
-          "start_time": "07:30:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: AEK Vs LEV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2AVL.svg",
-          "start_time": "09:30:00",
-          "end_time": "11:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: Andy Cole",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GA.svg",
-          "start_time": "11:20:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de France Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDFH2.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UEL: ROM Vs VFB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMURV.svg",
-          "start_time": "12:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UEL: CEL Vs LIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUCV.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: LIV Vs GAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMULV.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match UCL: FCB Vs ATA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUFV.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Outdoor Sports Show 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TOSS2.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEFA Super Cup 2026: PSG Vs AVL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/USC2P.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP HL 2026: Sassnitz",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SH2S.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV HL 2026/27: HUL Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MH2HV.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV 2026/27: MUN Vs IPS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/M2MVI.svg",
-          "start_time": "18:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV: Match Day Review 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMDR2.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP HL 2026: Sassnitz",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SH2S.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: N. Whiteside",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSNW.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "U-17 AFCON 2026: SEN Vs MLI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2SV.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-01",
       "programs": [
         {
           "show_name": "U-17 AFCON 2026: SEN Vs MLI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UA2SV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA2SV",
           "start_time": "00:00:00",
           "end_time": "01:10:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL/UEL Series: Parma 1990s",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/USP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USP1",
           "start_time": "01:10:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 26/27: AME Vs TSR (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SL2AV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2AV",
           "start_time": "01:25:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV: The United Archives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTUA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTUA",
           "start_time": "03:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mini Match UEL: ROM Vs VFB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMURV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Mini Match UEL: CEL Vs LIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUCV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUCV",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mini Match UCL: TOT Vs ATM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMUTV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUTV",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Mini Match UCL: RMA Vs FCB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMURV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMURV",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV HL 2026/27: HUL Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MH2HV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MH2HV",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV 2026/27: MUN Vs IPS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/M2MVI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M2MVI",
           "start_time": "07:30:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Match Day: MUN Vs IPS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMDMV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMDMV",
           "start_time": "09:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tour de France 2026: Stage 21",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TDF2S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDF2S",
           "start_time": "10:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SailGP Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/SH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH2",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "14:00:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "15:30:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "17:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "18:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Specials: N. Whiteside",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSNW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSNW",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Specials: Denis Law",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSDL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSDL",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "22:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Madrid (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
           "start_time": "23:30:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-02",
+      "programs": [
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: September",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2S",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WAFCON 2026: ZAM Vs EGY",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2ZVE",
+          "start_time": "03:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UEL: BRA Vs NFO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUBV",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UEL: AVL Vs RBS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUAV",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: SCP Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUSV",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: PSG Vs LIV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUPV",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Specials: N. Whiteside",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSNW",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "08:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: September",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2S",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "La Vuelta 2026: Stage 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV2S1",
+          "start_time": "10:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Treble 20: MUN Vs BAR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2MV",
+          "start_time": "13:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match UCL: SCP Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMUSV",
+          "start_time": "13:30:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "15:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "17:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "18:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "21:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Madrid (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "23:00:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         }
       ]
