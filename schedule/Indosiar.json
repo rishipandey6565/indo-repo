@@ -2,228 +2,235 @@
   "channel_name": "Indosiar",
   "schedule": {
     "today": {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "show_name": "Operation Red Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/ORS.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Once Upon A Time In China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/OUATI.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Incredible Kids",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TIK.svg",
-          "start_time": "02:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mujizat Masih Ada",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MMA.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fokus Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FP.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "06:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Petaka Dibalik Keretakan...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PDK.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hot Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/HK.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Patroli Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PS.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fokus Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FS.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Aku Dianggap Musuh Bebuyutan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/ADMB.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Istri Yang Terjebak Keegoisan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/IYTK.svg",
-          "start_time": "13:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sengkolo Warisan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/SW.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "17:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
-          "start_time": "19:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Myth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TM.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-03",
       "programs": [
         {
           "show_name": "The Myth",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Once Upon A Time In China V",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/OUATI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OUATI",
           "start_time": "01:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Ip Man: The Awakening Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/IMTAM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IMTAM",
           "start_time": "03:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
           "start_time": "04:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Keputusan Yang Tidak Bisa...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/KYTB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KYTB",
           "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hot Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/HK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HK",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Patroli Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dosa Di Balik Dusta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DDBD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDBD",
           "start_time": "12:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Rahasia Di Balik Piano Tua",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/RDBPT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RDBPT",
           "start_time": "13:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Aku Yang Hilang Tak Pernah...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/AYHTP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AYHTP",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
           "start_time": "17:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asian Cup U-20 Qualifier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/ACUQ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACUQ",
           "start_time": "18:30:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "21:00:00",
           "end_time": "00:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "show_name": "D'Academy S8",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "18 Arhats Of Shaolin Temple",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1AOST",
+          "start_time": "00:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fatal Contact",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pintu-Pintu Syurga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fokus Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
+          "start_time": "04:30:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Merangkai Kisah Indah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "05:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sahabat Adalah Maut",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAM",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rahasia Gelap Cinta Kedua",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RGCK",
+          "start_time": "08:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hot Kiss",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HK",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Patroli Siang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fokus Siang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Misteri Suara Rintihan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSR",
+          "start_time": "12:00:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rahasia Liontin Pemecah...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RLP",
+          "start_time": "13:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "BRI Super League 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSL2",
+          "start_time": "15:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Merangkai Kisah Indah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "BRI Super League 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSL2",
+          "start_time": "18:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "D'Academy S8",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "21:00:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
