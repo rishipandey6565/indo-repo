@@ -2,467 +2,495 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:05:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "00:05:00",
-          "end_time": "00:50:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "00:50:00",
-          "end_time": "01:35:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Tom Hanks: The Nomad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THTN.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hugh Jackman: The Showman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HJTS.svg",
-          "start_time": "02:25:00",
-          "end_time": "03:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Armstrong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/A.svg",
-          "start_time": "03:15:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Barbie Uncovered: Dream House",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BUDH.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Whitney: Behind The Voice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WBTV.svg",
-          "start_time": "06:35:00",
-          "end_time": "07:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
-          "start_time": "07:50:00",
-          "end_time": "08:35:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
-          "start_time": "08:35:00",
-          "end_time": "09:20:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Wild Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WH.svg",
-          "start_time": "09:20:00",
-          "end_time": "09:45:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "09:45:00",
-          "end_time": "10:35:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "10:35:00",
-          "end_time": "11:25:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
-          "start_time": "11:25:00",
-          "end_time": "12:15:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "12:15:00",
-          "end_time": "13:00:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "13:00:00",
-          "end_time": "13:50:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "13:50:00",
-          "end_time": "14:35:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "The Real Mad Men Of...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRMMO.svg",
-          "start_time": "14:35:00",
-          "end_time": "15:25:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Gameplay: Story Of Videogame",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/GSOV.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "16:55:00",
-          "end_time": "17:40:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "17:40:00",
-          "end_time": "18:25:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "18:25:00",
-          "end_time": "19:10:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
-          "start_time": "19:10:00",
-          "end_time": "19:55:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
-          "start_time": "19:55:00",
-          "end_time": "20:20:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
-          "start_time": "20:20:00",
-          "end_time": "20:45:00",
-          "episode_number": "S2 E2"
-        },
-        {
-          "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
-          "start_time": "20:45:00",
-          "end_time": "21:10:00",
-          "episode_number": "S2 E3"
-        },
-        {
-          "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
-          "start_time": "21:10:00",
-          "end_time": "21:35:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
-          "start_time": "21:35:00",
-          "end_time": "22:20:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Keanu Reeves: The One And Only",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/KRTOA.svg",
-          "start_time": "22:20:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Morgan Freeman: Incredible...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MFI.svg",
-          "start_time": "23:15:00",
-          "end_time": "00:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-04",
       "programs": [
         {
           "show_name": "Morgan Freeman: Incredible...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MFI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI",
           "start_time": "00:00:00",
           "end_time": "00:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
           "start_time": "00:05:00",
           "end_time": "00:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
           "start_time": "00:50:00",
           "end_time": "01:35:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "01:35:00",
           "end_time": "02:00:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "02:00:00",
           "end_time": "02:45:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "02:45:00",
           "end_time": "03:30:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "03:30:00",
           "end_time": "04:15:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "04:15:00",
           "end_time": "05:00:00",
           "episode_number": "S2 E5"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "05:00:00",
           "end_time": "05:50:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "05:50:00",
           "end_time": "06:20:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "06:20:00",
           "end_time": "06:50:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "06:50:00",
           "end_time": "07:15:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "07:15:00",
           "end_time": "07:40:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "07:40:00",
           "end_time": "08:25:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "08:25:00",
           "end_time": "08:50:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "08:50:00",
           "end_time": "09:15:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "09:15:00",
           "end_time": "09:40:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "09:40:00",
           "end_time": "10:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "10:30:00",
           "end_time": "11:20:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "11:20:00",
           "end_time": "12:10:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
           "start_time": "12:10:00",
           "end_time": "12:55:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
           "start_time": "12:55:00",
           "end_time": "13:45:00",
           "episode_number": "E9"
         },
         {
           "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
           "start_time": "13:45:00",
           "end_time": "14:35:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Gameplay: Story Of Videogame",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/GSOV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSOV",
           "start_time": "14:35:00",
           "end_time": "16:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "16:05:00",
           "end_time": "16:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDTFT",
           "start_time": "16:50:00",
           "end_time": "17:35:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDTFT",
           "start_time": "17:35:00",
           "end_time": "18:20:00",
           "episode_number": "S2 E8"
         },
         {
           "show_name": "Mega Transports Specials",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTS",
           "start_time": "18:20:00",
           "end_time": "19:10:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Mega Transports Specials",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTS",
           "start_time": "19:10:00",
           "end_time": "20:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Story Of Playstation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOP",
           "start_time": "20:00:00",
           "end_time": "20:50:00",
           "episode_number": ""
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "20:50:00",
           "end_time": "21:15:00",
           "episode_number": "E1"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "21:15:00",
           "end_time": "21:40:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Morgan Freeman: Incredible...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MFI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI",
           "start_time": "21:40:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Celine Dion: The Heart Goes On",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/CDTHG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDTHG",
           "start_time": "22:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Denzel Washington: Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DWI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DWI",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "show_name": "Denzel Washington: Icon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DWI",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Aerial Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "00:30:00",
+          "end_time": "01:15:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Aerial Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "01:15:00",
+          "end_time": "02:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "WTF Is Crypto?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "How Did They Fix That?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDTFT",
+          "start_time": "02:30:00",
+          "end_time": "03:20:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "How Did They Fix That?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HDTFT",
+          "start_time": "03:20:00",
+          "end_time": "04:10:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Mega Transports Specials",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTS",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "05:00:00",
+          "end_time": "05:55:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "05:55:00",
+          "end_time": "06:50:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "06:50:00",
+          "end_time": "07:45:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "07:45:00",
+          "end_time": "08:40:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "08:40:00",
+          "end_time": "09:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "09:30:00",
+          "end_time": "10:15:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "10:15:00",
+          "end_time": "11:00:00",
+          "episode_number": "S2 E6"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "11:00:00",
+          "end_time": "11:25:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "11:25:00",
+          "end_time": "11:50:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "11:50:00",
+          "end_time": "12:15:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "12:15:00",
+          "end_time": "12:40:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "12:40:00",
+          "end_time": "13:30:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "13:30:00",
+          "end_time": "14:15:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "14:15:00",
+          "end_time": "15:05:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "15:05:00",
+          "end_time": "15:55:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "15:55:00",
+          "end_time": "16:45:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "16:45:00",
+          "end_time": "17:30:00",
+          "episode_number": "S2 E6"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "17:30:00",
+          "end_time": "17:55:00",
+          "episode_number": "S2 E1"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "17:55:00",
+          "end_time": "18:20:00",
+          "episode_number": "S2 E2"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "18:20:00",
+          "end_time": "18:45:00",
+          "episode_number": "S2 E3"
+        },
+        {
+          "show_name": "Food Trail",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
+          "start_time": "18:45:00",
+          "end_time": "19:10:00",
+          "episode_number": "S2 E4"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "19:10:00",
+          "end_time": "20:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "20:00:00",
+          "end_time": "20:50:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "20:50:00",
+          "end_time": "21:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "21:40:00",
+          "end_time": "22:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "22:30:00",
+          "end_time": "23:20:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "23:20:00",
+          "end_time": "00:10:00",
+          "episode_number": "E4"
         }
       ]
     }
