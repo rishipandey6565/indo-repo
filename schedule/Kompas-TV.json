@@ -2,11 +2,11 @@
   "channel_name": "Kompas TV",
   "schedule": {
     "today": {
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "programs": [
         {
           "show_name": "AnugerahNya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A",
           "start_time": "00:30:00",
           "end_time": "01:30:00",
           "episode_number": ""
@@ -14,11 +14,11 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "programs": [
         {
           "show_name": "Kompas Petang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KP",
           "start_time": "01:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
