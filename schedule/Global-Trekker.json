@@ -2,481 +2,523 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-09-06",
-      "programs": [
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:00:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:50:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "01:50:00",
-          "end_time": "02:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "02:40:00",
-          "end_time": "03:35:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "03:35:00",
-          "end_time": "04:30:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Wild Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WH.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:55:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "05:55:00",
-          "end_time": "06:45:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Wild Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WH.svg",
-          "start_time": "06:45:00",
-          "end_time": "07:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "07:10:00",
-          "end_time": "07:55:00",
-          "episode_number": "S10 E4"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "07:55:00",
-          "end_time": "08:40:00",
-          "episode_number": "S10 E5"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "08:40:00",
-          "end_time": "09:25:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "09:25:00",
-          "end_time": "10:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "10:10:00",
-          "end_time": "10:55:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "10:55:00",
-          "end_time": "11:40:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "11:40:00",
-          "end_time": "12:25:00",
-          "episode_number": "S10 E4"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "12:25:00",
-          "end_time": "13:10:00",
-          "episode_number": "S10 E5"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "13:10:00",
-          "end_time": "13:55:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "13:55:00",
-          "end_time": "14:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "14:40:00",
-          "end_time": "15:25:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Aerial Italy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AI.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:10:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "16:10:00",
-          "end_time": "16:55:00",
-          "episode_number": "S10 E4"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "16:55:00",
-          "end_time": "17:40:00",
-          "episode_number": "S10 E4"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "17:40:00",
-          "end_time": "18:25:00",
-          "episode_number": "S10 E5"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "18:25:00",
-          "end_time": "19:10:00",
-          "episode_number": "S10 E6"
-        },
-        {
-          "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
-          "start_time": "19:10:00",
-          "end_time": "20:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:45:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
-          "start_time": "20:45:00",
-          "end_time": "21:30:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:20:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "22:20:00",
-          "end_time": "23:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "23:10:00",
-          "end_time": "00:00:00",
-          "episode_number": "E2"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-07",
       "programs": [
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "00:00:00",
           "end_time": "00:50:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "00:50:00",
           "end_time": "01:40:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "01:40:00",
           "end_time": "02:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "02:30:00",
           "end_time": "03:20:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "03:20:00",
           "end_time": "04:10:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "04:10:00",
           "end_time": "05:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Mega Transports Specials",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTS",
           "start_time": "05:00:00",
           "end_time": "05:55:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Story Of Playstation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOP",
           "start_time": "05:55:00",
           "end_time": "06:50:00",
           "episode_number": ""
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "06:50:00",
           "end_time": "07:15:00",
           "episode_number": "E1"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "07:15:00",
           "end_time": "07:40:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Mega Transports Specials",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTS",
           "start_time": "07:40:00",
           "end_time": "08:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Story Of Playstation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOP",
           "start_time": "08:30:00",
           "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "09:20:00",
           "end_time": "10:10:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Iberia's Woodlands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/IW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IW",
           "start_time": "10:10:00",
           "end_time": "11:05:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Iberia's Woodlands",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/IW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IW",
           "start_time": "11:05:00",
           "end_time": "12:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "12:00:00",
           "end_time": "12:45:00",
           "episode_number": "S2 E6"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "12:45:00",
           "end_time": "13:10:00",
           "episode_number": "S2 E1"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "13:10:00",
           "end_time": "13:35:00",
           "episode_number": "S2 E2"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "13:35:00",
           "end_time": "14:00:00",
           "episode_number": "S2 E3"
         },
         {
           "show_name": "Food Trail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FT",
           "start_time": "14:00:00",
           "end_time": "14:25:00",
           "episode_number": "S2 E4"
         },
         {
           "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RMM",
           "start_time": "14:25:00",
           "end_time": "15:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RMM",
           "start_time": "15:10:00",
           "end_time": "15:55:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Reframed: Marilyn Monroe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/RMM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RMM",
           "start_time": "15:55:00",
           "end_time": "16:40:00",
           "episode_number": "E4"
         },
         {
           "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
           "start_time": "16:40:00",
           "end_time": "17:30:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
           "start_time": "17:30:00",
           "end_time": "18:20:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Rhino Orphanage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TRO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
           "start_time": "18:20:00",
           "end_time": "19:10:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "19:10:00",
           "end_time": "19:40:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "19:40:00",
           "end_time": "20:10:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "20:10:00",
           "end_time": "20:40:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "20:40:00",
           "end_time": "21:10:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "21:10:00",
           "end_time": "21:35:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Wild Warrior Encounters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WWE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
           "start_time": "21:35:00",
           "end_time": "22:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "22:00:00",
           "end_time": "22:45:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "22:45:00",
           "end_time": "23:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "23:30:00",
           "end_time": "00:10:00",
           "episode_number": "E3"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-08",
+      "programs": [
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "00:00:00",
+          "end_time": "00:10:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Aerial Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "00:10:00",
+          "end_time": "00:55:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Aerial Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "00:55:00",
+          "end_time": "01:40:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "01:40:00",
+          "end_time": "02:30:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "02:30:00",
+          "end_time": "03:20:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "03:20:00",
+          "end_time": "04:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Rhino Orphanage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRO",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "05:00:00",
+          "end_time": "05:35:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "05:35:00",
+          "end_time": "06:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "06:10:00",
+          "end_time": "06:45:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "06:45:00",
+          "end_time": "07:15:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "07:15:00",
+          "end_time": "07:40:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "07:40:00",
+          "end_time": "08:05:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Wild Warrior Encounters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWE",
+          "start_time": "08:05:00",
+          "end_time": "08:35:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Iberia's Woodlands",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IW",
+          "start_time": "08:35:00",
+          "end_time": "09:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Costa Rica: Rise Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CRRO",
+          "start_time": "09:30:00",
+          "end_time": "10:25:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Costa Rica: Rise Of...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CRRO",
+          "start_time": "10:25:00",
+          "end_time": "11:20:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "11:20:00",
+          "end_time": "12:10:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Destination Flavour Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFJ",
+          "start_time": "12:10:00",
+          "end_time": "12:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Destination Flavour Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFJ",
+          "start_time": "12:40:00",
+          "end_time": "13:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Destination Flavour Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFJ",
+          "start_time": "13:10:00",
+          "end_time": "13:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Destination Flavour Japan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFJ",
+          "start_time": "13:40:00",
+          "end_time": "14:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Reframed: Marilyn Monroe",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RMM",
+          "start_time": "14:10:00",
+          "end_time": "14:55:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Keanu Reeves: The One And Only",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KRTOA",
+          "start_time": "14:55:00",
+          "end_time": "15:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Morgan Freeman: Incredible...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MFI",
+          "start_time": "15:50:00",
+          "end_time": "16:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "16:40:00",
+          "end_time": "17:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "17:30:00",
+          "end_time": "18:20:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "18:20:00",
+          "end_time": "19:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "19:10:00",
+          "end_time": "19:35:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "19:35:00",
+          "end_time": "20:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "20:00:00",
+          "end_time": "20:25:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "20:25:00",
+          "end_time": "20:50:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "20:50:00",
+          "end_time": "21:15:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "21:15:00",
+          "end_time": "21:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "21:40:00",
+          "end_time": "22:20:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "22:20:00",
+          "end_time": "23:05:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "23:05:00",
+          "end_time": "23:50:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Aerial Italy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AI",
+          "start_time": "23:50:00",
+          "end_time": "00:35:00",
+          "episode_number": "E4"
         }
       ]
     }

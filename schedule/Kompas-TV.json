@@ -2,25 +2,25 @@
   "channel_name": "Kompas TV",
   "schedule": {
     "today": {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "programs": [
         {
-          "show_name": "AnugerahNya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/A.svg",
+          "show_name": "Daily Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "00:30:00",
-          "end_time": "01:30:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "show_name": "Kompas Petang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/KP.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:30:00",
+          "show_name": "Eredivisie 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E2",
+          "start_time": "00:45:00",
+          "end_time": "03:00:00",
           "episode_number": ""
         }
       ]

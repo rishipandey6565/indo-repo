@@ -2,158 +2,165 @@
   "channel_name": "Muslim TV",
   "schedule": {
     "today": {
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "programs": [
         {
           "show_name": "Siraman Qolbu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/SQ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SQ",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Live Dari Mekkah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/LDM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDM",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Cahaya Lentera Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CLH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CLH",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "99 Nama Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/9NC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hafiz Indonesia 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/HI2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HI2",
           "start_time": "05:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Cahaya Hati Indonesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CHI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CHI",
           "start_time": "06:30:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kun Anta Mendadak Santri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KAMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAMS",
           "start_time": "07:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "World Of Moslem",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/WOM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOM",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "09:00:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_name": "99 Nama Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "10:15:00",
           "end_time": "11:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Siraman Qolbu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/SQ.svg",
+          "show_name": "Titik Balik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "11:15:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ustadz Palsu Penjual Mantera",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/UPPM.svg",
+          "show_name": "Mendadak Ustad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "12:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cahaya Hati Indonesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CHI.svg",
+          "show_name": "Hijrah Traveler",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
           "start_time": "14:00:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ayat-Ayat Langit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AL",
+          "start_time": "14:30:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "15:30:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cahaya Lentera Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CLH.svg",
+          "show_name": "Lentera Hati",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "17:30:00",
           "end_time": "18:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "18:45:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "99 Nama Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/9NC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ustadz Palsu Penjual Mantera",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/UPPM.svg",
+          "show_name": "Mendadak Ustad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "22:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Siraman Qolbu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/SQ.svg",
+          "show_name": "Titik Balik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
@@ -161,165 +168,165 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "show_name": "Siraman Qolbu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/SQ.svg",
+          "show_name": "Titik Balik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Live Dari Mekkah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/LDM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDM",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cahaya Lentera Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CLH.svg",
+          "show_name": "Lentera Hati",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "99 Nama Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/9NC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hafiz Indonesia 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/HI2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HI2",
           "start_time": "05:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cahaya Hati Indonesia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/CHI.svg",
+          "show_name": "Ayat-Ayat Langit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AL",
           "start_time": "06:30:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kun Anta Mendadak Santri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KAMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAMS",
           "start_time": "07:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "World Of Moslem",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/WOM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOM",
           "start_time": "08:30:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "09:00:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
           "show_name": "99 Nama Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/9NC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "10:15:00",
           "end_time": "11:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Titik Balik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/TB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "11:15:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mendadak Ustad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/MU.svg",
+          "show_name": "Ilmu Macan Ustad Kamal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IMUK",
           "start_time": "12:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hijrah Traveler",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/HT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ayat-Ayat Langit",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AL",
           "start_time": "14:30:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "15:30:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Lentera Hati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/LH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "17:30:00",
           "end_time": "18:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Amanah Wali S4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/AWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWS",
           "start_time": "18:45:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kasih Jannah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "20:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "99 Nama Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/9NC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=9NC",
           "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mendadak Ustad",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/MU.svg",
+          "show_name": "Ilmu Macan Ustad Kamal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IMUK",
           "start_time": "22:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Titik Balik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/muslim-tv/TB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
