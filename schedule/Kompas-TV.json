@@ -2,25 +2,32 @@
   "channel_name": "Kompas TV",
   "schedule": {
     "today": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "show_name": "Daily Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/DS.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
+          "show_name": "Voice Of Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VOL",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Suara Alfa Omega",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAO",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "programs": [
         {
-          "show_name": "Eredivisie 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kompas-tv/E2.svg",
-          "start_time": "00:45:00",
-          "end_time": "03:00:00",
+          "show_name": "Borgol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "02:45:00",
+          "end_time": "04:00:00",
           "episode_number": ""
         }
       ]
