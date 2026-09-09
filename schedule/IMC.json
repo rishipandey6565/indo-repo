@@ -2,235 +2,242 @@
   "channel_name": "IMC",
   "schedule": {
     "today": {
-      "date": "2026-09-09",
-      "programs": [
-        {
-          "show_name": "Kemesraan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/K.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rumah Bekas Kuburan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/RBK.svg",
-          "start_time": "01:35:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sunan Gunung Jati",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/SGJ.svg",
-          "start_time": "02:55:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bunga Cinta Kasih",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BCK.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dia Yang Tercinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/DYT.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Satu Kecupan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/SK.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ayat-Ayat Adinda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/AA.svg",
-          "start_time": "08:55:00",
-          "end_time": "10:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cowok Bikin Pusing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/CBP.svg",
-          "start_time": "10:35:00",
-          "end_time": "12:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuntilanak 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/K2.svg",
-          "start_time": "12:05:00",
-          "end_time": "13:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Baby Blues",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BB.svg",
-          "start_time": "13:50:00",
-          "end_time": "15:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hotline 666",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/H6.svg",
-          "start_time": "15:35:00",
-          "end_time": "17:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kuntilanak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/K.svg",
-          "start_time": "17:05:00",
-          "end_time": "18:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cewek Gokil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/CG.svg",
-          "start_time": "18:45:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mencari Hilal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/MH.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Skandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/S.svg",
-          "start_time": "21:35:00",
-          "end_time": "22:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pantai Selatan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PS.svg",
-          "start_time": "22:50:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-10",
       "programs": [
         {
           "show_name": "Pantai Selatan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "00:00:00",
           "end_time": "00:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Hantu Budeg",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/HB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HB",
           "start_time": "00:10:00",
           "end_time": "01:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Nada-Nada Rindu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/NR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NR",
           "start_time": "01:35:00",
           "end_time": "03:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Menerjang Badai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/MB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MB",
           "start_time": "03:40:00",
           "end_time": "05:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Arie Hanggara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/AH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AH",
           "start_time": "05:20:00",
           "end_time": "07:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Belahan Jiwa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
           "start_time": "07:05:00",
           "end_time": "08:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Soekarno",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:35:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mati Muda Di Pelukan Janda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/MMDPJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMDPJ",
           "start_time": "11:00:00",
           "end_time": "12:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Jones: Jomblo Ngenes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/JJN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JJN",
           "start_time": "12:20:00",
           "end_time": "13:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Nazar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=N",
           "start_time": "13:40:00",
           "end_time": "15:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Ateng Minta Kawin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/AMK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMK",
           "start_time": "15:10:00",
           "end_time": "17:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Cintaku Di Rumah Susun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/CDRS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDRS",
           "start_time": "17:05:00",
           "end_time": "18:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Perempuan-Perempuan Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PL",
           "start_time": "18:40:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kuntilanak 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/K2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K2",
           "start_time": "20:00:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Ummi Aminah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/UA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UA",
           "start_time": "21:45:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bangkit Dari Lumpur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BDL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDL",
           "start_time": "23:30:00",
           "end_time": "00:50:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-11",
+      "programs": [
+        {
+          "show_name": "Bangkit Dari Lumpur",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDL",
+          "start_time": "00:00:00",
+          "end_time": "00:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Membakar Matahari",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "00:50:00",
+          "end_time": "02:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pantai Selatan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "02:15:00",
+          "end_time": "03:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rumah Bekas Kuburan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RBK",
+          "start_time": "03:35:00",
+          "end_time": "04:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Titisan Si Pitung",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSP",
+          "start_time": "04:55:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sunan Gunung Jati",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SGJ",
+          "start_time": "06:10:00",
+          "end_time": "07:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kuntilanak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "07:45:00",
+          "end_time": "09:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cewek Gokil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CG",
+          "start_time": "09:25:00",
+          "end_time": "10:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mencari Hilal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MH",
+          "start_time": "10:40:00",
+          "end_time": "12:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Skandal",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "12:15:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cowok Bikin Pusing",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CBP",
+          "start_time": "13:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kuntilanak 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K2",
+          "start_time": "15:00:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Baby Blues",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "16:45:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hotline 666",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H6",
+          "start_time": "18:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "2 Dari 3 Laki-Laki",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2D3L",
+          "start_time": "20:00:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cinta Tapi Beda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTB",
+          "start_time": "21:35:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hantu Juga Selfie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HJS",
+          "start_time": "23:10:00",
+          "end_time": "00:45:00",
           "episode_number": ""
         }
       ]
