@@ -2,270 +2,277 @@
   "channel_name": "SCTV",
   "schedule": {
     "today": {
-      "date": "2026-09-12",
-      "programs": [
-        {
-          "show_name": "Arafta Terbelenggu Takdir",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ATT.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sekretaris Bos Galak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SBG.svg",
-          "start_time": "00:45:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sinema Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SM.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sinema Dini Hari",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SDH.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Barakallah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Buser",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Liputan 6 Pagi (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6P.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Halo Selebriti",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/HS.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tiba-Tiba Kuis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/TK.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Abang Bandros Menang Banyak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ABMB.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FTV Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/FP.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Liputan 6 Siang (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6S.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Samudra Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SC.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Karnaval SCTV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/KS.svg",
-          "start_time": "14:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Asmara Gen Z New Era",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/AGZNE.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seindah Masa Remaja",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SMR.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wajah Cinta Yang Lain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/WCYL.svg",
-          "start_time": "19:45:00",
-          "end_time": "21:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Biarkan Hati Bicara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/BHB.svg",
-          "start_time": "21:15:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/PL.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-13",
       "programs": [
         {
           "show_name": "Premier League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/PL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PL(",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sinema Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SM",
           "start_time": "01:30:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sinema Dini Hari",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SDH",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Barakallah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Buser",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Pagi (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6P(",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Point Of View",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/POV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=POV",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Halo Selebriti",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/HS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
           "start_time": "06:30:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Karnaval SCTV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/KS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS(",
           "start_time": "07:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "FTV Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/FP.svg",
+          "show_name": "Lapor Ketua Cemen Di Sini...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LKCDS",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Siang (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6S(",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Samudra Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC",
           "start_time": "12:30:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Karnaval SCTV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/KS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KS(",
           "start_time": "14:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Asmara Gen Z New Era",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/AGZNE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGZNE",
           "start_time": "17:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Seindah Masa Remaja",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SMR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMR",
           "start_time": "18:30:00",
           "end_time": "19:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Wajah Cinta Yang Lain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/WCYL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCYL",
           "start_time": "19:45:00",
           "end_time": "21:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Biarkan Hati Bicara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/BHB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BHB",
           "start_time": "21:15:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Arafta Terbelenggu Takdir",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ATT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATT",
           "start_time": "23:00:00",
           "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "show_name": "The Body Kuat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBK",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sinema Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SM",
+          "start_time": "01:45:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sinema Dini Hari",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SDH",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:00:00",
+          "end_time": "04:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:28:00",
+          "end_time": "04:54:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:54:00",
+          "end_time": "06:06:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "06:06:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "07:30:00",
+          "end_time": "08:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "08:34:00",
+          "end_time": "09:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "09:34:00",
+          "end_time": "11:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "11:25:00",
+          "end_time": "12:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "12:10:00",
+          "end_time": "13:54:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "13:54:00",
+          "end_time": "15:33:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "15:33:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "17:00:00",
+          "end_time": "18:27:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "18:27:00",
+          "end_time": "19:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "19:53:00",
+          "end_time": "21:21:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "21:21:00",
+          "end_time": "22:58:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "22:58:00",
+          "end_time": "23:57:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "23:57:00",
+          "end_time": "01:26:00",
           "episode_number": ""
         }
       ]
