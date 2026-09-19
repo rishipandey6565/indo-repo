@@ -2,233 +2,226 @@
   "channel_name": "Soccer Channel",
   "schedule": {
     "today": {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "show_name": "Sportacular Match: ROU Vs WAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMRVW.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ACL Two 2026/27: ARK Vs MUH",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2AV.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sikat Tipis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ST.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shopee Cup '25/26: NDI Vs LCS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCNV.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hyundai C'ship '26: VIE Vs MAS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCVV.svg",
-          "start_time": "06:45:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sportacular Match: ROU Vs WAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMRVW.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ACL Two 2026/27: NAH Vs TAA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2NV.svg",
-          "start_time": "11:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hyundai C'ship '26: THA Vs VIE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCTV.svg",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sportacular Match: ALB Vs LUX",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMAVL.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shopee Cup '25/26: BUR Vs SHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCBV.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Timnas Spesial: IDN Vs AUS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TSIVA.svg",
-          "start_time": "19:30:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hyundai C'ship '26: THA Vs VIE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCTV.svg",
-          "start_time": "21:30:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sportacular Match: ALB Vs LUX",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMAVL.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-20",
       "programs": [
         {
           "show_name": "Sportacular Match: ALB Vs LUX",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMAVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMAVL",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ACL Two 2026/27: NAH Vs TAA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2NV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT2NV",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Shopee Cup '25/26: BUR Vs SHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCBV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'BV",
           "start_time": "04:30:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hyundai C'ship '26: THA Vs VIE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCTV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'TV",
           "start_time": "06:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular Match: ALB Vs LUX",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMAVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMAVL",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ACL Two 2026/27: SHS Vs TAM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2SV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT2SV",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hyundai C'ship '26: VIE Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCVV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'VV",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sportacular Match: ENG Vs NZL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMEVN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMEVN",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Shopee Cup '25/26: SEL Vs BGP",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCSV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'SV",
           "start_time": "17:30:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Timnas Spesial: BHR Vs IDN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TSBVI.svg",
+          "show_name": "Magazine UEFA Nations League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MUNL",
           "start_time": "19:30:00",
-          "end_time": "21:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Timnas Spesial: BHR Vs IDN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSBVI",
+          "start_time": "20:00:00",
+          "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hyundai C'ship '26: VIE Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCVV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'VV",
+          "start_time": "22:00:00",
+          "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "show_name": "Sportacular Match: ENG Vs NZL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMEVN",
+          "start_time": "00:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ACL Two 2026/27: SHS Vs TAM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT2SV",
+          "start_time": "02:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Magazine UEFA Nations League",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MUNL",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shopee Cup '25/26: SEL Vs BGP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'SV",
+          "start_time": "04:30:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hyundai C'ship '26: VIE Vs THA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'VV",
+          "start_time": "06:30:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sportacular Match: ENG Vs NZL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMEVN",
+          "start_time": "08:30:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ultimate Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
+          "start_time": "10:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ACL Elite 2026/27: RAT Vs SHP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE2RV",
+          "start_time": "11:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hyundai C'ship '26: CAM Vs SIN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'CV",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sportacular Match: SWI Vs AUS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMSVA",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Sikat Tipis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shopee Cup '25/26: SEL Vs BGP",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'SV",
+          "start_time": "18:00:00",
+          "end_time": "19:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Timnas Spesial: CHN Vs IDN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSCVI",
+          "start_time": "19:45:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hyundai C'ship '26: CAM Vs SIN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'CV",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular Match: ENG Vs NZL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMEVN.svg",
+          "show_name": "Sportacular Match: SWI Vs AUS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMSVA",
           "start_time": "23:30:00",
           "end_time": "01:30:00",
           "episode_number": ""

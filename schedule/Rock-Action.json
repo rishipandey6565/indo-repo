@@ -2,228 +2,221 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "show_name": "The Librarian: Solomon's Mines",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLSM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TL.svg",
-          "start_time": "00:05:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Big Boss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TBB.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLJC.svg",
-          "start_time": "03:25:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Assassin's Creed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/AC.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOF.svg",
-          "start_time": "06:45:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Daylight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/D.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Curse Of King Tut's Tomb, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/COKTT.svg",
-          "start_time": "10:20:00",
-          "end_time": "11:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Curse Of King Tut's Tomb, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/COKTT.svg",
-          "start_time": "11:45:00",
-          "end_time": "13:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Solomon's Mines",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLSM.svg",
-          "start_time": "13:10:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Quest For Spear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLQFS.svg",
-          "start_time": "14:45:00",
-          "end_time": "16:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLJC.svg",
-          "start_time": "16:35:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Assassin's Creed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/AC.svg",
-          "start_time": "18:10:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Red Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RS.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Corner Office",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CO.svg",
-          "start_time": "21:50:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOF.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-20",
       "programs": [
         {
           "show_name": "Fist Of Fury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/FOF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOF",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Rambo: First Blood, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RFBP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFBP2",
           "start_time": "01:15:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Revenant",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
           "start_time": "02:50:00",
           "end_time": "05:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Solomon's Mines",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLSM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLSM",
           "start_time": "05:20:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "10.5 Apocalypse, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/1AP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1AP1",
           "start_time": "07:00:00",
           "end_time": "08:25:00",
           "episode_number": ""
         },
         {
           "show_name": "10.5 Apocalypse, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/1AP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1AP2",
           "start_time": "08:25:00",
           "end_time": "09:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Big Boss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBB",
           "start_time": "09:55:00",
           "end_time": "11:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Waterworld",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "11:35:00",
           "end_time": "13:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLJC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
           "start_time": "13:45:00",
           "end_time": "15:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Assassin's Creed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/AC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AC",
           "start_time": "15:20:00",
           "end_time": "17:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Curse Of King Tut's Tomb, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/COKTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
           "start_time": "17:05:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Curse Of King Tut's Tomb, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/COKTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
           "start_time": "18:30:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Runaway Jury",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RJ",
           "start_time": "19:55:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Doomsday",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
           "start_time": "22:00:00",
           "end_time": "23:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Librarian: Judas Chalice",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TLJC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
           "start_time": "23:40:00",
           "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "show_name": "The Librarian: Judas Chalice",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Assassin's Creed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AC",
+          "start_time": "01:15:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "03:00:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Corner Office",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CO",
+          "start_time": "04:30:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "06:10:00",
+          "end_time": "07:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Curse Of King Tut's Tomb, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COKTT",
+          "start_time": "07:35:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Librarian: Judas Chalice",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLJC",
+          "start_time": "09:00:00",
+          "end_time": "10:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFBP2",
+          "start_time": "10:35:00",
+          "end_time": "12:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Revenant",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "12:10:00",
+          "end_time": "14:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Librarian: Solomon's Mines",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLSM",
+          "start_time": "14:40:00",
+          "end_time": "16:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Assassin's Creed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AC",
+          "start_time": "16:15:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Red Sun",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RS",
+          "start_time": "18:00:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Back To The Future 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTTF3",
+          "start_time": "19:55:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL",
+          "start_time": "21:50:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Doomsday",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "23:30:00",
+          "end_time": "01:10:00",
           "episode_number": ""
         }
       ]
