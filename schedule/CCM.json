@@ -2,221 +2,214 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-09-20",
-      "programs": [
-        {
-          "show_name": "Young Vagabond",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/YV.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Les Belles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LB.svg",
-          "start_time": "01:00:00",
-          "end_time": "03:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Human Goddess",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THG.svg",
-          "start_time": "03:05:00",
-          "end_time": "04:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Guess Who Killed My 12 Lovers?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/GWKM1.svg",
-          "start_time": "04:55:00",
-          "end_time": "06:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Double Bliss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DB.svg",
-          "start_time": "06:35:00",
-          "end_time": "08:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Golden Seal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TGS.svg",
-          "start_time": "08:10:00",
-          "end_time": "09:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Jade Raksha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TJR.svg",
-          "start_time": "09:45:00",
-          "end_time": "11:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beyond The Great Wall",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BTGW.svg",
-          "start_time": "11:25:00",
-          "end_time": "13:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Song Of Orchid Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SOOI.svg",
-          "start_time": "13:05:00",
-          "end_time": "14:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Heads For Sale",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HFS.svg",
-          "start_time": "14:40:00",
-          "end_time": "16:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Scandal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/S.svg",
-          "start_time": "16:10:00",
-          "end_time": "17:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legend Of The Fox",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LOTF.svg",
-          "start_time": "17:50:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Golden Swallow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/GS.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Opium And The Kung-Fu Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/OATKM.svg",
-          "start_time": "21:55:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Perfumed Arrow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TPA.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-21",
       "programs": [
         {
           "show_name": "The Perfumed Arrow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TPA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPA",
           "start_time": "00:00:00",
           "end_time": "01:10:00",
           "episode_number": ""
         },
         {
           "show_name": "New Tales Of The Flying Fox",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/NTOTF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NTOTF",
           "start_time": "01:10:00",
           "end_time": "02:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Golden Knight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TGK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGK",
           "start_time": "02:50:00",
           "end_time": "04:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The Weird Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWM",
           "start_time": "04:35:00",
           "end_time": "06:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Swift Sword",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SS",
           "start_time": "06:10:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Crimson Palm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCP",
           "start_time": "07:45:00",
           "end_time": "09:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Raw Courage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/RC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
           "start_time": "09:10:00",
           "end_time": "11:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Sweet And Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SAW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAW",
           "start_time": "11:10:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Dragon Maiden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/LDM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LDM",
           "start_time": "12:45:00",
           "end_time": "14:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Call Of The Sea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/COTS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COTS",
           "start_time": "14:25:00",
           "end_time": "16:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Wandering Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWS",
           "start_time": "16:20:00",
           "end_time": "18:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Madam White Snake",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MWS",
           "start_time": "18:15:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Five Superfighters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
           "start_time": "20:00:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Pale Passion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP",
           "start_time": "21:45:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Brothers Five",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BF",
           "start_time": "23:25:00",
           "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-22",
+      "programs": [
+        {
+          "show_name": "Brothers Five",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BF",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mirror And The Lichee",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMATL",
+          "start_time": "01:15:00",
+          "end_time": "03:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Diary Of A Lady-Killer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOAL",
+          "start_time": "03:05:00",
+          "end_time": "04:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Princess Iron Fan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIF",
+          "start_time": "04:50:00",
+          "end_time": "06:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Return To The 36th Chamber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTT3C",
+          "start_time": "06:35:00",
+          "end_time": "08:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Dancing Millionairess",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDM",
+          "start_time": "08:25:00",
+          "end_time": "10:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Treasure Hunters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTH",
+          "start_time": "10:25:00",
+          "end_time": "12:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Moonlight Serenade",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MS",
+          "start_time": "12:20:00",
+          "end_time": "14:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Flag Of Iron",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFOI",
+          "start_time": "14:15:00",
+          "end_time": "16:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hong Kong Rhapsody",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKR",
+          "start_time": "16:15:00",
+          "end_time": "18:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Thunderbolt Fist",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTF",
+          "start_time": "18:25:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Young Lovers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YL",
+          "start_time": "20:00:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Lipstick",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OL",
+          "start_time": "21:50:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ambitious Kung Fu Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AKFG",
+          "start_time": "23:30:00",
+          "end_time": "01:10:00",
           "episode_number": ""
         }
       ]

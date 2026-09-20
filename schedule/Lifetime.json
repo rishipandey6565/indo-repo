@@ -2,348 +2,390 @@
   "channel_name": "Lifetime",
   "schedule": {
     "today": {
-      "date": "2026-09-20",
-      "programs": [
-        {
-          "show_name": "Murder At The Derby",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MATD.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Abducted At An HBCU: Missing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AAAHM.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Killer I Picked Up",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TKIPU.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Trapped In Her Dorm Room",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TIHDR.svg",
-          "start_time": "03:20:00",
-          "end_time": "05:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Got To Leave Something",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GTLS.svg",
-          "start_time": "05:05:00",
-          "end_time": "06:05:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:05:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "07:05:00",
-          "end_time": "07:35:00",
-          "episode_number": "E15"
-        },
-        {
-          "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
-          "start_time": "07:35:00",
-          "end_time": "08:05:00",
-          "episode_number": "E16"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "08:05:00",
-          "end_time": "08:35:00",
-          "episode_number": "S2 E13"
-        },
-        {
-          "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
-          "start_time": "08:35:00",
-          "end_time": "09:35:00",
-          "episode_number": "S3 E8"
-        },
-        {
-          "show_name": "Hoax: Kidnapping Of S. Papini",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/HKOSP.svg",
-          "start_time": "09:35:00",
-          "end_time": "11:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Betrayed By Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/BBL.svg",
-          "start_time": "11:15:00",
-          "end_time": "12:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Got To Leave Something",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GTLS.svg",
-          "start_time": "12:55:00",
-          "end_time": "13:55:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Pet Telling",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PT.svg",
-          "start_time": "13:55:00",
-          "end_time": "14:20:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "14:20:00",
-          "end_time": "15:25:00",
-          "episode_number": "S18 E51"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:40:00",
-          "episode_number": "S18 E52"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "16:40:00",
-          "end_time": "17:45:00",
-          "episode_number": "S18 E53"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "17:45:00",
-          "end_time": "18:45:00",
-          "episode_number": "S18 E54"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "18:45:00",
-          "end_time": "20:00:00",
-          "episode_number": "S18 E55"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:00:00",
-          "episode_number": "S2 E15"
-        },
-        {
-          "show_name": "Wife Stalker",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/WS.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Girl In The Attic",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GITA.svg",
-          "start_time": "22:35:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-21",
       "programs": [
         {
           "show_name": "Girl In The Attic",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GITA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GITA",
           "start_time": "00:00:00",
           "end_time": "00:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "00:10:00",
           "end_time": "01:10:00",
           "episode_number": "S2 E15"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "01:10:00",
           "end_time": "01:40:00",
           "episode_number": "S2 E13"
         },
         {
           "show_name": "Betrayed By Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/BBL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBL",
           "start_time": "01:40:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Wife Stalker",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "05:05:00",
           "end_time": "05:30:00",
           "episode_number": "S2 E43"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": "S2 E44"
         },
         {
           "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": "S6 E93"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "07:00:00",
           "end_time": "08:10:00",
           "episode_number": "S18 E55"
         },
         {
           "show_name": "1,000 Ways To Dine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/1WTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
           "start_time": "08:10:00",
           "end_time": "08:40:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Oceanfront Property",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "08:40:00",
           "end_time": "09:05:00",
           "episode_number": "S1 E5"
         },
         {
           "show_name": "Oceanfront Property",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/OP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "09:05:00",
           "end_time": "09:30:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "MasterChef USA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "09:30:00",
           "end_time": "10:30:00",
           "episode_number": "S13 E15"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "The Killer Inside: Ruth Finley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TKIRF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKIRF",
           "start_time": "11:00:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "12:45:00",
           "end_time": "14:00:00",
           "episode_number": "S18 E55"
         },
         {
           "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
           "start_time": "14:00:00",
           "end_time": "14:30:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Hit-And-Miss Tour",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/HT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
           "start_time": "14:30:00",
           "end_time": "15:30:00",
           "episode_number": "S1 E23"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": "E29"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": "E30"
         },
         {
           "show_name": "MasterChef USA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": "S13 E15"
         },
         {
           "show_name": "Zombie House Flipping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/ZHF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
           "start_time": "17:30:00",
           "end_time": "18:30:00",
           "episode_number": "S6 E93"
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "18:30:00",
           "end_time": "19:30:00",
           "episode_number": "S2 E15"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "19:30:00",
           "end_time": "21:00:00",
           "episode_number": "S18 E56"
         },
         {
           "show_name": "I Was Octomom: Natalie Suleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/IWONS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IWONS",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "22:35:00",
           "end_time": "00:05:00",
           "episode_number": "S18 E56"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-22",
+      "programs": [
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": "S18 E56"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "00:05:00",
+          "end_time": "01:05:00",
+          "episode_number": "S6 E93"
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "01:05:00",
+          "end_time": "01:35:00",
+          "episode_number": "S3 E71"
+        },
+        {
+          "show_name": "The Killer Inside: Ruth Finley",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKIRF",
+          "start_time": "01:35:00",
+          "end_time": "03:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Was Octomom: Natalie Suleman",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IWONS",
+          "start_time": "03:20:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "05:05:00",
+          "end_time": "05:30:00",
+          "episode_number": "S2 E45"
+        },
+        {
+          "show_name": "Meals In Minutes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": "S2 E46"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": "S6 E94"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": "S18 E56"
+        },
+        {
+          "show_name": "Oceanfront Property",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": "S1 E7"
+        },
+        {
+          "show_name": "Oceanfront Property",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": "S1 E8"
+        },
+        {
+          "show_name": "MasterChef USA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
+          "start_time": "09:30:00",
+          "end_time": "10:25:00",
+          "episode_number": "S13 E16"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "10:25:00",
+          "end_time": "10:55:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Surviving The Sleepover",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STS",
+          "start_time": "10:55:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "12:30:00",
+          "end_time": "13:45:00",
+          "episode_number": "S18 E56"
+        },
+        {
+          "show_name": "1,000 Ways To Dine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
+          "start_time": "13:45:00",
+          "end_time": "14:10:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Global Soul Kitchen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GSK",
+          "start_time": "14:10:00",
+          "end_time": "14:35:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Hit-And-Miss Tour",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HT",
+          "start_time": "14:35:00",
+          "end_time": "15:30:00",
+          "episode_number": "S1 E24"
+        },
+        {
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
+          "start_time": "15:30:00",
+          "end_time": "16:30:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "MasterChef USA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MU",
+          "start_time": "16:30:00",
+          "end_time": "17:30:00",
+          "episode_number": "S13 E16"
+        },
+        {
+          "show_name": "Zombie House Flipping",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ZHF",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": "S6 E94"
+        },
+        {
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Jason's Table: Dishes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JTD",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": "S18 E57"
+        },
+        {
+          "show_name": "1,000 Ways To Dine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "The Hockey Mom's Revenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THMR",
+          "start_time": "21:00:00",
+          "end_time": "22:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "22:35:00",
+          "end_time": "23:35:00",
+          "episode_number": "S18 E57"
+        },
+        {
+          "show_name": "1,000 Ways To Dine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1WTD",
+          "start_time": "23:35:00",
+          "end_time": "00:05:00",
+          "episode_number": "E8"
         }
       ]
     }
