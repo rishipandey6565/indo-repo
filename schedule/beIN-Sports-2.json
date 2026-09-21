@@ -2,235 +2,270 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-09-21",
-      "programs": [
-        {
-          "show_name": "LaLiga 2026/27: VIL Vs LEV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2VVL.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS Series 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSS2.svg",
-          "start_time": "01:30:00",
-          "end_time": "01:52:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga 2 '26/27: LEG Vs GRA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2LV.svg",
-          "start_time": "01:52:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
-          "start_time": "04:30:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2026/27: CRY Vs TOT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2CVT.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2026/27: WHU Vs EVE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2WVE.svg",
-          "start_time": "06:50:00",
-          "end_time": "08:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2026/27: BHA Vs AVL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2BVA.svg",
-          "start_time": "08:40:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2026/27: ARS Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2AVM.svg",
-          "start_time": "10:30:00",
-          "end_time": "12:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2026/27: AMD Vs BJK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2AV.svg",
-          "start_time": "12:20:00",
-          "end_time": "14:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SailGP 2026: Geneva Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/S2GD2.svg",
-          "start_time": "14:10:00",
-          "end_time": "15:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2026/27: FEN Vs EYU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
-          "start_time": "15:40:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WSL 2026/27: MCI Vs LIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2MVL.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2026/27: AMD Vs BJK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2AV.svg",
-          "start_time": "19:20:00",
-          "end_time": "21:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 2026/27: TSR Vs GAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2TV.svg",
-          "start_time": "21:10:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior: GEO Vs ITA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJGV.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-22",
       "programs": [
         {
           "show_name": "World Rugby Junior: GEO Vs ITA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJGV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJGV",
           "start_time": "00:00:00",
           "end_time": "00:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "00:50:00",
           "end_time": "02:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "02:20:00",
           "end_time": "03:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "03:50:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "World Rugby Junior: AUS Vs WAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJAV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJAV",
           "start_time": "05:05:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: KAS Vs KON",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2KV",
           "start_time": "07:00:00",
           "end_time": "08:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Pacific Nations Cup: FIJ Vs JPN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PNCFV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PNCFV",
           "start_time": "08:50:00",
           "end_time": "10:40:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: MCI Vs LIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2MVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVL",
           "start_time": "10:40:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: TSR Vs GAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2TV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2TV",
           "start_time": "12:30:00",
           "end_time": "14:20:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: CHA Vs LCL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2CVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVL",
           "start_time": "14:20:00",
           "end_time": "16:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Australian Open Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AOMH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
           "start_time": "16:10:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: FEN Vs EYU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
           "start_time": "17:30:00",
           "end_time": "19:20:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: ARS Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2AVM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2AVM",
           "start_time": "19:20:00",
           "end_time": "21:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: AMD Vs BJK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2AV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2AV",
           "start_time": "21:10:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "World Rugby Junior: IRL Vs FIJ",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJIV",
           "start_time": "23:00:00",
           "end_time": "00:55:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "show_name": "World Rugby Junior: IRL Vs FIJ",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJIV",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
+          "start_time": "00:55:00",
+          "end_time": "01:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL 2026/27: JUV Vs SLB (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2JVS",
+          "start_time": "01:55:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "PSG TV Specials 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTS2",
+          "start_time": "04:00:00",
+          "end_time": "04:30:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "This Is Paris 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIP2",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "PSG TV 2026/27: MAR Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT2MV",
+          "start_time": "05:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SailGP 2026: Geneva Day 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S2GD2",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match Australian Open 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMAO2",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match Australian Open 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMAO2",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match Australian Open 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMAO2",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SailGP Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH2",
+          "start_time": "10:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: FEN Vs EYU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
+          "start_time": "11:00:00",
+          "end_time": "12:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
+          "start_time": "12:50:00",
+          "end_time": "13:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pacific Nations Cup: FIJ Vs JPN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PNCFV",
+          "start_time": "13:50:00",
+          "end_time": "15:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SailGP Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SH2",
+          "start_time": "15:40:00",
+          "end_time": "16:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: TSR Vs GAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2TV",
+          "start_time": "16:40:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "This Is Paris 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIP2",
+          "start_time": "18:30:00",
+          "end_time": "19:00:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "PSG TV 2026/27: MAR Vs PSG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT2MV",
+          "start_time": "19:00:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: FEN Vs EYU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
+          "start_time": "21:00:00",
+          "end_time": "22:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "22:50:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior: RSA Vs ENG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJRV",
+          "start_time": "23:00:00",
+          "end_time": "00:50:00",
           "episode_number": ""
         }
       ]
