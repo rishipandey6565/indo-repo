@@ -2,277 +2,305 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-09-23",
-      "programs": [
-        {
-          "show_name": "UWCL 2026/27: INT Vs BKH (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2IVB.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UWCL 2026/27: ARS Vs HBK (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2AVH.svg",
-          "start_time": "01:55:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: FCB Vs INT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMFV.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV HL 2026/27: MUN Vs SAB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MH2MV.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV 2026/27: MUN Vs BHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/M2MVB.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Match Day: MUN Vs BHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MMDMV.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Treble 20: NFO Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2NV.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UWCL 2026/27: INT Vs BKH",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2IVB.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL 2026/27: PLZ Vs STG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2PVS.svg",
-          "start_time": "10:20:00",
-          "end_time": "12:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL 2026/27: HBS Vs DIN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2HVD.svg",
-          "start_time": "12:10:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "La Vuelta 2026: Stage 4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/LV2S4.svg",
-          "start_time": "14:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Treble 20: NFO Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2NV.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UWCL 2026/27: RMA Vs PSG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2RVP.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL 2026/27: LSK Vs TOR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2LVT.svg",
-          "start_time": "19:20:00",
-          "end_time": "21:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL 2026/27: SUN Vs AZA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVA.svg",
-          "start_time": "21:10:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Treble 20: NFO Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2NV.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: RMA Vs TOT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMRV.svg",
-          "start_time": "23:30:00",
-          "end_time": "23:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UWCL 2026/27: OHL Vs ROM (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVR.svg",
-          "start_time": "23:40:00",
-          "end_time": "01:55:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-24",
       "programs": [
         {
           "show_name": "UWCL 2026/27: OHL Vs ROM (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2OVR",
           "start_time": "00:00:00",
           "end_time": "01:55:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL 2026/27: CHE Vs FAK (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2CVF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2CVF",
           "start_time": "01:55:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Classic Matches: INT Vs ARS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMIV",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL Classic Matches: SVW Vs VAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMSV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMSV",
           "start_time": "05:00:00",
           "end_time": "05:10:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: OLY Vs JAG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2OVJ",
           "start_time": "05:10:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Treble 20: MUN Vs DER",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2MV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2MV",
           "start_time": "07:00:00",
           "end_time": "07:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL 2026/27: OHL Vs ROM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2OVR",
           "start_time": "07:30:00",
           "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: JUV Vs NEC",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2JVN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2JVN",
           "start_time": "09:20:00",
           "end_time": "11:10:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: OLY Vs JAG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2OVJ",
           "start_time": "11:10:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Classic Matches: CEL Vs JUV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMCV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMCV",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL 2026/27: CHE Vs FAK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2CVF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2CVF",
           "start_time": "14:00:00",
           "end_time": "15:50:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL Specials: Great Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/USGG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USGG",
           "start_time": "15:50:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
           "start_time": "16:00:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Classic Matches: INT Vs ARS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMIV",
           "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL 2026/27: BAR Vs PAR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2BVP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2BVP",
           "start_time": "17:30:00",
           "end_time": "19:15:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
           "start_time": "19:15:00",
           "end_time": "19:45:00",
           "episode_number": ""
         },
         {
           "show_name": "AFCON 2027: NAM Vs CGO (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/A2NVC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2NVC",
           "start_time": "19:45:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UWCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Top Ten: Season 25/26",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTTS2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTTS2",
           "start_time": "22:30:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "AFCON 2027: LBY Vs BOT (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/A2LVB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2LVB",
           "start_time": "22:45:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-25",
+      "programs": [
+        {
+          "show_name": "AFCON 2027: LBY Vs BOT (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2LVB",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: September",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2S",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Top Ten: League Cup",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTTLC",
+          "start_time": "01:30:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: TUN Vs UGA (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2TVU",
+          "start_time": "01:45:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Classic Matches: CEL Vs JUV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UCMCV",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UK Challenge",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UC",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Inside Sailing 2026: September",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS2S",
+          "start_time": "06:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL/UECL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Treble 20: COV Vs MUN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2CV",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL 2025/26",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2",
+          "start_time": "08:30:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: SLE Vs ZIM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2SVZ",
+          "start_time": "10:30:00",
+          "end_time": "12:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2026/27: AND Vs LYO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2AVL",
+          "start_time": "12:20:00",
+          "end_time": "14:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "La Vuelta 2026: Stage 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV2S6",
+          "start_time": "14:10:00",
+          "end_time": "17:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sports Rundown 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2",
+          "start_time": "17:10:00",
+          "end_time": "17:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL/UECL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "17:40:00",
+          "end_time": "18:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL/UECL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "18:40:00",
+          "end_time": "19:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "19:40:00",
+          "end_time": "20:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Outdoor Sports Show 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSS2",
+          "start_time": "20:10:00",
+          "end_time": "20:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sports Rundown 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2",
+          "start_time": "20:40:00",
+          "end_time": "21:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Magazine Show 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UMS2",
+          "start_time": "21:10:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: NIG Vs LES (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2NVL",
+          "start_time": "21:45:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]

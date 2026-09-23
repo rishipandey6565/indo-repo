@@ -2,130 +2,137 @@
   "channel_name": "SCTV",
   "schedule": {
     "today": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "programs": [
         {
-          "show_name": "Cantik-Cantik Supir Tembak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/CST.svg",
+          "show_name": "Cantika Manis Manjahhh",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CMM",
           "start_time": "00:00:00",
+          "end_time": "00:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Arafta: Terbelenggu Takdir",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATT",
+          "start_time": "00:45:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Indahnya Cinta Masa Muda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ICMM.svg",
+          "show_name": "Sinema Malam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SM",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sinema Dini Hari",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SDH",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Barakallah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Buser",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Pagi (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6P(",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hot Shot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/HS.svg",
+          "show_name": "Halo Selebriti",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tiba-Tiba Kuis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/TK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TK",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Si Cantik Milik Cowok Cadangan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SCMCC.svg",
+          "show_name": "Ada Kalanya Cinta Melipir...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AKCM",
           "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Asap Neng Sate Bau-Bau Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ANSBC.svg",
+          "show_name": "Kecantol Cinta Juragan Jengkol",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KCJJ",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Siang (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6S(",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Samudra Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC",
           "start_time": "12:30:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Istri Satu-Satunya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/IS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS",
           "start_time": "16:15:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Putri Pewaris",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/PP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP",
           "start_time": "17:00:00",
           "end_time": "18:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Cinta Seluas Samudra",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/CSS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSS",
           "start_time": "18:15:00",
           "end_time": "19:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Wajah Cinta Yang Lain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/WCYL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCYL",
           "start_time": "19:45:00",
           "end_time": "21:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Biarkan Hati Bicara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/BHB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BHB",
           "start_time": "21:15:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cantika Manis Manjahhh",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/CMM.svg",
+          "show_name": "Konon Katanya Cinta Itu Buta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKCIB",
           "start_time": "23:00:00",
           "end_time": "00:45:00",
           "episode_number": ""
@@ -133,137 +140,130 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "programs": [
         {
-          "show_name": "Cantika Manis Manjahhh",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/CMM.svg",
+          "show_name": "Konon Katanya Cinta Itu Buta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKCIB",
           "start_time": "00:00:00",
           "end_time": "00:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Arafta: Terbelenggu Takdir",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ATT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATT",
           "start_time": "00:45:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sinema Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SM",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sinema Dini Hari",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SDH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SDH",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Barakallah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Buser",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Pagi (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6P(",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Halo Selebriti",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/HS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tiba-Tiba Kuis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/TK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TK",
           "start_time": "07:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ada Kalanya Cinta Melipir...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/AKCM.svg",
+          "show_name": "Rebutan Hati Miss Unicorn",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RHMU",
           "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Kecantol Cinta Juragan Jengkol",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/KCJJ.svg",
+          "show_name": "FTV Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
           "start_time": "10:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Liputan 6 Siang (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/L6S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L6S(",
           "start_time": "12:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Samudra Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC",
           "start_time": "12:30:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Istri Satu-Satunya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/IS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IS",
           "start_time": "16:15:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Putri Pewaris",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/PP.svg",
-          "start_time": "17:00:00",
           "end_time": "18:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cinta Seluas Samudra",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/CSS.svg",
+          "show_name": "Pesta Bola ASEAN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PBA",
           "start_time": "18:15:00",
           "end_time": "19:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wajah Cinta Yang Lain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/WCYL.svg",
+          "show_name": "FIFA ASEAN Cup 2026 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FAC2(",
           "start_time": "19:45:00",
-          "end_time": "21:15:00",
+          "end_time": "22:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Biarkan Hati Bicara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/BHB.svg",
-          "start_time": "21:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BHB",
+          "start_time": "22:15:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Konon Katanya Cinta Itu Buta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/KKCIB.svg",
+          "show_name": "My Wife Anak Geng Motor",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MWAGM",
           "start_time": "23:00:00",
           "end_time": "00:45:00",
           "episode_number": ""

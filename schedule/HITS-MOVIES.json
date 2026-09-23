@@ -2,88 +2,95 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "programs": [
         {
-          "show_name": "Pillow Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/PT.svg",
+          "show_name": "Teenage Mutant Ninja Turtles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT",
           "start_time": "00:00:00",
-          "end_time": "02:00:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Creature From The Black Lagoon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CFTBL.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Along Came Polly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ACP.svg",
-          "start_time": "03:30:00",
-          "end_time": "05:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Blind Side",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBS.svg",
-          "start_time": "05:15:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Matrix Revolutions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
-          "start_time": "07:45:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Xanadu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/X.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Police Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/PS.svg",
-          "start_time": "12:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Blind Side",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TBS.svg",
-          "start_time": "14:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Matrix Revolutions",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMR.svg",
-          "start_time": "16:30:00",
-          "end_time": "19:00:00",
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
+          "start_time": "01:00:00",
+          "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Little Fockers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LF",
+          "start_time": "03:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "05:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Police Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "07:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pillow Talk",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT",
+          "start_time": "09:00:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Little Fockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LF",
+          "start_time": "11:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Yes Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YM",
+          "start_time": "15:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Mask",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bell, Book And Candle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBAC",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Love Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LS.svg",
+          "show_name": "Resident Evil: Retribution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RER",
           "start_time": "21:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Teenage Mutant Ninja Turtles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT.svg",
+          "show_name": "Teenage Mutant Ninja Turtles 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT2",
           "start_time": "23:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
@@ -91,97 +98,97 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "programs": [
         {
-          "show_name": "Teenage Mutant Ninja Turtles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT.svg",
+          "show_name": "Teenage Mutant Ninja Turtles 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT2",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Fast And The Furious",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TFATF.svg",
+          "show_name": "Along Came Polly",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACP",
           "start_time": "01:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Little Fockers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LF.svg",
+          "show_name": "Yes Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YM",
           "start_time": "03:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Love Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LS.svg",
+          "show_name": "The Mask",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "05:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Police Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/PS.svg",
+          "show_name": "Bell, Book And Candle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBAC",
           "start_time": "07:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pillow Talk",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/PT.svg",
+          "show_name": "Resident Evil: Retribution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RER",
           "start_time": "09:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Little Fockers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LF.svg",
+          "show_name": "Yes Man",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YM",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Love Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LS.svg",
+          "show_name": "The Mask",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Yes Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/YM.svg",
+          "show_name": "Bell, Book And Candle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BBAC",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Mask",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TM.svg",
+          "show_name": "Resident Evil: Retribution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RER",
           "start_time": "17:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bell, Book And Candle",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/BBAC.svg",
+          "show_name": "Teenage Mutant Ninja Turtles 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT2",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Resident Evil: Retribution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RER.svg",
+          "show_name": "Coach Carter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "21:00:00",
-          "end_time": "23:00:00",
+          "end_time": "23:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Teenage Mutant Ninja Turtles 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT2.svg",
-          "start_time": "23:00:00",
-          "end_time": "01:00:00",
+          "show_name": "Police Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "23:30:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         }
       ]
