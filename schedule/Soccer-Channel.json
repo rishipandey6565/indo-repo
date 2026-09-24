@@ -2,130 +2,137 @@
   "channel_name": "Soccer Channel",
   "schedule": {
     "today": {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "programs": [
         {
-          "show_name": "Sportacular Match: DEN Vs UKR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMDVU.svg",
+          "show_name": "UNL: AND Vs MLT (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAVM(",
           "start_time": "00:00:00",
-          "end_time": "01:30:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
+          "start_time": "01:00:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Elite 2026/27: AIN Vs NSR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AE2AV.svg",
-          "start_time": "02:00:00",
-          "end_time": "04:00:00",
+          "show_name": "UNL: NED Vs GER (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNVG(",
+          "start_time": "01:30:00",
+          "end_time": "03:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "03:45:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Classic Soccer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Shopee Cup '25/26: NDI Vs JDT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCNV.svg",
+          "show_name": "Shopee Cup '25/26: LCS Vs PKR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'LV",
           "start_time": "04:30:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship '26: MYA Vs MAS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCMV.svg",
+          "show_name": "Hyundai C'ship '26: LAO Vs THA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'LV",
           "start_time": "06:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular Match: DEN Vs UKR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMDVU.svg",
+          "show_name": "Sportacular Match: NED Vs UZB",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SMNVU",
           "start_time": "08:30:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "10:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Two 2026/27: VTL Vs MVC",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2VV.svg",
+          "show_name": "ACL Two 2026/27: SEO Vs PSB",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AT2SV",
           "start_time": "11:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship '26: LAO Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCLV.svg",
+          "show_name": "Hyundai C'ship '26: SIN Vs TLS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'SV",
           "start_time": "13:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular Match: GRE Vs ITA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMGVI.svg",
+          "show_name": "UNL: AND Vs MLT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAVM",
           "start_time": "15:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
+          "show_name": "Sikat Tipis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "17:00:00",
-          "end_time": "17:30:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Shopee Cup '25/26: LCS Vs PKR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCLV.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:30:00",
+          "show_name": "Shopee Cup '25/26: PKR Vs BAN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'PV",
+          "start_time": "18:00:00",
+          "end_time": "19:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Timnas Spesial: AUS Vs IDN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TSAVI.svg",
-          "start_time": "19:30:00",
+          "show_name": "Timnas Spesial: IDN Vs BHR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSIVB",
+          "start_time": "19:45:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCS",
           "start_time": "21:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "22:30:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UNL.svg",
+          "show_name": "UNL: GEO Vs NIR (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UGVN(",
           "start_time": "22:45:00",
           "end_time": "01:00:00",
           "episode_number": ""
@@ -133,137 +140,144 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "programs": [
         {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UNL.svg",
+          "show_name": "UNL: GEO Vs NIR (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UGVN(",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UNL.svg",
+          "show_name": "UNL: ITA Vs BEL (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UIVB(",
           "start_time": "01:30:00",
           "end_time": "03:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_name": "Sikat Tipis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
           "start_time": "03:45:00",
-          "end_time": "04:00:00",
+          "end_time": "04:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
-          "start_time": "04:00:00",
-          "end_time": "04:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shopee Cup '25/26: LCS Vs PKR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCLV.svg",
-          "start_time": "04:30:00",
+          "show_name": "Shopee Cup '25/26: PKR Vs BAN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SC'PV",
+          "start_time": "04:45:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship '26: LAO Vs THA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCLV.svg",
+          "show_name": "Hyundai C'ship '26: SIN Vs TLS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC'SV",
           "start_time": "06:30:00",
           "end_time": "08:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sportacular Match: GRE Vs ITA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SMGVI.svg",
+          "show_name": "Planet Football",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "08:30:00",
-          "end_time": "10:30:00",
+          "end_time": "08:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Ultimate Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TUG.svg",
-          "start_time": "10:30:00",
+          "show_name": "Pro Futsal League IDN 26/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
+          "start_time": "08:55:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "ACL Two 2026/27: SEO Vs PSB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/AT2SV.svg",
+          "show_name": "The Ultimate Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
           "start_time": "11:00:00",
-          "end_time": "13:00:00",
+          "end_time": "11:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hyundai C'ship '26: SIN Vs TLS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/HCSV.svg",
-          "start_time": "13:00:00",
-          "end_time": "15:00:00",
+          "show_name": "Pro Futsal League IDN 26/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
+          "start_time": "11:25:00",
+          "end_time": "13:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "UEFA Nations League",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UNL.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
+          "show_name": "Top Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
+          "start_time": "13:30:00",
+          "end_time": "13:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "Sikat Tipis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/ST.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
+          "show_name": "Pro Futsal League IDN 26/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
+          "start_time": "13:55:00",
+          "end_time": "16:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Shopee Cup '25/26: PKR Vs BAN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/SCPV.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:45:00",
+          "show_name": "Planet Football",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "16:00:00",
+          "end_time": "16:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Timnas Spesial: IDN Vs BHR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TSIVB.svg",
-          "start_time": "19:45:00",
-          "end_time": "21:30:00",
+          "show_name": "Pro Futsal League IDN 26/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
+          "start_time": "16:25:00",
+          "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Classic Soccer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/WCS.svg",
-          "start_time": "21:30:00",
+          "show_name": "The Ultimate Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TUG",
+          "start_time": "18:30:00",
+          "end_time": "18:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pro Futsal League IDN 26/27 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PFLI2",
+          "start_time": "18:55:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bola Bicara",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BB",
+          "start_time": "21:00:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Planet Football",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "22:00:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Top Goals",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/TG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TG",
           "start_time": "22:30:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/soccer-channel/UNL.svg",
+          "show_name": "UNL: FRO Vs KAZ (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UFVK(",
           "start_time": "22:45:00",
           "end_time": "01:00:00",
           "episode_number": ""
