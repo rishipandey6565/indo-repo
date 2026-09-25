@@ -2,382 +2,494 @@
   "channel_name": "ABC Australia",
   "schedule": {
     "today": {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "show_name": "Media Watch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "National Press Club Address",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NPCA.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Pacific",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TP.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "News Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/NB.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC News Mornings",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANM.svg",
-          "start_time": "06:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "AFLW: Essendon Vs Eagles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AEVE.svg",
-          "start_time": "09:00:00",
-          "end_time": "10:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Streets With Dan Hong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TSWDH.svg",
-          "start_time": "10:55:00",
-          "end_time": "11:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Chef's Garden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TCG.svg",
-          "start_time": "11:25:00",
-          "end_time": "11:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dream Gardens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/DG.svg",
-          "start_time": "11:45:00",
-          "end_time": "12:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Pacific",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TP.svg",
-          "start_time": "12:15:00",
-          "end_time": "12:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "That Pacific Sports Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TPSS.svg",
-          "start_time": "12:45:00",
-          "end_time": "13:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hunt For Family Court Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/HFFCK.svg",
-          "start_time": "13:15:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC News With Joe O'Brien",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANWJO.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gardening Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GA.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "AFLW: Melbourne Vs Kangaroos",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AMVK.svg",
-          "start_time": "16:10:00",
-          "end_time": "18:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "18:10:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hunt For Family Court Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/HFFCK.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Judgment: Cases Changed AUS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/JCCA.svg",
-          "start_time": "20:20:00",
-          "end_time": "21:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABC Late News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ALN.svg",
-          "start_time": "21:05:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Asia News Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANW.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gardening Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/GA.svg",
-          "start_time": "22:25:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "ABBA & Elvis: The Outback Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/A.svg",
-          "start_time": "23:15:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-26",
       "programs": [
         {
           "show_name": "ABBA & Elvis: The Outback Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/A.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A&ETO",
           "start_time": "00:00:00",
-          "end_time": "00:10:00",
+          "end_time": "00:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Dream Gardens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/DG.svg",
-          "start_time": "00:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DG",
+          "start_time": "00:15:00",
           "end_time": "00:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunt For Family Court Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/HFFCK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFFCK",
           "start_time": "00:45:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia News Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANW",
           "start_time": "01:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The World",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TW",
           "start_time": "02:00:00",
-          "end_time": "02:30:00",
+          "end_time": "02:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Australian Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AS.svg",
-          "start_time": "02:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AS",
+          "start_time": "02:25:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The World This Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TWTW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWTW",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Foreign Correspondent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Weekend Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Weekend Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Weekend Breakfast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/WB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
           "start_time": "06:00:00",
           "end_time": "07:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunt For Family Court Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/HFFCK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFFCK",
           "start_time": "07:55:00",
           "end_time": "08:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Rural Flavours",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/RF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RF",
           "start_time": "08:45:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "ABC News At Noon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANAN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANAN",
           "start_time": "09:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia News Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANW",
           "start_time": "09:30:00",
-          "end_time": "10:35:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Play On",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PO",
+          "start_time": "10:00:00",
+          "end_time": "10:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Pacific Sports Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPSS",
+          "start_time": "10:05:00",
+          "end_time": "10:40:00",
           "episode_number": ""
         },
         {
           "show_name": "AFL: Grand Final",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AGF.svg",
-          "start_time": "10:35:00",
-          "end_time": "11:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AGF",
+          "start_time": "10:40:00",
+          "end_time": "11:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "AFL: Grand Final",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AGF.svg",
-          "start_time": "11:30:00",
-          "end_time": "15:00:00",
+          "show_name": "AFL: Fremantle Vs Brisbane",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFVB",
+          "start_time": "11:25:00",
+          "end_time": "14:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Ange And The Boss: Puskas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/AATBP.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATBP",
+          "start_time": "14:35:00",
+          "end_time": "15:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Cape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TC.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:50:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "15:55:00",
+          "end_time": "17:15:00",
           "episode_number": ""
         },
         {
           "show_name": "ABBA & Elvis: The Outback Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/A.svg",
-          "start_time": "17:50:00",
-          "end_time": "19:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A&ETO",
+          "start_time": "17:15:00",
+          "end_time": "18:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bradman And Tendulkar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BAT",
+          "start_time": "18:10:00",
+          "end_time": "19:10:00",
           "episode_number": ""
         },
         {
           "show_name": "A Brief History Of Cricket",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ABHOC.svg",
-          "start_time": "19:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABHOC",
+          "start_time": "19:10:00",
           "end_time": "20:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Four Corners",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
           "start_time": "20:10:00",
-          "end_time": "21:00:00",
+          "end_time": "20:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Foreign Correspondent",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/FC.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FC",
+          "start_time": "20:55:00",
+          "end_time": "21:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The World This Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/TWTW.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWTW",
+          "start_time": "21:25:00",
+          "end_time": "21:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Muster Dogs: Where Are They",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/MDWAT.svg",
-          "start_time": "22:00:00",
-          "end_time": "22:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDWAT",
+          "start_time": "21:55:00",
+          "end_time": "22:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Landline: India Special",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/LIS.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LIS",
+          "start_time": "22:25:00",
+          "end_time": "22:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Asia News Week",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/ANW.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:40:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANW",
+          "start_time": "22:55:00",
+          "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Stuff The British Stole",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/abc-australia/STBS.svg",
-          "start_time": "23:40:00",
-          "end_time": "00:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STBS",
+          "start_time": "23:25:00",
+          "end_time": "23:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ange And The Boss: Puskas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATBP",
+          "start_time": "23:55:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-27",
+      "programs": [
+        {
+          "show_name": "Ange And The Boss: Puskas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AATBP",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Play On",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PO",
+          "start_time": "01:15:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The World This Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWTW",
+          "start_time": "01:30:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Pacific",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Pacific Sports Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPSS",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Brief History Of Cricket",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABHOC",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Weekend Breakfast",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Weekend Breakfast",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WB",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Insiders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Offsiders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "07:00:00",
+          "end_time": "07:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "That Pacific Sports Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPSS",
+          "start_time": "07:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Back Roads",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "08:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Landline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "08:30:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC News At Noon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANAN",
+          "start_time": "09:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The World This Week",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TWTW",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFLW: Crows Vs Fremantle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACVF",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFLW: Swans Vs Lions",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASVL",
+          "start_time": "12:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Landline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Streets With Dan Hong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSWDH",
+          "start_time": "15:00:00",
+          "end_time": "15:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Chef's Garden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCG",
+          "start_time": "15:25:00",
+          "end_time": "15:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fancy Fruit",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FF",
+          "start_time": "15:45:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC National News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ANN",
+          "start_time": "16:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Stuff The British Stole",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STBS",
+          "start_time": "16:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Culture By Design",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CBD",
+          "start_time": "17:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Brief History Of Cricket",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABHOC",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bondi Rescue",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "18:30:00",
+          "end_time": "18:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Play On",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PO",
+          "start_time": "18:50:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC Late News Weekend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ALNW",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Offsiders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Streets With Dan Hong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSWDH",
+          "start_time": "20:00:00",
+          "end_time": "20:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Chef's Garden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCG",
+          "start_time": "20:25:00",
+          "end_time": "20:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "ABC Late News",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ALN",
+          "start_time": "20:50:00",
+          "end_time": "21:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Stuff The British Stole",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STBS",
+          "start_time": "21:20:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Culture By Design",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CBD",
+          "start_time": "21:50:00",
+          "end_time": "22:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dreaming Big",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DB",
+          "start_time": "22:20:00",
+          "end_time": "22:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bondi Rescue",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "22:45:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Brief History Of Cricket",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ABHOC",
+          "start_time": "23:10:00",
+          "end_time": "00:15:00",
           "episode_number": ""
         }
       ]
