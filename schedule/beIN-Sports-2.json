@@ -2,240 +2,261 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "show_name": "Best Of AO 2026: Men's Singles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/BOA2M.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2S.svg",
-          "start_time": "01:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Doubles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2D.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
-          "start_time": "08:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match Australian Open 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/MMAO2.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
-          "start_time": "11:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tour de Langkawi 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/TDL2.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match Australian Open 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/MMAO2.svg",
-          "start_time": "14:30:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Doubles Day 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2DD.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Doubles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2D.svg",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2S.svg",
-          "start_time": "20:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2S.svg",
-          "start_time": "22:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-28",
       "programs": [
         {
           "show_name": "Laver Cup 2026: Singles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2S(",
           "start_time": "00:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Doubles (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2D(",
           "start_time": "02:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "04:00:00",
           "end_time": "05:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "05:15:00",
           "end_time": "06:45:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS2 2026: BRA Vs CHN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HS2BV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS2BV",
           "start_time": "06:45:00",
           "end_time": "07:05:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS2 2026: ESP Vs KEN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HS2EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HS2EV",
           "start_time": "07:05:00",
           "end_time": "07:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Valladolid",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2V.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2V",
           "start_time": "07:25:00",
           "end_time": "08:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Paris",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2P",
           "start_time": "08:55:00",
           "end_time": "10:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Singles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
           "start_time": "10:25:00",
           "end_time": "11:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Doubles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2DD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2DD",
           "start_time": "11:55:00",
           "end_time": "13:25:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: LIV Vs EVE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2LVE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2LVE",
           "start_time": "13:25:00",
           "end_time": "15:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Doubles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2DD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2DD",
           "start_time": "15:15:00",
           "end_time": "16:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Singles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
           "start_time": "16:45:00",
           "end_time": "18:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Singles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
           "start_time": "18:15:00",
           "end_time": "19:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Singles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
           "start_time": "19:45:00",
           "end_time": "21:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Doubles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2DD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2DD",
           "start_time": "21:15:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "AFCON 2027: ZIM Vs COD (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/A2ZVC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2ZVC",
+          "start_time": "22:45:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-09-29",
+      "programs": [
+        {
+          "show_name": "AFCON 2027: ZIM Vs COD (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2ZVC",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2",
+          "start_time": "01:00:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2",
+          "start_time": "01:20:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: TUN Vs BOT (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2TVB",
+          "start_time": "01:45:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "04:00:00",
+          "end_time": "04:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior: SCO Vs WAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJSV",
+          "start_time": "04:10:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "World Rugby Junior: NZL Vs ENG",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJNV",
+          "start_time": "06:00:00",
+          "end_time": "07:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Paris",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2P",
+          "start_time": "07:55:00",
+          "end_time": "09:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laver Cup 2026: Doubles Day 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2DD",
+          "start_time": "09:25:00",
+          "end_time": "10:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laver Cup 2026: Singles Day 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
+          "start_time": "10:55:00",
+          "end_time": "12:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laver Cup 2026: Singles Day 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
+          "start_time": "12:25:00",
+          "end_time": "13:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laver Cup 2026: Singles Day 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2SD",
+          "start_time": "13:55:00",
+          "end_time": "15:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Laver Cup 2026: Doubles Day 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2DD",
+          "start_time": "15:25:00",
+          "end_time": "16:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: CHE Vs ARS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVA",
+          "start_time": "16:55:00",
+          "end_time": "18:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
+          "start_time": "18:45:00",
+          "end_time": "19:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: SSD Vs EGY (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2SVE",
+          "start_time": "19:45:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Roland Garros Match HL 2025",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RGMH2",
+          "start_time": "22:00:00",
+          "end_time": "22:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match Australian Open 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMAO2",
+          "start_time": "22:15:00",
+          "end_time": "22:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "AFCON 2027: GNB Vs NGA (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A2GVN",
           "start_time": "22:45:00",
           "end_time": "01:00:00",
           "episode_number": ""
