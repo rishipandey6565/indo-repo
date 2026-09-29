@@ -2,228 +2,221 @@
   "channel_name": "Celestial Movies",
   "schedule": {
     "today": {
-      "date": "2026-09-29",
-      "programs": [
-        {
-          "show_name": "Paper Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/PM.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Munitions Hijacking Case",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MHC.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "That Demon Within",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TDW.svg",
-          "start_time": "01:50:00",
-          "end_time": "03:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Flying Mr. B",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TFMB.svg",
-          "start_time": "03:40:00",
-          "end_time": "05:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fate Jealous Greed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/FJG.svg",
-          "start_time": "05:20:00",
-          "end_time": "06:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Love Lolanto",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/ILL.svg",
-          "start_time": "06:55:00",
-          "end_time": "08:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blind War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/BW.svg",
-          "start_time": "08:35:00",
-          "end_time": "10:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Love In A Fallen City",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/LIAFC.svg",
-          "start_time": "10:20:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. Possessed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MP.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Skyline Cruisers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/SC.svg",
-          "start_time": "13:40:00",
-          "end_time": "15:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "My School Mate, The Barbarian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MSMTB.svg",
-          "start_time": "15:10:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Turns We Take",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TWT.svg",
-          "start_time": "16:45:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Face To Face",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/FTF.svg",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Drunken Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/DM.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mahjong Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MH.svg",
-          "start_time": "21:50:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hidden Heroine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/HH.svg",
-          "start_time": "23:25:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-09-30",
       "programs": [
         {
           "show_name": "Hidden Heroine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/HH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HH",
           "start_time": "00:00:00",
           "end_time": "00:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Endless Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/EL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EL",
           "start_time": "00:50:00",
           "end_time": "02:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Doubles Cause Troubles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/DCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DCT",
           "start_time": "02:20:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Infernal Affairs 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/IA2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IA2",
           "start_time": "04:00:00",
           "end_time": "06:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Confession Of Pain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/COP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=COP",
           "start_time": "06:05:00",
           "end_time": "07:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mighty Peking Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TMPM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMPM",
           "start_time": "07:55:00",
           "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Great Magician",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TGM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM",
           "start_time": "09:20:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Iceman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/I.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=I",
           "start_time": "11:30:00",
           "end_time": "13:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Gorgeous",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
           "start_time": "13:20:00",
           "end_time": "15:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Ghost Wedding",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/GW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GW",
           "start_time": "15:25:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Iceman: The Time Traveler",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/ITTT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITTT",
           "start_time": "17:00:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Mr. Virgin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV",
           "start_time": "18:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Viral Factor",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TVF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TVF",
           "start_time": "20:00:00",
           "end_time": "22:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Accidental Spy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/TAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TAS",
           "start_time": "22:05:00",
           "end_time": "23:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Mr. Vampire 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celestial-movies/MV3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV3",
           "start_time": "23:55:00",
           "end_time": "01:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-01",
+      "programs": [
+        {
+          "show_name": "Mr. Vampire 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MV3",
+          "start_time": "00:00:00",
+          "end_time": "01:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "How To Choose A Royal Bride",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HTCAR",
+          "start_time": "01:30:00",
+          "end_time": "03:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "03:05:00",
+          "end_time": "04:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lost Memories",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LM",
+          "start_time": "04:35:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Grey Men",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TGM",
+          "start_time": "06:10:00",
+          "end_time": "07:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Girl With The Diamond Slipper",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWTDS",
+          "start_time": "07:50:00",
+          "end_time": "09:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Song Of The Assassins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOTA",
+          "start_time": "09:25:00",
+          "end_time": "11:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Cherie",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "11:25:00",
+          "end_time": "12:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Comeback",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "12:55:00",
+          "end_time": "14:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love On Delivery",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOD",
+          "start_time": "14:50:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teenage Dreamers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "16:30:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Infernal Affairs 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IA3",
+          "start_time": "18:00:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lifeline",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L",
+          "start_time": "20:00:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Look Out, Officer!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOO",
+          "start_time": "21:50:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Maoshan Heavenly Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MHM",
+          "start_time": "23:20:00",
+          "end_time": "00:35:00",
           "episode_number": ""
         }
       ]
