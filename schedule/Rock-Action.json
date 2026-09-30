@@ -2,207 +2,200 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-09-30",
-      "programs": [
-        {
-          "show_name": "Ring Of Fire, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP2.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
-          "start_time": "00:50:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Hateful Eight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/THE.svg",
-          "start_time": "02:55:00",
-          "end_time": "05:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Deal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TD.svg",
-          "start_time": "05:35:00",
-          "end_time": "07:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Corner Office",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CO.svg",
-          "start_time": "07:10:00",
-          "end_time": "08:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Back To The Future 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/BTTF3.svg",
-          "start_time": "08:50:00",
-          "end_time": "10:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KC.svg",
-          "start_time": "10:45:00",
-          "end_time": "12:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
-          "start_time": "12:35:00",
-          "end_time": "14:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jason Bourne",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JB.svg",
-          "start_time": "14:15:00",
-          "end_time": "16:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TL2.svg",
-          "start_time": "16:15:00",
-          "end_time": "17:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Battleship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/B.svg",
-          "start_time": "17:50:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rambo: First Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RFB.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
-          "start_time": "21:25:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KC.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:20:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-01",
       "programs": [
         {
           "show_name": "Kindergarten Cop",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
           "start_time": "00:00:00",
           "end_time": "01:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Jason Bourne",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
           "start_time": "01:20:00",
           "end_time": "03:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Red Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RS",
           "start_time": "03:25:00",
           "end_time": "05:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Ring Of Fire, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP1",
           "start_time": "05:20:00",
           "end_time": "06:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Ring Of Fire, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ROFP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROFP2",
           "start_time": "06:50:00",
           "end_time": "08:20:00",
           "episode_number": ""
         },
         {
           "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JW",
           "start_time": "08:20:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Battleship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "10:00:00",
           "end_time": "12:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Legend 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TL2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
           "start_time": "12:05:00",
           "end_time": "13:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Lion Of The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/LOTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
           "start_time": "13:40:00",
           "end_time": "16:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Tai Chi Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TCM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
           "start_time": "16:20:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Red Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/RS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RS",
           "start_time": "18:00:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Jason Bourne",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
           "start_time": "19:55:00",
           "end_time": "21:55:00",
           "episode_number": ""
         },
         {
           "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JW",
           "start_time": "21:55:00",
           "end_time": "23:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/CF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
           "start_time": "23:35:00",
           "end_time": "01:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-02",
+      "programs": [
+        {
+          "show_name": "Cape Fear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Legend 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
+          "start_time": "01:45:00",
+          "end_time": "03:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Battleship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "03:25:00",
+          "end_time": "05:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rambo: First Blood",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RFB",
+          "start_time": "05:35:00",
+          "end_time": "07:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kindergarten Cop",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
+          "start_time": "07:05:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jason Bourne",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
+          "start_time": "08:55:00",
+          "end_time": "10:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Red Sun",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RS",
+          "start_time": "10:55:00",
+          "end_time": "12:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Catching Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
+          "start_time": "12:50:00",
+          "end_time": "15:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lion Of The Desert",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
+          "start_time": "15:10:00",
+          "end_time": "17:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Runaway Jury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RJ",
+          "start_time": "17:50:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "They Call Me Trinity",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCMT",
+          "start_time": "19:55:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Legend 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL2",
+          "start_time": "21:50:00",
+          "end_time": "23:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "23:25:00",
+          "end_time": "01:05:00",
           "episode_number": ""
         }
       ]
