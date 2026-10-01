@@ -2,403 +2,389 @@
   "channel_name": "BBC Earth",
   "schedule": {
     "today": {
-      "date": "2026-10-01",
-      "programs": [
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:40:00",
-          "episode_number": "S4 E3"
-        },
-        {
-          "show_name": "Ancient Powers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/AP.svg",
-          "start_time": "00:40:00",
-          "end_time": "01:40:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
-          "start_time": "01:40:00",
-          "end_time": "02:30:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "02:30:00",
-          "end_time": "03:05:00",
-          "episode_number": "S7 E5"
-        },
-        {
-          "show_name": "Palin In Venezuela",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PIV.svg",
-          "start_time": "03:05:00",
-          "end_time": "04:10:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
-          "start_time": "04:10:00",
-          "end_time": "05:00:00",
-          "episode_number": "S4 E3"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": "S7 E5"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:05:00",
-          "episode_number": "S7 E6"
-        },
-        {
-          "show_name": "Evolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/E.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:10:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
-          "start_time": "07:10:00",
-          "end_time": "08:00:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Engineering Repurposed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ER.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:50:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Deep Dive Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DDK.svg",
-          "start_time": "08:50:00",
-          "end_time": "09:55:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "09:55:00",
-          "end_time": "10:30:00",
-          "episode_number": "S7 E5"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:10:00",
-          "episode_number": "S7 E6"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
-          "start_time": "11:10:00",
-          "end_time": "12:00:00",
-          "episode_number": "S4 E3"
-        },
-        {
-          "show_name": "Evolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/E.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:05:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Deep Dive Korea",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DDK.svg",
-          "start_time": "13:05:00",
-          "end_time": "14:10:00",
-          "episode_number": "S1 E2"
-        },
-        {
-          "show_name": "Engineering Repurposed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ER.svg",
-          "start_time": "14:10:00",
-          "end_time": "15:05:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
-          "start_time": "15:05:00",
-          "end_time": "15:55:00",
-          "episode_number": "S3 E9"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "15:55:00",
-          "end_time": "16:35:00",
-          "episode_number": "S7 E5"
-        },
-        {
-          "show_name": "Deadly 60",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/D6.svg",
-          "start_time": "16:35:00",
-          "end_time": "17:15:00",
-          "episode_number": "S7 E6"
-        },
-        {
-          "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
-          "start_time": "17:15:00",
-          "end_time": "18:10:00",
-          "episode_number": "S4 E3"
-        },
-        {
-          "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
-          "start_time": "18:10:00",
-          "end_time": "19:00:00",
-          "episode_number": "S3 E2"
-        },
-        {
-          "show_name": "Earth From Space",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EFS.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:00:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:55:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Hidden Frontiers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HF.svg",
-          "start_time": "20:55:00",
-          "end_time": "21:45:00",
-          "episode_number": "S1 E4"
-        },
-        {
-          "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
-          "start_time": "21:45:00",
-          "end_time": "22:35:00",
-          "episode_number": "S3 E2"
-        },
-        {
-          "show_name": "Earth From Space",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EFS.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:35:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:30:00",
-          "episode_number": "S1 E1"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-02",
       "programs": [
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Hidden Frontiers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HF",
           "start_time": "00:30:00",
           "end_time": "01:20:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "01:20:00",
           "end_time": "02:15:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Earth From Space",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
           "start_time": "02:15:00",
           "end_time": "03:15:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Extreme Treks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ET.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
           "start_time": "03:15:00",
           "end_time": "04:05:00",
           "episode_number": "S4 E3"
         },
         {
           "show_name": "Hidden Frontiers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/HF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HF",
           "start_time": "04:05:00",
           "end_time": "05:00:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Palin In Venezuela",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIV",
           "start_time": "05:00:00",
           "end_time": "06:05:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Engineering Repurposed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ER.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
           "start_time": "06:05:00",
           "end_time": "06:55:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
           "start_time": "06:55:00",
           "end_time": "07:45:00",
           "episode_number": "S3 E2"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "07:45:00",
           "end_time": "08:40:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Palin In Venezuela",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PIV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIV",
           "start_time": "08:40:00",
           "end_time": "09:45:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/GKRT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
           "start_time": "09:45:00",
           "end_time": "10:40:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Engineering Repurposed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ER.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
           "start_time": "10:40:00",
           "end_time": "11:30:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "A Perfect Planet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/APP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=APP",
           "start_time": "11:30:00",
           "end_time": "12:35:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "12:35:00",
           "end_time": "13:30:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Earth From Space",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/EFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
           "start_time": "13:30:00",
           "end_time": "14:30:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Engineering Repurposed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/ER.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ER",
           "start_time": "14:30:00",
           "end_time": "15:25:00",
           "episode_number": "S1 E6"
         },
         {
           "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
           "start_time": "15:25:00",
           "end_time": "16:20:00",
           "episode_number": "S3 E2"
         },
         {
           "show_name": "Great Kiwi Road Trip",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/GKRT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GKRT",
           "start_time": "16:20:00",
           "end_time": "17:15:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Spice Trail Adventure",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/STA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
           "start_time": "17:15:00",
           "end_time": "18:10:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
           "start_time": "18:10:00",
           "end_time": "19:00:00",
           "episode_number": "S4 E1"
         },
         {
           "show_name": "Wilderness With Simon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
           "start_time": "19:00:00",
           "end_time": "20:05:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Portillo's Andalucia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
           "start_time": "20:05:00",
           "end_time": "20:55:00",
           "episode_number": "S1 E4"
         },
         {
           "show_name": "Deadliest Weather",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/DW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
           "start_time": "20:55:00",
           "end_time": "21:50:00",
           "episode_number": "S5 E3"
         },
         {
           "show_name": "Running Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/RW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
           "start_time": "21:50:00",
           "end_time": "22:40:00",
           "episode_number": "S4 E1"
         },
         {
           "show_name": "Wilderness With Simon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/WWS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
           "start_time": "22:40:00",
           "end_time": "23:45:00",
           "episode_number": "S1 E3"
         },
         {
           "show_name": "Portillo's Andalucia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bbc-earth/PA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
           "start_time": "23:45:00",
           "end_time": "00:30:00",
+          "episode_number": "S1 E4"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "00:30:00",
+          "end_time": "01:25:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Running Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RW",
+          "start_time": "01:25:00",
+          "end_time": "02:10:00",
+          "episode_number": "S4 E1"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "02:10:00",
+          "end_time": "03:15:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "03:15:00",
+          "end_time": "04:05:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Deadliest Weather",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DW",
+          "start_time": "04:05:00",
+          "end_time": "05:00:00",
+          "episode_number": "S5 E3"
+        },
+        {
+          "show_name": "Deep Dive Korea",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DDK",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "06:00:00",
+          "end_time": "07:05:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Earth From Space",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
+          "start_time": "07:05:00",
+          "end_time": "08:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Spice Trail Adventure",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
+          "start_time": "08:00:00",
+          "end_time": "08:55:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Extreme Treks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ET",
+          "start_time": "08:55:00",
+          "end_time": "09:45:00",
+          "episode_number": "S4 E3"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "09:45:00",
+          "end_time": "10:50:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "10:50:00",
+          "end_time": "11:40:00",
+          "episode_number": "S11 E3"
+        },
+        {
+          "show_name": "Earth From Space",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EFS",
+          "start_time": "11:40:00",
+          "end_time": "12:40:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Spice Trail Adventure",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STA",
+          "start_time": "12:40:00",
+          "end_time": "13:30:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "13:30:00",
+          "end_time": "14:20:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "14:20:00",
+          "end_time": "15:10:00",
+          "episode_number": "S11 E3"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "15:10:00",
+          "end_time": "16:15:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Deadly 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D6",
+          "start_time": "16:15:00",
+          "end_time": "16:55:00",
+          "episode_number": "S7 E5"
+        },
+        {
+          "show_name": "Deadly 60",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D6",
+          "start_time": "16:55:00",
+          "end_time": "17:35:00",
+          "episode_number": "S7 E6"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "17:35:00",
+          "end_time": "18:25:00",
+          "episode_number": "S11 E3"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "18:25:00",
+          "end_time": "19:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "19:30:00",
+          "end_time": "20:20:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Ancient Powers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AP",
+          "start_time": "20:20:00",
+          "end_time": "21:15:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Where Wild Men Are",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWMA",
+          "start_time": "21:15:00",
+          "end_time": "22:10:00",
+          "episode_number": "S11 E3"
+        },
+        {
+          "show_name": "Wilderness With Simon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "22:10:00",
+          "end_time": "23:20:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Portillo's Andalucia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "23:20:00",
+          "end_time": "00:10:00",
           "episode_number": "S1 E4"
         }
       ]
