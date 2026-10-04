@@ -2,214 +2,228 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-10-04",
-      "programs": [
-        {
-          "show_name": "Enchanting Shadow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ES.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bloody Parrot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BP.svg",
-          "start_time": "00:55:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Happy Trio",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THT.svg",
-          "start_time": "02:30:00",
-          "end_time": "04:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Water Margin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TWM.svg",
-          "start_time": "04:20:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Masked Avengers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MA.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The House Of 72 Tenants",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/THO7T.svg",
-          "start_time": "08:05:00",
-          "end_time": "09:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roving Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/RS.svg",
-          "start_time": "09:50:00",
-          "end_time": "11:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Secret Service Of Imperial...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SSOI.svg",
-          "start_time": "11:25:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Between Tears And Smiles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/BTAS.svg",
-          "start_time": "13:00:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Apartment For Ladies",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AFL.svg",
-          "start_time": "15:15:00",
-          "end_time": "17:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Magnificent Swordsman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TMS.svg",
-          "start_time": "17:05:00",
-          "end_time": "18:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tales Of Larceny",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TOL.svg",
-          "start_time": "18:35:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Duel",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TD.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Bride Napping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBN.svg",
-          "start_time": "21:55:00",
-          "end_time": "00:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-05",
       "programs": [
         {
           "show_name": "The Bride Napping",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBN",
           "start_time": "00:00:00",
           "end_time": "00:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Killer Has No Return",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TKHNR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKHNR",
           "start_time": "00:05:00",
           "end_time": "01:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Singing Escort",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSE",
           "start_time": "01:40:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Shadow Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SG",
           "start_time": "03:20:00",
           "end_time": "04:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Puppy Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PL",
           "start_time": "04:50:00",
           "end_time": "06:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Twinkle Twinkle Little Star",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTLS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTLS",
           "start_time": "06:25:00",
           "end_time": "08:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Dragon Swamp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
           "start_time": "08:05:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Dream Of The Red Chamber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DOTRC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOTRC",
           "start_time": "10:00:00",
           "end_time": "11:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Pure And The Evil",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TPATE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPATE",
           "start_time": "11:50:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Six Assassins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/SA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SA",
           "start_time": "13:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Jade Faced Assassin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TJFA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TJFA",
           "start_time": "15:00:00",
           "end_time": "16:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Disco Bumpkins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/DB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DB",
           "start_time": "16:55:00",
           "end_time": "18:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Dragon Missile",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TDM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDM",
           "start_time": "18:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hong Kong Nocturne",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/HKN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HKN",
           "start_time": "20:00:00",
           "end_time": "22:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Police Force",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "22:15:00",
           "end_time": "00:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-06",
+      "programs": [
+        {
+          "show_name": "Police Force",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Female Prince",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFP",
+          "start_time": "00:05:00",
+          "end_time": "01:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pursuit Of A Killer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=POAK",
+          "start_time": "01:55:00",
+          "end_time": "03:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Murder Plot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
+          "start_time": "03:25:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Tigress Of Shaolin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTOS",
+          "start_time": "05:05:00",
+          "end_time": "06:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Black Tavern",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBT",
+          "start_time": "06:50:00",
+          "end_time": "08:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Scandalous Warlord",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSW",
+          "start_time": "08:25:00",
+          "end_time": "09:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Swordswomen Three",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ST",
+          "start_time": "09:55:00",
+          "end_time": "11:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lady General Hua Mu-Lan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LGHM",
+          "start_time": "11:40:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Imperial Tomb Raiders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TITR",
+          "start_time": "13:30:00",
+          "end_time": "14:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Emperor And The Minister",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEATM",
+          "start_time": "14:50:00",
+          "end_time": "16:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rendezvous With Death",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RWD",
+          "start_time": "16:25:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Delinquent",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "18:15:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Bully",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tiger Killer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TK",
+          "start_time": "21:30:00",
+          "end_time": "23:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Lady Professional",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLP",
+          "start_time": "23:10:00",
+          "end_time": "00:40:00",
           "episode_number": ""
         }
       ]

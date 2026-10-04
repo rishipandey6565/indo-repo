@@ -2,207 +2,221 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-10-04",
-      "programs": [
-        {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UNL.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UNL.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
-          "start_time": "04:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CDS.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legenda Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/LN.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
-          "start_time": "08:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
-          "start_time": "12:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Film Keluarga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/FK.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UNL.svg",
-          "start_time": "19:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Collision Of Two Worlds",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/COTW.svg",
-          "start_time": "22:00:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-05",
       "programs": [
         {
           "show_name": "Kisah Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/KV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KV",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
           "start_time": "00:30:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UNL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNL(",
           "start_time": "01:45:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ragam Cerita",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/RC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "04:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bhootu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "12:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "15:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Adu Cerdik Sang Kancil & Buaya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACSK&",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Asal Mula Kelelawar Hidup Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/AMKHM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMKHM",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Crocodile 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/C2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C2",
           "start_time": "20:30:00",
           "end_time": "22:45:00",
           "episode_number": ""
         },
         {
           "show_name": "UEFA Nations League (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/UNL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNL(",
           "start_time": "22:45:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-06",
+      "programs": [
+        {
+          "show_name": "UEFA Nations League (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNL(",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "1001 Kisah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=1K",
+          "start_time": "01:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEFA Nations League (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNL(",
+          "start_time": "01:45:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ragam Cerita",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RC",
+          "start_time": "03:30:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Petualangan Fantasi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "04:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bhootu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Buletin iNews Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
+          "start_time": "06:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "06:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pada Zaman Dahulu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
+          "start_time": "08:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "12:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Entong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "15:00:00",
+          "end_time": "17:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Impian Kura-Kura Ingin Bersayap",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IKIB",
+          "start_time": "17:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Asal Usul Cengkerang Siput",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AUCS",
+          "start_time": "19:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEFA Nations League (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UNL(",
+          "start_time": "20:30:00",
+          "end_time": "22:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Warisan Cinta Yang Terlupakan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WCYT",
+          "start_time": "22:45:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         }
       ]
