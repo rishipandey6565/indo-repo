@@ -2,172 +2,165 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-10-07",
-      "programs": [
-        {
-          "show_name": "Stop! Or My Mom Will Shoot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/SOMMW.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Scorpion King",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TSK.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Freedom Writers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FW.svg",
-          "start_time": "03:30:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "An Officer And A Gentleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AOAAG.svg",
-          "start_time": "05:45:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cat People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CP.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The International",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TI.svg",
-          "start_time": "10:15:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Scorpion King",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TSK.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Freedom Writers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FW.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "An Officer And A Gentleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AOAAG.svg",
-          "start_time": "16:45:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Red Dragon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RD.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Resident Evil: Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REA.svg",
-          "start_time": "21:30:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Scorpion King",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TSK.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-08",
       "programs": [
         {
           "show_name": "The Scorpion King",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSK",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Stop! Or My Mom Will Shoot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/SOMMW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOMMW",
           "start_time": "01:30:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Red Dragon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RD",
           "start_time": "03:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Resident Evil: Apocalypse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/REA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=REA",
           "start_time": "06:00:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Scorpion King",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSK",
           "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "All Quiet On The Western Front",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AQOTW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AQOTW",
           "start_time": "10:00:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Monsters Vs. Aliens",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MVA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MVA",
           "start_time": "12:30:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The International",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TI",
           "start_time": "14:30:00",
           "end_time": "16:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Cat People",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "16:45:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Matrix",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "19:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "All Quiet On The Western Front",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AQOTW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AQOTW",
           "start_time": "21:30:00",
           "end_time": "00:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-09",
+      "programs": [
+        {
+          "show_name": "Cat People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
+          "start_time": "00:00:00",
+          "end_time": "02:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The International",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TI",
+          "start_time": "02:15:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "04:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Stop! Or My Mom Will Shoot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SOMMW",
+          "start_time": "07:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Apollo 13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
+          "start_time": "09:00:00",
+          "end_time": "11:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Man On Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOF",
+          "start_time": "11:45:00",
+          "end_time": "14:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Matrix",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "14:30:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robocop 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R3",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Samson And Delilah",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SAD",
+          "start_time": "19:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TA",
+          "start_time": "21:30:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Apollo 13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
+          "start_time": "23:45:00",
+          "end_time": "02:30:00",
           "episode_number": ""
         }
       ]

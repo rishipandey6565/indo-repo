@@ -2,219 +2,212 @@
   "channel_name": "CCM",
   "schedule": {
     "today": {
-      "date": "2026-10-07",
-      "programs": [
-        {
-          "show_name": "The Lady Professional",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TLP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Story Of Sue San",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSOSS.svg",
-          "start_time": "00:40:00",
-          "end_time": "02:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Two Con Men",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCM.svg",
-          "start_time": "02:35:00",
-          "end_time": "04:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pursuit Of Vengeance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/POV.svg",
-          "start_time": "04:15:00",
-          "end_time": "05:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Warlord",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TW.svg",
-          "start_time": "05:55:00",
-          "end_time": "07:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fighting Fool",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TFF.svg",
-          "start_time": "07:35:00",
-          "end_time": "09:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Comedy Of Mismatches",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TCOM.svg",
-          "start_time": "09:15:00",
-          "end_time": "10:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Executioners From Shaolin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/EFS.svg",
-          "start_time": "10:55:00",
-          "end_time": "12:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Empress Dowager",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TED.svg",
-          "start_time": "12:40:00",
-          "end_time": "14:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Condemned",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TC.svg",
-          "start_time": "14:35:00",
-          "end_time": "16:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fangs Of The Cobra",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FOTC.svg",
-          "start_time": "16:25:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mad Monkey Kung Fu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MMKF.svg",
-          "start_time": "18:00:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Tiger And The Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TTATW.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Portrait In Crystal",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/PIC.svg",
-          "start_time": "21:35:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Maid From Heaven",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AMFH.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-08",
       "programs": [
         {
           "show_name": "A Maid From Heaven",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/AMFH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMFH",
           "start_time": "00:00:00",
           "end_time": "00:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Singing Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSK",
           "start_time": "00:45:00",
           "end_time": "02:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Forbidden Tales Of Two Cities",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FTOTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FTOTC",
           "start_time": "02:40:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Martial Club",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "04:30:00",
           "end_time": "06:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Gambler's Delight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/GD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GD",
           "start_time": "06:25:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Sunset",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:00:00",
           "end_time": "09:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Shaolin Avengers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TSA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSA",
           "start_time": "09:45:00",
           "end_time": "11:25:00",
           "episode_number": ""
         },
         {
           "show_name": "My Name Ain't Suzie",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/MNAS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MNAS",
           "start_time": "11:25:00",
           "end_time": "13:10:00",
           "episode_number": ""
         },
         {
           "show_name": "The Flying Dagger",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TFD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFD",
           "start_time": "13:10:00",
           "end_time": "14:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Enchanting Shadow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/ES.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ES",
           "start_time": "14:50:00",
           "end_time": "16:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Singing Thief",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TST",
           "start_time": "16:20:00",
           "end_time": "17:55:00",
           "episode_number": ""
         },
         {
           "show_name": "The Blue And The Black",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/TBATB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBATB",
           "start_time": "17:55:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Wits Of The Brats",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/WOTB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WOTB",
           "start_time": "20:00:00",
           "end_time": "21:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Facets Of Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "21:40:00",
           "end_time": "23:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Rolls, Rolls, I Love You",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/ccm/RRILY.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRILY",
+          "start_time": "23:20:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-09",
+      "programs": [
+        {
+          "show_name": "Rolls, Rolls, I Love You",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRILY",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "We Love Millionaires",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WLM",
+          "start_time": "01:00:00",
+          "end_time": "02:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Duel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TD",
+          "start_time": "02:45:00",
+          "end_time": "04:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Five Elements Ninjas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FEN",
+          "start_time": "04:40:00",
+          "end_time": "06:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Whose Baby Is In Classroom?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WBIIC",
+          "start_time": "06:35:00",
+          "end_time": "08:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Clan Feuds",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "08:35:00",
+          "end_time": "10:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "West Chamber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WC",
+          "start_time": "10:20:00",
+          "end_time": "12:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Judgement Of An Assassin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JOAA",
+          "start_time": "12:20:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Empress Wu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EW",
+          "start_time": "14:00:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twin Blades Of Doom",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBOD",
+          "start_time": "16:00:00",
+          "end_time": "17:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Boxer Rebellion",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BR",
+          "start_time": "17:35:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Crazy Nuts Of Kung Fu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CNOKF",
+          "start_time": "20:00:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Black Magic",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM",
+          "start_time": "21:45:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Murderer Pursues",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MP",
           "start_time": "23:20:00",
           "end_time": "01:00:00",
           "episode_number": ""
