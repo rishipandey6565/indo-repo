@@ -2,123 +2,137 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "programs": [
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
           "start_time": "00:00:00",
-          "end_time": "01:30:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Germany (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
+          "start_time": "00:30:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "01:30:00",
-          "end_time": "03:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "02:00:00",
+          "end_time": "03:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "03:30:00",
+          "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Bordeaux",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2B",
+          "start_time": "05:00:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Bordeaux",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "World Rugby Junior: ARG Vs SCO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJAV.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "La Vuelta Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LVH2.svg",
-          "start_time": "07:50:00",
+          "show_name": "World Rugby Junior: ESP Vs URU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJEV",
+          "start_time": "06:30:00",
           "end_time": "08:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2026/27: AVL Vs CRY",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2AVC.svg",
-          "start_time": "08:20:00",
-          "end_time": "10:10:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "WSL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WH2.svg",
-          "start_time": "10:10:00",
-          "end_time": "11:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
+          "start_time": "08:20:00",
+          "end_time": "09:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Laver Cup 2026: Review Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2RS.svg",
-          "start_time": "11:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2RS",
+          "start_time": "09:20:00",
+          "end_time": "10:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: EVE Vs BIR",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2EVB",
+          "start_time": "10:20:00",
           "end_time": "12:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2026/27: WHU Vs CHE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2WVC.svg",
+          "show_name": "WSL 2026/27: BHA Vs CHA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2BVC",
           "start_time": "12:10:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
+          "show_name": "Laver Cup 2026: Review Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC2RS",
           "start_time": "14:00:00",
-          "end_time": "15:30:00",
+          "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "15:30:00",
-          "end_time": "17:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
+          "start_time": "15:00:00",
+          "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
+          "start_time": "16:30:00",
+          "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "18:30:00",
-          "end_time": "20:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
+          "start_time": "18:00:00",
+          "end_time": "19:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
+          "show_name": "HSBC SVNS World C'ships 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSWC2",
+          "start_time": "19:30:00",
+          "end_time": "19:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "21:30:00",
+          "show_name": "Ligier European Series 2026 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LES2(",
+          "start_time": "19:55:00",
+          "end_time": "21:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "European Le Mans Series (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ELMS(",
+          "start_time": "21:10:00",
+          "end_time": "22:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "22:50:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
           "start_time": "23:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
@@ -126,139 +140,146 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "programs": [
         {
           "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
+          "show_name": "HSBC SVNS World C'ships 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSWC2",
           "start_time": "00:30:00",
-          "end_time": "02:00:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "02:00:00",
+          "show_name": "Premier Padel 2026: Germany (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G(",
+          "start_time": "01:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GWA Wingfoil World Tour 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWWT2",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Epic Series: Andorra Recap",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ESAR",
+          "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
           "start_time": "03:30:00",
+          "end_time": "03:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "03:40:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Bordeaux",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2B.svg",
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "05:00:00",
-          "end_time": "06:30:00",
+          "end_time": "06:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "World Rugby Junior: ESP Vs URU",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WRJEV.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:20:00",
+          "show_name": "World Rugby Junior: AUS Vs WAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WRJAV",
+          "start_time": "06:20:00",
+          "end_time": "08:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Germany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G",
+          "start_time": "08:15:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Germany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2G",
+          "start_time": "09:45:00",
+          "end_time": "11:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: GAL Vs KAS",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2GV",
+          "start_time": "11:15:00",
+          "end_time": "13:10:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/WH2.svg",
-          "start_time": "08:20:00",
-          "end_time": "09:20:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH2",
+          "start_time": "13:10:00",
+          "end_time": "14:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "Laver Cup 2026: Review Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2RS.svg",
-          "start_time": "09:20:00",
-          "end_time": "10:20:00",
+          "show_name": "Ligier European Series 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LES2",
+          "start_time": "14:10:00",
+          "end_time": "15:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2026/27: EVE Vs BIR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2EVB.svg",
-          "start_time": "10:20:00",
-          "end_time": "12:10:00",
+          "show_name": "Le Mans Cup 2026: Portimao (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LMC2P",
+          "start_time": "15:10:00",
+          "end_time": "17:50:00",
           "episode_number": ""
         },
         {
-          "show_name": "WSL 2026/27: BHA Vs CHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2BVC.svg",
-          "start_time": "12:10:00",
-          "end_time": "14:00:00",
+          "show_name": "La Vuelta Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LVH2",
+          "start_time": "17:50:00",
+          "end_time": "18:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Laver Cup 2026: Review Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2RS.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
+          "show_name": "La Vuelta Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LVH2",
+          "start_time": "18:25:00",
+          "end_time": "18:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "19:30:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ligier European Series 2026 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LES2.svg",
-          "start_time": "19:55:00",
+          "show_name": "LaLiga 2026/27: RAY Vs ATH (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2RVA",
+          "start_time": "18:55:00",
           "end_time": "21:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "European Le Mans Series (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/ELMS.svg",
+          "show_name": "LaLiga 2026/27: ALA Vs ATM (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2AVA",
           "start_time": "21:10:00",
-          "end_time": "22:50:00",
+          "end_time": "23:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "22:50:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Germany (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2G.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:30:00",
+          "show_name": "Super Lig 26/27: RIZ Vs FEN (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2RV",
+          "start_time": "23:15:00",
+          "end_time": "01:00:00",
           "episode_number": ""
         }
       ]
