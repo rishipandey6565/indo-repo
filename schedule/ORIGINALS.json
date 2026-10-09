@@ -2,522 +2,515 @@
   "channel_name": "ORIGINALS",
   "schedule": {
     "today": {
-      "date": "2026-10-09",
-      "programs": [
-        {
-          "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:17:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
-          "start_time": "00:17:00",
-          "end_time": "00:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With D. Zoolander",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDZ.svg",
-          "start_time": "00:21:00",
-          "end_time": "00:29:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cowboy And Indiana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/CAI.svg",
-          "start_time": "00:29:00",
-          "end_time": "02:52:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Megan Thee...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWMT.svg",
-          "start_time": "02:52:00",
-          "end_time": "04:41:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Emma Stone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWES.svg",
-          "start_time": "04:41:00",
-          "end_time": "04:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Hailey Bieber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWHB.svg",
-          "start_time": "04:50:00",
-          "end_time": "04:58:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Leaves Of Grass",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LOG.svg",
-          "start_time": "04:58:00",
-          "end_time": "06:41:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With D. Zoolander",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDZ.svg",
-          "start_time": "06:41:00",
-          "end_time": "06:49:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
-          "start_time": "06:49:00",
-          "end_time": "06:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ike Boys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/IB.svg",
-          "start_time": "06:55:00",
-          "end_time": "08:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Gal Gadot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGG.svg",
-          "start_time": "08:21:00",
-          "end_time": "08:33:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Burna Boy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWBB.svg",
-          "start_time": "08:33:00",
-          "end_time": "08:43:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Cole Sprouse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWCS.svg",
-          "start_time": "08:43:00",
-          "end_time": "08:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With G. Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGR.svg",
-          "start_time": "08:45:00",
-          "end_time": "08:53:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ride Like A Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/RLAG.svg",
-          "start_time": "08:53:00",
-          "end_time": "10:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
-          "start_time": "10:25:00",
-          "end_time": "12:02:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7 Riverdale Fans Explain Why...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7RFEW.svg",
-          "start_time": "12:02:00",
-          "end_time": "12:13:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
-          "start_time": "12:13:00",
-          "end_time": "12:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Concrete Plans",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/CP.svg",
-          "start_time": "12:20:00",
-          "end_time": "13:46:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With G. Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGR.svg",
-          "start_time": "13:46:00",
-          "end_time": "13:53:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
-          "start_time": "13:53:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:41:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Sofia Carson",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWSC.svg",
-          "start_time": "15:41:00",
-          "end_time": "15:51:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
-          "start_time": "15:51:00",
-          "end_time": "15:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Viking Quest",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/VQ.svg",
-          "start_time": "15:55:00",
-          "end_time": "17:21:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Emma Stone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWES.svg",
-          "start_time": "17:21:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Gal Gadot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGG.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:11:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Megan Thee...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWMT.svg",
-          "start_time": "19:11:00",
-          "end_time": "19:16:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With G. Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGR.svg",
-          "start_time": "19:16:00",
-          "end_time": "19:23:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Boiling Point",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/BP.svg",
-          "start_time": "19:23:00",
-          "end_time": "20:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
-          "start_time": "20:55:00",
-          "end_time": "20:59:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With A$Ap Ferg",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWAF.svg",
-          "start_time": "20:59:00",
-          "end_time": "21:03:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Thin Line",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TTL.svg",
-          "start_time": "21:03:00",
-          "end_time": "22:53:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "24 Hours With Sofia Carson",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWSC.svg",
-          "start_time": "22:53:00",
-          "end_time": "23:03:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "73 Questions With Emma Stone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWES.svg",
-          "start_time": "23:03:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "4 Celebrities: Serial Cheaters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/4CSC.svg",
-          "start_time": "23:15:00",
-          "end_time": "23:18:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "7 Riverdale Fans Explain Why...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7RFEW.svg",
-          "start_time": "23:18:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Come Dance At My Wedding",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/CDAMW.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:54:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-10",
       "programs": [
         {
           "show_name": "Come Dance At My Wedding",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/CDAMW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDAMW",
           "start_time": "00:00:00",
           "end_time": "00:54:00",
           "episode_number": ""
         },
         {
           "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
           "start_time": "00:54:00",
           "end_time": "02:58:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Megan Thee...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWMT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWMT",
           "start_time": "02:58:00",
           "end_time": "04:38:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Hailey Bieber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWHB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWHB",
           "start_time": "04:38:00",
           "end_time": "04:46:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Daisy Ridley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "04:46:00",
           "end_time": "04:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
           "start_time": "04:55:00",
           "end_time": "06:27:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Hailey Bieber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWHB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWHB",
           "start_time": "06:27:00",
           "end_time": "06:35:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "06:35:00",
           "end_time": "06:41:00",
           "episode_number": ""
         },
         {
           "show_name": "Just Getting Started",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/JGS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JGS",
           "start_time": "06:41:00",
           "end_time": "08:10:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Emily Blunt",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWEB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWEB",
           "start_time": "08:10:00",
           "end_time": "08:19:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "08:19:00",
           "end_time": "08:25:00",
           "episode_number": ""
         },
         {
           "show_name": "I Dream Too Much",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/IDTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDTM",
           "start_time": "08:25:00",
           "end_time": "09:55:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "09:55:00",
           "end_time": "10:01:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Daisy Ridley",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "10:01:00",
           "end_time": "10:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Tapped Out",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TO",
           "start_time": "10:10:00",
           "end_time": "11:56:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Gal Gadot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWGG",
           "start_time": "11:56:00",
           "end_time": "12:08:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Cole Sprouse",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWCS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWCS",
           "start_time": "12:08:00",
           "end_time": "12:11:00",
           "episode_number": ""
         },
         {
           "show_name": "2012: Supernova",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2S",
           "start_time": "12:11:00",
           "end_time": "13:36:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWKP",
           "start_time": "13:36:00",
           "end_time": "13:40:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With D. Radcliffe",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWDR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
           "start_time": "13:40:00",
           "end_time": "13:46:00",
           "episode_number": ""
         },
         {
           "show_name": "Timeless Love: The Promise",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TLTP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLTP",
           "start_time": "13:46:00",
           "end_time": "15:53:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Burna Boy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWBB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWBB",
           "start_time": "15:53:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Emma Stone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWES.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWES",
           "start_time": "16:00:00",
           "end_time": "16:09:00",
           "episode_number": ""
         },
         {
           "show_name": "I Dream Too Much",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/IDTM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDTM",
           "start_time": "16:09:00",
           "end_time": "17:36:00",
           "episode_number": ""
         },
         {
           "show_name": "Legendary Voyages",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/LV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
           "start_time": "17:36:00",
           "end_time": "19:28:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Katy Perry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWKP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWKP",
           "start_time": "19:28:00",
           "end_time": "19:31:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With G. Rodriguez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWGR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWGR",
           "start_time": "19:31:00",
           "end_time": "19:42:00",
           "episode_number": ""
         },
         {
           "show_name": "Whitetail",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "19:42:00",
           "end_time": "21:33:00",
           "episode_number": ""
         },
         {
           "show_name": "73 Questions With Hailey Bieber",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/7QWHB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWHB",
           "start_time": "21:33:00",
           "end_time": "21:41:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Ellie Goulding",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWEG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWEG",
           "start_time": "21:41:00",
           "end_time": "21:51:00",
           "episode_number": ""
         },
         {
           "show_name": "Nightmare Alley: Possession",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/NAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
           "start_time": "21:51:00",
           "end_time": "23:21:00",
           "episode_number": ""
         },
         {
           "show_name": "24 Hours With Sofia Carson",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/2HWSC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWSC",
           "start_time": "23:21:00",
           "end_time": "23:31:00",
           "episode_number": ""
         },
         {
           "show_name": "4 Celebrities: Serial Cheaters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/4CSC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4CSC",
           "start_time": "23:31:00",
           "end_time": "23:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The Quiet Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/originals/TQG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TQG",
           "start_time": "23:35:00",
           "end_time": "01:08:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-11",
+      "programs": [
+        {
+          "show_name": "The Quiet Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TQG",
+          "start_time": "00:00:00",
+          "end_time": "01:08:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Burna Boy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWBB",
+          "start_time": "01:08:00",
+          "end_time": "01:14:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Sofia Carson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWSC",
+          "start_time": "01:14:00",
+          "end_time": "01:24:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Christmas Jars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CJ",
+          "start_time": "01:24:00",
+          "end_time": "02:56:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Burna Boy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWBB",
+          "start_time": "02:56:00",
+          "end_time": "04:26:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emily Blunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWEB",
+          "start_time": "04:26:00",
+          "end_time": "04:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With G. Rodriguez",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWGR",
+          "start_time": "04:35:00",
+          "end_time": "04:43:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Holy Business",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HB",
+          "start_time": "04:43:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emily Blunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWEB",
+          "start_time": "06:10:00",
+          "end_time": "06:18:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Gal Gadot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWGG",
+          "start_time": "06:18:00",
+          "end_time": "06:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "4 Celebrities: Serial Cheaters",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4CSC",
+          "start_time": "06:34:00",
+          "end_time": "06:38:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "7 Riverdale Fans Explain Why...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7RFEW",
+          "start_time": "06:38:00",
+          "end_time": "06:49:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "I Dream Too Much",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IDTM",
+          "start_time": "06:49:00",
+          "end_time": "08:17:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legendary Voyages",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
+          "start_time": "08:17:00",
+          "end_time": "10:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Megan Thee...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWMT",
+          "start_time": "10:02:00",
+          "end_time": "10:07:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emily Blunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWEB",
+          "start_time": "10:07:00",
+          "end_time": "10:19:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Delia's Gone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DG",
+          "start_time": "10:19:00",
+          "end_time": "11:41:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With D. Radcliffe",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
+          "start_time": "11:41:00",
+          "end_time": "11:47:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Hailey Bieber",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWHB",
+          "start_time": "11:47:00",
+          "end_time": "11:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nightmare Alley: Possession",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NAP",
+          "start_time": "11:55:00",
+          "end_time": "13:44:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Sofia Carson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWSC",
+          "start_time": "13:44:00",
+          "end_time": "13:54:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Daisy Ridley",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
+          "start_time": "13:54:00",
+          "end_time": "14:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "After The Wedding",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
+          "start_time": "14:03:00",
+          "end_time": "15:51:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Gal Gadot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWGG",
+          "start_time": "15:51:00",
+          "end_time": "16:03:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Sofia Carson",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWSC",
+          "start_time": "16:03:00",
+          "end_time": "16:14:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Prince & Me 3",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP&M3",
+          "start_time": "16:14:00",
+          "end_time": "17:44:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emma Stone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWES",
+          "start_time": "17:44:00",
+          "end_time": "17:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "7 Riverdale Fans Explain Why...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7RFEW",
+          "start_time": "17:53:00",
+          "end_time": "18:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Crime Is Mine",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCIM",
+          "start_time": "18:05:00",
+          "end_time": "19:44:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "7 Riverdale Fans Explain Why...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7RFEW",
+          "start_time": "19:44:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With D. Radcliffe",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
+          "start_time": "19:55:00",
+          "end_time": "20:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Escape Of Prisoner 614",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEOP6",
+          "start_time": "20:02:00",
+          "end_time": "21:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emma Stone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWES",
+          "start_time": "21:35:00",
+          "end_time": "21:43:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "24 Hours With Burna Boy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=2HWBB",
+          "start_time": "21:43:00",
+          "end_time": "21:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Emily Blunt",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWEB",
+          "start_time": "21:53:00",
+          "end_time": "22:02:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "73 Questions With Daisy Ridley",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=7QWDR",
+          "start_time": "22:02:00",
+          "end_time": "22:11:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tom's Midnight Garden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMG",
+          "start_time": "22:11:00",
+          "end_time": "23:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Legendary Voyages",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LV",
+          "start_time": "23:53:00",
+          "end_time": "01:24:00",
           "episode_number": ""
         }
       ]

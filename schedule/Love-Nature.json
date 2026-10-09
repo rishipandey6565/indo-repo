@@ -2,221 +2,207 @@
   "channel_name": "Love Nature",
   "schedule": {
     "today": {
-      "date": "2026-10-09",
+      "date": "2026-10-10",
       "programs": [
         {
           "show_name": "Cub Camp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/CC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Zambia Untamed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ZU.svg",
-          "start_time": "00:25:00",
-          "end_time": "01:20:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Zambia Untamed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ZU.svg",
-          "start_time": "01:20:00",
-          "end_time": "02:15:00",
           "episode_number": "S1 E4"
         },
         {
+          "show_name": "My Best Friend's An...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBFA",
+          "start_time": "00:25:00",
+          "end_time": "01:20:00",
+          "episode_number": "S1 E5"
+        },
+        {
+          "show_name": "My Best Friend's An...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MBFA",
+          "start_time": "01:20:00",
+          "end_time": "02:15:00",
+          "episode_number": "S1 E6"
+        },
+        {
           "show_name": "Uptown Otters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/UO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UO",
           "start_time": "02:15:00",
           "end_time": "03:10:00",
-          "episode_number": "S1 E5"
+          "episode_number": "S1 E6"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Aussie Snake Wranglers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASW",
           "start_time": "03:10:00",
-          "end_time": "04:05:00",
-          "episode_number": "S1 E5"
+          "end_time": "03:35:00",
+          "episode_number": "S2 E5"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Aussie Snake Wranglers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASW",
+          "start_time": "03:35:00",
+          "end_time": "04:05:00",
+          "episode_number": "S2 E6"
+        },
+        {
+          "show_name": "After The Wildfires",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATW",
           "start_time": "04:05:00",
           "end_time": "05:00:00",
-          "episode_number": "S1 E6"
+          "episode_number": ""
         },
         {
           "show_name": "Battle Of The Alphas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/BOTA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTA",
           "start_time": "05:00:00",
           "end_time": "05:25:00",
-          "episode_number": "S2 E11"
+          "episode_number": "S2 E12"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Ocean Parks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
           "start_time": "05:25:00",
           "end_time": "06:20:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
-          "start_time": "06:20:00",
-          "end_time": "07:15:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Animals Decoded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/AD.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:10:00",
           "episode_number": "S1 E3"
         },
         {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
+          "show_name": "Land Of Gremlins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOG",
+          "start_time": "06:20:00",
+          "end_time": "07:15:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Into The Wild India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWI",
+          "start_time": "07:15:00",
+          "end_time": "08:10:00",
+          "episode_number": "S1 E6"
+        },
+        {
+          "show_name": "Into The Wild India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWI",
           "start_time": "08:10:00",
-          "end_time": "08:35:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "08:35:00",
           "end_time": "09:05:00",
-          "episode_number": "S2 E6"
+          "episode_number": "S1 E7"
         },
         {
-          "show_name": "After The Wildfires",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ATW.svg",
+          "show_name": "Into The Wild India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWI",
           "start_time": "09:05:00",
           "end_time": "10:00:00",
-          "episode_number": ""
+          "episode_number": "S1 E8"
         },
         {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Into The Wild India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWI",
           "start_time": "10:00:00",
           "end_time": "10:50:00",
-          "episode_number": "S1 E4"
+          "episode_number": "S1 E9"
         },
         {
-          "show_name": "Cub Camp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/CC.svg",
+          "show_name": "Into The Wild India",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITWI",
           "start_time": "10:50:00",
           "end_time": "11:40:00",
-          "episode_number": "S1 E4"
+          "episode_number": "S1 E10"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Animal Empires",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AE",
           "start_time": "11:40:00",
           "end_time": "12:35:00",
-          "episode_number": "S1 E5"
-        },
-        {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
-          "start_time": "12:35:00",
-          "end_time": "13:30:00",
           "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Uptown Otters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/UO.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:25:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "14:25:00",
-          "end_time": "14:50:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "14:50:00",
-          "end_time": "15:20:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "After The Wildfires",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ATW.svg",
-          "start_time": "15:20:00",
-          "end_time": "16:15:00",
-          "episode_number": ""
         },
         {
           "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
-          "start_time": "16:15:00",
-          "end_time": "17:10:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GOLI",
+          "start_time": "12:35:00",
+          "end_time": "13:30:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Gangs Of Lemur Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GOLI",
+          "start_time": "13:30:00",
+          "end_time": "14:25:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Gangs Of Lemur Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GOLI",
+          "start_time": "14:25:00",
+          "end_time": "15:20:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Gangs Of Lemur Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GOLI",
+          "start_time": "15:20:00",
+          "end_time": "16:15:00",
           "episode_number": "S1 E4"
         },
         {
-          "show_name": "Cub Camp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/CC.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "16:15:00",
+          "end_time": "17:10:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "17:10:00",
           "end_time": "18:05:00",
           "episode_number": "S1 E4"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "18:05:00",
           "end_time": "19:00:00",
           "episode_number": "S1 E5"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "19:00:00",
           "end_time": "19:55:00",
           "episode_number": "S1 E6"
         },
         {
-          "show_name": "Animals Decoded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/AD.svg",
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
           "start_time": "19:55:00",
           "end_time": "20:50:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
+          "start_time": "20:50:00",
+          "end_time": "21:45:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
+          "start_time": "21:45:00",
+          "end_time": "22:40:00",
           "episode_number": "S1 E3"
         },
         {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "20:50:00",
-          "end_time": "21:15:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "21:15:00",
-          "end_time": "21:45:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "After The Wildfires",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ATW.svg",
-          "start_time": "21:45:00",
-          "end_time": "22:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "22:40:00",
           "end_time": "23:35:00",
-          "episode_number": "S1 E4"
+          "episode_number": "S1 E3"
         },
         {
-          "show_name": "Cub Camp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/CC.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "23:35:00",
           "end_time": "00:25:00",
           "episode_number": "S1 E4"
@@ -224,210 +210,203 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-10-10",
+      "date": "2026-10-11",
       "programs": [
         {
-          "show_name": "Cub Camp",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/CC.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "00:00:00",
           "end_time": "00:25:00",
           "episode_number": "S1 E4"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "00:25:00",
           "end_time": "01:20:00",
           "episode_number": "S1 E5"
         },
         {
-          "show_name": "My Best Friend's An...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/MBFA.svg",
+          "show_name": "Wild Science",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "01:20:00",
           "end_time": "02:15:00",
           "episode_number": "S1 E6"
         },
         {
-          "show_name": "Uptown Otters",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/UO.svg",
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
           "start_time": "02:15:00",
           "end_time": "03:10:00",
-          "episode_number": "S1 E6"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "03:10:00",
-          "end_time": "03:35:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Aussie Snake Wranglers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ASW.svg",
-          "start_time": "03:35:00",
-          "end_time": "04:05:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "After The Wildfires",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ATW.svg",
-          "start_time": "04:05:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Battle Of The Alphas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/BOTA.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:25:00",
-          "episode_number": "S2 E12"
-        },
-        {
-          "show_name": "Ocean Parks",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/OP.svg",
-          "start_time": "05:25:00",
-          "end_time": "06:20:00",
-          "episode_number": "S1 E3"
-        },
-        {
-          "show_name": "Land Of Gremlins",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/LOG.svg",
-          "start_time": "06:20:00",
-          "end_time": "07:15:00",
           "episode_number": "S1 E1"
         },
         {
-          "show_name": "Into The Wild India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ITWI.svg",
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
+          "start_time": "03:10:00",
+          "end_time": "04:05:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Bugs That Rule...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTR",
+          "start_time": "04:05:00",
+          "end_time": "05:00:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Mysteries Of Evolution",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOE",
+          "start_time": "05:00:00",
+          "end_time": "05:25:00",
+          "episode_number": "S1 E1"
+        },
+        {
+          "show_name": "Ocean Parks",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OP",
+          "start_time": "05:25:00",
+          "end_time": "06:20:00",
+          "episode_number": "S1 E4"
+        },
+        {
+          "show_name": "Land Of Gremlins",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOG",
+          "start_time": "06:20:00",
+          "end_time": "07:15:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Africa's Wild Horizons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWH",
           "start_time": "07:15:00",
           "end_time": "08:10:00",
-          "episode_number": "S1 E6"
+          "episode_number": "S2 E1"
         },
         {
-          "show_name": "Into The Wild India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ITWI.svg",
+          "show_name": "Africa's Wild Horizons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWH",
           "start_time": "08:10:00",
           "end_time": "09:05:00",
-          "episode_number": "S1 E7"
+          "episode_number": "S2 E2"
         },
         {
-          "show_name": "Into The Wild India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ITWI.svg",
+          "show_name": "Africa's Wild Horizons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWH",
           "start_time": "09:05:00",
           "end_time": "10:00:00",
-          "episode_number": "S1 E8"
+          "episode_number": "S2 E3"
         },
         {
-          "show_name": "Into The Wild India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ITWI.svg",
+          "show_name": "Africa's Wild Horizons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWH",
           "start_time": "10:00:00",
           "end_time": "10:50:00",
-          "episode_number": "S1 E9"
+          "episode_number": "S2 E4"
         },
         {
-          "show_name": "Into The Wild India",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/ITWI.svg",
+          "show_name": "Africa's Wild Horizons",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWH",
           "start_time": "10:50:00",
           "end_time": "11:40:00",
-          "episode_number": "S1 E10"
+          "episode_number": "S2 E5"
         },
         {
-          "show_name": "Animal Empires",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/AE.svg",
+          "show_name": "Macaque Island",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MI",
           "start_time": "11:40:00",
           "end_time": "12:35:00",
-          "episode_number": "S1 E6"
+          "episode_number": "S1 E3"
         },
         {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Cub Camp",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "12:35:00",
           "end_time": "13:30:00",
           "episode_number": "S1 E1"
         },
         {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Cub Camp",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "13:30:00",
           "end_time": "14:25:00",
           "episode_number": "S1 E2"
         },
         {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Cub Camp",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "14:25:00",
           "end_time": "15:20:00",
           "episode_number": "S1 E3"
         },
         {
-          "show_name": "Gangs Of Lemur Island",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/GOLI.svg",
+          "show_name": "Cub Camp",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "15:20:00",
           "end_time": "16:15:00",
           "episode_number": "S1 E4"
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Pridelands: Wilderness Reborn",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PWR",
           "start_time": "16:15:00",
           "end_time": "17:10:00",
-          "episode_number": "S1 E3"
+          "episode_number": ""
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Carpathian Predators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "17:10:00",
           "end_time": "18:05:00",
-          "episode_number": "S1 E4"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Carpathian Predators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "18:05:00",
           "end_time": "19:00:00",
-          "episode_number": "S1 E5"
+          "episode_number": "S1 E2"
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Europe's Wild Kingdom",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EWK",
           "start_time": "19:00:00",
           "end_time": "19:55:00",
-          "episode_number": "S1 E6"
+          "episode_number": "S1 E1"
         },
         {
-          "show_name": "Bugs That Rule...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/BTR.svg",
+          "show_name": "The Enchanted Forests",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEF",
           "start_time": "19:55:00",
           "end_time": "20:50:00",
           "episode_number": "S1 E1"
         },
         {
-          "show_name": "Bugs That Rule...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/BTR.svg",
+          "show_name": "The Enchanted Forests",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEF",
           "start_time": "20:50:00",
           "end_time": "21:45:00",
           "episode_number": "S1 E2"
         },
         {
-          "show_name": "Bugs That Rule...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/BTR.svg",
+          "show_name": "The Enchanted Forests",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TEF",
           "start_time": "21:45:00",
           "end_time": "22:40:00",
           "episode_number": "S1 E3"
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Pridelands: Wilderness Reborn",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PWR",
           "start_time": "22:40:00",
           "end_time": "23:35:00",
-          "episode_number": "S1 E3"
+          "episode_number": ""
         },
         {
-          "show_name": "Wild Science",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/love-nature/WS.svg",
+          "show_name": "Carpathian Predators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CP",
           "start_time": "23:35:00",
           "end_time": "00:25:00",
-          "episode_number": "S1 E4"
+          "episode_number": "S1 E1"
         }
       ]
     }
