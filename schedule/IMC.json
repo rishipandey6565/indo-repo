@@ -2,235 +2,228 @@
   "channel_name": "IMC",
   "schedule": {
     "today": {
-      "date": "2026-10-13",
-      "programs": [
-        {
-          "show_name": "Paku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/P.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blok M",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BM.svg",
-          "start_time": "00:45:00",
-          "end_time": "02:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kesurupan Jumat Kliwon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/KJK.svg",
-          "start_time": "02:10:00",
-          "end_time": "03:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Antri Dong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/AD.svg",
-          "start_time": "03:40:00",
-          "end_time": "05:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dorce Sok Akrab",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/DSA.svg",
-          "start_time": "05:10:00",
-          "end_time": "06:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dunia Mereka",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/DM.svg",
-          "start_time": "06:35:00",
-          "end_time": "08:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sang Pencerah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/SP.svg",
-          "start_time": "08:10:00",
-          "end_time": "10:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hijrah Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/HC.svg",
-          "start_time": "10:05:00",
-          "end_time": "12:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dari Pintu Ke Pintu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/DPKP.svg",
-          "start_time": "12:05:00",
-          "end_time": "13:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Benyamin Musuh Bebuyutan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BMB.svg",
-          "start_time": "13:35:00",
-          "end_time": "15:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Aach... Aku Jatuh Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/AAJC.svg",
-          "start_time": "15:15:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jamila Dan Sang Presiden",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/JDSP.svg",
-          "start_time": "16:45:00",
-          "end_time": "18:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jatuh Cinta Lagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/JCL.svg",
-          "start_time": "18:25:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mudik",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/M.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Maju Kena Mundur Kena Returns",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/MKMKR.svg",
-          "start_time": "21:25:00",
-          "end_time": "23:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pulau Hantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PH.svg",
-          "start_time": "23:10:00",
-          "end_time": "00:35:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-14",
       "programs": [
         {
           "show_name": "Pulau Hantu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PH",
           "start_time": "00:00:00",
           "end_time": "00:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Cintaku Di Kampus Biru",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/CDKB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CDKB",
           "start_time": "00:35:00",
           "end_time": "02:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Paku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "02:20:00",
           "end_time": "03:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Boneka Dari Indiana",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/BDI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BDI",
           "start_time": "03:50:00",
           "end_time": "05:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Misteri Gunung Merapi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/MGM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MGM",
           "start_time": "05:25:00",
           "end_time": "07:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Punk In Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/PIL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PIL",
           "start_time": "07:20:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Laundry Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/LS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
           "start_time": "09:00:00",
           "end_time": "10:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Kirun+Adul Pengen Punya Pacar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/KPPP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KPPP",
           "start_time": "10:35:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Mangkujiwo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
           "start_time": "12:00:00",
           "end_time": "13:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Dear Jo: Almost Is Never Enough",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/DJAIN.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DJAIN",
           "start_time": "13:50:00",
           "end_time": "15:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Roy Kiyoshi (The Untold Story)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/RKUS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RK(US",
           "start_time": "15:35:00",
           "end_time": "17:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Kalung Jelangkung",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/KJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KJ",
           "start_time": "17:05:00",
           "end_time": "18:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Selamanya",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "18:25:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Suami-Suami Takut Istri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/STI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=STI",
           "start_time": "20:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hattrick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/H.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kawin Kontrak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/imc/KK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KK",
           "start_time": "23:30:00",
           "end_time": "01:20:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "show_name": "Kawin Kontrak",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KK",
+          "start_time": "00:00:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kabut Sutra Ungu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KSU",
+          "start_time": "01:20:00",
+          "end_time": "04:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pulau Hantu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PH",
+          "start_time": "04:10:00",
+          "end_time": "05:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blok M",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BM",
+          "start_time": "05:35:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Antri Dong",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AD",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jamila Dan Sang Presiden",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JDSP",
+          "start_time": "08:30:00",
+          "end_time": "10:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mudik",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M",
+          "start_time": "10:10:00",
+          "end_time": "11:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Maju Kena Mundur Kena Returns",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKMKR",
+          "start_time": "11:35:00",
+          "end_time": "13:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hijrah Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HC",
+          "start_time": "13:20:00",
+          "end_time": "15:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Dari Pintu Ke Pintu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPKP",
+          "start_time": "15:20:00",
+          "end_time": "16:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Benyamin Musuh Bebuyutan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMB",
+          "start_time": "16:50:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Aach... Aku Jatuh Cinta",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AAJC",
+          "start_time": "18:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tumbal 97",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T9",
+          "start_time": "20:00:00",
+          "end_time": "21:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kangen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "21:20:00",
+          "end_time": "22:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pulau Hantu 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PH2",
+          "start_time": "22:50:00",
+          "end_time": "00:20:00",
           "episode_number": ""
         }
       ]
