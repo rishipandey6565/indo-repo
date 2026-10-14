@@ -2,228 +2,242 @@
   "channel_name": "Galaxy",
   "schedule": {
     "today": {
-      "date": "2026-10-14",
-      "programs": [
-        {
-          "show_name": "Riot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/R.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Candy Land",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/CL.svg",
-          "start_time": "01:15:00",
-          "end_time": "02:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "American Sicario",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AS.svg",
-          "start_time": "02:50:00",
-          "end_time": "04:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Tale Of Two Guns",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/ATOTG.svg",
-          "start_time": "04:35:00",
-          "end_time": "06:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fourth State",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TFS.svg",
-          "start_time": "06:10:00",
-          "end_time": "08:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pups Alone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/PA.svg",
-          "start_time": "08:05:00",
-          "end_time": "09:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Operation Seawolf",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/OS.svg",
-          "start_time": "09:55:00",
-          "end_time": "11:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Alone We Fight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AWF.svg",
-          "start_time": "11:20:00",
-          "end_time": "12:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Ballad Of Davy Crockett",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TBODC.svg",
-          "start_time": "12:55:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gravy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/G.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Come Out Fighting",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/COF.svg",
-          "start_time": "16:05:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wicked Games",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/WG.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Revival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/R.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Courier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TC.svg",
-          "start_time": "20:35:00",
-          "end_time": "22:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Any Bullet Will Do",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/ABWD.svg",
-          "start_time": "22:10:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-15",
       "programs": [
         {
           "show_name": "Another Mother's Son",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AMS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMS",
           "start_time": "00:00:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Pig Farmer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TPF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPF",
           "start_time": "01:45:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Outlaws And Angels",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/OAA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OAA",
           "start_time": "03:20:00",
           "end_time": "05:10:00",
           "episode_number": ""
         },
         {
           "show_name": "In Isolation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/II.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
           "start_time": "05:10:00",
           "end_time": "06:35:00",
           "episode_number": ""
         },
         {
           "show_name": "The Price We Pay",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TPWP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPWP",
           "start_time": "06:35:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Darkness Of Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/DOM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOM",
           "start_time": "08:00:00",
           "end_time": "09:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Traded",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/T.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
           "start_time": "09:45:00",
           "end_time": "11:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Winter War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/WW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WW",
           "start_time": "11:25:00",
           "end_time": "12:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Death On The Border",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/DOTB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DOTB",
           "start_time": "12:50:00",
           "end_time": "14:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Wunderland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/W.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
           "start_time": "14:25:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Road To Hell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/RTH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RTH",
           "start_time": "16:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Damon's Revenge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/DR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Burial Ground Massacre",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BGM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BGM",
           "start_time": "19:00:00",
           "end_time": "20:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Clean",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "20:40:00",
           "end_time": "22:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Phoenix",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=P",
           "start_time": "22:10:00",
           "end_time": "23:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Chosen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "23:35:00",
           "end_time": "01:15:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-16",
+      "programs": [
+        {
+          "show_name": "Chosen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "00:00:00",
+          "end_time": "01:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Rake",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "01:15:00",
+          "end_time": "02:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Temple",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "02:35:00",
+          "end_time": "03:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Wicked Games",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WG",
+          "start_time": "03:55:00",
+          "end_time": "05:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Revival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "05:25:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Courier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TC",
+          "start_time": "07:00:00",
+          "end_time": "08:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Muscle",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AM",
+          "start_time": "08:35:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunting Games",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HG",
+          "start_time": "09:50:00",
+          "end_time": "11:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Curse Of The Clown Motel",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCOTC",
+          "start_time": "11:25:00",
+          "end_time": "12:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pups Alone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PA",
+          "start_time": "12:50:00",
+          "end_time": "14:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Seawolf",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OS",
+          "start_time": "14:40:00",
+          "end_time": "16:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Alone We Fight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AWF",
+          "start_time": "16:05:00",
+          "end_time": "17:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Lurking Fear",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TLF",
+          "start_time": "17:40:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "American Rider",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AR",
+          "start_time": "19:00:00",
+          "end_time": "20:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "No Visitors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NV",
+          "start_time": "20:35:00",
+          "end_time": "22:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ballad Of Davy Crockett",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBODC",
+          "start_time": "22:15:00",
+          "end_time": "23:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gravy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "23:50:00",
+          "end_time": "01:25:00",
           "episode_number": ""
         }
       ]
