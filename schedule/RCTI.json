@@ -2,126 +2,20 @@
   "channel_name": "RCTI",
   "schedule": {
     "today": {
-      "date": "2026-10-17",
+      "date": "2026-10-18",
       "programs": [
         {
           "show_name": "Anugerah Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/AC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AC",
           "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Romansa Cinta Sop Buntut",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/RCSB.svg",
-          "start_time": "00:15:00",
-          "end_time": "01:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cenat Cenut Hati Badut Imut",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/CCHBI.svg",
-          "start_time": "01:30:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mega Film TV Malam",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/MFTM.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Preman Pensiun Deui",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/PPD.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bhootu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/B.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/U.svg",
-          "start_time": "06:30:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/E.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Miss Indonesia 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/MI2.svg",
-          "start_time": "10:30:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ikatan Cinta Aldebaran & Andin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/ICA.svg",
-          "start_time": "13:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ternyata Ini Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TIC.svg",
-          "start_time": "17:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Terikat Janji",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TJ.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Terlanjur Mencintaimu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TM.svg",
-          "start_time": "20:30:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tiger & Crane",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/T.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Anugerah Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/AC.svg",
-          "start_time": "23:00:00",
           "end_time": "00:15:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-10-18",
-      "programs": [
-        {
-          "show_name": "Anugerah Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/AC.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": ""
-        }
-      ]
+      "date": "2026-10-19",
+      "programs": []
     }
   }
 }

@@ -2,298 +2,242 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-10-17",
-      "programs": [
-        {
-          "show_name": "Premier Padel 2026: Milan (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Australian Open Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AOMH2.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:22:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga 2 '26/27: LEG Vs COR (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2LV.svg",
-          "start_time": "01:22:00",
-          "end_time": "03:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
-          "start_time": "03:30:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Malaga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
-          "start_time": "08:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nastro Rosa Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/NRT2.svg",
-          "start_time": "10:00:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UECL 2026/27: CSK Vs ASM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2CVA.svg",
-          "start_time": "10:30:00",
-          "end_time": "12:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "La Vuelta Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LVH2.svg",
-          "start_time": "12:20:00",
-          "end_time": "12:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "La Vuelta Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LVH2.svg",
-          "start_time": "12:50:00",
-          "end_time": "13:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roland Garros Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/RGMH2.svg",
-          "start_time": "13:20:00",
-          "end_time": "13:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
-          "start_time": "13:40:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "15:00:00",
-          "end_time": "15:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "La Vuelta Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LVH2.svg",
-          "start_time": "15:10:00",
-          "end_time": "15:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIM World Supercross C'ship",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWSC.svg",
-          "start_time": "15:40:00",
-          "end_time": "16:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
-          "start_time": "16:40:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
-          "start_time": "18:50:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Doubles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2DD.svg",
-          "start_time": "19:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Laver Cup 2026: Singles Day 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/LC2SD.svg",
-          "start_time": "21:25:00",
-          "end_time": "22:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Super Lig 26/27: FEN Vs ALA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
-          "start_time": "22:55:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-18",
       "programs": [
         {
           "show_name": "Super Lig 26/27: FEN Vs ALA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS Series 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSS2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2",
           "start_time": "01:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Australian Open Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AOMH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
           "start_time": "01:30:00",
           "end_time": "01:52:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2 '26/27: LPM Vs CAS (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2LV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2'LV",
           "start_time": "01:52:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Nastro Rosa Tour 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/NRT2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NRT2",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "05:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "08:00:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Milan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
           "start_time": "09:30:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: ARS Vs BIR",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2AVB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2AVB",
           "start_time": "11:00:00",
           "end_time": "12:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: GNC Vs GAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2GV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2GV",
           "start_time": "12:50:00",
           "end_time": "14:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Super Lig 2026/27: FEN Vs ALA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/SL2FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
           "start_time": "14:40:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
           "start_time": "16:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
           "start_time": "20:00:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel 2026: Pretoria",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PP2P.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2P",
           "start_time": "23:30:00",
           "end_time": "00:30:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-19",
+      "programs": [
+        {
+          "show_name": "Premier Padel 2026: Pretoria",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2P",
+          "start_time": "00:00:00",
+          "end_time": "00:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "00:30:00",
+          "end_time": "01:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "01:40:00",
+          "end_time": "03:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "03:10:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Match HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
+          "start_time": "04:30:00",
+          "end_time": "04:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Malaga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "04:40:00",
+          "end_time": "06:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: CRY Vs WHU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVW",
+          "start_time": "06:10:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: CHA Vs MUN",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVM",
+          "start_time": "08:00:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: CHE Vs TOT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVT",
+          "start_time": "09:50:00",
+          "end_time": "11:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: IBA Vs GAZ",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2IV",
+          "start_time": "11:40:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Milan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "13:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Milan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M",
+          "start_time": "15:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: MCI Vs BHA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVB",
+          "start_time": "16:30:00",
+          "end_time": "18:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: GNC Vs GAL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2GV",
+          "start_time": "18:20:00",
+          "end_time": "20:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: FEN Vs ALA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2FV",
+          "start_time": "20:10:00",
+          "end_time": "22:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: CHE Vs TOT",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2CVT",
+          "start_time": "22:00:00",
+          "end_time": "23:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 26/27: TSR Vs BJK (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2TV",
+          "start_time": "23:55:00",
+          "end_time": "02:00:00",
           "episode_number": ""
         }
       ]
