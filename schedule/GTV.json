@@ -2,95 +2,102 @@
   "channel_name": "GTV",
   "schedule": {
     "today": {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "programs": [
         {
-          "show_name": "Predator-PBS World C'ship 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PWC2.svg",
+          "show_name": "Into The Line Of Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITLOF",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "1001 Kisah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/1K.svg",
+          "show_name": "AFC Champions League Two",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACLT",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "AFC Champions League Two",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACLT",
           "start_time": "02:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "03:30:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bhootu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "CoComelon Dan Sahabat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/CDS.svg",
+          "show_name": "Buletin iNews Pagi",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "06:00:00",
-          "end_time": "07:00:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Legenda Nusantara",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/LN.svg",
-          "start_time": "07:00:00",
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
+          "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "12:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "15:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Film Keluarga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/FK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FK",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Film Keluarga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/FK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FK",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Death & Life Of Bobby Z",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/D.svg",
+          "show_name": "Shark Attack 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SA2",
           "start_time": "20:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Into The Line Of Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ITLOF.svg",
+          "show_name": "Bayangan Sang Kembar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSK",
           "start_time": "22:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
@@ -98,102 +105,102 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "programs": [
         {
-          "show_name": "Into The Line Of Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ITLOF.svg",
+          "show_name": "Bayangan Sang Kembar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSK",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "AFC Champions League Two",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACLT.svg",
+          "show_name": "AFC Champions League Elite",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACLE",
           "start_time": "00:30:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "AFC Champions League Two",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/ACLT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACLT",
           "start_time": "02:00:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Petualangan Fantasi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
           "start_time": "03:30:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Bhootu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Buletin iNews Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BIP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BIP",
           "start_time": "06:00:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "06:30:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Pada Zaman Dahulu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/PZD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PZD",
           "start_time": "08:00:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Kiko",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/K.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "12:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "15:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Film Keluarga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/FK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FK",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Film Keluarga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/FK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FK",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Shark Attack 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/SA2.svg",
+          "show_name": "Shark Zone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SZ",
           "start_time": "20:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bayangan Sang Kembar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/gtv/BSK.svg",
+          "show_name": "Asmara Melintasi Waktu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMW",
           "start_time": "22:30:00",
           "end_time": "00:30:00",
           "episode_number": ""
