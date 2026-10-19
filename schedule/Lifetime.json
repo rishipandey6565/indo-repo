@@ -2,376 +2,362 @@
   "channel_name": "Lifetime",
   "schedule": {
     "today": {
-      "date": "2026-10-19",
-      "programs": [
-        {
-          "show_name": "My Amish Double Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MADL.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:10:00",
-          "episode_number": "S2 E19"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "01:10:00",
-          "end_time": "01:40:00",
-          "episode_number": "S1 E12"
-        },
-        {
-          "show_name": "Murder In Nashville",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIN.svg",
-          "start_time": "01:40:00",
-          "end_time": "03:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Girl Who Survived",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TGWS.svg",
-          "start_time": "03:20:00",
-          "end_time": "05:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
-          "start_time": "05:05:00",
-          "end_time": "06:05:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "06:05:00",
-          "end_time": "07:05:00",
-          "episode_number": "S18 E13"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "07:05:00",
-          "end_time": "08:05:00",
-          "episode_number": "S18 E14"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "08:05:00",
-          "end_time": "09:10:00",
-          "episode_number": "S18 E15"
-        },
-        {
-          "show_name": "Global Soul Kitchen",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/GSK.svg",
-          "start_time": "09:10:00",
-          "end_time": "09:40:00",
-          "episode_number": "S1 E12"
-        },
-        {
-          "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
-          "start_time": "09:40:00",
-          "end_time": "10:40:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "10:40:00",
-          "end_time": "11:40:00",
-          "episode_number": "S1 E15"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "11:40:00",
-          "end_time": "12:10:00",
-          "episode_number": "S3 E75"
-        },
-        {
-          "show_name": "The Ice Rink Murders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TIRM.svg",
-          "start_time": "12:10:00",
-          "end_time": "13:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The K-Gim Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TKR.svg",
-          "start_time": "13:55:00",
-          "end_time": "14:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "14:55:00",
-          "end_time": "15:55:00",
-          "episode_number": "S18 E13"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "15:55:00",
-          "end_time": "16:55:00",
-          "episode_number": "S18 E14"
-        },
-        {
-          "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
-          "start_time": "16:55:00",
-          "end_time": "18:00:00",
-          "episode_number": "S18 E15"
-        },
-        {
-          "show_name": "Instant Italian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/II.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": "S2 E19"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": "S1 E16"
-        },
-        {
-          "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": "S3 E76"
-        },
-        {
-          "show_name": "Living With My Mother's Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LWMMK.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Instant Italian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/II.svg",
-          "start_time": "22:35:00",
-          "end_time": "23:05:00",
-          "episode_number": "S1 E1"
-        },
-        {
-          "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
-          "start_time": "23:05:00",
-          "end_time": "23:35:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
-          "start_time": "23:35:00",
-          "end_time": "00:35:00",
-          "episode_number": "S1 E16"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-20",
       "programs": [
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "00:00:00",
           "end_time": "00:35:00",
           "episode_number": "S1 E16"
         },
         {
           "show_name": "Casting 1147km",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/C1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C1",
           "start_time": "00:35:00",
           "end_time": "01:35:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Ice Rink Murders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TIRM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIRM",
           "start_time": "01:35:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Living With My Mother's Killer",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/LWMMK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LWMMK",
           "start_time": "03:20:00",
           "end_time": "05:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Enlighten Your Life",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/EYL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
           "start_time": "05:05:00",
           "end_time": "06:05:00",
           "episode_number": "S3 E6"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "06:05:00",
           "end_time": "07:05:00",
           "episode_number": "S18 E14"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "07:05:00",
           "end_time": "08:10:00",
           "episode_number": "S18 E15"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "08:10:00",
           "end_time": "09:40:00",
           "episode_number": "S18 E16"
         },
         {
           "show_name": "Instant Italian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/II.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
           "start_time": "09:40:00",
           "end_time": "10:10:00",
           "episode_number": "S1 E1"
         },
         {
           "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
           "start_time": "10:10:00",
           "end_time": "10:40:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Rachael Ray's Holidays",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRH",
           "start_time": "10:40:00",
           "end_time": "11:10:00",
           "episode_number": "E6"
         },
         {
           "show_name": "Pet Telling",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/PT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PT",
           "start_time": "11:10:00",
           "end_time": "11:35:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "11:35:00",
           "end_time": "12:30:00",
           "episode_number": "S1 E16"
         },
         {
           "show_name": "Meals In Minutes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MIM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIM",
           "start_time": "12:30:00",
           "end_time": "12:55:00",
           "episode_number": "S3 E76"
         },
         {
           "show_name": "The Venice Murders",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TVM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TVM",
           "start_time": "12:55:00",
           "end_time": "14:25:00",
           "episode_number": ""
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "14:25:00",
           "end_time": "15:25:00",
           "episode_number": "S18 E14"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "15:25:00",
           "end_time": "16:30:00",
           "episode_number": "S18 E15"
         },
         {
           "show_name": "MasterChef Australia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
           "start_time": "16:30:00",
           "end_time": "18:00:00",
           "episode_number": "S18 E16"
         },
         {
           "show_name": "Instant Italian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/II.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
           "start_time": "18:00:00",
           "end_time": "18:30:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Million Dollar Zombie...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/MDZ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
           "start_time": "18:30:00",
           "end_time": "19:30:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "19:30:00",
           "end_time": "20:30:00",
           "episode_number": "S1 E17"
         },
         {
           "show_name": "Rachael Ray In Tuscany",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/RRIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
           "start_time": "20:30:00",
           "end_time": "21:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Neighbor Who Saw Too Much",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/TNWST.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNWST",
           "start_time": "21:00:00",
           "end_time": "22:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Instant Italian",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/II.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
           "start_time": "22:35:00",
           "end_time": "23:05:00",
           "episode_number": "S1 E2"
         },
         {
           "show_name": "Airline Wars",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "23:05:00",
           "end_time": "23:35:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Dr. Pimple: Breaking",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/lifetime/DPB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
           "start_time": "23:35:00",
           "end_time": "00:35:00",
           "episode_number": "S1 E17"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "00:00:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E17"
+        },
+        {
+          "show_name": "Casting 1147km",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C1",
+          "start_time": "00:35:00",
+          "end_time": "01:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "The Venice Murders",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TVM",
+          "start_time": "01:35:00",
+          "end_time": "03:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Neighbor Who Saw Too Much",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TNWST",
+          "start_time": "03:20:00",
+          "end_time": "05:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Enlighten Your Life",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EYL",
+          "start_time": "05:05:00",
+          "end_time": "06:05:00",
+          "episode_number": "S3 E7"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "06:05:00",
+          "end_time": "07:10:00",
+          "episode_number": "S18 E15"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "07:10:00",
+          "end_time": "08:40:00",
+          "episode_number": "S18 E16"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "08:40:00",
+          "end_time": "09:45:00",
+          "episode_number": "S18 E17"
+        },
+        {
+          "show_name": "Instant Italian",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
+          "start_time": "09:45:00",
+          "end_time": "10:15:00",
+          "episode_number": "S1 E2"
+        },
+        {
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
+          "start_time": "10:15:00",
+          "end_time": "11:15:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "11:15:00",
+          "end_time": "12:15:00",
+          "episode_number": "S1 E17"
+        },
+        {
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "12:15:00",
+          "end_time": "12:45:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "The Killer Inside: Ruth Finley",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKIRF",
+          "start_time": "12:45:00",
+          "end_time": "14:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "14:20:00",
+          "end_time": "15:25:00",
+          "episode_number": "S18 E15"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "15:25:00",
+          "end_time": "16:55:00",
+          "episode_number": "S18 E16"
+        },
+        {
+          "show_name": "MasterChef Australia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MA",
+          "start_time": "16:55:00",
+          "end_time": "18:00:00",
+          "episode_number": "S18 E17"
+        },
+        {
+          "show_name": "Instant Italian",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Million Dollar Zombie...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDZ",
+          "start_time": "18:30:00",
+          "end_time": "19:30:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "19:30:00",
+          "end_time": "20:30:00",
+          "episode_number": "S1 E18"
+        },
+        {
+          "show_name": "Rachael Ray In Tuscany",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RRIT",
+          "start_time": "20:30:00",
+          "end_time": "21:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Girl In The Cellar",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GITC",
+          "start_time": "21:00:00",
+          "end_time": "22:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Instant Italian",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=II",
+          "start_time": "22:35:00",
+          "end_time": "23:05:00",
+          "episode_number": "S1 E3"
+        },
+        {
+          "show_name": "Airline Wars",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "23:05:00",
+          "end_time": "23:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Dr. Pimple: Breaking",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DPB",
+          "start_time": "23:35:00",
+          "end_time": "00:35:00",
+          "episode_number": "S1 E18"
         }
       ]
     }

@@ -2,446 +2,446 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-10-19",
-      "programs": [
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:10:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "00:10:00",
-          "end_time": "01:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "01:00:00",
-          "end_time": "01:50:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "01:50:00",
-          "end_time": "02:45:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "02:45:00",
-          "end_time": "03:40:00",
-          "episode_number": "E7"
-        },
-        {
-          "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
-          "start_time": "03:40:00",
-          "end_time": "04:35:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Wild Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WH.svg",
-          "start_time": "04:35:00",
-          "end_time": "05:00:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:45:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:30:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:15:00",
-          "episode_number": "S2 E6"
-        },
-        {
-          "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:00:00",
-          "episode_number": "S2 E4"
-        },
-        {
-          "show_name": "How Did They Fix That?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/HDTFT.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:45:00",
-          "episode_number": "S2 E5"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:35:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "09:35:00",
-          "end_time": "10:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
-          "start_time": "10:25:00",
-          "end_time": "11:15:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Fantastic Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FF.svg",
-          "start_time": "11:15:00",
-          "end_time": "12:10:00",
-          "episode_number": "S2 E7"
-        },
-        {
-          "show_name": "Fantastic Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FF.svg",
-          "start_time": "12:10:00",
-          "end_time": "13:05:00",
-          "episode_number": "S2 E8"
-        },
-        {
-          "show_name": "Fantastic Friends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/FF.svg",
-          "start_time": "13:05:00",
-          "end_time": "14:00:00",
-          "episode_number": "S2 E1"
-        },
-        {
-          "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
-          "start_time": "14:00:00",
-          "end_time": "14:45:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Artist To Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ATI.svg",
-          "start_time": "14:45:00",
-          "end_time": "15:30:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Kylie Minogue: Pop Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/KMPI.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nature Sanctuaries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NS.svg",
-          "start_time": "16:30:00",
-          "end_time": "17:25:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Nature Sanctuaries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NS.svg",
-          "start_time": "17:25:00",
-          "end_time": "18:20:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "Destination Myanmar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DM.svg",
-          "start_time": "18:20:00",
-          "end_time": "19:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
-          "start_time": "19:10:00",
-          "end_time": "20:05:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
-          "start_time": "20:05:00",
-          "end_time": "21:00:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
-          "start_time": "21:00:00",
-          "end_time": "21:55:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Gameplay: Story Of Videogame",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/GSOV.svg",
-          "start_time": "21:55:00",
-          "end_time": "23:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
-          "start_time": "23:25:00",
-          "end_time": "23:50:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
-          "start_time": "23:50:00",
-          "end_time": "00:15:00",
-          "episode_number": "E2"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-20",
       "programs": [
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "00:00:00",
           "end_time": "00:15:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "00:15:00",
           "end_time": "01:00:00",
           "episode_number": "S11 E3"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "01:00:00",
           "end_time": "01:45:00",
           "episode_number": "S11 E4"
         },
         {
           "show_name": "Wild Heroes",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
           "start_time": "01:45:00",
           "end_time": "02:10:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Nature Sanctuaries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
           "start_time": "02:10:00",
           "end_time": "03:10:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Nature Sanctuaries",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
           "start_time": "03:10:00",
           "end_time": "04:10:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Destination Myanmar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DM",
           "start_time": "04:10:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OA",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OA",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OA",
           "start_time": "07:00:00",
           "end_time": "07:55:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Oceans Africa",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/OA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OA",
           "start_time": "07:55:00",
           "end_time": "08:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "08:50:00",
           "end_time": "09:40:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "09:40:00",
           "end_time": "10:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Aging In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
           "start_time": "10:30:00",
           "end_time": "11:20:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "11:20:00",
           "end_time": "12:05:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "12:05:00",
           "end_time": "12:50:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Evolving Vegan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
           "start_time": "12:50:00",
           "end_time": "13:35:00",
           "episode_number": "E5"
         },
         {
           "show_name": "Kylie Minogue: Pop Icon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/KMPI.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KMPI",
           "start_time": "13:35:00",
           "end_time": "14:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Cher: Sharing Her Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/CSHS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CSHS",
           "start_time": "14:35:00",
           "end_time": "15:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Bruce Willis: All American Hero",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BWAAH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWAAH",
           "start_time": "15:40:00",
           "end_time": "16:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "16:40:00",
           "end_time": "17:30:00",
           "episode_number": "S2 E7"
         },
         {
           "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "17:30:00",
           "end_time": "18:20:00",
           "episode_number": "S2 E8"
         },
         {
           "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "18:20:00",
           "end_time": "19:10:00",
           "episode_number": "S2 E9"
         },
         {
           "show_name": "Wildest Survival",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
           "start_time": "19:10:00",
           "end_time": "20:00:00",
           "episode_number": "S2 E10"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "20:00:00",
           "end_time": "20:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Loch Lomond: In The Wild",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/LLITW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
           "start_time": "20:50:00",
           "end_time": "21:40:00",
           "episode_number": "E2"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "21:40:00",
           "end_time": "22:05:00",
           "episode_number": "E1"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "22:05:00",
           "end_time": "22:30:00",
           "episode_number": "E2"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "22:30:00",
           "end_time": "23:00:00",
           "episode_number": "E3"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "23:00:00",
           "end_time": "23:30:00",
           "episode_number": "E4"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "23:30:00",
           "end_time": "23:55:00",
           "episode_number": "E5"
         },
         {
           "show_name": "WTF Is Crypto?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/WIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
           "start_time": "23:55:00",
           "end_time": "00:25:00",
           "episode_number": "E6"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "show_name": "WTF Is Crypto?",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WIC",
+          "start_time": "00:00:00",
+          "end_time": "00:25:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:25:00",
+          "end_time": "01:10:00",
+          "episode_number": "S11 E4"
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "01:10:00",
+          "end_time": "01:55:00",
+          "episode_number": "S11 E5"
+        },
+        {
+          "show_name": "Wild Heroes",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WH",
+          "start_time": "01:55:00",
+          "end_time": "02:20:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "02:20:00",
+          "end_time": "03:15:00",
+          "episode_number": "S2 E7"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "03:15:00",
+          "end_time": "04:10:00",
+          "episode_number": "S2 E8"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "04:10:00",
+          "end_time": "05:00:00",
+          "episode_number": "S2 E9"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "05:00:00",
+          "end_time": "05:55:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "05:55:00",
+          "end_time": "06:45:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "06:45:00",
+          "end_time": "07:35:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "07:35:00",
+          "end_time": "08:25:00",
+          "episode_number": "S2 E10"
+        },
+        {
+          "show_name": "Loch Lomond: In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LLITW",
+          "start_time": "08:25:00",
+          "end_time": "09:15:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "09:15:00",
+          "end_time": "10:05:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "10:05:00",
+          "end_time": "10:55:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Aging In The Wild",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AITW",
+          "start_time": "10:55:00",
+          "end_time": "11:45:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "11:45:00",
+          "end_time": "12:30:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "12:30:00",
+          "end_time": "13:15:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Evolving Vegan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EV",
+          "start_time": "13:15:00",
+          "end_time": "14:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Bruce Willis: All American Hero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BWAAH",
+          "start_time": "14:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Michael J. Fox: Actor...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MJFA",
+          "start_time": "15:00:00",
+          "end_time": "15:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Harrison Ford: Hollywood Hero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFHH",
+          "start_time": "15:50:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pink: Fearless",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PF",
+          "start_time": "16:45:00",
+          "end_time": "17:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Carrie Underwood: Southern...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CUS",
+          "start_time": "17:35:00",
+          "end_time": "18:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Helen Mirren: Queen Of Stage",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HMQOS",
+          "start_time": "18:25:00",
+          "end_time": "19:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nicole Kidman: Outback To...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NKOT",
+          "start_time": "19:10:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Julia Roberts: Pretty Iconic",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JRPI",
+          "start_time": "20:00:00",
+          "end_time": "20:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robert Downey Jr: High Altitude",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RDJHA",
+          "start_time": "20:50:00",
+          "end_time": "21:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Harrison Ford: Hollywood Hero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HFHH",
+          "start_time": "21:45:00",
+          "end_time": "22:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tom Hanks: The Nomad",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THTN",
+          "start_time": "22:40:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Divas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=D",
+          "start_time": "23:30:00",
+          "end_time": "00:35:00",
+          "episode_number": "E1"
         }
       ]
     }
