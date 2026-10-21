@@ -2,207 +2,193 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-10-20",
+      "date": "2026-10-22",
       "programs": [
         {
-          "show_name": "U-571",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
+          "show_name": "Universal Soldier",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=US",
           "start_time": "00:00:00",
           "end_time": "01:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "Universal Soldier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
+          "show_name": "Hellboy 2: The Golden Army",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H2TGA",
           "start_time": "01:20:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Cape Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. & Mrs. Smith",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "05:05:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hellboy 2: The Golden Army",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dante's Peak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "08:55:00",
-          "end_time": "10:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "White House Down",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "10:40:00",
-          "end_time": "12:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Attack Force Z",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "12:50:00",
-          "end_time": "14:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Birdman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "14:25:00",
-          "end_time": "16:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Universal Soldier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "16:20:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hellboy 2: The Golden Army",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:55:00",
+          "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Rider On The Rain",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:55:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTR",
+          "start_time": "03:20:00",
+          "end_time": "05:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Catching Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "21:55:00",
-          "end_time": "00:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
+          "start_time": "05:20:00",
+          "end_time": "07:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Runaway Jury",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RJ",
+          "start_time": "07:40:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "White House Down",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WHD",
+          "start_time": "09:45:00",
+          "end_time": "11:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Battleship",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "11:55:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Total Recall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "14:00:00",
+          "end_time": "15:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twelve Monkeys",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "15:50:00",
+          "end_time": "17:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rider On The Rain",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTR",
+          "start_time": "17:55:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hellboy 2: The Golden Army",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H2TGA",
+          "start_time": "19:55:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. & Mrs. Smith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
+          "start_time": "21:50:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Knight And Day",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAD",
+          "start_time": "23:45:00",
+          "end_time": "01:35:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-10-21",
+      "date": "2026-10-23",
       "programs": [
         {
-          "show_name": "Hunger Games: Catching Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "White House Down",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "00:15:00",
-          "end_time": "02:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Attack Force Z",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "02:25:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Dante's Peak",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Total Recall",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "05:45:00",
-          "end_time": "07:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Reason To Live, Reason To Die",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "07:35:00",
-          "end_time": "09:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Rambo: First Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "09:10:00",
-          "end_time": "10:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Universal Soldier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "10:40:00",
-          "end_time": "12:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. & Mrs. Smith",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "12:20:00",
-          "end_time": "14:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hellboy 2: The Golden Army",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "14:15:00",
-          "end_time": "16:10:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "Knight And Day",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "16:10:00",
-          "end_time": "18:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAD",
+          "start_time": "00:00:00",
+          "end_time": "01:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Birdman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:55:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "01:35:00",
+          "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Mockingjay, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "19:55:00",
-          "end_time": "22:05:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP2",
+          "start_time": "03:30:00",
+          "end_time": "05:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mulholland Dr.",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MD",
+          "start_time": "05:40:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. & Mrs. Smith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
+          "start_time": "08:00:00",
+          "end_time": "09:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hellboy 2: The Golden Army",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H2TGA",
+          "start_time": "09:55:00",
+          "end_time": "11:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rider On The Rain",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ROTR",
+          "start_time": "11:50:00",
+          "end_time": "13:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Catching Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
+          "start_time": "13:50:00",
+          "end_time": "16:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Attack Force Z",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "22:05:00",
-          "end_time": "23:40:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFZ",
+          "start_time": "16:10:00",
+          "end_time": "17:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Universal Soldier",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/logo.svg",
-          "start_time": "23:40:00",
-          "end_time": "01:20:00",
+          "show_name": "White House Down",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WHD",
+          "start_time": "17:45:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Inglorious Bastards",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIB",
+          "start_time": "19:55:00",
+          "end_time": "21:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "47 Ronin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
+          "start_time": "21:40:00",
+          "end_time": "23:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Twelve Monkeys",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "23:35:00",
+          "end_time": "01:40:00",
           "episode_number": ""
         }
       ]
