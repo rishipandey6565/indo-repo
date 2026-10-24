@@ -2,102 +2,172 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "programs": [
         {
-          "show_name": "Xanadu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/X.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "01:15:00",
-          "end_time": "03:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Place In The Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/APITS.svg",
-          "start_time": "03:15:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gone Baby Gone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/GBG.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
           "show_name": "Mamma Mia!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MM.svg",
-          "start_time": "07:45:00",
-          "end_time": "10:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Inside Man",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/IM.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Place In The Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/APITS.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gone Baby Gone",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/GBG.svg",
-          "start_time": "16:45:00",
-          "end_time": "19:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IM",
+          "start_time": "01:45:00",
+          "end_time": "04:15:00",
           "episode_number": ""
         },
         {
           "show_name": "The Ring Two",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TRT.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:15:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRT",
+          "start_time": "04:15:00",
+          "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Freedom Writers",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/FW.svg",
-          "start_time": "21:15:00",
-          "end_time": "23:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FW",
+          "start_time": "06:30:00",
+          "end_time": "08:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Mamma Mia!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MM.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:45:00",
+          "show_name": "Tarantula",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "08:45:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Xanadu",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=X",
+          "start_time": "10:30:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ring Two",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRT",
+          "start_time": "12:30:00",
+          "end_time": "14:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Freedom Writers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FW",
+          "start_time": "14:45:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
+          "start_time": "17:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shooter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "19:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "21:30:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Apollo 13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
+          "start_time": "23:45:00",
+          "end_time": "02:30:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "programs": [
         {
-          "show_name": "Mamma Mia!",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MM.svg",
+          "show_name": "Apollo 13",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
           "start_time": "00:00:00",
-          "end_time": "01:45:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
+          "start_time": "02:30:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Shooter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:30:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "07:00:00",
+          "end_time": "09:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mamma Mia!",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MM",
+          "start_time": "09:15:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tarantula",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T",
+          "start_time": "11:30:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
+          "start_time": "13:00:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ring",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "15:00:00",
+          "end_time": "17:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "17:15:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gung Ho",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GH",
+          "start_time": "19:00:00",
+          "end_time": "21:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Contact",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "21:15:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]

@@ -2,130 +2,235 @@
   "channel_name": "Galaxy",
   "schedule": {
     "today": {
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "programs": [
         {
-          "show_name": "Burial Ground Massacre",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BGM.svg",
+          "show_name": "American Rider",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AR",
           "start_time": "00:00:00",
-          "end_time": "01:30:00",
+          "end_time": "01:20:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Housekeeper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TH.svg",
-          "start_time": "01:30:00",
+          "show_name": "The Room",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
+          "start_time": "01:20:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Beneath Us",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BU.svg",
+          "show_name": "Hotel Dunsmuir",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HD",
           "start_time": "03:00:00",
-          "end_time": "04:30:00",
+          "end_time": "04:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gunfight At Dry River",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/GADR.svg",
-          "start_time": "04:30:00",
-          "end_time": "06:10:00",
+          "show_name": "You're Not Alone",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YNA",
+          "start_time": "04:45:00",
+          "end_time": "06:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "While We Sleep",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/WWS.svg",
-          "start_time": "06:10:00",
-          "end_time": "07:45:00",
+          "show_name": "Don't Suck",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DS",
+          "start_time": "06:15:00",
+          "end_time": "07:55:00",
           "episode_number": ""
         },
         {
-          "show_name": "Born To Dance",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BTD.svg",
-          "start_time": "07:45:00",
-          "end_time": "09:25:00",
+          "show_name": "Chosen",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "07:55:00",
+          "end_time": "09:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Devil's Trap",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TDT.svg",
-          "start_time": "09:25:00",
-          "end_time": "10:45:00",
+          "show_name": "Escape Through Africa",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETA",
+          "start_time": "09:35:00",
+          "end_time": "11:05:00",
           "episode_number": ""
         },
         {
-          "show_name": "Old Henry",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/OH.svg",
-          "start_time": "10:45:00",
-          "end_time": "12:25:00",
+          "show_name": "Riot",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "11:05:00",
+          "end_time": "12:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Fourth State",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TFS.svg",
-          "start_time": "12:25:00",
-          "end_time": "14:20:00",
+          "show_name": "The Hatching",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TH",
+          "start_time": "12:30:00",
+          "end_time": "14:05:00",
           "episode_number": ""
         },
         {
-          "show_name": "Death In Texas",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/DIT.svg",
-          "start_time": "14:20:00",
-          "end_time": "16:00:00",
+          "show_name": "The Junkyard Dogs",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TJD",
+          "start_time": "14:05:00",
+          "end_time": "15:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "Winter War",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/WW.svg",
-          "start_time": "16:00:00",
+          "show_name": "Hacker",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
+          "start_time": "15:35:00",
           "end_time": "17:25:00",
           "episode_number": ""
         },
         {
-          "show_name": "Among The Shadows",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/ATS.svg",
+          "show_name": "A Tale Of Two Guns",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATOTG",
           "start_time": "17:25:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bad Men Must Bleed",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/BMMB.svg",
+          "show_name": "The Retaliators",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TR",
           "start_time": "19:00:00",
-          "end_time": "20:50:00",
+          "end_time": "20:35:00",
           "episode_number": ""
         },
         {
-          "show_name": "Gravy",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/G.svg",
-          "start_time": "20:50:00",
-          "end_time": "22:25:00",
+          "show_name": "Wunderland",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W",
+          "start_time": "20:35:00",
+          "end_time": "22:10:00",
           "episode_number": ""
         },
         {
-          "show_name": "The Lurking Fear",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/TLF.svg",
-          "start_time": "22:25:00",
-          "end_time": "23:45:00",
+          "show_name": "Holy Ghost People",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGP",
+          "start_time": "22:10:00",
+          "end_time": "23:40:00",
           "episode_number": ""
         },
         {
-          "show_name": "American Rider",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AR.svg",
-          "start_time": "23:45:00",
-          "end_time": "01:20:00",
+          "show_name": "Radioflash",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "23:40:00",
+          "end_time": "01:25:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "programs": [
         {
-          "show_name": "American Rider",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/galaxy/AR.svg",
+          "show_name": "Radioflash",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
           "start_time": "00:00:00",
-          "end_time": "01:20:00",
+          "end_time": "01:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Winter War",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WW",
+          "start_time": "01:25:00",
+          "end_time": "02:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "No Visitors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NV",
+          "start_time": "02:50:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Among The Shadows",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATS",
+          "start_time": "04:30:00",
+          "end_time": "06:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bad Men Must Bleed",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BMMB",
+          "start_time": "06:05:00",
+          "end_time": "07:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gravy",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=G",
+          "start_time": "07:55:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gunfight At Dry River",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GADR",
+          "start_time": "09:30:00",
+          "end_time": "11:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "While We Sleep",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WWS",
+          "start_time": "11:10:00",
+          "end_time": "12:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Born To Dance",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTD",
+          "start_time": "12:45:00",
+          "end_time": "14:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Devil's Trap",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TDT",
+          "start_time": "14:25:00",
+          "end_time": "15:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Old Henry",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OH",
+          "start_time": "15:45:00",
+          "end_time": "17:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunting Games",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HG",
+          "start_time": "17:25:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Exists",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "19:00:00",
+          "end_time": "20:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Operation Seawolf",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OS",
+          "start_time": "20:25:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fourth State",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFS",
+          "start_time": "21:50:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Death In Texas",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DIT",
+          "start_time": "23:45:00",
+          "end_time": "01:25:00",
           "episode_number": ""
         }
       ]
