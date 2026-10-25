@@ -2,186 +2,200 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-10-25",
-      "programs": [
-        {
-          "show_name": "The Hateful Eight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/THE.svg",
-          "start_time": "00:00:00",
-          "end_time": "02:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Vampire Wars: Battle For...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/VWBF.svg",
-          "start_time": "02:30:00",
-          "end_time": "04:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "White House Down",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/WHD.svg",
-          "start_time": "04:10:00",
-          "end_time": "06:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
-          "start_time": "06:20:00",
-          "end_time": "08:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Twelve Monkeys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
-          "start_time": "08:15:00",
-          "end_time": "10:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
-          "start_time": "10:20:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hellboy 2: The Golden Army",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/H2TGA.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mr. & Mrs. Smith",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/M.svg",
-          "start_time": "13:55:00",
-          "end_time": "15:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
-          "start_time": "15:50:00",
-          "end_time": "17:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hunger Games: Mockingjay, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGMP2.svg",
-          "start_time": "17:45:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gone Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GG.svg",
-          "start_time": "19:55:00",
-          "end_time": "22:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
-          "start_time": "22:20:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-26",
       "programs": [
         {
           "show_name": "Jumper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/J.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
           "start_time": "00:00:00",
           "end_time": "01:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Mr. & Mrs. Smith",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
           "start_time": "01:25:00",
           "end_time": "03:20:00",
           "episode_number": ""
         },
         {
           "show_name": "P.O.W. The Escape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PTE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTE",
           "start_time": "03:20:00",
           "end_time": "04:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Catching Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGCF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
           "start_time": "04:55:00",
           "end_time": "07:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Oblivion",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/O.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=O",
           "start_time": "07:15:00",
           "end_time": "09:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Attack Force Z",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/AFZ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFZ",
           "start_time": "09:15:00",
           "end_time": "10:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Birdman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/B.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
           "start_time": "10:50:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Inglorious Bastards",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TIB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIB",
           "start_time": "12:45:00",
           "end_time": "14:30:00",
           "episode_number": ""
         },
         {
           "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/4R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
           "start_time": "14:30:00",
           "end_time": "16:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Mr. & Mrs. Smith",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
           "start_time": "16:25:00",
           "end_time": "18:20:00",
           "episode_number": ""
         },
         {
           "show_name": "P.O.W. The Escape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PTE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTE",
           "start_time": "18:20:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Catching Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGCF.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
           "start_time": "19:55:00",
           "end_time": "22:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Twelve Monkeys",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/TM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
           "start_time": "22:15:00",
           "end_time": "00:20:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "show_name": "Twelve Monkeys",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TM",
+          "start_time": "00:00:00",
+          "end_time": "00:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "47 Ronin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
+          "start_time": "00:20:00",
+          "end_time": "02:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Mockingjay, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP2",
+          "start_time": "02:15:00",
+          "end_time": "04:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "John Wick",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JW",
+          "start_time": "04:25:00",
+          "end_time": "06:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gone Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GG",
+          "start_time": "06:05:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hellboy 2: The Golden Army",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H2TGA",
+          "start_time": "08:30:00",
+          "end_time": "10:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. & Mrs. Smith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
+          "start_time": "10:25:00",
+          "end_time": "12:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jumper",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=J",
+          "start_time": "12:20:00",
+          "end_time": "13:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Catching Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGCF",
+          "start_time": "13:45:00",
+          "end_time": "16:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Mockingjay, Pt 2",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP2",
+          "start_time": "16:05:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "John Wick",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JW",
+          "start_time": "18:15:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Attack Force Z",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AFZ",
+          "start_time": "19:55:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Knight And Day",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KAD",
+          "start_time": "21:30:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. & Mrs. Smith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
+          "start_time": "23:20:00",
+          "end_time": "01:15:00",
           "episode_number": ""
         }
       ]
