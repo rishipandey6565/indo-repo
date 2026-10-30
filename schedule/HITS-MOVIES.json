@@ -2,157 +2,164 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-10-30",
-      "programs": [
-        {
-          "show_name": "Tarantula",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/T.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Liar Liar",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/LL.svg",
-          "start_time": "01:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Constantine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
-          "start_time": "03:00:00",
-          "end_time": "05:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Place In The Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/APITS.svg",
-          "start_time": "05:15:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Terms Of Endearment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TOE.svg",
-          "start_time": "07:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Coach Carter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CC.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Constantine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "A Place In The Sun",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/APITS.svg",
-          "start_time": "14:45:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
-          "start_time": "17:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "War And Peace",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/WAP.svg",
-          "start_time": "19:00:00",
-          "end_time": "22:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Shooter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
-          "start_time": "22:45:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-10-31",
       "programs": [
         {
           "show_name": "Shooter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Terms Of Endearment",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOE",
           "start_time": "01:15:00",
           "end_time": "03:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Apollo 13",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/A1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=A1",
           "start_time": "03:45:00",
           "end_time": "06:30:00",
           "episode_number": ""
         },
         {
           "show_name": "War And Peace",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/WAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WAP",
           "start_time": "06:30:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Shooter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "10:15:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "War And Peace",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/WAP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WAP",
           "start_time": "12:45:00",
           "end_time": "16:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Shooter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "16:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Rings",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
           "start_time": "19:00:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Michael Jackson's This Is It",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MJTII.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MJTII",
           "start_time": "21:00:00",
           "end_time": "23:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Coach Carter",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/CC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
           "start_time": "23:15:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "show_name": "Coach Carter",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CC",
+          "start_time": "00:00:00",
+          "end_time": "01:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kung Fu Panda",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
+          "start_time": "01:45:00",
+          "end_time": "03:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "03:45:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Michael Jackson's This Is It",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MJTII",
+          "start_time": "05:45:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Fast And The Furious",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TFATF",
+          "start_time": "08:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road House",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "10:00:00",
+          "end_time": "12:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Rings",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "12:15:00",
+          "end_time": "14:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Michael Jackson's This Is It",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MJTII",
+          "start_time": "14:15:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Terms Of Endearment",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOE",
+          "start_time": "16:30:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Burlesque",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B",
+          "start_time": "19:00:00",
+          "end_time": "21:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Ring Two",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TRT",
+          "start_time": "21:15:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Road House",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RH",
+          "start_time": "23:30:00",
           "end_time": "01:45:00",
           "episode_number": ""
         }
