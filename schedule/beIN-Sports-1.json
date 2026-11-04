@@ -2,312 +2,305 @@
   "channel_name": "beIN Sports 1",
   "schedule": {
     "today": {
-      "date": "2026-11-04",
-      "programs": [
-        {
-          "show_name": "UCL Preview Show 2026/27 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/UPS2.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: GAL Vs VFB (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2GVV.svg",
-          "start_time": "00:40:00",
-          "end_time": "02:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL All Goals: Juli�n Alvarez",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/UAGJA.svg",
-          "start_time": "02:45:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: MUN Vs ROM (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2MVR.svg",
-          "start_time": "02:55:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga Goals Galore 2024/25",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LGG2.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gearing Up 2026: November",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GU2N.svg",
-          "start_time": "05:15:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match LaLiga: ATH Vs RSO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLAV.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LH2.svg",
-          "start_time": "06:15:00",
-          "end_time": "06:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga 2026/27: LEV Vs ATM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2LVA.svg",
-          "start_time": "06:50:00",
-          "end_time": "08:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "F1 Highlights 2026: Mexico",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FH2M.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Le Mans Cup Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LMCH2.svg",
-          "start_time": "09:20:00",
-          "end_time": "09:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga 2026/27: BET Vs MAL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2BVM.svg",
-          "start_time": "09:50:00",
-          "end_time": "11:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga 2 2026/27: ADC Vs SPO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L22AV.svg",
-          "start_time": "11:40:00",
-          "end_time": "13:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gearing Up 2026: November",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GU2N.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Goodwood Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GH2.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "F1 Main Race 2026: Mexico",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FMR2M.svg",
-          "start_time": "15:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Mini Match LaLiga: RAC Vs RMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLRV.svg",
-          "start_time": "17:00:00",
-          "end_time": "17:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
-          "start_time": "17:30:00",
-          "end_time": "18:00:00",
-          "episode_number": "E30"
-        },
-        {
-          "show_name": "GT World Challenge Europe HL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GWCEH.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga Rookies 2026/27: Zabiri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LR2Z.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "LaLiga Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LH2.svg",
-          "start_time": "19:20:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UYL 2026/27: RCL Vs COM (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2RVC.svg",
-          "start_time": "19:55:00",
-          "end_time": "21:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UYL 2026/27: BVB Vs BET (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2BVB.svg",
-          "start_time": "21:55:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-05",
       "programs": [
         {
           "show_name": "UCL Preview Show 2026/27 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/UPS2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UPS2(",
           "start_time": "00:00:00",
           "end_time": "00:40:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL 2026/27: FEN Vs LIV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2FVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2FVL",
           "start_time": "00:40:00",
           "end_time": "02:55:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL 2026/27: SLA Vs ARS (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/U2SVA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2SVA",
           "start_time": "02:55:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Review Show 2026/27 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/URS2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=URS2(",
           "start_time": "05:00:00",
           "end_time": "05:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Mini Match LaLiga: RAC Vs RMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/MMLRV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLRV",
           "start_time": "05:45:00",
           "end_time": "06:15:00",
           "episode_number": ""
         },
         {
           "show_name": "F1 Highlights 2026: Mexico",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FH2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FH2M",
           "start_time": "06:15:00",
           "end_time": "06:50:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2026/27: BAR Vs ALA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2BVA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2BVA",
           "start_time": "06:50:00",
           "end_time": "08:40:00",
           "episode_number": ""
         },
         {
           "show_name": "F1 Main Race 2026: Mexico",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/FMR2M.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMR2M",
           "start_time": "08:40:00",
           "end_time": "10:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F2",
           "start_time": "10:40:00",
           "end_time": "11:10:00",
           "episode_number": "E30"
         },
         {
           "show_name": "LaLiga Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH2",
           "start_time": "11:10:00",
           "end_time": "11:45:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2 2026/27: OVI Vs LPM",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L22OV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L22OV",
           "start_time": "11:45:00",
           "end_time": "13:40:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2026/27: GET Vs SEV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2GVS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2GVS",
           "start_time": "13:40:00",
           "end_time": "15:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Le Mans Cup Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LMCH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LMCH2",
           "start_time": "15:30:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2026/27: RAC Vs RMA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/L2RVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2RVR",
           "start_time": "16:00:00",
           "end_time": "17:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F2",
           "start_time": "17:50:00",
           "end_time": "18:20:00",
           "episode_number": "E30"
         },
         {
           "show_name": "Gearing Up 2026: November",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/GU2N.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GU2N",
           "start_time": "18:20:00",
           "end_time": "18:50:00",
           "episode_number": ""
         },
         {
           "show_name": "CAF WCL 2026: FAR Vs USB (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/CW2FV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW2FV",
           "start_time": "18:50:00",
           "end_time": "21:00:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga Rookies 2026/27: Zabiri",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/LR2Z.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LR2Z",
           "start_time": "21:00:00",
           "end_time": "21:20:00",
           "episode_number": ""
         },
         {
           "show_name": "Fastzone 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/F2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F2",
           "start_time": "21:20:00",
           "end_time": "21:50:00",
           "episode_number": "E30"
         },
         {
           "show_name": "CAF WCL 2026: AMP Vs KAW (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-1/CW2AV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW2AV",
           "start_time": "21:50:00",
           "end_time": "00:05:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-06",
+      "programs": [
+        {
+          "show_name": "CAF WCL 2026: AMP Vs KAW (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CW2AV",
+          "start_time": "00:00:00",
+          "end_time": "00:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH2",
+          "start_time": "00:05:00",
+          "end_time": "00:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2026/27: CRY Vs TSG (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2CVT",
+          "start_time": "00:40:00",
+          "end_time": "02:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2026/27: LEV Vs MAR (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2LVM",
+          "start_time": "02:55:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match LaLiga: BAR Vs ALA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLBV",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mini Match LaLiga: LEV Vs ATM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MMLLV",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: RAC Vs RMA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2RVR",
+          "start_time": "06:00:00",
+          "end_time": "07:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LH2",
+          "start_time": "07:55:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GT World Challenge Europe HL",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCEH",
+          "start_time": "08:30:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fastzone 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F2",
+          "start_time": "09:30:00",
+          "end_time": "10:00:00",
+          "episode_number": "E30"
+        },
+        {
+          "show_name": "LaLiga 2026/27: ATH Vs RSO",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2AVR",
+          "start_time": "10:00:00",
+          "end_time": "11:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2 2026/27: MLL Vs CAD",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L22MV",
+          "start_time": "11:50:00",
+          "end_time": "13:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Main Race 2026: Mexico",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FMR2M",
+          "start_time": "13:40:00",
+          "end_time": "15:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fastzone 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=F2",
+          "start_time": "15:40:00",
+          "end_time": "16:10:00",
+          "episode_number": "E30"
+        },
+        {
+          "show_name": "LaLiga 2026/27: LEV Vs ATM",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2LVA",
+          "start_time": "16:10:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Show 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS2",
+          "start_time": "18:00:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UECL 2026/27: GET Vs BHA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2GVB",
+          "start_time": "18:30:00",
+          "end_time": "20:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "GT World Challenge Asia HL 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GWCAH",
+          "start_time": "20:20:00",
+          "end_time": "21:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga Show 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS2",
+          "start_time": "21:20:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Highlights 2026: Mexico",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FH2M",
+          "start_time": "21:50:00",
+          "end_time": "22:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "F1 Practice 2026: Sao Paulo (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP2SP",
+          "start_time": "22:25:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Le Mans Cup Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LMCH2",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
