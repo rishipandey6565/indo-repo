@@ -2,207 +2,200 @@
   "channel_name": "Rock Action",
   "schedule": {
     "today": {
-      "date": "2026-11-05",
-      "programs": [
-        {
-          "show_name": "U-571",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/U.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Moby Dick, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/MDP1.svg",
-          "start_time": "01:25:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Moby Dick, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/MDP2.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "P.O.W. The Escape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PTE.svg",
-          "start_time": "04:40:00",
-          "end_time": "06:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "White House Down",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/WHD.svg",
-          "start_time": "06:15:00",
-          "end_time": "08:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Gone Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GG.svg",
-          "start_time": "08:25:00",
-          "end_time": "10:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "John Wick",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/JW.svg",
-          "start_time": "10:50:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Hunger Games: Mockingjay, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGMP1.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Blood On The Crown",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/BOTC.svg",
-          "start_time": "14:25:00",
-          "end_time": "16:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "L.A. Confidential",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/LC.svg",
-          "start_time": "16:05:00",
-          "end_time": "18:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "P.O.W. The Escape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PTE.svg",
-          "start_time": "18:20:00",
-          "end_time": "19:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Hateful Eight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/THE.svg",
-          "start_time": "19:55:00",
-          "end_time": "22:35:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Ghost Rider",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GR.svg",
-          "start_time": "22:35:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-06",
       "programs": [
         {
           "show_name": "Ghost Rider",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GR",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Hunger Games: Mockingjay, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/HGMP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP1",
           "start_time": "00:30:00",
           "end_time": "02:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Blood On The Crown",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/BOTC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTC",
           "start_time": "02:25:00",
           "end_time": "04:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Godzilla Minus One",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GMO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMO",
           "start_time": "04:05:00",
           "end_time": "06:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Kill Cruise",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/KC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
           "start_time": "06:10:00",
           "end_time": "07:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Ghost Rider",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GR",
           "start_time": "07:40:00",
           "end_time": "09:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Moby Dick, Pt 1",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/MDP1.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDP1",
           "start_time": "09:30:00",
           "end_time": "11:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Moby Dick, Pt 2",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/MDP2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MDP2",
           "start_time": "11:05:00",
           "end_time": "12:45:00",
           "episode_number": ""
         },
         {
           "show_name": "P.O.W. The Escape",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/PTE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PTE",
           "start_time": "12:45:00",
           "end_time": "14:20:00",
           "episode_number": ""
         },
         {
           "show_name": "U-571",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U",
           "start_time": "14:20:00",
           "end_time": "16:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Death Race 2000",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/DR2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DR2",
           "start_time": "16:10:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Gone Girl",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GG",
           "start_time": "17:30:00",
           "end_time": "19:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Enter The Game Of Death",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/ETGOD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ETGOD",
           "start_time": "19:55:00",
           "end_time": "21:25:00",
           "episode_number": ""
         },
         {
           "show_name": "Godzilla Minus One",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/GMO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMO",
           "start_time": "21:25:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Hateful Eight",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-action/THE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THE",
           "start_time": "23:30:00",
           "end_time": "02:10:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-07",
+      "programs": [
+        {
+          "show_name": "The Hateful Eight",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THE",
+          "start_time": "00:00:00",
+          "end_time": "02:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ghost Rider",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GR",
+          "start_time": "02:10:00",
+          "end_time": "04:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "L.A. Confidential",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC",
+          "start_time": "04:10:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Gone Girl",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GG",
+          "start_time": "06:30:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Hunger Games: Mockingjay, Pt 1",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HGMP1",
+          "start_time": "08:55:00",
+          "end_time": "10:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blood On The Crown",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BOTC",
+          "start_time": "10:50:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Godzilla Minus One",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GMO",
+          "start_time": "12:30:00",
+          "end_time": "14:35:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kill Cruise",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
+          "start_time": "14:35:00",
+          "end_time": "16:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mr. & Mrs. Smith",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=M&MS",
+          "start_time": "16:10:00",
+          "end_time": "18:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ghost Rider",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=GR",
+          "start_time": "18:05:00",
+          "end_time": "19:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Holcroft Covenant",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
+          "start_time": "19:55:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "L.A. Confidential",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LC",
+          "start_time": "21:50:00",
+          "end_time": "00:05:00",
           "episode_number": ""
         }
       ]
