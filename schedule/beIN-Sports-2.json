@@ -2,270 +2,249 @@
   "channel_name": "beIN Sports 2",
   "schedule": {
     "today": {
-      "date": "2026-11-06",
-      "programs": [
-        {
-          "show_name": "HSBC SVNS Series 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSS2.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Roland Garros Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/RGMH2.svg",
-          "start_time": "00:20:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UEL 2026/27: MIL Vs FTC (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2MVF.svg",
-          "start_time": "00:40:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UECL 2026/27: GET Vs BHA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2GVB.svg",
-          "start_time": "02:55:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCI World Tour Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/UWTH2.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "This Is Paris 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/TIP2.svg",
-          "start_time": "07:30:00",
-          "end_time": "08:00:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "PSG TV 2026/27: HAC Vs PSG",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PT2HV.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UECL 2026/27: ATA Vs KAI",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2AVK.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UECL 2026/27: FCM Vs AJX",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2FVA.svg",
-          "start_time": "11:50:00",
-          "end_time": "13:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UECL 2026/27: TSR Vs SCF",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2TVS.svg",
-          "start_time": "13:40:00",
-          "end_time": "15:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCI World Tour Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/UWTH2.svg",
-          "start_time": "15:30:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 4",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "18:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "19:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "22:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
-          "start_time": "23:30:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-07",
       "programs": [
         {
           "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "FIP World Cup 2026: Day 5 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
           "start_time": "01:00:00",
           "end_time": "02:30:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSWC2",
           "start_time": "02:30:00",
           "end_time": "02:55:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2026/27: SEV Vs ALA (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2SVA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2SVA",
           "start_time": "02:55:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UECL 2026/27: THU Vs HEA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2TVH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2TVH",
           "start_time": "05:00:00",
           "end_time": "06:50:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: EVE Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2EVM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2EVM",
           "start_time": "06:50:00",
           "end_time": "08:40:00",
           "episode_number": ""
         },
         {
           "show_name": "WSL 2026/27: ARS Vs AVL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/W2AVA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2AVA",
           "start_time": "08:40:00",
           "end_time": "10:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UECL 2026/27: TSR Vs SCF",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2TVS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2TVS",
           "start_time": "10:30:00",
           "end_time": "12:20:00",
           "episode_number": ""
         },
         {
           "show_name": "UECL 2026/27: PAO Vs CSK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2PVC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2PVC",
           "start_time": "12:20:00",
           "end_time": "14:10:00",
           "episode_number": ""
         },
         {
           "show_name": "UECL 2026/27: GET Vs BHA",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/U2GVB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2GVB",
           "start_time": "14:10:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Australian Open Match HL 2024",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AOMH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
           "start_time": "16:00:00",
           "end_time": "16:20:00",
           "episode_number": ""
         },
         {
           "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
           "start_time": "16:20:00",
           "end_time": "17:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Australian Open Match HL 2025",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/AOMH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
           "start_time": "17:40:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "FIP World Cup 2026: Day 6 (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWC2D.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
           "start_time": "18:00:00",
           "end_time": "19:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel Highlights 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
           "start_time": "19:30:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Premier Padel Match HL 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/PPMH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPMH2",
           "start_time": "20:00:00",
           "end_time": "20:10:00",
           "episode_number": ""
         },
         {
           "show_name": "FIA World Endurance C'ship (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/FWEC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
           "start_time": "20:10:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "HSBC SVNS World C'ships 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/HSWC2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSWC2",
           "start_time": "21:45:00",
           "end_time": "22:10:00",
           "episode_number": ""
         },
         {
           "show_name": "LaLiga 2026/27: ESP Vs DEP (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-2/L2EVD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2EVD",
           "start_time": "22:10:00",
           "end_time": "00:25:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-08",
+      "programs": [
+        {
+          "show_name": "LaLiga 2026/27: ESP Vs DEP (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2EVD",
+          "start_time": "00:00:00",
+          "end_time": "00:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: OSA Vs ATH (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2OVA",
+          "start_time": "00:25:00",
+          "end_time": "02:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Roland Garros Match HL 2025",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RGMH2",
+          "start_time": "02:40:00",
+          "end_time": "02:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "LaLiga 2026/27: VAL Vs RMA (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=L2VVR",
+          "start_time": "02:55:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIP World Cup 2026: Day 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
+          "start_time": "05:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIP World Cup 2026: Day 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
+          "start_time": "06:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIP World Cup 2026: Day 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
+          "start_time": "08:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Open Match HL 2025",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
+          "start_time": "09:30:00",
+          "end_time": "09:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "WSL 2026/27: MCI Vs WHU",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=W2MVW",
+          "start_time": "09:50:00",
+          "end_time": "11:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Super Lig 2026/27: GAL Vs AMD",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SL2GV",
+          "start_time": "11:40:00",
+          "end_time": "13:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIP World Cup 2026: Day 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
+          "start_time": "13:30:00",
+          "end_time": "15:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIP World Cup 2026: Day 6",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWC2D",
+          "start_time": "15:00:00",
+          "end_time": "16:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIA World Endurance C'ship (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
+          "start_time": "16:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "FIA World Endurance C'ship (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FWEC(",
+          "start_time": "20:00:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Australian Open Match HL 2025",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOMH2",
+          "start_time": "23:45:00",
+          "end_time": "00:05:00",
           "episode_number": ""
         }
       ]

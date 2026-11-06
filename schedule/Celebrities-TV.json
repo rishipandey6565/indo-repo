@@ -2,375 +2,361 @@
   "channel_name": "Celebrities TV",
   "schedule": {
     "today": {
-      "date": "2026-11-06",
-      "programs": [
-        {
-          "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
-          "start_time": "01:00:00",
-          "end_time": "02:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
-          "start_time": "02:00:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tamu Tak Diundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TTD.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jangan Baper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/JB.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Celebrity Files",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CF.svg",
-          "start_time": "05:30:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nikah Gratis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/NG.svg",
-          "start_time": "07:00:00",
-          "end_time": "09:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Go Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/GS.svg",
-          "start_time": "09:00:00",
-          "end_time": "09:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Perang Dapur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/PD.svg",
-          "start_time": "10:00:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arjuna In Switzerland",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/AIS.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tamu Tak Diundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TTD.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
-          "start_time": "13:00:00",
-          "end_time": "14:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
-          "start_time": "14:00:00",
-          "end_time": "15:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Jangan Baper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/JB.svg",
-          "start_time": "15:00:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Untung Ada Tora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/UAT.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Go Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/GS.svg",
-          "start_time": "18:00:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
-          "start_time": "19:00:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Nikah Gratis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/NG.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Untung Ada Tora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/UAT.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
-          "start_time": "21:30:00",
-          "end_time": "22:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Go Spot",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/GS.svg",
-          "start_time": "22:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Seleb On News",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/SON.svg",
-          "start_time": "23:00:00",
-          "end_time": "23:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Celebrity Top 10",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CT1.svg",
-          "start_time": "23:30:00",
-          "end_time": "00:00:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-07",
       "programs": [
         {
           "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "00:00:00",
           "end_time": "01:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
           "start_time": "01:00:00",
           "end_time": "02:00:00",
           "episode_number": ""
         },
         {
           "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
           "start_time": "02:00:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tamu Tak Diundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jangan Baper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/JB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
           "start_time": "04:00:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "HighEnd On TV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HOT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOT",
           "start_time": "05:00:00",
           "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Lounge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TL",
           "start_time": "05:30:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
           "start_time": "06:00:00",
           "end_time": "07:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Nikah Gratis",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/NG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NG",
           "start_time": "07:00:00",
           "end_time": "09:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Demian Magic",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/DM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DM",
           "start_time": "09:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Cinta Tak Kenal Usia",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/CTKU.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CTKU",
           "start_time": "10:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Kungfu Chef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Tamu Tak Diundang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
           "start_time": "12:00:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Manda Curhat",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/MC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
           "start_time": "13:00:00",
           "end_time": "14:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bus Jutawan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/BJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
           "start_time": "14:00:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Jangan Baper",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/JB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
           "start_time": "15:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Untung Ada Tora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/UAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAT",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
           "start_time": "17:00:00",
           "end_time": "18:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Primetime Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
           "start_time": "18:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "HighEnd On TV Special Gala",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HOTSG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOTSG",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Untung Ada Tora",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/UAT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAT",
           "start_time": "20:30:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "KOPI: Kupas Obrolan Problem...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/KKOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
           "start_time": "21:30:00",
           "end_time": "22:30:00",
           "episode_number": ""
         },
         {
           "show_name": "The Primetime Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/TPS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
           "start_time": "22:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "HighEnd On TV Special Gala",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/celebrities-tv/HOTSG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOTSG",
           "start_time": "23:30:00",
           "end_time": "01:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-08",
+      "programs": [
+        {
+          "show_name": "HighEnd On TV Special Gala",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOTSG",
+          "start_time": "00:00:00",
+          "end_time": "01:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bus Jutawan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
+          "start_time": "01:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "KOPI: Kupas Obrolan Problem...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
+          "start_time": "02:00:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tamu Tak Diundang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
+          "start_time": "03:00:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Jangan Baper",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=JB",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Behind The Style",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTS",
+          "start_time": "05:00:00",
+          "end_time": "05:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Runway",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "05:30:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bus Jutawan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BJ",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nikah Gratis",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NG",
+          "start_time": "07:00:00",
+          "end_time": "09:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Primetime Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
+          "start_time": "09:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Miss Satpam",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MS",
+          "start_time": "10:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Kungfu Chef",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KC",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tamu Tak Diundang",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TTD",
+          "start_time": "12:00:00",
+          "end_time": "13:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Manda Curhat",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MC",
+          "start_time": "13:00:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HighEnd On TV Special Gala",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HOTSG",
+          "start_time": "14:00:00",
+          "end_time": "15:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Celebrity Files",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CF",
+          "start_time": "15:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Untung Ada Tora",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAT",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "KOPI: Kupas Obrolan Problem...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
+          "start_time": "17:00:00",
+          "end_time": "18:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Primetime Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
+          "start_time": "18:00:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Behind The Style",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTS",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Runway",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=R",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Love Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LS",
+          "start_time": "20:00:00",
+          "end_time": "20:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Untung Ada Tora",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UAT",
+          "start_time": "20:30:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "KOPI: Kupas Obrolan Problem...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KKOP",
+          "start_time": "21:30:00",
+          "end_time": "22:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Primetime Show",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TPS",
+          "start_time": "22:30:00",
+          "end_time": "23:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Behind The Style",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BTS",
+          "start_time": "23:30:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
