@@ -2,179 +2,172 @@
   "channel_name": "HITS MOVIES",
   "schedule": {
     "today": {
-      "date": "2026-11-07",
-      "programs": [
-        {
-          "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Along Came Polly",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/ACP.svg",
-          "start_time": "01:15:00",
-          "end_time": "03:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Accused",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TA.svg",
-          "start_time": "03:15:00",
-          "end_time": "05:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Burlesque",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/B.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "An Officer And A Gentleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AOAAG.svg",
-          "start_time": "07:45:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Red Dragon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RD.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Meet The Parents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MTP.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Burlesque",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/B.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "An Officer And A Gentleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AOAAG.svg",
-          "start_time": "16:45:00",
-          "end_time": "19:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "300",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/3.svg",
-          "start_time": "19:00:00",
-          "end_time": "21:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Teenage Mutant Ninja Turtles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT.svg",
-          "start_time": "21:15:00",
-          "end_time": "23:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Meet The Parents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MTP.svg",
-          "start_time": "23:15:00",
-          "end_time": "01:15:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-08",
       "programs": [
         {
           "show_name": "Meet The Parents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MTP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTP",
           "start_time": "00:00:00",
           "end_time": "01:15:00",
           "episode_number": ""
         },
         {
           "show_name": "An Officer And A Gentleman",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/AOAAG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOAAG",
           "start_time": "01:15:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "300",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3",
           "start_time": "03:30:00",
           "end_time": "05:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Teenage Mutant Ninja Turtles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT",
           "start_time": "05:45:00",
           "end_time": "07:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Kung Fu Panda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/KFP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFP",
           "start_time": "07:45:00",
           "end_time": "09:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Accused",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TA",
           "start_time": "09:45:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "300",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/3.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=3",
           "start_time": "12:00:00",
           "end_time": "14:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Teenage Mutant Ninja Turtles",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/TMNT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT",
           "start_time": "14:15:00",
           "end_time": "16:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Contact",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/C.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
           "start_time": "16:15:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Eat Pray Love",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/EPL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EPL",
           "start_time": "19:00:00",
           "end_time": "21:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Meet The Parents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/MTP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTP",
           "start_time": "21:30:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Red Dragon",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/hits-movies/RD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RD",
           "start_time": "23:30:00",
           "end_time": "02:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-09",
+      "programs": [
+        {
+          "show_name": "Red Dragon",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RD",
+          "start_time": "00:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Contact",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "02:00:00",
+          "end_time": "04:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Notting Hill",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NH",
+          "start_time": "04:45:00",
+          "end_time": "07:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Eat Pray Love",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EPL",
+          "start_time": "07:15:00",
+          "end_time": "09:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Teenage Mutant Ninja Turtles",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMNT",
+          "start_time": "09:45:00",
+          "end_time": "11:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Accused",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TA",
+          "start_time": "11:45:00",
+          "end_time": "14:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Contact",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=C",
+          "start_time": "14:00:00",
+          "end_time": "16:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Ocean's Eleven",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=OE",
+          "start_time": "16:45:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Meet The Fockers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTF",
+          "start_time": "19:00:00",
+          "end_time": "21:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Blind Side",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TBS",
+          "start_time": "21:15:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Along Came Polly",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ACP",
+          "start_time": "23:45:00",
+          "end_time": "01:30:00",
           "episode_number": ""
         }
       ]
