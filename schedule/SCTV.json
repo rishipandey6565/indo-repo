@@ -2,277 +2,284 @@
   "channel_name": "SCTV",
   "schedule": {
     "today": {
-      "date": "2026-11-09",
-      "programs": [
-        {
-          "show_name": "FTV Primetime",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/FP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "FTV Utama",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/FU.svg",
-          "start_time": "00:30:00",
-          "end_time": "01:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Arafta: Terbelenggu Takdir",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/ATT.svg",
-          "start_time": "01:45:00",
-          "end_time": "03:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Saatnya Ucapkan Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/SUC.svg",
-          "start_time": "03:00:00",
-          "end_time": "04:11:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "04:11:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "06:00:00",
-          "end_time": "07:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "08:00:00",
-          "end_time": "10:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "10:00:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "12:00:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "12:30:00",
-          "end_time": "16:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "16:00:00",
-          "end_time": "17:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "17:00:00",
-          "end_time": "18:15:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "18:15:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "21:30:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-10",
       "programs": [
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "00:30:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "01:45:00",
           "end_time": "03:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "03:00:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "06:00:00",
           "end_time": "07:11:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "07:11:00",
           "end_time": "08:17:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "08:17:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "10:00:00",
           "end_time": "11:54:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "11:54:00",
           "end_time": "12:30:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "12:30:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "13:00:00",
           "end_time": "16:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "16:00:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "17:00:00",
           "end_time": "18:24:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "18:24:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "20:00:00",
           "end_time": "21:26:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "21:26:00",
           "end_time": "22:54:00",
           "episode_number": ""
         },
         {
           "show_name": "SCTV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/sctv/S.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
           "start_time": "22:54:00",
           "end_time": "00:22:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-11",
+      "programs": [
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "00:00:00",
+          "end_time": "00:22:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "00:22:00",
+          "end_time": "01:27:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "01:27:00",
+          "end_time": "03:13:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "03:13:00",
+          "end_time": "04:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:05:00",
+          "end_time": "04:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "04:30:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "06:00:00",
+          "end_time": "07:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "07:00:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "08:00:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "10:00:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "12:30:00",
+          "end_time": "16:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "16:00:00",
+          "end_time": "17:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "17:00:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "18:15:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "20:00:00",
+          "end_time": "21:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "21:30:00",
+          "end_time": "23:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "SCTV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=S",
+          "start_time": "23:00:00",
+          "end_time": "00:30:00",
           "episode_number": ""
         }
       ]
