@@ -2,270 +2,249 @@
   "channel_name": "KIX",
   "schedule": {
     "today": {
-      "date": "2026-11-12",
-      "programs": [
-        {
-          "show_name": "Dragon Master: Dragon Spell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/DMDS.svg",
-          "start_time": "00:00:00",
-          "end_time": "01:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Am Rage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IAR.svg",
-          "start_time": "01:10:00",
-          "end_time": "02:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wu Song Vs Ximen Qing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/WSVXQ.svg",
-          "start_time": "02:45:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fight Machine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFM.svg",
-          "start_time": "04:00:00",
-          "end_time": "05:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Burning Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BB.svg",
-          "start_time": "05:45:00",
-          "end_time": "07:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "07:20:00",
-          "end_time": "07:50:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Dragon Master: Dragon Spell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/DMDS.svg",
-          "start_time": "07:50:00",
-          "end_time": "09:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Am Rage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IAR.svg",
-          "start_time": "09:10:00",
-          "end_time": "10:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wu Song Vs Ximen Qing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/WSVXQ.svg",
-          "start_time": "10:45:00",
-          "end_time": "12:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Fight Machine",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TFM.svg",
-          "start_time": "12:00:00",
-          "end_time": "13:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Burning Blood",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BB.svg",
-          "start_time": "13:45:00",
-          "end_time": "15:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "15:20:00",
-          "end_time": "15:50:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Dragon Master: Dragon Spell",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/DMDS.svg",
-          "start_time": "15:50:00",
-          "end_time": "17:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "I Am Rage",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/IAR.svg",
-          "start_time": "17:10:00",
-          "end_time": "18:45:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Wu Song Vs Ximen Qing",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/WSVXQ.svg",
-          "start_time": "18:45:00",
-          "end_time": "20:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bangkok Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BS.svg",
-          "start_time": "20:00:00",
-          "end_time": "21:25:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "The Beast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TB.svg",
-          "start_time": "21:25:00",
-          "end_time": "22:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
-          "start_time": "22:55:00",
-          "end_time": "23:25:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "Love Punch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/LP.svg",
-          "start_time": "23:25:00",
-          "end_time": "01:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-13",
       "programs": [
         {
           "show_name": "Love Punch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/LP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
           "start_time": "00:00:00",
           "end_time": "01:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Young Heroes Of Chaotic Times",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/YHOCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
           "start_time": "01:05:00",
           "end_time": "02:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
           "start_time": "02:40:00",
           "end_time": "04:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bangkok Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "04:00:00",
           "end_time": "05:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Beast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "05:25:00",
           "end_time": "06:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "06:55:00",
           "end_time": "07:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Love Punch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/LP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
           "start_time": "07:25:00",
           "end_time": "09:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Young Heroes Of Chaotic Times",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/YHOCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
           "start_time": "09:05:00",
           "end_time": "10:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
           "start_time": "10:40:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Bangkok Storm",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/BS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BS",
           "start_time": "12:00:00",
           "end_time": "13:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Beast",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TB",
           "start_time": "13:25:00",
           "end_time": "14:55:00",
           "episode_number": ""
         },
         {
           "show_name": "Extreme Ends",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/EE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EE",
           "start_time": "14:55:00",
           "end_time": "15:25:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Love Punch",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/LP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LP",
           "start_time": "15:25:00",
           "end_time": "17:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Young Heroes Of Chaotic Times",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/YHOCT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=YHOCT",
           "start_time": "17:05:00",
           "end_time": "18:40:00",
           "episode_number": ""
         },
         {
           "show_name": "The Mask Of Shura Of Fire Cloud",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMOSO.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMOSO",
           "start_time": "18:40:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Agent Of Death",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/AOD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOD",
           "start_time": "20:00:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "A Sealed Book",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/ASB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASB",
           "start_time": "21:45:00",
           "end_time": "23:25:00",
           "episode_number": ""
         },
         {
           "show_name": "The Macaque Monkey",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/kix/TMM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
           "start_time": "23:25:00",
           "end_time": "00:55:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-14",
+      "programs": [
+        {
+          "show_name": "The Macaque Monkey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+          "start_time": "00:00:00",
+          "end_time": "00:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robot Apocalypse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
+          "start_time": "00:55:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Punish Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
+          "start_time": "02:30:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent Of Death",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOD",
+          "start_time": "04:00:00",
+          "end_time": "05:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Sealed Book",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASB",
+          "start_time": "05:45:00",
+          "end_time": "07:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Macaque Monkey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+          "start_time": "07:25:00",
+          "end_time": "08:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robot Apocalypse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
+          "start_time": "08:55:00",
+          "end_time": "10:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Punish Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
+          "start_time": "10:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Agent Of Death",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AOD",
+          "start_time": "12:00:00",
+          "end_time": "13:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "A Sealed Book",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ASB",
+          "start_time": "13:45:00",
+          "end_time": "15:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Macaque Monkey",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TMM",
+          "start_time": "15:25:00",
+          "end_time": "16:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Robot Apocalypse",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RA",
+          "start_time": "16:55:00",
+          "end_time": "18:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Punish Evil",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PE",
+          "start_time": "18:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Earthfall",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
+          "start_time": "20:00:00",
+          "end_time": "21:05:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Blind War",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BW",
+          "start_time": "21:05:00",
+          "end_time": "22:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Korat Fight: The Dream",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=KFTD",
+          "start_time": "22:55:00",
+          "end_time": "00:40:00",
           "episode_number": ""
         }
       ]
