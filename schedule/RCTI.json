@@ -2,119 +2,125 @@
   "channel_name": "RCTI",
   "schedule": {
     "today": {
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "programs": [
         {
-          "show_name": "Jangan Bercerai Bunda",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/JBB.svg",
+          "show_name": "Tiger & Crane",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=T&C",
           "start_time": "00:00:00",
-          "end_time": "02:15:00",
+          "end_time": "00:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bundesliga: FCB Vs KOL (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/BFVK.svg",
-          "start_time": "02:15:00",
-          "end_time": "04:30:00",
+          "show_name": "Bundesliga: S04 Vs VFB (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSVV(",
+          "start_time": "00:15:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Bundesliga 2026/2027",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=B2",
+          "start_time": "02:00:00",
+          "end_time": "02:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Roman Picisan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RP",
+          "start_time": "02:30:00",
+          "end_time": "03:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Mujizat Itu Nyata",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MIN",
+          "start_time": "03:00:00",
+          "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Anak Jalanan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/AJ.svg",
-          "start_time": "04:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AJ",
+          "start_time": "03:30:00",
           "end_time": "05:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Upin & Ipin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/U.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U&I",
           "start_time": "05:45:00",
           "end_time": "08:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Entong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/E.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=E",
           "start_time": "08:00:00",
           "end_time": "10:15:00",
           "episode_number": ""
         },
         {
-          "show_name": "Titus The Detective",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TTD.svg",
+          "show_name": "Kiko",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=K",
           "start_time": "10:15:00",
           "end_time": "10:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Terbaik Itu Kamu Serazi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TIKS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIKS",
           "start_time": "10:45:00",
           "end_time": "13:15:00",
           "episode_number": ""
         },
         {
           "show_name": "Ikatan Cinta Aldebaran & Andin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/ICA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ICA&A",
           "start_time": "13:15:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Oke Chef",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/OC.svg",
-          "start_time": "16:30:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Ternyata Ini Cinta",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TIC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIC",
           "start_time": "17:30:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Terikat Janji",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TJ",
           "start_time": "19:00:00",
           "end_time": "20:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Terbaik Itu Kamu",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/TIK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TIK",
           "start_time": "20:30:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Cinta Terlarang Di Meja CEO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/CTDMC.svg",
+          "show_name": "Aku, Target Terakhir...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ATT",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Tiger & Crane",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/T.svg",
+          "show_name": "Terikat Takdir",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TT",
           "start_time": "23:00:00",
-          "end_time": "00:15:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
     },
     "tomorrow": {
-      "date": "2026-11-22",
-      "programs": [
-        {
-          "show_name": "Tiger & Crane",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rcti/T.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:15:00",
-          "episode_number": ""
-        }
-      ]
+      "date": "2026-11-23",
+      "programs": []
     }
   }
 }
