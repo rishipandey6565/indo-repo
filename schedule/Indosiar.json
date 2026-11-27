@@ -2,109 +2,123 @@
   "channel_name": "Indosiar",
   "schedule": {
     "today": {
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "programs": [
         {
-          "show_name": "Man On The Edge",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MOTE.svg",
+          "show_name": "Ultimate Mission",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UM",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Armour Of God",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/AOG.svg",
+          "show_name": "Hero",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=H",
           "start_time": "01:30:00",
-          "end_time": "03:00:00",
+          "end_time": "02:45:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bodyguard 3",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/B3.svg",
-          "start_time": "03:00:00",
+          "show_name": "Island Of Fire",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=IOF",
+          "start_time": "02:45:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Pintu-Pintu Syurga",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
+          "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
           "start_time": "04:30:00",
-          "end_time": "06:00:00",
+          "end_time": "05:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "06:00:00",
-          "end_time": "08:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "05:30:00",
+          "end_time": "07:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Misteri Uang Transferan",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MUT.svg",
-          "start_time": "08:00:00",
+          "show_name": "Misteri Suara Aneh Di Rumah...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MSADR",
+          "start_time": "07:00:00",
+          "end_time": "08:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Aku Mengejar Viral",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AMV",
+          "start_time": "08:30:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Hot Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/HK.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HK",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Patroli Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Pernikahanku Hancur",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PH.svg",
+          "show_name": "Bisakah Cinta Dibangun...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BCD",
           "start_time": "12:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Prahara Pernikahan Pura-Pura",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PPP.svg",
+          "show_name": "Teror Karma Dalam Hidupku",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TKDH",
           "start_time": "13:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "BRI Super League 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BSL2.svg",
+          "show_name": "Wajah Duka Menyembunyikan...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WDM",
           "start_time": "15:00:00",
-          "end_time": "17:30:00",
+          "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "17:30:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "17:00:00",
           "end_time": "19:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "D'Academy S8",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/DS.svg",
+          "show_name": "Bintang Pantura 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BP2",
           "start_time": "19:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Ultimate Mission",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/UM.svg",
+          "show_name": "Twilight Of The Warrior",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTW",
           "start_time": "23:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
@@ -112,123 +126,116 @@
       ]
     },
     "tomorrow": {
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "programs": [
         {
-          "show_name": "Ultimate Mission",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/UM.svg",
+          "show_name": "Twilight Of The Warrior",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOTW",
           "start_time": "00:00:00",
           "end_time": "01:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hero",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/H.svg",
+          "show_name": "Martial Arts Of Shaolin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MAOS",
           "start_time": "01:30:00",
-          "end_time": "02:45:00",
+          "end_time": "03:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Island Of Fire",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/IOF.svg",
-          "start_time": "02:45:00",
-          "end_time": "04:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Pintu-Pintu Syurga",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PS.svg",
-          "start_time": "04:00:00",
+          "show_name": "Look Out Officer",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOO",
+          "start_time": "03:00:00",
           "end_time": "04:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Pagi",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FP",
           "start_time": "04:30:00",
-          "end_time": "05:30:00",
+          "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "05:30:00",
-          "end_time": "07:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "06:00:00",
+          "end_time": "08:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Misteri Suara Aneh Di Rumah...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MSADR.svg",
-          "start_time": "07:00:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Aku Mengejar Viral",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/AMV.svg",
-          "start_time": "08:30:00",
+          "show_name": "Luka Yang Tersisa Setelah...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LYTS",
+          "start_time": "08:00:00",
           "end_time": "10:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Hot Kiss",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/HK.svg",
+          "show_name": "Best Kiss",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BK",
           "start_time": "10:00:00",
           "end_time": "11:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Patroli Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/PS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PS",
           "start_time": "11:00:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Fokus Siang",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/FS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FS",
           "start_time": "11:30:00",
           "end_time": "12:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bisakah Cinta Dibangun...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BCD.svg",
+          "show_name": "Rahasia Dibalik Suara Rintihan",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=RDSR",
           "start_time": "12:00:00",
           "end_time": "13:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Teror Karma Dalam Hidupku",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TKDH.svg",
+          "show_name": "Ujian Pernikahan Awal Bahagia",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UPAB",
           "start_time": "13:30:00",
           "end_time": "15:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Wajah Duka Menyembunyikan...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/WDM.svg",
+          "show_name": "BRI Super League 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSL2",
           "start_time": "15:00:00",
-          "end_time": "17:00:00",
+          "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Merangkai Kisah Indah",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/MKI.svg",
-          "start_time": "17:00:00",
-          "end_time": "19:00:00",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MKI",
+          "start_time": "17:30:00",
+          "end_time": "18:30:00",
           "episode_number": ""
         },
         {
-          "show_name": "Bintang Pantura 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/BP2.svg",
-          "start_time": "19:00:00",
+          "show_name": "BRI Super League 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSL2",
+          "start_time": "18:30:00",
+          "end_time": "21:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "BRI Super League 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=BSL2",
+          "start_time": "21:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
-          "show_name": "Twilight Of The Warrior",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/indosiar/TOTW.svg",
+          "show_name": "Vanguard",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=V",
           "start_time": "23:00:00",
           "end_time": "01:30:00",
           "episode_number": ""

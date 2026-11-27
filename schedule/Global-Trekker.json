@@ -2,502 +2,530 @@
   "channel_name": "Global Trekker",
   "schedule": {
     "today": {
-      "date": "2026-11-26",
-      "programs": [
-        {
-          "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:25:00",
-          "episode_number": "S11 E10"
-        },
-        {
-          "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
-          "start_time": "01:25:00",
-          "end_time": "02:15:00",
-          "episode_number": "S11 E1"
-        },
-        {
-          "show_name": "Beyonce: Queen & Country",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BQ.svg",
-          "start_time": "02:15:00",
-          "end_time": "03:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Janet Jackson: Art Of Seduction",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/JJAOS.svg",
-          "start_time": "03:10:00",
-          "end_time": "04:05:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Samuel L. Jackson: I Stutter?",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SLJIS.svg",
-          "start_time": "04:05:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Bruce Lee: Way Of The Warrior",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BLWOT.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Armstrong",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/A.svg",
-          "start_time": "05:55:00",
-          "end_time": "07:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Beyonce: Queen & Country",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/BQ.svg",
-          "start_time": "07:40:00",
-          "end_time": "08:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Sounds Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SON.svg",
-          "start_time": "08:30:00",
-          "end_time": "09:25:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "Sounds Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SON.svg",
-          "start_time": "09:25:00",
-          "end_time": "10:20:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Sounds Of Nature",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/SON.svg",
-          "start_time": "10:20:00",
-          "end_time": "11:15:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "11:15:00",
-          "end_time": "12:05:00",
-          "episode_number": "E8"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "12:05:00",
-          "end_time": "12:55:00",
-          "episode_number": "E9"
-        },
-        {
-          "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
-          "start_time": "12:55:00",
-          "end_time": "13:45:00",
-          "episode_number": "E10"
-        },
-        {
-          "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
-          "start_time": "13:45:00",
-          "end_time": "14:35:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
-          "start_time": "14:35:00",
-          "end_time": "15:25:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
-          "start_time": "15:25:00",
-          "end_time": "16:10:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "16:10:00",
-          "end_time": "16:40:00",
-          "episode_number": "E1"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "16:40:00",
-          "end_time": "17:10:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "17:10:00",
-          "end_time": "17:40:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "17:40:00",
-          "end_time": "18:10:00",
-          "episode_number": "E4"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "18:10:00",
-          "end_time": "18:40:00",
-          "episode_number": "E5"
-        },
-        {
-          "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
-          "start_time": "18:40:00",
-          "end_time": "19:10:00",
-          "episode_number": "E6"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "19:10:00",
-          "end_time": "19:35:00",
-          "episode_number": "S3 E1"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "19:35:00",
-          "end_time": "20:00:00",
-          "episode_number": "S3 E2"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "20:00:00",
-          "end_time": "20:25:00",
-          "episode_number": "S3 E3"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "20:25:00",
-          "end_time": "20:50:00",
-          "episode_number": "S3 E4"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "20:50:00",
-          "end_time": "21:15:00",
-          "episode_number": "S3 E5"
-        },
-        {
-          "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
-          "start_time": "21:15:00",
-          "end_time": "21:40:00",
-          "episode_number": "S3 E6"
-        },
-        {
-          "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
-          "start_time": "21:40:00",
-          "end_time": "22:45:00",
-          "episode_number": "E2"
-        },
-        {
-          "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
-          "start_time": "22:45:00",
-          "end_time": "23:45:00",
-          "episode_number": "E3"
-        },
-        {
-          "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
-          "start_time": "23:45:00",
-          "end_time": "00:45:00",
-          "episode_number": "E4"
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-27",
       "programs": [
         {
           "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "00:00:00",
           "end_time": "00:45:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "00:45:00",
           "end_time": "01:35:00",
           "episode_number": "S11 E1"
         },
         {
           "show_name": "Air Warriors",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
           "start_time": "01:35:00",
           "end_time": "02:25:00",
           "episode_number": "S11 E2"
         },
         {
           "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NYG",
           "start_time": "02:25:00",
           "end_time": "03:00:00",
           "episode_number": "E2"
         },
         {
           "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NYG",
           "start_time": "03:00:00",
           "end_time": "03:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NYG",
           "start_time": "03:30:00",
           "end_time": "04:00:00",
           "episode_number": "E4"
         },
         {
           "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NYG",
           "start_time": "04:00:00",
           "end_time": "04:30:00",
           "episode_number": "E5"
         },
         {
           "show_name": "New York Gourmet",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NYG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NYG",
           "start_time": "04:30:00",
           "end_time": "05:00:00",
           "episode_number": "E6"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "05:00:00",
           "end_time": "05:25:00",
           "episode_number": "S3 E1"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "05:25:00",
           "end_time": "05:50:00",
           "episode_number": "S3 E2"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "05:50:00",
           "end_time": "06:15:00",
           "episode_number": "S3 E3"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "06:15:00",
           "end_time": "06:40:00",
           "episode_number": "S3 E4"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "06:40:00",
           "end_time": "07:05:00",
           "episode_number": "S3 E5"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "07:05:00",
           "end_time": "07:30:00",
           "episode_number": "S3 E6"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "07:30:00",
           "end_time": "07:55:00",
           "episode_number": "S3 E1"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "07:55:00",
           "end_time": "08:20:00",
           "episode_number": "S3 E2"
         },
         {
           "show_name": "New Zealand Food Story",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/NZFS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
           "start_time": "08:20:00",
           "end_time": "08:45:00",
           "episode_number": "S3 E3"
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "08:45:00",
           "end_time": "09:40:00",
           "episode_number": "E1"
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "09:40:00",
           "end_time": "10:35:00",
           "episode_number": "E2"
         },
         {
           "show_name": "The Humboldt Current",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/THC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=THC",
           "start_time": "10:35:00",
           "end_time": "11:30:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Ainsley Eats The Streets",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/AETS.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
           "start_time": "11:30:00",
           "end_time": "12:20:00",
           "episode_number": "E10"
         },
         {
           "show_name": "Destination Flavour China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
           "start_time": "12:20:00",
           "end_time": "12:50:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Destination Flavour China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
           "start_time": "12:50:00",
           "end_time": "13:20:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Destination Flavour China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
           "start_time": "13:20:00",
           "end_time": "13:50:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Destination Flavour China",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/DFC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
           "start_time": "13:50:00",
           "end_time": "14:20:00",
           "episode_number": "E4"
         },
         {
           "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOE",
           "start_time": "14:20:00",
           "end_time": "15:05:00",
           "episode_number": "E1"
         },
         {
           "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOE",
           "start_time": "15:05:00",
           "end_time": "15:50:00",
           "episode_number": "E2"
         },
         {
           "show_name": "Edge Of Existence",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/EOE.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=EOE",
           "start_time": "15:50:00",
           "end_time": "16:40:00",
           "episode_number": "E3"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "16:40:00",
           "end_time": "17:25:00",
           "episode_number": "E7"
         },
         {
           "show_name": "Visionaries Ft. Reeves",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/VFR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
           "start_time": "17:25:00",
           "end_time": "18:10:00",
           "episode_number": "E8"
         },
         {
           "show_name": "Into The Cosmos: Space Race...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/ITCSR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITCSR",
           "start_time": "18:10:00",
           "end_time": "19:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Minecraft: The Next Revolution",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/MTNR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTNR",
           "start_time": "19:10:00",
           "end_time": "20:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Story Of Playstation",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSOP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSOP",
           "start_time": "20:00:00",
           "end_time": "20:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Story Of Nintendo",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TSON.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSON",
           "start_time": "20:50:00",
           "end_time": "21:45:00",
           "episode_number": ""
         },
         {
           "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "21:45:00",
           "end_time": "22:45:00",
           "episode_number": "E4"
         },
         {
           "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "22:45:00",
           "end_time": "23:55:00",
           "episode_number": "E5"
         },
         {
           "show_name": "The Presidents",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/global-trekker/TP.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
           "start_time": "23:55:00",
           "end_time": "00:40:00",
           "episode_number": "E6"
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-28",
+      "programs": [
+        {
+          "show_name": "The Presidents",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TP",
+          "start_time": "00:00:00",
+          "end_time": "00:40:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "00:40:00",
+          "end_time": "01:30:00",
+          "episode_number": "S11 E2"
+        },
+        {
+          "show_name": "Air Warriors",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AW",
+          "start_time": "01:30:00",
+          "end_time": "02:20:00",
+          "episode_number": "S11 E3"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "02:20:00",
+          "end_time": "03:10:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Visionaries Ft. Reeves",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=VFR",
+          "start_time": "03:10:00",
+          "end_time": "04:00:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Into The Cosmos: Space Race...",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=ITCSR",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Nature Sanctuaries",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NS",
+          "start_time": "05:00:00",
+          "end_time": "06:00:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "06:00:00",
+          "end_time": "06:50:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "06:50:00",
+          "end_time": "07:15:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "07:15:00",
+          "end_time": "07:40:00",
+          "episode_number": "S3 E2"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "07:40:00",
+          "end_time": "08:05:00",
+          "episode_number": "S3 E3"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "08:05:00",
+          "end_time": "08:30:00",
+          "episode_number": "S3 E4"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "08:30:00",
+          "end_time": "08:55:00",
+          "episode_number": "S3 E5"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "08:55:00",
+          "end_time": "09:20:00",
+          "episode_number": "S3 E6"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "09:20:00",
+          "end_time": "10:10:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "10:10:00",
+          "end_time": "10:55:00",
+          "episode_number": "E6"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "10:55:00",
+          "end_time": "11:45:00",
+          "episode_number": "E7"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "11:45:00",
+          "end_time": "12:30:00",
+          "episode_number": "E8"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "12:30:00",
+          "end_time": "13:20:00",
+          "episode_number": "E9"
+        },
+        {
+          "show_name": "Ainsley Eats The Streets",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=AETS",
+          "start_time": "13:20:00",
+          "end_time": "14:10:00",
+          "episode_number": "E10"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "14:10:00",
+          "end_time": "14:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "14:40:00",
+          "end_time": "15:10:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "15:10:00",
+          "end_time": "15:40:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "15:40:00",
+          "end_time": "16:10:00",
+          "episode_number": "E4"
+        },
+        {
+          "show_name": "Destination Flavour China",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=DFC",
+          "start_time": "16:10:00",
+          "end_time": "16:40:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "16:40:00",
+          "end_time": "17:05:00",
+          "episode_number": "S3 E1"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "17:05:00",
+          "end_time": "17:30:00",
+          "episode_number": "S3 E2"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "17:30:00",
+          "end_time": "17:55:00",
+          "episode_number": "S3 E3"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "17:55:00",
+          "end_time": "18:20:00",
+          "episode_number": "S3 E4"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "18:20:00",
+          "end_time": "18:45:00",
+          "episode_number": "S3 E5"
+        },
+        {
+          "show_name": "New Zealand Food Story",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=NZFS",
+          "start_time": "18:45:00",
+          "end_time": "19:10:00",
+          "episode_number": "S3 E6"
+        },
+        {
+          "show_name": "Sounds Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "19:10:00",
+          "end_time": "20:05:00",
+          "episode_number": "E1"
+        },
+        {
+          "show_name": "Sounds Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "20:05:00",
+          "end_time": "21:00:00",
+          "episode_number": "E2"
+        },
+        {
+          "show_name": "Sounds Of Nature",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SON",
+          "start_time": "21:00:00",
+          "end_time": "21:55:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "21:55:00",
+          "end_time": "22:45:00",
+          "episode_number": "E3"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "22:45:00",
+          "end_time": "23:35:00",
+          "episode_number": "E5"
+        },
+        {
+          "show_name": "Wildest Survival",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=WS",
+          "start_time": "23:35:00",
+          "end_time": "00:25:00",
+          "episode_number": "E7"
         }
       ]
     }

@@ -2,277 +2,431 @@
   "channel_name": "beIN Sports 3",
   "schedule": {
     "today": {
-      "date": "2026-11-26",
-      "programs": [
-        {
-          "show_name": "MUTV: The United Archives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTUA.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: Beckham",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GB.svg",
-          "start_time": "00:30:00",
-          "end_time": "00:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: SLA Vs VIL (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVV.svg",
-          "start_time": "00:40:00",
-          "end_time": "02:55:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: CLU Vs LIV (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2CVL.svg",
-          "start_time": "02:55:00",
-          "end_time": "05:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: SLA Vs VIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVV.svg",
-          "start_time": "05:00:00",
-          "end_time": "06:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: ATM Vs VIK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2AVV.svg",
-          "start_time": "06:50:00",
-          "end_time": "08:40:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: INT Vs VFB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2IVV.svg",
-          "start_time": "08:40:00",
-          "end_time": "10:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
-          "start_time": "10:30:00",
-          "end_time": "11:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Goals On Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSGOF.svg",
-          "start_time": "11:30:00",
-          "end_time": "12:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: SHK Vs FEN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVF.svg",
-          "start_time": "12:30:00",
-          "end_time": "14:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: PSV Vs MIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMPV.svg",
-          "start_time": "14:20:00",
-          "end_time": "14:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: LIL Vs FCB",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2LVF.svg",
-          "start_time": "14:30:00",
-          "end_time": "16:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: BAR Vs SHK",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMBV.svg",
-          "start_time": "16:20:00",
-          "end_time": "16:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: SCP Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVM.svg",
-          "start_time": "16:30:00",
-          "end_time": "18:20:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Classic Matches: RMA Vs TOT",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UCMRV.svg",
-          "start_time": "18:20:00",
-          "end_time": "18:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
-          "start_time": "18:30:00",
-          "end_time": "19:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Specials: Goals On Film",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MSGOF.svg",
-          "start_time": "19:30:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Treble 20: MUN Vs CHE",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2MV.svg",
-          "start_time": "20:30:00",
-          "end_time": "21:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "UCL 2026/27: CLU Vs LIV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2CVL.svg",
-          "start_time": "21:00:00",
-          "end_time": "22:50:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV Top 20 Goals: Andy Cole",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GA.svg",
-          "start_time": "22:50:00",
-          "end_time": "23:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "MUTV: The United Archives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTUA.svg",
-          "start_time": "23:00:00",
-          "end_time": "00:30:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-27",
       "programs": [
         {
           "show_name": "MUTV: The United Archives",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MTUA.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTUA",
           "start_time": "00:00:00",
           "end_time": "00:30:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Top 20 Goals: Beckham",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2GB.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2GB",
           "start_time": "00:30:00",
           "end_time": "00:40:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: OLY Vs MIL (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2OVM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2OVM",
           "start_time": "00:40:00",
           "end_time": "02:55:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: SUN Vs JAG (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2SVJ.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2SVJ",
           "start_time": "02:55:00",
           "end_time": "05:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UCL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
           "start_time": "05:00:00",
           "end_time": "06:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: DIN Vs LEV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2DVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2DVL",
           "start_time": "06:00:00",
           "end_time": "07:50:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: LYO Vs LIL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2LVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2LVL",
           "start_time": "07:50:00",
           "end_time": "09:40:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: MAR Vs LEV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2MVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2MVL",
           "start_time": "09:40:00",
           "end_time": "11:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: TOR Vs CEL",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2TVC.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2TVC",
           "start_time": "11:30:00",
           "end_time": "13:20:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: BJK Vs HBS",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2BVH.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2BVH",
           "start_time": "13:20:00",
           "end_time": "15:10:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: NEC Vs REN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2NVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2NVR",
           "start_time": "15:10:00",
           "end_time": "17:00:00",
           "episode_number": ""
         },
         {
           "show_name": "The Sports Rundown 2026",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/TSR2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2",
           "start_time": "17:00:00",
           "end_time": "17:30:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: CRY Vs RSO",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2CVR.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2CVR",
           "start_time": "17:30:00",
           "end_time": "19:20:00",
           "episode_number": ""
         },
         {
           "show_name": "MUTV Treble 20: MID Vs MUN",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/MT2MV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2MV",
           "start_time": "19:20:00",
           "end_time": "19:50:00",
           "episode_number": ""
         },
         {
           "show_name": "CAF Confed. Cup: AZA Vs AHL (L)",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/CCCAV.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=CCCAV",
           "start_time": "19:50:00",
           "end_time": "22:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL/UECL Highlights 2026/27",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/UH2.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
           "start_time": "22:00:00",
           "end_time": "23:00:00",
           "episode_number": ""
         },
         {
           "show_name": "UEL 2026/27: MAR Vs LEV",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/bein-sports-3/U2MVL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2MVL",
           "start_time": "23:00:00",
           "end_time": "00:50:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-28",
+      "programs": [
+        {
+          "show_name": "UEL 2026/27: MAR Vs LEV",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2MVL",
+          "start_time": "00:00:00",
+          "end_time": "00:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
+          "start_time": "00:50:00",
+          "end_time": "01:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Outdoor Sports Show 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSS2",
+          "start_time": "01:20:00",
+          "end_time": "01:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Top 20 Goals: Equalisers",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MT2GE",
+          "start_time": "01:50:00",
+          "end_time": "02:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL 2026/27: ACS Vs AZA",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=U2AVA",
+          "start_time": "02:10:00",
+          "end_time": "04:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UEL/UECL Highlights 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UH2",
+          "start_time": "04:00:00",
+          "end_time": "05:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Mexico (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "05:00:00",
+          "end_time": "06:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Mexico (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "06:30:00",
+          "end_time": "08:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Mexico (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "08:00:00",
+          "end_time": "09:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel 2026: Mexico (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PP2M(",
+          "start_time": "09:30:00",
+          "end_time": "11:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
+          "start_time": "11:00:00",
+          "end_time": "11:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
+          "start_time": "11:30:00",
+          "end_time": "12:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Premier Padel Highlights 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=PPH2",
+          "start_time": "12:00:00",
+          "end_time": "12:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Every Goal: Karim Benzema",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UEGKB",
+          "start_time": "12:30:00",
+          "end_time": "12:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "12:55:00",
+          "end_time": "13:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "13:20:00",
+          "end_time": "13:42:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "13:42:00",
+          "end_time": "14:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "14:04:00",
+          "end_time": "14:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "14:28:00",
+          "end_time": "14:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "14:50:00",
+          "end_time": "15:12:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "15:12:00",
+          "end_time": "15:34:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "15:34:00",
+          "end_time": "15:58:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "15:58:00",
+          "end_time": "16:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "16:20:00",
+          "end_time": "16:42:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "16:42:00",
+          "end_time": "17:04:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "17:04:00",
+          "end_time": "17:31:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "17:31:00",
+          "end_time": "17:53:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "17:53:00",
+          "end_time": "18:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "18:15:00",
+          "end_time": "18:37:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "18:37:00",
+          "end_time": "19:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Sports Rundown 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TSR2",
+          "start_time": "19:00:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Outdoor Sports Show 2026",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TOSS2",
+          "start_time": "19:30:00",
+          "end_time": "20:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UWCL Specials: Great Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=USGG",
+          "start_time": "20:00:00",
+          "end_time": "20:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "UCL Magazine Show 2026/27",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=UMS2",
+          "start_time": "20:10:00",
+          "end_time": "20:44:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "20:44:00",
+          "end_time": "21:06:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "21:06:00",
+          "end_time": "21:28:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "21:28:00",
+          "end_time": "21:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "21:50:00",
+          "end_time": "22:14:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "22:14:00",
+          "end_time": "22:36:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "22:36:00",
+          "end_time": "22:58:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "22:58:00",
+          "end_time": "23:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "HSBC SVNS Series 2027 (L)",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=HSS2(",
+          "start_time": "23:20:00",
+          "end_time": "23:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "MUTV Top Ten: Ronaldo Goals",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MTTRG",
+          "start_time": "23:45:00",
+          "end_time": "00:00:00",
           "episode_number": ""
         }
       ]
