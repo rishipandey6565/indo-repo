@@ -2,298 +2,200 @@
   "channel_name": "Rock Entertainment",
   "schedule": {
     "today": {
-      "date": "2026-11-27",
-      "programs": [
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "00:00:00",
-          "end_time": "00:35:00",
-          "episode_number": "S14 E34"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "00:35:00",
-          "end_time": "01:20:00",
-          "episode_number": "S6 E8"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "01:20:00",
-          "end_time": "02:05:00",
-          "episode_number": "S6 E9"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "02:05:00",
-          "end_time": "02:50:00",
-          "episode_number": "S6 E6"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "02:50:00",
-          "end_time": "03:35:00",
-          "episode_number": "S6 E7"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "03:35:00",
-          "end_time": "04:20:00",
-          "episode_number": "S6 E8"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "04:20:00",
-          "end_time": "05:00:00",
-          "episode_number": "S6 E9"
-        },
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "05:00:00",
-          "end_time": "05:45:00",
-          "episode_number": "S14 E34"
-        },
-        {
-          "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
-          "start_time": "05:45:00",
-          "end_time": "06:30:00",
-          "episode_number": "S14 E34"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "06:30:00",
-          "end_time": "07:15:00",
-          "episode_number": "S6 E8"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "07:15:00",
-          "end_time": "08:00:00",
-          "episode_number": "S6 E9"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "08:00:00",
-          "end_time": "08:45:00",
-          "episode_number": "S6 E8"
-        },
-        {
-          "show_name": "Accident, Suicide...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/AS.svg",
-          "start_time": "08:45:00",
-          "end_time": "09:30:00",
-          "episode_number": "S6 E9"
-        },
-        {
-          "show_name": "The Tonight Show",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TTS.svg",
-          "start_time": "09:30:00",
-          "end_time": "10:15:00",
-          "episode_number": "S14 E34"
-        },
-        {
-          "show_name": "Late Night With...",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LNW.svg",
-          "start_time": "10:15:00",
-          "end_time": "11:00:00",
-          "episode_number": "S14 E34"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "11:00:00",
-          "end_time": "11:35:00",
-          "episode_number": "S6 E6"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "11:35:00",
-          "end_time": "12:15:00",
-          "episode_number": "S6 E7"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "12:15:00",
-          "end_time": "12:50:00",
-          "episode_number": "S6 E8"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "12:50:00",
-          "end_time": "13:30:00",
-          "episode_number": "S6 E9"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "13:30:00",
-          "end_time": "14:15:00",
-          "episode_number": "S6 E10"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "14:15:00",
-          "end_time": "14:55:00",
-          "episode_number": "S6 E11"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "14:55:00",
-          "end_time": "15:35:00",
-          "episode_number": "S6 E12"
-        },
-        {
-          "show_name": "Cobra Kai",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/CK.svg",
-          "start_time": "15:35:00",
-          "end_time": "16:15:00",
-          "episode_number": "S6 E13"
-        },
-        {
-          "show_name": "Somewhere In Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SIT.svg",
-          "start_time": "16:15:00",
-          "end_time": "18:00:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Memoirs Of A Geisha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/MOAG.svg",
-          "start_time": "18:00:00",
-          "end_time": "20:30:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "Tai Chi Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TCM.svg",
-          "start_time": "20:30:00",
-          "end_time": "22:10:00",
-          "episode_number": ""
-        },
-        {
-          "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/4R.svg",
-          "start_time": "22:10:00",
-          "end_time": "00:05:00",
-          "episode_number": ""
-        }
-      ]
-    },
-    "tomorrow": {
       "date": "2026-11-28",
       "programs": [
         {
           "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/4R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
           "start_time": "00:00:00",
           "end_time": "00:05:00",
           "episode_number": ""
         },
         {
           "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TCW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
           "start_time": "00:05:00",
           "end_time": "01:45:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "01:45:00",
           "end_time": "03:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Lion Of The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LOTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
           "start_time": "03:30:00",
           "end_time": "06:10:00",
           "episode_number": ""
         },
         {
           "show_name": "Tai Chi Master",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TCM.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
           "start_time": "06:10:00",
           "end_time": "07:50:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "07:50:00",
           "end_time": "09:35:00",
           "episode_number": ""
         },
         {
           "show_name": "Somewhere In Time",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/SIT.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIT",
           "start_time": "09:35:00",
           "end_time": "11:20:00",
           "episode_number": ""
         },
         {
           "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TCW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
           "start_time": "11:20:00",
           "end_time": "13:00:00",
           "episode_number": ""
         },
         {
           "show_name": "Lion Of The Desert",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/LOTD.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
           "start_time": "13:00:00",
           "end_time": "15:40:00",
           "episode_number": ""
         },
         {
           "show_name": "Memoirs Of A Geisha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/MOAG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOAG",
           "start_time": "15:40:00",
           "end_time": "18:10:00",
           "episode_number": ""
         },
         {
           "show_name": "47 Ronin",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/4R.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
           "start_time": "18:10:00",
           "end_time": "20:05:00",
           "episode_number": ""
         },
         {
           "show_name": "Fist Of Legend",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/FOL.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
           "start_time": "20:05:00",
           "end_time": "21:50:00",
           "episode_number": ""
         },
         {
           "show_name": "The Chinese Widow",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/TCW.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
           "start_time": "21:50:00",
           "end_time": "23:30:00",
           "episode_number": ""
         },
         {
           "show_name": "Memoirs Of A Geisha",
-          "show_logo": "https://cdn.tvjadwal.id/wp-content/uploads/downloaded-images/rock-entertainment/MOAG.svg",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOAG",
           "start_time": "23:30:00",
           "end_time": "02:00:00",
+          "episode_number": ""
+        }
+      ]
+    },
+    "tomorrow": {
+      "date": "2026-11-29",
+      "programs": [
+        {
+          "show_name": "Memoirs Of A Geisha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOAG",
+          "start_time": "00:00:00",
+          "end_time": "02:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lion Of The Desert",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
+          "start_time": "02:00:00",
+          "end_time": "04:40:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Somewhere In Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIT",
+          "start_time": "04:40:00",
+          "end_time": "06:25:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "47 Ronin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
+          "start_time": "06:25:00",
+          "end_time": "08:20:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "08:20:00",
+          "end_time": "10:00:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Fist Of Legend",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=FOL",
+          "start_time": "10:00:00",
+          "end_time": "11:45:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Memoirs Of A Geisha",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=MOAG",
+          "start_time": "11:45:00",
+          "end_time": "14:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "47 Ronin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
+          "start_time": "14:15:00",
+          "end_time": "16:10:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Tai Chi Master",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCM",
+          "start_time": "16:10:00",
+          "end_time": "17:50:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "The Chinese Widow",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=TCW",
+          "start_time": "17:50:00",
+          "end_time": "19:30:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Somewhere In Time",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=SIT",
+          "start_time": "19:30:00",
+          "end_time": "21:15:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "Lion Of The Desert",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=LOTD",
+          "start_time": "21:15:00",
+          "end_time": "23:55:00",
+          "episode_number": ""
+        },
+        {
+          "show_name": "47 Ronin",
+          "show_logo": "https://placehold.co/100x100/dc2626/ffffff?text=4R",
+          "start_time": "23:55:00",
+          "end_time": "01:50:00",
           "episode_number": ""
         }
       ]
